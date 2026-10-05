@@ -115,6 +115,8 @@ footer h2{font:500 22px var(--display);color:var(--ink);margin:0 0 10px}
 .srcs{display:flex;flex-wrap:wrap;gap:4px 16px;margin:0 0 18px;padding:0;list-style:none}
 .srcs a{text-decoration-color:var(--rule);text-underline-offset:3px}
 footer p{max-width:70ch;margin:0 0 8px}
+footer .legal{margin-top:16px}
+footer .legal a{color:var(--ink);text-underline-offset:3px}
 
 .load{padding:40px 0;font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 
@@ -286,7 +288,8 @@ function head(){
   const hs=[...houses].sort((a,b)=>a==="Weitere Orte"?1:b==="Weitere Orte"?-1:a.localeCompare(b,"de"));
   $("#f-house").innerHTML='<option value="">Alle Orte</option>'+hs.map(h=>`<option>${esc(h)}</option>`).join("");
   $("#foot").innerHTML=`<h2>Quellen</h2><ul class="srcs">${(DATA.sources||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join("")}</ul>
-  <p>Der Kulturzettel liest die veröffentlichten Programme der Bayreuther Kulturhäuser und Portale aus und fasst sie zusammen. Die Kurztexte sind eigene Zusammenfassungen. Der Kulturzettel ist ein unverbindlicher Service: Für Richtigkeit, Vollständigkeit und Aktualität der Angaben wird keine Gewähr übernommen. Maßgeblich sind ausschließlich die Angaben der Veranstalter, auf deren Seiten jeder Termin verlinkt. Bitte Datum, Uhrzeit, Ort und Tickets vor dem Besuch dort prüfen.</p>`}
+  <p>Der Kulturzettel liest die veröffentlichten Programme der Bayreuther Kulturhäuser und Portale aus und fasst sie zusammen. Die Kurztexte sind eigene Zusammenfassungen. Der Kulturzettel ist ein unverbindlicher Service: Für Richtigkeit, Vollständigkeit und Aktualität der Angaben wird keine Gewähr übernommen. Maßgeblich sind ausschließlich die Angaben der Veranstalter, auf deren Seiten jeder Termin verlinkt. Bitte Datum, Uhrzeit, Ort und Tickets vor dem Besuch dort prüfen.</p>
+  <p class="legal"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Angebot von Björn Rodday.</p>`}
 
 document.addEventListener("click",ev=>{
   const b=ev.target.closest("button");if(!b)return;
