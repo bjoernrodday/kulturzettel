@@ -175,9 +175,13 @@
 {
 "name": "Improtheater Mamaladnamala",
 "url": "https://www.impro-bayreuth.de/termine/"
+},
+{
+"name": "Universität Bayreuth – BayCEER",
+"url": "https://www.bayceer.uni-bayreuth.de/"
 }
 ],
-"updated": "2026-10-05T06:05+02:00",
+"updated": "2026-10-06T05:58+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -203,6 +207,30 @@
 ],
 "house": "Urwelt-Museum",
 "id": "140f370ee0"
+},
+{
+"title": "Ordentlich schlampig: Rundparcours der Lebensräume",
+"subtitle": null,
+"date": "2026-05-01",
+"end_date": "2026-10-31",
+"time": null,
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth – Freigelände, Universitätsstraße 30",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Natur",
+"Freiluft",
+"Lebensräume",
+"Eintritt frei"
+],
+"description": "Ein Parcours im Freigelände zeigt an zwölf Stationen, wie sich mit einfachen Mitteln wertvolle Lebensräume für Pflanzen und Tiere anlegen lassen. Zugänglich zu den Öffnungszeiten des Gartens.",
+"price": "Eintritt frei",
+"url": "https://www.obg.uni-bayreuth.de/de/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten"
+],
+"house": "Botanischer Garten",
+"id": "fe8bf02758"
 },
 {
 "title": "Bitte nicht bewegen! – Die Festspiele im Fokus der Fotografen",
@@ -254,6 +282,29 @@
 "id": "7da50d6338"
 },
 {
+"title": "Linda Männel – Transition",
+"subtitle": "127. Kabinettausstellung des Kunstvereins",
+"date": "2026-09-25",
+"end_date": "2026-10-27",
+"time": "10:00",
+"venue": "Kunstkabinett im Kunstmuseum Bayreuth, Maximilianstraße 33",
+"organizer": "Kunstverein Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Kabinettausstellung",
+"Gegenwartskunst"
+],
+"description": "127. Kabinettausstellung des Kunstvereins mit Arbeiten von Linda Männel.",
+"price": "frei",
+"url": "https://kunstverein-bayreuth.de/veranstaltungskalender-2026/",
+"sources": [
+"Kunstverein Bayreuth",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Kunstmuseum",
+"id": "6eefdca90e"
+},
+{
 "title": "Linda Männel – Endless Summer",
 "subtitle": "Ein Sommer, der nie endet",
 "date": "2026-09-25",
@@ -277,29 +328,6 @@
 ],
 "house": "Kunstmuseum",
 "id": "f0e8e85979"
-},
-{
-"title": "Linda Männel – Transition",
-"subtitle": "127. Kabinettausstellung des Kunstvereins",
-"date": "2026-09-25",
-"end_date": "2026-10-27",
-"time": "10:00",
-"venue": "Kunstkabinett im Kunstmuseum Bayreuth, Maximilianstraße 33",
-"organizer": "Kunstverein Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Kabinettausstellung",
-"Gegenwartskunst"
-],
-"description": "127. Kabinettausstellung des Kunstvereins mit Arbeiten von Linda Männel.",
-"price": "frei",
-"url": "https://kunstverein-bayreuth.de/veranstaltungskalender-2026/",
-"sources": [
-"Kunstverein Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Kunstmuseum",
-"id": "6eefdca90e"
 },
 {
 "title": "Historische Stadtführung",
@@ -425,7 +453,7 @@
 "title": "Museumsführung im Richard Wagner Museum",
 "subtitle": "sonntags 14 Uhr",
 "date": "2026-10-04",
-"end_date": "2026-11-29",
+"end_date": "2026-12-06",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -451,7 +479,7 @@
 "title": "Zutritt verboten – ein Blick hinter die Kulissen",
 "subtitle": null,
 "date": "2026-10-04",
-"end_date": "2026-11-22",
+"end_date": "2026-12-06",
 "time": "14:30",
 "venue": "Markgräfliches Opernhaus, Opernstraße 14",
 "organizer": "Bayerische Schlösserverwaltung",
@@ -709,35 +737,6 @@
 "id": "ff27999cf9"
 },
 {
-"title": "Kunstnische Oktober: Erster Schritt",
-"subtitle": "Skulpturen von Mahmoud Elshaer",
-"date": "2026-10-05",
-"end_date": null,
-"time": "19:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e.V.",
-"category": "Ausstellung",
-"tags": [
-"Skulptur",
-"Vernissage",
-"Kunstnische",
-"Eintritt frei",
-"freie Szene"
-],
-"description": "Der in Bayreuth lebende ägyptische Künstler Mahmoud Elshaer stellt in der Kunstnische seine erste skulpturale Arbeit vor.",
-"price": "frei",
-"url": "https://www.neuneinhalb.org/veranstaltungen/kunstnische-oktober-erster-schritt/edate/2026-10-05",
-"sources": [
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V.",
-"Neuneinhalb",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Neuneinhalb",
-"id": "bf1641a392"
-},
-{
 "title": "Brettspielabend 2.0 im Haus des Spiels",
 "subtitle": null,
 "date": "2026-10-05",
@@ -893,7 +892,7 @@
 "date": "2026-10-06",
 "end_date": null,
 "time": "19:30",
-"venue": "Umweltschutz-Informationszentrum Lindenhof, Karolinenreuther Straße 58",
+"venue": "UIZ Lindenhof, Karolinenreuther Straße 58",
 "organizer": "Landesbund für Vogelschutz (LBV)",
 "category": "Vortrag & Diskurs",
 "tags": [
@@ -907,7 +906,7 @@
 "sources": [
 "LBV Bayreuth / Umweltstation Lindenhof"
 ],
-"house": "Das Zentrum",
+"house": "Weitere Orte",
 "id": "bb6c42b8c9"
 },
 {
@@ -962,6 +961,30 @@
 ],
 "house": "Kino",
 "id": "2c4e0b94b0"
+},
+{
+"title": "Plauderrunde: Der Herbst ist da",
+"subtitle": "Herbstspaziergang für Senior*innen",
+"date": "2026-10-07",
+"end_date": null,
+"time": "15:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Führung",
+"tags": [
+"Garten",
+"Senioren",
+"Herbst",
+"Eintritt frei"
+],
+"description": "Ein kurzer, barrierearmer Spaziergang führt an mehreren Stationen zu Herbstfarben, Früchten und botanischen Besonderheiten. Das Angebot richtet sich an Senior*innen und dauert etwa 45 Minuten.",
+"price": "kostenlos",
+"url": "https://www.obg.uni-bayreuth.de/de/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten"
+],
+"house": "Botanischer Garten",
+"id": "b15eb20501"
 },
 {
 "title": "Vorlesestunden für Kinder ab 4 Jahren",
@@ -2054,6 +2077,29 @@
 "id": "7783a58839"
 },
 {
+"title": "BlechBoXX: Brass & Mundart",
+"subtitle": "Benefizkonzert für den Hospizverein Bayreuth",
+"date": "2026-10-11",
+"end_date": null,
+"time": "18:00",
+"venue": "Reichshof – Eingangsbereich, Maximilianstraße 30",
+"organizer": "BlechBoXX",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Blechbläser",
+"Mundart",
+"Benefiz"
+],
+"description": "Die Brassgruppe BlechBoXX aus der Region spielt Blechbläsermusik und Mundartstücke. Der Eintritt ist frei, die Spenden gehen an den Hospizverein Bayreuth.",
+"price": "Eintritt frei",
+"url": "https://event.kurier.de/detail/29872",
+"sources": [
+"Hinweis: Kurier Eventkalender"
+],
+"house": "Kulturbühne Reichshof",
+"id": "e854a2ef4c"
+},
+{
 "title": "La Diva",
 "subtitle": "Ein berauschender Abend in der Oper",
 "date": "2026-10-11",
@@ -2202,6 +2248,29 @@
 "id": "e991e8bf2d"
 },
 {
+"title": "Jeeps – Öffentliche Probe",
+"subtitle": null,
+"date": "2026-10-13",
+"end_date": null,
+"time": "19:00",
+"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth e.V.",
+"category": "Theater",
+"tags": [
+"Schauspiel",
+"Probe",
+"Eintritt frei"
+],
+"description": "Vor der Premiere am 23. Oktober zeigt die Studiobühne ihre Produktion „Jeeps“ in einer öffentlichen Probe. Der Eintritt ist frei.",
+"price": "Eintritt frei",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158&collection_code=produktionen",
+"sources": [
+"Studiobühne Bayreuth"
+],
+"house": "Studiobühne",
+"id": "38c5de9ade"
+},
+{
 "title": "Magnetic Spaceman",
 "subtitle": null,
 "date": "2026-10-13",
@@ -2248,32 +2317,6 @@
 ],
 "house": "Glashaus",
 "id": "8223e8c098"
-},
-{
-"title": "Jeeps",
-"subtitle": "Komödie von Nora Abdel-Maksoud",
-"date": "2026-10-13",
-"end_date": "2026-12-28",
-"time": "20:00",
-"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth",
-"category": "Theater",
-"tags": [
-"Komödie",
-"Gegenwartsdramatik",
-"Erbschaft",
-"Probe",
-"Studiobühne"
-],
-"description": "Satirische Komödie über eine Erbschaftsreform, bei der Erbe per Los im Jobcenter verteilt wird. Öffentliche Probe am 13.10. (19 Uhr, Eintritt frei), Premiere am 23.10., weitere Vorstellungen u. a. 29.10., 5., 7., 8., 11., 14., 15., 17., 20., 21., 27., 29.11., 11., 16., 22. und 28.12. (meist 20 Uhr, sonntags 17 Uhr).",
-"price": "frei",
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158&collection_code=produktionen",
-"sources": [
-"Studiobühne Bayreuth",
-"Bayreuther Tagblatt / bayreuth4U"
-],
-"house": "Studiobühne",
-"id": "3d039edf0d"
 },
 {
 "title": "Erzählcafé",
@@ -2735,7 +2778,7 @@
 "title": "NeuBayreuth Reloaded – Festspiele der elektronischen Musik, Tag 1",
 "subtitle": "mit DJ Hell, SACID, No Merzy, Elektrovögel",
 "date": "2026-10-16",
-"end_date": "2026-10-17",
+"end_date": null,
 "time": "19:00",
 "venue": "Richard Wagner Museum – Neubau",
 "organizer": "Jean Paul Kulturverein",
@@ -3190,6 +3233,29 @@
 "id": "9af78c022b"
 },
 {
+"title": "NeuBayreuth Reloaded – Festspiele der elektronischen Musik, Tag 2",
+"subtitle": "Nacht der Kollektive mit Tongranulat, Saalmitte, Neobloom, Lachsbecken",
+"date": "2026-10-17",
+"end_date": null,
+"time": "19:00",
+"venue": "Schokofabrik (Schoko e.V.), Gaußstraße 6",
+"organizer": "Jean Paul Kulturverein in Kooperation mit Schoko e.V.",
+"category": "Club & Party",
+"tags": [
+"Elektronische Musik",
+"Kollektive",
+"Subkultur"
+],
+"description": "Der zweite Festivaltag widmet sich der regionalen Elektro-Szene: Ab dem Abend gibt es eine Subkultur-Messe, ab 22 Uhr legen fünf Bayreuther Kollektive solo und im Wechsel auf.",
+"price": "8 € (Abendkasse)",
+"url": "https://jean-paul-kulturverein.de/",
+"sources": [
+"Jean Paul Kulturverein"
+],
+"house": "Clubs",
+"id": "8c30d939e3"
+},
+{
 "title": "Alex Hitchcock Quartet",
 "subtitle": "Clubkonzert",
 "date": "2026-10-17",
@@ -3605,6 +3671,30 @@
 ],
 "house": "Friedrichsforum",
 "id": "f74f021d30"
+},
+{
+"title": "30 Jahre Paläobotanische Sammlung Rossmann",
+"subtitle": "Festakt mit Vortrag und Lesung",
+"date": "2026-10-19",
+"end_date": null,
+"time": "18:00",
+"venue": "Universität Bayreuth – Gebäude NW III, Universitätsstraße 30",
+"organizer": "Paläobotanische Sammlung Rossmann Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Paläobotanik",
+"Sammlung",
+"Jubiläum",
+"Eintritt frei"
+],
+"description": "Mit einem Festakt aus Vortrag und Lesung begeht die Paläobotanische Sammlung Rossmann ihr 30-jähriges Bestehen. Eine Anmeldung ist nicht nötig.",
+"price": "kostenlos",
+"url": "http://www.pbs.uni-bayreuth.de",
+"sources": [
+"Paläobotanische Sammlung Rossmann"
+],
+"house": "Universität",
+"id": "7d6f292597"
 },
 {
 "title": "Wissenschaft gegen Faschismus",
@@ -4152,6 +4242,32 @@
 "id": "530b9b96de"
 },
 {
+"title": "Jeeps",
+"subtitle": "Komödie von Nora Abdel-Maksoud",
+"date": "2026-10-23",
+"end_date": "2026-12-28",
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth",
+"category": "Theater",
+"tags": [
+"Komödie",
+"Gegenwartsdramatik",
+"Erbschaft",
+"Probe",
+"Studiobühne"
+],
+"description": "Satirische Komödie über eine Erbschaftsreform, bei der Erbe per Los im Jobcenter verteilt wird. Öffentliche Probe am 13.10. (19 Uhr, Eintritt frei), Premiere am 23.10., weitere Vorstellungen u. a. 29.10., 5., 7., 8., 11., 14., 15., 17., 20., 21., 27., 29.11., 11., 16., 22. und 28.12. (meist 20 Uhr, sonntags 17 Uhr).",
+"price": "frei",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158&collection_code=produktionen",
+"sources": [
+"Studiobühne Bayreuth",
+"Bayreuther Tagblatt / bayreuth4U"
+],
+"house": "Studiobühne",
+"id": "5f78b0fa62"
+},
+{
 "title": "Rolf Miller: Ich sag nix",
 "subtitle": "Ich sag nix",
 "date": "2026-10-23",
@@ -4251,6 +4367,30 @@
 ],
 "house": "Universität",
 "id": "04275e8de1"
+},
+{
+"title": "Sondervorlesestunde zum Tag der Bibliotheken",
+"subtitle": null,
+"date": "2026-10-24",
+"end_date": null,
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Bibliothek",
+"ab 4 Jahren",
+"Eintritt frei"
+],
+"description": "Zum Tag der Bibliotheken liest ein Vorlesepate Geschichten rund um Bücher und Bibliotheken, darunter „Ein Löwe in der Bibliothek!“. Danach folgt eine kleine Kreativaktion für Kinder ab vier Jahren.",
+"price": "kostenlos",
+"url": "https://stadtbibliothek.bayreuth.de/angebote/fuer-kinder/veranstaltungen-fuer-kinder/",
+"sources": [
+"RW21 Stadtbibliothek"
+],
+"house": "RW21",
+"id": "ba04d2c624"
 },
 {
 "title": "Verborgene Räume, versteckte Treppen und Tapetentüren",
@@ -5373,6 +5513,31 @@
 "id": "0bf30a01f4"
 },
 {
+"title": "42-Stunden-Spielemarathon",
+"subtitle": "Das Amt für Ätherangelegenheiten",
+"date": "2026-10-30",
+"end_date": "2026-11-01",
+"time": "08:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Spielemarathon",
+"Rollenspiel",
+"Brettspiele",
+"Thema Horror"
+],
+"description": "Rund 42 Stunden lang wird im Haus des Spiels durchgehend gespielt; die Herbstausgabe dreht sich um das rätselhafte Buch WORAGOTH und das „Amt für Ätherangelegenheiten“. Ende am 1. November gegen 4 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/2026/07/15/spielemarathons-2026/",
+"sources": [
+"wundersam anders e.V.",
+"Hinweis: Kurier Eventkalender"
+],
+"house": "Weitere Orte",
+"id": "b674925e47"
+},
+{
 "title": "Musikalischer Mitsingnachmittag: Evergreens mit Duo Nostalgie",
 "subtitle": null,
 "date": "2026-10-30",
@@ -5904,6 +6069,31 @@
 "id": "6200fdc225"
 },
 {
+"title": "Biodiversität und Nachhaltigkeit in Costa Rica",
+"subtitle": "Bildvortrag mit Dr. Andreas von Lindeiner",
+"date": "2026-11-03",
+"end_date": null,
+"time": "19:30",
+"venue": "UIZ Lindenhof – Saal, Karolinenreuther Straße 58",
+"organizer": "LBV Kreisgruppe Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Naturschutz",
+"Costa Rica",
+"Bildvortrag",
+"Eintritt frei"
+],
+"description": "Der Biologe Andreas von Lindeiner berichtet in Bildern über die Artenvielfalt Costa Ricas, über Schutzgebiete, Meeresschildkröten, nachhaltigen Tourismus und die Folgen von Plantagenwirtschaft.",
+"price": "kostenlos",
+"url": "https://bayreuth.lbv.de/termine-1/veranstaltungen/",
+"sources": [
+"LBV Bayreuth",
+"LBV Kreisgruppe Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "73c98cda20"
+},
+{
 "title": "Best of Cinema: Rocky",
 "subtitle": null,
 "date": "2026-11-03",
@@ -6264,36 +6454,36 @@
 "id": "2e17a4c2ce"
 },
 {
-"title": "Nachtwächterführung in St. Georgen",
+"title": "Nachtwächterführung Innenstadt",
 "subtitle": null,
 "date": "2026-11-06",
 "end_date": "2026-12-04",
 "time": "19:00",
-"venue": "Ordenskirche St. Georgen (Treffpunkt)",
-"organizer": "Touristinformation Bayreuth",
+"venue": "Tourist-Information, Opernstraße 22 (Treffpunkt)",
+"organizer": "Bayreuth Marketing & Tourismus",
 "category": "Führung",
 "tags": [
-"Barock",
-"Abendführung",
 "Nachtwächter",
-"St. Georgen",
-"Kostümführung"
+"Abendführung",
+"Altstadt",
+"Kostümführung",
+"Stadtgeschichte"
 ],
-"description": "Mit dem Nachtwächter durch das barocke St. Georgen. Weiterer Termin am 4.12. um 18 Uhr.",
-"price": "6–12 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen",
+"description": "Abendlicher Rundgang mit dem Nachtwächter durch die Bayreuther Innenstadt. Termine: 06.11. um 19:00 Uhr und 04.12. um 18:00 Uhr.",
+"price": "12 €",
+"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
 "sources": [
-"Stadt, Land, Leben (region-bayreuth.de)",
+"Bayreuth Tourismus",
 "Bayreuth Marketing & Tourismus"
 ],
-"house": "Kirchen",
-"id": "f95e9ec501"
+"house": "Stadtführungen",
+"id": "f5aa2ca5d4"
 },
 {
 "title": "Cabaret",
 "subtitle": null,
 "date": "2026-11-06",
-"end_date": "2026-12-05",
+"end_date": "2026-12-06",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -6398,30 +6588,30 @@
 "id": "03997f134a"
 },
 {
-"title": "Nachtwächterführung Innenstadt",
+"title": "Nachtwächterführung in St. Georgen",
 "subtitle": null,
 "date": "2026-11-07",
 "end_date": "2026-12-19",
 "time": "19:00",
-"venue": "Tourist-Information, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus",
+"venue": "Ordenskirche St. Georgen (Treffpunkt)",
+"organizer": "Touristinformation Bayreuth",
 "category": "Führung",
 "tags": [
-"Nachtwächter",
+"Barock",
 "Abendführung",
-"Altstadt",
-"Kostümführung",
-"Stadtgeschichte"
+"Nachtwächter",
+"St. Georgen",
+"Kostümführung"
 ],
-"description": "Mit dem Nachtwächter durch die nächtliche Innenstadt und ihre Geschichte. Termine: 7. November (19 Uhr), 28. November, 5., 12. und 19. Dezember (jeweils 18 Uhr); Tickets nur im Vorverkauf.",
-"price": "12 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/nachtwaechter-fuehrung/",
+"description": "Abendlicher Rundgang mit dem Nachtwächter durch St. Georgen. Termine: 07.11. um 19:00 Uhr sowie 28.11., 05.12., 12.12. und 19.12. jeweils um 18:00 Uhr.",
+"price": "6–12 €",
+"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
 "sources": [
-"Bayreuth Tourismus",
+"Stadt, Land, Leben (region-bayreuth.de)",
 "Bayreuth Marketing & Tourismus"
 ],
-"house": "Stadtführungen",
-"id": "69788cbf5d"
+"house": "Kirchen",
+"id": "7f48a71f29"
 },
 {
 "title": "Herbstnebel – DANS LE NOIR Konzert Special",
@@ -7887,6 +8077,29 @@
 "id": "c225756639"
 },
 {
+"title": "Unsere Wälder – Zurück in die Zukunft",
+"subtitle": "Film und Gespräch mit Naturfilmer Jan Haft",
+"date": "2026-11-18",
+"end_date": null,
+"time": "19:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "LBV Kreisgruppe Bayreuth",
+"category": "Film",
+"tags": [
+"Naturfilm",
+"Wald",
+"Filmgespräch"
+],
+"description": "Vorführung des Naturfilms von Jan Haft über den Wald, anschließend Gespräch mit dem Filmemacher. Veranstaltet von der LBV-Kreisgruppe Bayreuth.",
+"price": null,
+"url": "https://bayreuth.lbv.de/termine-1/veranstaltungen/",
+"sources": [
+"LBV Kreisgruppe Bayreuth"
+],
+"house": "Kino",
+"id": "fa5e9c5b6d"
+},
+{
 "title": "Das Kriminal Dinner: Und raus bist du",
 "subtitle": null,
 "date": "2026-11-19",
@@ -8391,27 +8604,28 @@
 "id": "f1b2b46cfb"
 },
 {
-"title": "Tannöd – Ein Kriminalfall",
-"subtitle": "nach dem Roman von Andrea Maria Schenkel",
+"title": "Tannöd – Ein Kriminalfall: Öffentliche Probe",
+"subtitle": null,
 "date": "2026-11-24",
-"end_date": "2026-12-31",
+"end_date": null,
 "time": "19:00",
 "venue": "Studiobühne Bayreuth – Hauptbühne, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth",
+"organizer": "Studiobühne Bayreuth e.V.",
 "category": "Theater",
 "tags": [
+"Schauspiel",
 "Krimi",
-"Romanadaption",
-"Dorfgemeinschaft"
+"Probe",
+"Eintritt frei"
 ],
-"description": "Bühnenfassung des Romans über einen sechsfachen Mord auf einem abgelegenen Hof, inszeniert von Birgit Franz. Öffentliche Probe am 24.11. (19 Uhr, frei), Premiere am 5.12., weitere Vorstellungen am 10., 12., 19., 30.12. (20 Uhr) und 31.12. (17 Uhr).",
-"price": null,
+"description": "Öffentliche Probe zur Bühnenfassung von Andrea Maria Schenkels Roman über einen Mehrfachmord auf einem abgelegenen Hof, vor der Premiere am 5. Dezember. Der Eintritt ist frei.",
+"price": "Eintritt frei",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166",
 "sources": [
 "Studiobühne Bayreuth"
 ],
 "house": "Studiobühne",
-"id": "9bd92a01f9"
+"id": "70d17687d9"
 },
 {
 "title": "Bayreuther Poetry Slam",
@@ -8801,6 +9015,29 @@
 "id": "aa47570367"
 },
 {
+"title": "Forum Waldkontroversen 2026: Windräder im Wald – viel Wind um nichts?",
+"subtitle": null,
+"date": "2026-11-27",
+"end_date": "2026-11-28",
+"time": null,
+"venue": "Universität Bayreuth – Tagungsbereich Studentenwerk Oberfranken",
+"organizer": "Universität Bayreuth (BayCEER)",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Wald",
+"Windenergie",
+"Podium"
+],
+"description": "Das Diskussionsforum bringt Forstwirtschaft, Holzwirtschaft, Naturschutz und Wissenschaft zusammen. In diesem Jahr geht es um Windkraftanlagen im Wald: Planung, Nutzen für Kommunen und Folgen für den Artenschutz. Anmeldung bis 15. November.",
+"price": null,
+"url": "https://www.bayceer.uni-bayreuth.de/waldkontroversen/",
+"sources": [
+"Universität Bayreuth (BayCEER)"
+],
+"house": "Universität",
+"id": "525093db8d"
+},
+{
 "title": "Adventliches Chorkonzert",
 "subtitle": null,
 "date": "2026-11-28",
@@ -9098,6 +9335,29 @@
 ],
 "house": "Kirchen",
 "id": "f72af60622"
+},
+{
+"title": "Zwischenbilanz des Volksbegehrens Artenvielfalt in Bayern",
+"subtitle": "Vortrag von Agnes Becker und Dr. Norbert Schäffer",
+"date": "2026-12-01",
+"end_date": null,
+"time": "19:30",
+"venue": "UIZ Lindenhof, Karolinenreuther Straße 58",
+"organizer": "LBV Kreisgruppe Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Artenschutz",
+"Volksbegehren",
+"Naturschutz"
+],
+"description": "Agnes Becker und Norbert Schäffer ziehen eine Zwischenbilanz zum bayerischen Volksbegehren Artenvielfalt und zu dessen Umsetzung.",
+"price": null,
+"url": "https://bayreuth.lbv.de/termine-1/veranstaltungen/",
+"sources": [
+"LBV Kreisgruppe Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "e922493ced"
 },
 {
 "title": "European Outdoor Film Tour 26/27",
@@ -9523,6 +9783,29 @@
 "id": "a119ae246e"
 },
 {
+"title": "Tannöd – Ein Kriminalfall",
+"subtitle": "nach dem Roman von Andrea Maria Schenkel",
+"date": "2026-12-05",
+"end_date": "2026-12-31",
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Hauptbühne, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth",
+"category": "Theater",
+"tags": [
+"Krimi",
+"Romanadaption",
+"Dorfgemeinschaft"
+],
+"description": "Bühnenfassung des Romans über einen sechsfachen Mord auf einem abgelegenen Hof, inszeniert von Birgit Franz. Öffentliche Probe am 24.11. (19 Uhr, frei), Premiere am 5.12., weitere Vorstellungen am 10., 12., 19., 30.12. (20 Uhr) und 31.12. (17 Uhr).",
+"price": null,
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166",
+"sources": [
+"Studiobühne Bayreuth"
+],
+"house": "Studiobühne",
+"id": "441945e002"
+},
+{
 "title": "Johann Sebastian Bach: Weihnachtsoratorium I",
 "subtitle": "Festkonzert – 25 Jahre Kooperation von Bachsolisten-Ensemble, Kammerchor des MWG und Kantorei der Kreuzkirche",
 "date": "2026-12-05",
@@ -9593,6 +9876,31 @@
 ],
 "house": "Neuneinhalb",
 "id": "0a7374b5a4"
+},
+{
+"title": "Konstantin Kölmel Project feat. Randy Brecker",
+"subtitle": null,
+"date": "2026-12-06",
+"end_date": null,
+"time": "19:00",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": "Friedrichsforum Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jazz",
+"Funk",
+"Randy Brecker",
+"Konzert",
+"Trompete"
+],
+"description": "Der New Yorker Trompeter Randy Brecker tritt mit dem Konstantin Kölmel Project auf, das Jazz, Funk, R&B und Elektronik verbindet. Einlass ab 18 Uhr.",
+"price": "18–53 €",
+"url": "https://www.friedrichsforum.de/programm/261206-konstantin-koelmel-randy-brecker",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "c107d0691f"
 }
 ]
 }
