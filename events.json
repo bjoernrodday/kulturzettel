@@ -179,6 +179,10 @@
 {
 "name": "Universität Bayreuth – BayCEER",
 "url": "https://www.bayceer.uni-bayreuth.de/"
+},
+{
+"name": "Städtische Musikschule Bayreuth",
+"url": "https://musikschule.bayreuth.de/aktuelles/veranstaltungen/"
 }
 ],
 "updated": "2026-10-06T05:58+02:00",
@@ -3208,6 +3212,28 @@
 "id": "0d79466928"
 },
 {
+"title": "Neuigkeiten – Musik zum Hören und Entdecken",
+"subtitle": null,
+"date": "2026-10-17",
+"end_date": null,
+"time": "17:00",
+"venue": "Städtische Musikschule – Richard-Wagner-Saal",
+"organizer": "Städtische Musikschule Bayreuth",
+"category": "Klassik",
+"tags": [
+"Musikschule",
+"Vorspiel"
+],
+"description": "Schülerinnen und Schüler der Städtischen Musikschule stellen neu einstudierte Stücke vor.",
+"price": null,
+"url": "https://musikschule.bayreuth.de/veranstaltung/neuigkeiten-musik-zum-hoeren-und-entdecken/",
+"sources": [
+"Städtische Musikschule Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "f2dc3099e3"
+},
+{
 "title": "MET Opera live: Macbeth",
 "subtitle": "Übertragung aus der Metropolitan Opera New York",
 "date": "2026-10-17",
@@ -4162,6 +4188,29 @@
 "id": "00e7808e3b"
 },
 {
+"title": "Industrieklänge",
+"subtitle": null,
+"date": "2026-10-23",
+"end_date": null,
+"time": "19:00",
+"venue": "Neue Materialien Bayreuth GmbH",
+"organizer": "Städtische Musikschule Bayreuth",
+"category": "Klassik",
+"tags": [
+"Musikschule",
+"Konzert",
+"Ungewöhnlicher Ort"
+],
+"description": "Konzert der Städtischen Musikschule in den Räumen eines Bayreuther Materialforschungsunternehmens.",
+"price": null,
+"url": "https://musikschule.bayreuth.de/veranstaltung/industrieklaenge/",
+"sources": [
+"Städtische Musikschule Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "c11c03bf74"
+},
+{
 "title": "Rafał Blechacz – Klavierabend",
 "subtitle": "Klavierabend",
 "date": "2026-10-23",
@@ -4968,6 +5017,28 @@
 ],
 "house": "Neuneinhalb",
 "id": "5b16ad17b4"
+},
+{
+"title": "Herbstkonzert der Städtischen Musikschule",
+"subtitle": null,
+"date": "2026-10-25",
+"end_date": null,
+"time": "16:00",
+"venue": "Städtische Musikschule – Richard-Wagner-Saal",
+"organizer": "Städtische Musikschule Bayreuth",
+"category": "Klassik",
+"tags": [
+"Musikschule",
+"Konzert"
+],
+"description": "Herbstliches Konzert mit Ensembles und Solistinnen und Solisten der Städtischen Musikschule.",
+"price": null,
+"url": "https://musikschule.bayreuth.de/veranstaltung/herbstkonzert-2026/",
+"sources": [
+"Städtische Musikschule Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "b9635cb056"
 },
 {
 "title": "A. D. Trantenroth – Ausstellungseröffnung",
@@ -9405,6 +9476,29 @@
 ],
 "house": "Kirchen",
 "id": "2fa4471f57"
+},
+{
+"title": "Jamsession im Zentrum",
+"subtitle": null,
+"date": "2026-12-01",
+"end_date": null,
+"time": "19:30",
+"venue": "Das Zentrum – Kleinkunstbühne",
+"organizer": "Städtische Musikschule Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jamsession",
+"Musikschule",
+"Mitspielen"
+],
+"description": "Offene Jamsession der Städtischen Musikschule auf der Kleinkunstbühne im Zentrum.",
+"price": null,
+"url": "https://musikschule.bayreuth.de/veranstaltung/jamsession-im-zentrum-2026-1/",
+"sources": [
+"Städtische Musikschule Bayreuth"
+],
+"house": "Das Zentrum",
+"id": "f73ab3bf44"
 },
 {
 "title": "Best of Cinema: Liebe braucht keine Ferien",
