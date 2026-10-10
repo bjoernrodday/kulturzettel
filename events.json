@@ -211,9 +211,21 @@
 {
 "name": "Jan van Weyde Tourdaten",
 "url": "https://www.janvanweyde.de/termine"
+},
+{
+"name": "Fichtelgebirgsverein Bayreuth",
+"url": "https://www.fichtelgebirgsverein-bayreuth.de/wanderungen"
+},
+{
+"name": "Anthroposophische Gesellschaft Bayreuth",
+"url": "https://anthroposophie-bayreuth.de/?page_id=3880"
+},
+{
+"name": "vhs Bayreuth – Kulturelle Bildung",
+"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege"
 }
 ],
-"updated": "2026-10-09T06:07+02:00",
+"updated": "2026-10-10T06:01+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -265,6 +277,29 @@
 ],
 "house": "Botanischer Garten",
 "id": "fe8bf02758"
+},
+{
+"title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
+"subtitle": "Kleine Sonderausstellung",
+"date": "2026-07-01",
+"end_date": "2026-12-10",
+"time": "10:00",
+"venue": "Urwelt-Museum Oberfranken, Kanzleistraße 1",
+"organizer": "Urwelt-Museum Oberfranken (SNSB)",
+"category": "Ausstellung",
+"tags": [
+"Dinosaurier",
+"Paläontologie",
+"Forschung"
+],
+"description": "Kompakte Schau zu einem Forschungsprojekt von SNSB und LMU über einen neu entdeckten Raubdinosaurier aus Ellingen; Besucher können dabei auch mit den Forschenden ins Gespräch kommen. Zu sehen seit 1. Juli 2026, ein Ende ist nicht angegeben.",
+"price": null,
+"url": "https://urwelt-museum.snsb.de/sonderausstellungen/",
+"sources": [
+"Urwelt-Museum Oberfranken"
+],
+"house": "Urwelt-Museum",
+"id": "53c6237526"
 },
 {
 "title": "Bitte nicht bewegen! – Die Festspiele im Fokus der Fotografen",
@@ -950,106 +985,6 @@
 "id": "f923cd9cd6"
 },
 {
-"title": "Bilderbuchkino: Dr. Brumm geht wandern",
-"subtitle": null,
-"date": "2026-10-09",
-"end_date": null,
-"time": "15:00",
-"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Kinder & Familie",
-"tags": [
-"Bilderbuch",
-"Kinder ab 4",
-"Bibliothek",
-"Bilderbuchkino",
-"ab 4 Jahren"
-],
-"description": "Bilderbuch auf großer Leinwand, vorgelesen für Kinder ab vier Jahren.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/bilderbuchkino-oktober-dr-brumm-wandern-bayreuth-95444-x9gc9g",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)",
-"RW21 Stadtbibliothek"
-],
-"house": "RW21",
-"id": "3cb2892ee4"
-},
-{
-"title": "Führung: Bayreuther Geheimnisse",
-"subtitle": "Öffentliche Themenführung",
-"date": "2026-10-09",
-"end_date": null,
-"time": "16:00",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Tourist-Information Bayreuth",
-"category": "Führung",
-"tags": [
-"Stadtführung",
-"Stadtgeschichte",
-"Kuriositäten"
-],
-"description": "Zweistündiger Rundgang zu wenig bekannten Orten und Details der Stadt, etwa dem Markgrafenbrunnen vor dem Neuen Schloss und dem Schwindsuchthäuschen an der Stadtkirche. Anmeldung vorab nötig.",
-"price": "6–12 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/bayreuther-geheimnisse/",
-"sources": [
-"Tourist-Information Bayreuth",
-"Bayreuth Marketing & Tourismus",
-"Bayreuth Tourismus"
-],
-"house": "Stadtführungen",
-"id": "67b8ddf97b"
-},
-{
-"title": "Lesung mit Igal Avidan",
-"subtitle": null,
-"date": "2026-10-09",
-"end_date": null,
-"time": "18:30",
-"venue": "Evangelisches Zentrum",
-"organizer": null,
-"category": "Literatur",
-"tags": [
-"Nahost",
-"Lesung"
-],
-"description": "Der israelische Journalist und Nahostkenner Igal Avidan liest und spricht über seine Arbeit.",
-"price": null,
-"url": "https://event.kurier.de/detail/29162",
-"sources": [
-"Hinweis: Kurier"
-],
-"house": "Das Zentrum",
-"id": "351b6b239b"
-},
-{
-"title": "Addnfahrer",
-"subtitle": "Lausbuam-Gschicht'n",
-"date": "2026-10-09",
-"end_date": null,
-"time": "20:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Konzertbüro Augsburg",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Mundart",
-"Bayern",
-"Konzert",
-"Bayerisch",
-"Comedy"
-],
-"description": "Die bayerische Band erzählt in ihrem Programm „Lausbuam-Gschicht'n“ musikalisch von Jugendstreichen.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/konzertbuero-augsburg-addnfahrer",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth",
-"eventfinder.de"
-],
-"house": "Friedrichsforum",
-"id": "c6b33ec8a3"
-},
-{
 "title": "Miss Sophies Erbe",
 "subtitle": "Komödie von Andreas Wening",
 "date": "2026-10-09",
@@ -1098,28 +1033,6 @@
 ],
 "house": "Clubs",
 "id": "8d513c23cc"
-},
-{
-"title": "Semester Welcome Party",
-"subtitle": null,
-"date": "2026-10-09",
-"end_date": null,
-"time": "23:00",
-"venue": "FABRIK",
-"organizer": null,
-"category": "Club & Party",
-"tags": [
-"Studierende",
-"Semesterstart"
-],
-"description": "Party zum Semesterbeginn in der Diskothek FABRIK.",
-"price": null,
-"url": "https://www.bayreuth4u.de/event/semester-welcome-party/",
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "d2e8e14f65"
 },
 {
 "title": "3. Bayreuther Pilztage",
@@ -1248,6 +1161,30 @@
 ],
 "house": "Stadtführungen",
 "id": "d47399148c"
+},
+{
+"title": "Freiwilligenmesse 2026",
+"subtitle": "Engagement entdecken, Menschen kennenlernen",
+"date": "2026-10-10",
+"end_date": null,
+"time": "14:00",
+"venue": "Friedrichsforum – Wandelhalle",
+"organizer": "Freiwilligen Zentrum Bayreuth und Stadt Bayreuth (Seniorenamt)",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Ehrenamt",
+"Vereine",
+"Messe",
+"Eintritt frei"
+],
+"description": "Vereine, soziale Einrichtungen und Initiativen stellen sich und ihre Mitmachangebote vor; dazu gibt es Infos zur Ehrenamtskarte und musikalische Beiträge. Bis 17 Uhr, Eintritt frei.",
+"price": "Eintritt frei",
+"url": "https://www.friedrichsforum.de/programm/261010-freiwilligenmesse",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "7fa3333d4e"
 },
 {
 "title": "Die kath. Kirche Heilig Kreuz und ihre Kunstwerke",
@@ -1477,6 +1414,28 @@
 ],
 "house": "Weitere Orte",
 "id": "19f812b6ca"
+},
+{
+"title": "Moscow after Dark",
+"subtitle": null,
+"date": "2026-10-10",
+"end_date": null,
+"time": "23:00",
+"venue": "Bayreuth feiert (ehem. Breakout), an der A9",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Clubnacht",
+"Party"
+],
+"description": "Partynacht im Club Bayreuth feiert im ehemaligen Breakout an der A9.",
+"price": null,
+"url": "https://www.bayreuth4u.de/events/liste/?tribe-bar-date=2026-10-10",
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Weitere Orte",
+"id": "ff9abf5ad2"
 },
 {
 "title": "Jazz Girls Day – Bandworkshop mit Grammy-Nominees",
@@ -2154,29 +2113,6 @@
 ],
 "house": "Universität",
 "id": "3dbebef8a3"
-},
-{
-"title": "Mediengeschichte(n) des Festspielhauses",
-"subtitle": "Eine audiovisuelle Spurensuche",
-"date": "2026-10-14",
-"end_date": "2026-10-16",
-"time": "18:00",
-"venue": "Jean Paul Art Space, Friedrichstraße 5",
-"organizer": "Jean Paul Kulturverein",
-"category": "Ausstellung",
-"tags": [
-"Festspielhaus",
-"Medien",
-"interaktiv"
-],
-"description": "Interaktive Ausstellung mit audiovisuellen Projekten zur Mediengeschichte des Bayreuther Festspielhauses, geöffnet am 14., 15. und 16.10. ab 18 Uhr.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/mediengeschichte-n-festspielhauses-bayreuth-95444-9syq9w",
-"sources": [
-"Jean Paul Kulturverein (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "59e9c0eae8"
 },
 {
 "title": "Das Neue Schloss – entdecken, verstehen, führen",
@@ -4398,7 +4334,7 @@
 "title": "Mendelssohn: Elias",
 "subtitle": "Junges Vokalensemble",
 "date": "2026-10-24",
-"end_date": "2026-10-25",
+"end_date": null,
 "time": "19:00",
 "venue": "Schlosskirche Bayreuth, Schlossberglein",
 "organizer": "Schlosskirchenmusik Bayreuth",
@@ -4408,7 +4344,7 @@
 "Chor",
 "Mendelssohn"
 ],
-"description": "Das Junge Vokalensemble führt Mendelssohns Oratorium auf (24.10. 19 Uhr, 25.10. 15 Uhr).",
+"description": "Das Junge Vokalensemble führt Mendelssohns Oratorium auf; eine zweite Aufführung folgt am 25.10. um 15 Uhr.",
 "price": null,
 "url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Felix-Mendelssohn-Bartholdy-Elias-2026.10.24/?instancedate=1792861200000",
 "sources": [
@@ -6565,28 +6501,6 @@
 "id": "f95e9ec501"
 },
 {
-"title": "Jedermann",
-"subtitle": null,
-"date": "2026-11-06",
-"end_date": "2026-11-07",
-"time": "19:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Friedrichsforum Bayreuth",
-"category": "Theater",
-"tags": [
-"Hofmannsthal",
-"Schauspiel"
-],
-"description": "Weitere Vorstellungen von Hofmannsthals „Jedermann“ nach der Premiere am 5. November.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/261105-tegeler-jedermann",
-"sources": [
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "390040cc6f"
-},
-{
 "title": "Simon & Jan: Heiße Luft",
 "subtitle": "Heiße Luft",
 "date": "2026-11-06",
@@ -7000,6 +6914,30 @@
 ],
 "house": "Schlösser & Eremitage",
 "id": "d9b6f75634"
+},
+{
+"title": "Das Aus für die Banane? Vielfalt, Wissenschaft und Überleben",
+"subtitle": "Vortrag von Prof. Sandra Calkins",
+"date": "2026-11-08",
+"end_date": null,
+"time": "16:00",
+"venue": "Universität Bayreuth, Gebäude Angewandte Informatik (AI), Hörsaal H 33",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Ethnologie",
+"Landwirtschaft",
+"Biodiversität",
+"Uganda"
+],
+"description": "Die Sozialanthropologin Sandra Calkins spricht über die anfällige Cavendish-Banane, biotechnologische Forschung und traditionelles Anbauwissen in Uganda. Auch als Zoom-Livestream verfügbar.",
+"price": null,
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261108-Vortrag-Bananen/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten Bayreuth"
+],
+"house": "Universität",
+"id": "66a3384a3a"
 },
 {
 "title": "Wie der Kaschber dem Richard half, die Harmonie zu finden",
@@ -9268,6 +9206,29 @@
 "id": "be8a5a9166"
 },
 {
+"title": "Vereinsabend: Auf dem Jakobsweg in Spanien (Teil 1)",
+"subtitle": "„Von den Pyrenäen zur Brücke der Königin“ – Bildvortrag von Michael Thein",
+"date": "2026-11-27",
+"end_date": null,
+"time": "19:00",
+"venue": "Evangelisches Gemeindehaus Bayreuth-Altstadt (Erlöserkirche), Dietrich-Bonhoeffer-Straße 1",
+"organizer": "Fichtelgebirgsverein, Ortsgruppe Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Reisebericht",
+"Jakobsweg",
+"Bildvortrag"
+],
+"description": "Bildvortrag über den spanischen Jakobsweg von den Pyrenäen bis Puente la Reina; Teil 2 folgt am 18. Dezember.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://www.fichtelgebirgsverein-bayreuth.de/wanderungen",
+"sources": [
+"Fichtelgebirgsverein Bayreuth"
+],
+"house": "Kirchen",
+"id": "4ecec649b2"
+},
+{
 "title": "November Pain",
 "subtitle": null,
 "date": "2026-11-27",
@@ -9290,6 +9251,29 @@
 ],
 "house": "Weitere Orte",
 "id": "77490c75c9"
+},
+{
+"title": "Vortrag: „Blut ist ein besonderer Saft“",
+"subtitle": "Mit Dr. Andreas Goyert; Seminar zum Thema am 28.11. um 10 Uhr",
+"date": "2026-11-27",
+"end_date": null,
+"time": "20:00",
+"venue": "Rudolf Steiner Haus – Vortragssaal",
+"organizer": "Anthroposophische Gesellschaft Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Medizin",
+"Anthroposophie",
+"Vortrag"
+],
+"description": "Ein Internist erläutert, was einzelne Blutwerte aussagen und wie das Blut aus anthroposophischer Sicht als Träger der Individualität verstanden wird; am folgenden Vormittag vertieft ein Seminar das Thema. Karten an der Abendkasse.",
+"price": "10–15 €",
+"url": "https://anthroposophie-bayreuth.de/?page_id=3880",
+"sources": [
+"Anthroposophische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "68cef6720a"
 },
 {
 "title": "Lisa Bassenge Trio",
@@ -9646,30 +9630,6 @@
 ],
 "house": "Markgräfliches Opernhaus",
 "id": "e91a10250d"
-},
-{
-"title": "Gesamtkunstwerk Markgräfliches Opernhaus",
-"subtitle": "Führung in Deutscher Gebärdensprache",
-"date": "2026-11-29",
-"end_date": null,
-"time": "10:30",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
-"category": "Führung",
-"tags": [
-"Inklusion",
-"Gebärdensprache",
-"Opernhaus"
-],
-"description": "Führung in Deutscher Gebärdensprache mit Stefan Bauer vom Gehörlosenverband; Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=5&optArt=999999&optOrt=14&optMonat=11",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "fa176fc4a0"
 },
 {
 "title": "Johannes Schreiber – Leergut oder der Geist der Flasche",
@@ -10709,6 +10669,30 @@
 "id": "0a7374b5a4"
 },
 {
+"title": "Unter der Lupe: Lebkuchengewürze und ihre Pflanzen",
+"subtitle": "Führung",
+"date": "2026-12-06",
+"end_date": null,
+"time": "10:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Führung",
+"tags": [
+"Gewürzpflanzen",
+"Advent",
+"Gartenführung",
+"Botanik"
+],
+"description": "Adventliche Führung zu den Pflanzen, aus denen typische Lebkuchengewürze stammen.",
+"price": "frei",
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261206-Fuehrung-Lebkuchengewuerze/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten Bayreuth"
+],
+"house": "Botanischer Garten",
+"id": "1d6ecd30a0"
+},
+{
 "title": "Nikolausaktion mit dem Bayreuther Feuerwehrmuseum",
 "subtitle": null,
 "date": "2026-12-06",
@@ -10947,6 +10931,79 @@
 ],
 "house": "Das Zentrum",
 "id": "6ac2817f43"
+},
+{
+"title": "Wiesenttaler Blechbläser mit Gedichten von Heiner Hartmann",
+"subtitle": null,
+"date": "2026-12-10",
+"end_date": null,
+"time": "18:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Klassik",
+"tags": [
+"Blechbläser",
+"Advent",
+"Christkindlesmarkt",
+"Lyrik"
+],
+"description": "Die Wiesenttaler Blechbläser spielen auf der Bühne des Christkindlesmarkts, dazwischen werden Gedichte von Heiner Hartmann vorgetragen.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/auftritt-wiesenttaler-blechblaeser-umrahmt-gedichten-heiner-hartmann-bayreuth-95444-wf0fzx",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "9de5a65549"
+},
+{
+"title": "Vom Feind zum Freund – Der Élysée-Vertrag und die deutsch-französische Aussöhnung",
+"subtitle": "Vortrag im Jubiläumsjahr der Städtepartnerschaft Bayreuth–Annecy",
+"date": "2026-12-10",
+"end_date": null,
+"time": "18:30",
+"venue": "WWG – Wirtschaftswissenschaftliches Gymnasium, Ostbau, Am Sportpark 1",
+"organizer": "vhs Bayreuth / Deutsch-Französische Gesellschaft Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Geschichte",
+"Frankreich",
+"Städtepartnerschaft",
+"Annecy",
+"Partnerstadt Annecy"
+],
+"description": "Der Vortrag zeichnet den Weg von der Annäherung nach 1945 bis zum Élysée-Vertrag von 1963 nach und fragt, was von dessen Ergebnissen heute noch trägt. Anmeldung über die vhs erforderlich.",
+"price": "7,80 €",
+"url": "https://www.vhs-bayreuth.de/service/kurssuche/kurs/Vom-Feind-zum-Freund-Der-lyse-Vertrag-und-die-deutsch-franzoesische-Aussoehnu/I1025",
+"sources": [
+"vhs Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "7a71e92c37"
+},
+{
+"title": "Theater Hof: Sherlock Holmes – Der Fall Moriarty",
+"subtitle": "Kriminalkomödie von Ken Ludwig",
+"date": "2026-12-10",
+"end_date": null,
+"time": "19:30",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": "Friedrichsforum Bayreuth / Theater Hof",
+"category": "Theater",
+"tags": [
+"Kriminalkomödie",
+"Theater Hof",
+"Gastspiel",
+"Sherlock Holmes"
+],
+"description": "Gastspiel des Theaters Hof: Holmes und Watson jagen in Ken Ludwigs Komödie mit Verkleidungen und falschen Fährten den Professor Moriarty. Regie führt Ralf Hocke.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261210-theater-hof-sherlock-holmes",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "592104cd87"
 }
 ]
 }
