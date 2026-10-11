@@ -229,7 +229,7 @@
 "url": "https://dienaturbuehne.de/spielplan/"
 }
 ],
-"updated": "2026-10-11T06:01+02:00",
+"updated": "2026-10-12T00:09+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -304,32 +304,6 @@
 ],
 "house": "Urwelt-Museum",
 "id": "53c6237526"
-},
-{
-"title": "Bitte nicht bewegen! – Die Festspiele im Fokus der Fotografen",
-"subtitle": "Sonderausstellung",
-"date": "2026-08-02",
-"end_date": "2026-10-11",
-"time": "10:00",
-"venue": "Historisches Museum Bayreuth, Kirchplatz 4",
-"organizer": "Historisches Museum Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Fotografie",
-"Festspiele",
-"Stadtgeschichte",
-"Sonderausstellung"
-],
-"description": "Sonderausstellung mit historischen Fotografien rund um die Bayreuther Festspiele; nur noch bis 11. Oktober.",
-"price": "2 €, ermäßigt 1 €",
-"url": "https://www.historisches-museum-bayreuth.de/ausstellungen/sonderausstellung/",
-"sources": [
-"Historisches Museum Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"Historisches Museum Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Historisches Museum",
-"id": "5da76e4845"
 },
 {
 "title": "gegenklang – Malerei und Objekte",
@@ -431,29 +405,6 @@
 "id": "1c8160ab2d"
 },
 {
-"title": "Im Dienst des Grüns",
-"subtitle": "Hofgärtner August Christian Oertel (1760–1818)",
-"date": "2026-10-03",
-"end_date": "2026-10-18",
-"time": null,
-"venue": "Schloss Fantaisie, Eckersdorf-Donndorf",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Ausstellung",
-"tags": [
-"Gartenkunst",
-"Markgrafenzeit",
-"Schloss"
-],
-"description": "Die Ausstellung im Gartenkunst-Museum widmet sich dem Bayreuther Hofgärtner Oertel und der Geschichte des Parks. Im Museumseintritt enthalten; Ort liegt knapp außerhalb der Stadtgrenze.",
-"price": "im Museumseintritt enthalten",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/veranst.asp",
-"sources": [
-"Bayerische Schlösserverwaltung Bayreuth"
-],
-"house": "Schlösser & Eremitage",
-"id": "307f9731e7"
-},
-{
 "title": "Festspielhaus-Führung",
 "subtitle": null,
 "date": "2026-10-04",
@@ -542,7 +493,7 @@
 "Inklusion",
 "UNESCO-Welterbe"
 ],
-"description": "Führungen u. a. hinter die Kulissen und in den Dachstuhl („Zutritt verboten“: 4. 10. 14:30, 25. 10. 9:30, 22. 11. 14:30), zur Hochzeit von 1748 (11. 10.), zu Technik (14. 11.) und Restaurierung (15. 11.), Überblick (25. 10. 11 Uhr, 29. 11. 14:30) sowie inklusiv für Sehbehinderte (8. 10.) und in Gebärdensprache (24. 10., 29. 11.). Anmeldung unter 0921 75969-22.",
+"description": "Führungen u. a. hinter die Kulissen und in den Dachstuhl („Zutritt verboten“: 4. 10. 14:30, 25. 10. 9:30, 22. 11. 14:30), zur Hochzeit von 1748 (11. 10.), zu Technik (14. 11.) und Restaurierung (15. 11.), Überblick (25. 10. 11 Uhr, 29. 11. 14:30) sowie inklusiv für Sehbehinderte (8. 10.) und in Gebärdensprache (29. 11.; der Termin am 24. 10. entfällt). Anmeldung unter 0921 75969-22.",
 "price": "3 € zzgl. Eintritt",
 "url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999&optSuchfeld=&B1=Suchanfrage+starten",
 "sources": [
@@ -749,7 +700,7 @@
 "title": "Kuratorenführung im Richard Wagner Museum",
 "subtitle": "dienstags 14 Uhr",
 "date": "2026-10-06",
-"end_date": "2026-11-24",
+"end_date": "2026-12-08",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -1039,32 +990,6 @@
 "id": "8d513c23cc"
 },
 {
-"title": "3. Bayreuther Pilztage",
-"subtitle": "Ausstellung, Führungen & mehr",
-"date": "2026-10-10",
-"end_date": "2026-10-11",
-"time": "10:00",
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth – Ausstellungshalle und Zedernhaus",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Pilze",
-"Natur",
-"Familie",
-"Naturkunde",
-"Ausstellung"
-],
-"description": "Zwei Tage rund um heimische Pilze in Ausstellungshalle und Zedernhaus, jeweils 10 bis 16 Uhr.",
-"price": "frei",
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261010-Bayreuther-Pilztage/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Bayreuth",
-"Ökologisch-Botanischer Garten"
-],
-"house": "Botanischer Garten",
-"id": "26ff7870e5"
-},
-{
 "title": "Führung: Köstliches Bayreuth",
 "subtitle": "Genussführung",
 "date": "2026-10-10",
@@ -1116,218 +1041,6 @@
 "id": "fe3cbb26f1"
 },
 {
-"title": "Jazz Girls Day – Bandworkshop mit Grammy-Nominees",
-"subtitle": "Bandworkshop für Mädchen mit Grammy-Nominees",
-"date": "2026-10-11",
-"end_date": null,
-"time": "10:00",
-"venue": "Friedrichsforum – Balkonsaal",
-"organizer": "Friedrichsforum",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Jazz",
-"Workshop",
-"Mädchen",
-"Jugend"
-],
-"description": "Workshop für Mädchen, die unter Anleitung von Grammy-nominierten Musikerinnen das Zusammenspiel in einer Band erproben.",
-"price": "25 €",
-"url": "https://www.friedrichsforum.de/programm/261011-jazz-girls-day",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth",
-"bayreuth4U Terminkalender"
-],
-"house": "Friedrichsforum",
-"id": "901c438bea"
-},
-{
-"title": "Polnische Filmreihe: Lalka (The Doll)",
-"subtitle": null,
-"date": "2026-10-11",
-"end_date": null,
-"time": "10:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Filmreihe",
-"Polen",
-"Literaturverfilmung",
-"Polnisches Kino"
-],
-"description": "Vorstellung im Rahmen der polnischen Filmreihe.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "59d9311344"
-},
-{
-"title": "Kaiserlich unterwegs – Drehorte der Serie „Die Kaiserin“",
-"subtitle": "Auf den Spuren der Netflix-Serie „Die Kaiserin“",
-"date": "2026-10-11",
-"end_date": null,
-"time": "10:45",
-"venue": "Altes Schloss Eremitage, Bayreuth",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Eremitage",
-"Film",
-"Drehorte",
-"Drehort",
-"Serie"
-],
-"description": "Führung durch das Alte Schloss der Eremitage zu Schauplätzen der Netflix-Serie „Die Kaiserin“.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Schlösser & Eremitage",
-"id": "21a46d3b5d"
-},
-{
-"title": "„Ich opfere mich für meine Familie“ – Wilhelmine und ihre Familie",
-"subtitle": "Themenführung zum Hohenzollerntag",
-"date": "2026-10-11",
-"end_date": null,
-"time": "11:00",
-"venue": "Neues Schloss Bayreuth",
-"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
-"category": "Führung",
-"tags": [
-"Wilhelmine",
-"Hohenzollern",
-"Hohenzollerntag",
-"Neues Schloss"
-],
-"description": "Führung zu Markgräfin Wilhelmine und ihren familiären Beziehungen; Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth"
-],
-"house": "Schlösser & Eremitage",
-"id": "7ef4cfd0af"
-},
-{
-"title": "Führung: Jüdisches Leben in Bayreuth",
-"subtitle": null,
-"date": "2026-10-11",
-"end_date": null,
-"time": "13:30",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Jüdische Geschichte",
-"Stadtführung",
-"Erinnerung",
-"jüdische Geschichte",
-"Synagoge"
-],
-"description": "Rundgang zu Orten jüdischen Lebens in Bayreuth, von der Synagoge bis zu Spuren der Verfolgung.",
-"price": "12 € / erm. 6 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/juedisches-leben-in-bayreuth/",
-"sources": [
-"Bayreuth Tourismus",
-"Bayreuth Marketing & Tourismus"
-],
-"house": "Stadtführungen",
-"id": "9803e7b362"
-},
-{
-"title": "Mein erster Kinobesuch: Peterchens Mondfahrt",
-"subtitle": null,
-"date": "2026-10-11",
-"end_date": null,
-"time": "14:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderkino",
-"Erster Kinobesuch",
-"Animation",
-"erster Kinobesuch"
-],
-"description": "Kinovorstellung für die Jüngsten mit angepasster Lautstärke und Licht.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "590ed16357"
-},
-{
-"title": "Bayreuther Krimitour",
-"subtitle": null,
-"date": "2026-10-11",
-"end_date": null,
-"time": "14:00",
-"venue": "Historisches Museum Bayreuth, Kirchplatz 4 (Treffpunkt)",
-"organizer": "Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Kriminalgeschichte",
-"Stadtführung",
-"Historisches Museum",
-"Stadtrundgang",
-"Stadtgeschichte"
-],
-"description": "Rundgang zu Schauplätzen historischer Kriminalfälle in der Bayreuther Innenstadt.",
-"price": "12 € / erm. 6 €",
-"url": "https://region-bayreuth.de/veranstaltung/bayreuther-krimitour-bayreuth-95444-cj8r3i",
-"sources": [
-"Bayreuth Tourismus (Führungsprogramm 2026)",
-"Historisches Museum Bayreuth (nur Stadt, Land, Leben)",
-"Bayreuth Tourismus",
-"Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus (Führungsprogramm 2026)"
-],
-"house": "Historisches Museum",
-"id": "2388270681"
-},
-{
-"title": "Ein Opernhaus für eine Hochzeit – Stärkung der Familienbande oder Prestigeprojekt?",
-"subtitle": "Themenführung zum Hohenzollerntag",
-"date": "2026-10-11",
-"end_date": null,
-"time": "14:30",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
-"category": "Führung",
-"tags": [
-"Opernhaus",
-"Hohenzollern",
-"Barock",
-"Hohenzollerntag",
-"Welterbe"
-],
-"description": "Führung über den Bau des Opernhauses anlässlich einer Hohenzollern-Hochzeit; Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "6ecda52864"
-},
-{
 "title": "Miniaturen bemalen – Workshop",
 "subtitle": null,
 "date": "2026-10-11",
@@ -1371,55 +1084,6 @@
 ],
 "house": "Kino",
 "id": "7783a58839"
-},
-{
-"title": "La Diva",
-"subtitle": "Ein berauschender Abend in der Oper",
-"date": "2026-10-11",
-"end_date": null,
-"time": "18:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Friedrichsforum",
-"category": "Klassik",
-"tags": [
-"Oper",
-"Arien",
-"Gala",
-"Puccini",
-"Verdi"
-],
-"description": "Operngala mit Arien, Ouvertüren und Intermezzi von Puccini, Verdi und anderen.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/261011-la-diva",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "797315794a"
-},
-{
-"title": "BlechBoXX: Brass & Mundart",
-"subtitle": "Benefizkonzert für den Hospizverein Bayreuth",
-"date": "2026-10-11",
-"end_date": null,
-"time": "18:00",
-"venue": "Reichshof – Eingangsbereich, Maximilianstraße 30",
-"organizer": "BlechBoXX",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Blechbläser",
-"Mundart",
-"Benefiz"
-],
-"description": "Die Brassgruppe BlechBoXX aus der Region spielt Blechbläsermusik und Mundartstücke. Der Eintritt ist frei, die Spenden gehen an den Hospizverein Bayreuth.",
-"price": "Eintritt frei",
-"url": "https://event.kurier.de/detail/29872",
-"sources": [
-"Hinweis: Kurier Eventkalender"
-],
-"house": "Kulturbühne Reichshof",
-"id": "e854a2ef4c"
 },
 {
 "title": "Lichtspielhaus",
@@ -1469,60 +1133,6 @@
 ],
 "house": "Kirchen",
 "id": "efff7daa29"
-},
-{
-"title": "Horror-Sneak",
-"subtitle": null,
-"date": "2026-10-11",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Sneak Preview",
-"Horror",
-"Überraschungsfilm",
-"Sneak"
-],
-"description": "Überraschungsvorstellung eines noch nicht gestarteten Horrorfilms.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "a2c35f656e"
-},
-{
-"title": "Heels over Head",
-"subtitle": "Reunion-Konzert",
-"date": "2026-10-11",
-"end_date": null,
-"time": "20:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kunst- und Kulturhaus Neuneinhalb",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Pop",
-"Jazz",
-"Soul",
-"Reunion",
-"Frauenquartett"
-],
-"description": "Vier Musikerinnen um Lucie Cerveny spielen eigene Songs zwischen Pop, Jazz, Funk und Folk.",
-"price": "VVK 12 € (erm. 7 €), AK 15 € (erm. 10 €)",
-"url": "https://www.neuneinhalb.org/veranstaltungen/heels-over-head/edate/2026-10-11",
-"sources": [
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb Ticketshop (eventim-light)",
-"Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V."
-],
-"house": "Neuneinhalb",
-"id": "7275ddb2b8"
 },
 {
 "title": "Kuratierter Montags-Spieleabend",
@@ -1644,6 +1254,29 @@
 ],
 "house": "Weitere Orte",
 "id": "253fca73e4"
+},
+{
+"title": "Aufbruch in die Neue Welt",
+"subtitle": "Vortrag von Reinhard Stelzer",
+"date": "2026-10-13",
+"end_date": null,
+"time": "17:30",
+"venue": "Evangelisches Zentrum, Richard-Wagner-Straße 24",
+"organizer": null,
+"category": "Vortrag & Diskurs",
+"tags": [
+"Geschichte",
+"Auswanderung",
+"Oberfranken"
+],
+"description": "Der Historiker Reinhard Stelzer spricht über die Auswanderung aus Oberfranken nach Nordamerika im 19. Jahrhundert, über Lebenswege der Ausgewanderten und den Druck auf die deutsche Sprache und Kultur in den USA nach dem Ersten Weltkrieg.",
+"price": null,
+"url": "https://event.kurier.de/detail/30197",
+"sources": [
+"Hinweis: Kurier-Kalender"
+],
+"house": "Weitere Orte",
+"id": "02048d5be2"
 },
 {
 "title": "Konzert: Magnetic Spaceman (NL)",
@@ -1889,6 +1522,29 @@
 "id": "711b2b3601"
 },
 {
+"title": "Wer spinnt denn da?",
+"subtitle": "Märchenabend mit Fiona Ahlborn",
+"date": "2026-10-14",
+"end_date": null,
+"time": "19:00",
+"venue": "Gemeindebücherei der Friedenskirche, Friedenstraße 1",
+"organizer": "Fiona Ahlborn mit der Gemeindebücherei der Friedenskirche",
+"category": "Literatur",
+"tags": [
+"Märchen",
+"Erzählkunst",
+"Erwachsene"
+],
+"description": "Die Erzählerin Fiona Ahlborn trägt Märchen über Spinnen, Weben und Lebensfäden vor. Empfohlen ab 16 Jahren, ohne Anmeldung.",
+"price": "7 €",
+"url": "https://ahlborn-erzaehlerin.de/veranstaltungen/",
+"sources": [
+"Fiona Ahlborn – Märchenerzählerin"
+],
+"house": "Kirchen",
+"id": "5d01db2d54"
+},
+{
 "title": "Tanzhaus im ZENTRUM",
 "subtitle": null,
 "date": "2026-10-14",
@@ -1916,7 +1572,7 @@
 "subtitle": null,
 "date": "2026-10-14",
 "end_date": "2026-10-28",
-"time": "21:00",
+"time": "21:15",
 "venue": "Glashaus",
 "organizer": "Glashaus e.V.",
 "category": "Club & Party",
@@ -2101,7 +1757,7 @@
 "title": "Kult-Sneak",
 "subtitle": null,
 "date": "2026-10-15",
-"end_date": "2026-11-12",
+"end_date": "2026-11-26",
 "time": "20:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -2113,7 +1769,7 @@
 "Kino",
 "Sneak"
 ],
-"description": "Überraschungsfilm in der Kult-Sneak am 15.10., 29.10. und 12.11.",
+"description": "Überraschungsfilm in der Kult-Sneak am 15.10., 29.10., 12.11. und 26.11., jeweils 20 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -3174,11 +2830,34 @@
 "id": "e2ca03b111"
 },
 {
+"title": "Karisma – Herbsttour 2026",
+"subtitle": null,
+"date": "2026-10-18",
+"end_date": null,
+"time": "18:00",
+"venue": "Epiphaniaskirche Laineck, Warmensteinacher Straße 85",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Liederabend",
+"Kirchenkonzert",
+"Laineck"
+],
+"description": "Liederabend der Formation Karisma mit Liedern u. a. von PUR, Rainhard Fendrich sowie Simon & Garfunkel in der Epiphaniaskirche. Eintritt frei, Spenden erbeten.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://event.kurier.de/detail/30271",
+"sources": [
+"Hinweis: Kurier-Kalender"
+],
+"house": "Kirchen",
+"id": "be9c43b922"
+},
+{
 "title": "Workshop: Songwriting für Einsteiger*innen (FLINTA+)",
 "subtitle": "mit Katie",
 "date": "2026-10-18",
 "end_date": null,
-"time": "18:30",
+"time": "19:00",
 "venue": "Glashaus",
 "organizer": "Glashaus e.V.",
 "category": "Pop, Rock & Jazz",
@@ -4780,7 +4459,7 @@
 "subtitle": "mit Christian Hielscher",
 "date": "2026-10-26",
 "end_date": null,
-"time": "18:30",
+"time": "19:00",
 "venue": "Glashaus",
 "organizer": "Glashaus e.V.",
 "category": "Pop, Rock & Jazz",
@@ -5806,6 +5485,30 @@
 "id": "62e3dc95f4"
 },
 {
+"title": "Herbstferienprogramm in der Lernwerkstatt",
+"subtitle": "Kreativ-Workshops für Grundschulkinder",
+"date": "2026-11-03",
+"end_date": "2026-11-05",
+"time": "13:00",
+"venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
+"organizer": "Bezirk Oberfranken – KulturServiceStelle im Museum für bäuerliche Arbeitsgeräte",
+"category": "Kinder & Familie",
+"tags": [
+"Ferienprogramm",
+"Workshop",
+"Museum",
+"Handwerk"
+],
+"description": "Workshops für Kinder ab 6 Jahren: Porzellanteller bemalen (3.11., 13–15 Uhr), Wolle mit Naturmaterialien färben (4.11., 13–15 Uhr) und Schmetterlinge aus Märchenwolle basteln (5.11., 14–16 Uhr). Kostenlos, Anmeldung erforderlich.",
+"price": "frei (Anmeldung erforderlich)",
+"url": "https://region-bayreuth.de/veranstaltung/ferienprogramm-lernwerkstatt-bemale-deinen-eigenen-teller-bayreuth-95448-01bgz0",
+"sources": [
+"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "7586bb49f5"
+},
+{
 "title": "Kinderführung",
 "subtitle": "Stadtgeschichte für Kinder",
 "date": "2026-11-03",
@@ -5893,7 +5596,7 @@
 "Boxen",
 "Wiederaufführung"
 ],
-"description": "Wiederaufführung des Boxerfilms von 1976; zweite Vorstellung am 8.11. um 11 Uhr.",
+"description": "Wiederaufführung des Boxerfilms von 1976 in der Reihe Best of Cinema, am 3.11. um 20 Uhr und am 5.11. um 17:30 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -6891,7 +6594,7 @@
 "subtitle": "mit Ines Maier",
 "date": "2026-11-10",
 "end_date": null,
-"time": "18:30",
+"time": "19:00",
 "venue": "Glashaus",
 "organizer": "Glashaus e.V.",
 "category": "Pop, Rock & Jazz",
@@ -6984,6 +6687,29 @@
 ],
 "house": "RW21",
 "id": "2a08292ef9"
+},
+{
+"title": "St.-Martin – kein Kinderkram",
+"subtitle": "Märchenabend mit Fiona Ahlborn",
+"date": "2026-11-11",
+"end_date": null,
+"time": "19:00",
+"venue": "Friedenskirche Bayreuth, Friedenstraße 1",
+"organizer": "Fiona Ahlborn",
+"category": "Literatur",
+"tags": [
+"Märchen",
+"Brauchtum",
+"Erzählkunst"
+],
+"description": "Märchen, Legenden und alte Bräuche rund um den Martinstag, mit einem Blick auf traditionelles Gebäck und die Verbindung zu Weihnachten.",
+"price": "7 €",
+"url": "https://region-bayreuth.de/veranstaltung/st-martin-kein-kinderkram-bayreuth-95447-wt5h17",
+"sources": [
+"Fiona Ahlborn (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "41769bd756"
 },
 {
 "title": "Kreuzfahrt im Schweinestall",
@@ -7536,7 +7262,7 @@
 "title": "Festtagsspaß mit Peppa – Das Kinoerlebnis",
 "subtitle": null,
 "date": "2026-11-14",
-"end_date": "2026-11-25",
+"end_date": "2026-11-22",
 "time": "13:45",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -7546,7 +7272,7 @@
 "Peppa Wutz",
 "Advent"
 ],
-"description": "Kinoprogramm mit festlichen Peppa-Wutz-Geschichten für die Kleinsten. Vorstellungen laut Cineplex u. a. am 14., 15., 21., 22. und 25. November (meist 13:45 Uhr).",
+"description": "Kinoprogramm mit festlichen Peppa-Wutz-Geschichten für die Kleinsten; Vorstellungen am 14., 15., 21. und 22. November, jeweils 13:45 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -7554,32 +7280,6 @@
 ],
 "house": "Kino",
 "id": "8b5291d6ce"
-},
-{
-"title": "League of Legends Worlds 2026 – Finals in Cinema",
-"subtitle": "E-Sport-Übertragung",
-"date": "2026-11-14",
-"end_date": null,
-"time": "18:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Games",
-"tags": [
-"E-Sport",
-"League of Legends",
-"Live",
-"Live-Übertragung",
-"Liveübertragung"
-],
-"description": "Live-Übertragung des Finales der League-of-Legends-Weltmeisterschaft.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "81d3072f7c"
 },
 {
 "title": "Bayreuther Jazz-November 2026: Stemeseder Lillinger Quartet",
@@ -7603,6 +7303,32 @@
 ],
 "house": "Becher Bräu",
 "id": "66d8b0713c"
+},
+{
+"title": "League of Legends Worlds 2026 – Finals in Cinema",
+"subtitle": "E-Sport-Übertragung",
+"date": "2026-11-14",
+"end_date": null,
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Games",
+"tags": [
+"E-Sport",
+"League of Legends",
+"Live",
+"Live-Übertragung",
+"Liveübertragung"
+],
+"description": "Live-Übertragung des Finales der League-of-Legends-Weltmeisterschaft.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "81d3072f7c"
 },
 {
 "title": "Quichotte: Guter Dinge",
@@ -9642,6 +9368,29 @@
 "id": "b5cb12b9f9"
 },
 {
+"title": "Double Feature: I Play Rocky + Rocky",
+"subtitle": null,
+"date": "2026-11-29",
+"end_date": null,
+"time": "18:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"Double Feature",
+"Rocky",
+"Filmklassiker"
+],
+"description": "Doppelvorstellung mit dem Film „I Play Rocky“ über die Entstehung des Boxerfilms und dem Original „Rocky“ von 1976. Laut Programmseite um 18 Uhr (Kino 8), im Franz & Gloria um 18:15 Uhr in Originalfassung.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "804607fc69"
+},
+{
 "title": "Ein Abend im Advent",
 "subtitle": "Terzo Brass und Marimba",
 "date": "2026-11-29",
@@ -10429,6 +10178,29 @@
 "id": "a119ae246e"
 },
 {
+"title": "Save Your Tears Vol. 8",
+"subtitle": null,
+"date": "2026-12-05",
+"end_date": null,
+"time": "19:30",
+"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Konzert",
+"Livemusik",
+"Konzertreihe"
+],
+"description": "Achte Ausgabe der Konzertreihe „Save Your Tears“ im Zentrum. Das Programm ist noch nicht veröffentlicht, der Vorverkauf startet demnächst.",
+"price": null,
+"url": "https://www.eventim-light.com/de/a/5db8414800ee660001e9ffb8/e/6ac8aac3a47cb7abb7b1c4d8",
+"sources": [
+"Das Zentrum (eventim-light)"
+],
+"house": "Das Zentrum",
+"id": "9ce36d0d72"
+},
+{
 "title": "Pippo Pollina & Quartetto Acustico",
 "subtitle": "La vita è bella così com’è",
 "date": "2026-12-05",
@@ -10768,6 +10540,29 @@
 ],
 "house": "Weitere Orte",
 "id": "e736c90fdc"
+},
+{
+"title": "Perchta, Holle, Frigg – wer war sie wirklich?",
+"subtitle": "Märchenabend mit Fiona Ahlborn",
+"date": "2026-12-09",
+"end_date": null,
+"time": "19:00",
+"venue": "Gemeindebücherei der Friedenskirche, Friedenstraße 1",
+"organizer": "Fiona Ahlborn mit der Gemeindebücherei der Friedenskirche",
+"category": "Literatur",
+"tags": [
+"Märchen",
+"Erzählkunst",
+"Mythologie"
+],
+"description": "Erzählabend über die Gestalten Perchta, Frau Holle und Frigg in Märchen und Überlieferung.",
+"price": "7 €",
+"url": "https://ahlborn-erzaehlerin.de/veranstaltungen/",
+"sources": [
+"Fiona Ahlborn – Märchenerzählerin"
+],
+"house": "Kirchen",
+"id": "f86a8fa428"
 },
 {
 "title": "Jan van Weyde",
