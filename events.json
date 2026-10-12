@@ -229,7 +229,7 @@
 "url": "https://dienaturbuehne.de/spielplan/"
 }
 ],
-"updated": "2026-10-12T00:09+02:00",
+"updated": "2026-10-12T06:22+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -10776,6 +10776,29 @@
 ],
 "house": "Friedrichsforum",
 "id": "0ae9834845"
+},
+{
+"title": "Till Brönner & Trio – Christmas Live 2026",
+"subtitle": null,
+"date": "2026-12-12",
+"end_date": null,
+"time": "19:30",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jazz",
+"Trompete",
+"Weihnachten"
+],
+"description": "Der Jazztrompeter spielt mit Klavier, Bass und Schlagzeug ein Weihnachtsprogramm aus deutschen Weihnachtsliedern, Popstücken und amerikanischen Standards in Jazzbearbeitung.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261212-till-broenner",
+"sources": [
+"Friedrichsforum Bayreuth"
+],
+"house": "Friedrichsforum",
+"id": "4bfad19f1d"
 }
 ]
 }
