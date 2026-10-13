@@ -229,7 +229,7 @@
 "url": "https://dienaturbuehne.de/spielplan/"
 }
 ],
-"updated": "2026-10-12T06:22+02:00",
+"updated": "2026-10-13T07:37+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -675,7 +675,7 @@
 "title": "Sneak Preview FSK 18",
 "subtitle": null,
 "date": "2026-10-05",
-"end_date": "2026-11-17",
+"end_date": "2026-11-16",
 "time": "20:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -686,7 +686,7 @@
 "Sneak",
 "Überraschungsfilm"
 ],
-"description": "Überraschungsvorstellung eines kommenden Films ab 18 Jahren.",
+"description": "Überraschungsvorstellung eines kommenden Films ab 18 Jahren. Nächste Termine laut Kinoprogramm: Mo 19.10., 02.11. und 16.11., jeweils 20:00.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -1183,31 +1183,6 @@
 "id": "4ab6859de1"
 },
 {
-"title": "Semestereröffnungsparty",
-"subtitle": null,
-"date": "2026-10-12",
-"end_date": null,
-"time": "21:00",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Club & Party",
-"tags": [
-"Party",
-"Studierende",
-"Semesterstart",
-"Campus"
-],
-"description": "Party zum Start des Wintersemesters im studentischen Kulturzentrum.",
-"price": "4 € Abendkasse",
-"url": "https://www.glashaus.org/programm/semestereroeffnungsparty-19",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "ad8501430a"
-},
-{
 "title": "Figurentheater: Pippi Langstrumpf in Taka-Tuka-Land",
 "subtitle": null,
 "date": "2026-10-13",
@@ -1275,7 +1250,7 @@
 "sources": [
 "Hinweis: Kurier-Kalender"
 ],
-"house": "Weitere Orte",
+"house": "Das Zentrum",
 "id": "02048d5be2"
 },
 {
@@ -1633,7 +1608,7 @@
 "Kino",
 "Filmkunst"
 ],
-"description": "CineArt-Vorstellungen am 15.10. (17:30), 18.10. (10:45) und 20.10. (20:00).",
+"description": "CineArt-Vorstellungen am Do 15.10. (17:30) und Di 20.10. (20:00, Originalfassung).",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -2269,7 +2244,7 @@
 "date": "2026-10-17",
 "end_date": null,
 "time": "15:00",
-"venue": "Hofgarten Eremitage",
+"venue": "Hofgarten Eremitage – Treffpunkt Kasse Altes Schloss",
 "organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
 "category": "Führung",
 "tags": [
@@ -2278,7 +2253,7 @@
 "Garten",
 "Gartenkunst"
 ],
-"description": "Führung zu den historischen Wasserspielen und Grotten der Eremitage; wetterabhängig, Anmeldung erforderlich.",
+"description": "Rund einstündige Führung zu den historischen Wasserspielen und Grotten der Eremitage; Anmeldung erforderlich, bei Regen oder Sturm entfällt sie.",
 "price": "3 € zzgl. 3,50 € Grotteneintritt",
 "url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=2&optArt=999999&optOrt=14&optMonat=10",
 "sources": [
@@ -2970,7 +2945,7 @@
 "Universität",
 "Diskussion"
 ],
-"description": "An sieben Dienstagabenden halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Termine: 20. Oktober, 3. und 17. November, 1. und 15. Dezember, 12. und 26. Januar.",
+"description": "An sieben Dienstagabenden halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Termine: 20. Oktober, 3. und 17. November, 1. und 15. Dezember, 12. und 26. Januar. Zusätzlich am Montag, 9. November: Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ mit Kommentar und Diskussion.",
 "price": "frei",
 "url": "https://kuwi.uni-bayreuth.de/fachschaft-kuwi/de/wgf2026",
 "sources": [
@@ -6060,7 +6035,7 @@
 "title": "Cabaret",
 "subtitle": null,
 "date": "2026-11-06",
-"end_date": "2026-12-06",
+"end_date": "2026-12-13",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -6070,7 +6045,7 @@
 "Kander/Ebb",
 "Berlin 1930er"
 ],
-"description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre. Termine im Zeitraum: 6., 14. und 28. November sowie 5. Dezember, jeweils 20 Uhr.",
+"description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre. Termine im Zeitraum: 6., 14. und 28. November, 5. und 12. Dezember (20 Uhr) sowie 6. und 13. Dezember (17 Uhr).",
 "price": "15–45 €",
 "url": "https://dienaturbuehne.de/spielplan/",
 "sources": [
@@ -6079,6 +6054,29 @@
 ],
 "house": "Kulturbühne Reichshof",
 "id": "9e19bbfebc"
+},
+{
+"title": "Konzertfilm: Stray Kids World Tour <RUN IT> – Live Viewing",
+"subtitle": null,
+"date": "2026-11-07",
+"end_date": null,
+"time": "13:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"Konzertfilm",
+"K-Pop",
+"Live Viewing"
+],
+"description": "Kinoübertragung eines Konzerts der südkoreanischen Band Stray Kids. Vorstellungen am 07.11. um 13:00 und 17:15.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/programm",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "6f5bc8a179"
 },
 {
 "title": "Nacht der Klänge – ein Musikerlebnis für alle Sinne",
@@ -6539,6 +6537,30 @@
 "id": "d5f0d94753"
 },
 {
+"title": "Sicherheit durch Wandel – Klimaschutz und Biodiversität in Krisenzeiten",
+"subtitle": "Auftakt der RegioCOP 2026",
+"date": "2026-11-09",
+"end_date": null,
+"time": "18:30",
+"venue": "Iwalewahaus (Universität Bayreuth), Wölfelstraße 2",
+"organizer": "forum1.5",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Klima",
+"Biodiversität",
+"Sicherheit",
+"Podium"
+],
+"description": "Auftaktabend der regionalen Klimakonferenz Oberfranken mit Vorträgen von Michael Müller und Dr. Claudia Hunecke zu Klima, Artenverlust und Ernährungssicherheit sowie einer Podiumsrunde. Anmeldung erforderlich.",
+"price": null,
+"url": "https://regiocop.de/regiocop-2026/anmeldung/",
+"sources": [
+"RegioCOP / forum1.5"
+],
+"house": "Iwalewahaus",
+"id": "0b7f2db94e"
+},
+{
 "title": "SilberFILM: Drei Männer im Schnee",
 "subtitle": "Seniorenkino",
 "date": "2026-11-10",
@@ -6712,6 +6734,29 @@
 "id": "41769bd756"
 },
 {
+"title": "CineArt: Lügen über meine Mutter",
+"subtitle": null,
+"date": "2026-11-12",
+"end_date": "2026-11-17",
+"time": "17:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Arthouse",
+"Drama"
+],
+"description": "Drama aus der Bundesrepublik der 1980er-Jahre in der Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 12.11. 17:30, So 15.11. 10:45, Di 17.11. 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "ae5ac799b3"
+},
+{
 "title": "Kreuzfahrt im Schweinestall",
 "subtitle": "12.11. 18 Uhr, 13.11. 19 Uhr, 14.11. 14:30 und 19 Uhr, 15.11. 10 und 17 Uhr",
 "date": "2026-11-12",
@@ -6809,29 +6854,6 @@
 ],
 "house": "Kunstmuseum",
 "id": "439c80394e"
-},
-{
-"title": "CineArt: Lügen über meine Mutter",
-"subtitle": null,
-"date": "2026-11-12",
-"end_date": "2026-11-19",
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Drama"
-],
-"description": "Drama aus der Bundesrepublik der 1980er-Jahre in der Reihe CineArt. Vorstellungen laut Kinoseite: Do 12.11. 20:00, So 15.11. 13:45, Di 17.11. 20:00, Do 19.11. 17:30 (Zeiten vorab prüfen).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "ae5ac799b3"
 },
 {
 "title": "Mnozil Brass – Jubelei",
@@ -7841,6 +7863,29 @@
 "id": "fa5e9c5b6d"
 },
 {
+"title": "CineArt: Chopin – Eine Sonate in Paris",
+"subtitle": null,
+"date": "2026-11-19",
+"end_date": "2026-11-24",
+"time": "17:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Biopic",
+"Musik"
+],
+"description": "Biografischer Spielfilm über Frédéric Chopin und George Sand in der Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 19.11. 17:30, So 22.11. 10:45, Di 24.11. 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "6f77022e30"
+},
+{
 "title": "Das Kriminal Dinner: Und raus bist du",
 "subtitle": null,
 "date": "2026-11-19",
@@ -7865,6 +7910,29 @@
 ],
 "house": "Weitere Orte",
 "id": "5906453027"
+},
+{
+"title": "Bilderbuchkino: Uhuwe liest vor",
+"subtitle": "Zum Bundesweiten Vorlesetag",
+"date": "2026-11-20",
+"end_date": null,
+"time": "15:00",
+"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Bilderbuchkino",
+"Vorlesetag",
+"ab 4 Jahren"
+],
+"description": "Bilderbuchkino nach dem Buch von Christelle Saquet und Tatjana Mai-Wyss über die Eule Uhuwe, die ihre Stimme verliert; für Kinder ab 4 Jahren, ohne Anmeldung.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/bilderbuchkino-november-uhuwe-liest-vor-bayreuth-95444-x9gc9g",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "f22ad12ca7"
 },
 {
 "title": "Niels Gade Quartet",
@@ -8021,29 +8089,6 @@
 ],
 "house": "Clubs",
 "id": "7de3ae1848"
-},
-{
-"title": "CineArt: Chopin – Eine Sonate in Paris",
-"subtitle": null,
-"date": "2026-11-21",
-"end_date": "2026-11-22",
-"time": "13:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Biopic",
-"Musik"
-],
-"description": "Biografischer Spielfilm über Frédéric Chopin und George Sand in der Reihe CineArt. Vorstellungen laut Kinoseite: Sa 21.11. 13:45 und So 22.11. 10:45 (Zeiten vorab prüfen).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "08f4b5cfc8"
 },
 {
 "title": "Jahreskonzert des Ersten Harmonika-Clubs Bayreuth",
@@ -8494,6 +8539,29 @@
 "id": "d0d55d0039"
 },
 {
+"title": "Die »Schönsten Deutschen Bücher« 2026",
+"subtitle": "Ausstellung der Stiftung Buchkunst",
+"date": "2026-11-24",
+"end_date": "2026-12-17",
+"time": "10:00",
+"venue": "RW21 Stadtbibliothek – Galerie (1. OG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek mit der Stiftung Buchkunst",
+"category": "Ausstellung",
+"tags": [
+"Buchgestaltung",
+"Typografie",
+"Buchkunst"
+],
+"description": "Gezeigt werden die 25 von der Stiftung Buchkunst prämierten, am besten gestalteten Bücher des Jahres aus fünf Kategorien von Belletristik bis Kinderbuch. Zu den Öffnungszeiten der Bibliothek.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/ausstellung-schoensten-deutschen-buecher-2026-bayreuth-95444-q1b2ya",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "1d57fca671"
+},
+{
 "title": "Tannöd – Ein Kriminalfall: Öffentliche Probe",
 "subtitle": null,
 "date": "2026-11-24",
@@ -8642,6 +8710,29 @@
 ],
 "house": "Weitere Orte",
 "id": "fff4a2c545"
+},
+{
+"title": "CineArt: Heimsuchung – Eine Jahrhundertgeschichte",
+"subtitle": null,
+"date": "2026-11-26",
+"end_date": "2026-12-01",
+"time": "17:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Arthouse",
+"Drama"
+],
+"description": "Spielfilm in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 26.11. 17:30, So 29.11. 10:45, Di 01.12. 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/programm",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "cb1942f239"
 },
 {
 "title": "Beethoven! – Junge Meisterpianist:innen aus Nürnberg",
@@ -8920,7 +9011,7 @@
 },
 {
 "title": "Gymmick – solo",
-"subtitle": "solo",
+"subtitle": "Die große Gymmick-Show – alle 7 Sekunden",
 "date": "2026-11-27",
 "end_date": null,
 "time": "20:00",
@@ -9051,6 +9142,29 @@
 ],
 "house": "Universität",
 "id": "525093db8d"
+},
+{
+"title": "Musikalische Vorlesestunde: Geraldine und die Mauseflöte",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": null,
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Musik",
+"ab 4 Jahren"
+],
+"description": "Eine Vorlesepatin liest Leo Lionnis Geschichte von der Maus Geraldine, begleitet von Live-Musik; für Kinder ab 4 Jahren.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/musikalische-vorlesestunde-bayreuth-95444-gufv0g",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "0c5bf9f363"
 },
 {
 "title": "Band Herzblatt-Musik",
@@ -9210,7 +9324,7 @@
 "Gebärdensprache",
 "Inklusion"
 ],
-"description": "Führung in Deutscher Gebärdensprache durch das Opernhaus und seine Museumsausstellung, in Kooperation mit dem Gehörlosenverein Bayreuth; ab 6 Jahren, Anmeldung nötig.",
+"description": "Führung in Deutscher Gebärdensprache durch das Opernhaus und seine Museumsausstellung, in Kooperation mit dem Gehörlosenverein Bayreuth; ab 6 Jahren, Anmeldung nötig. Der Termin am 24. Oktober entfällt.",
 "price": "3 € zzgl. Eintritt",
 "url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=11",
 "sources": [
@@ -10468,6 +10582,29 @@
 "id": "37710aa3dc"
 },
 {
+"title": "Die Verwirrungen des Zöglings Törless – Öffentliche Probe",
+"subtitle": null,
+"date": "2026-12-08",
+"end_date": null,
+"time": "19:00",
+"venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
+"organizer": "Studiobühne Bayreuth e.V.",
+"category": "Theater",
+"tags": [
+"Öffentliche Probe",
+"Musil",
+"Uraufführung"
+],
+"description": "Offene Probe zur Bühnenfassung nach Robert Musils Roman; Besucher können der Probenarbeit vor der Premiere zusehen.",
+"price": "frei",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2164&collection_code=produktionen",
+"sources": [
+"Studiobühne Bayreuth"
+],
+"house": "Studiobühne",
+"id": "d9d397149c"
+},
+{
 "title": "Speyer, Worms, Mainz – SchUM-Städte am Rhein",
 "subtitle": "Vortrag von Beatrice Trost",
 "date": "2026-12-08",
@@ -10799,6 +10936,52 @@
 ],
 "house": "Friedrichsforum",
 "id": "4bfad19f1d"
+},
+{
+"title": "ALFONS – Klasse!",
+"subtitle": null,
+"date": "2026-12-13",
+"end_date": null,
+"time": "20:00",
+"venue": "Das Zentrum",
+"organizer": "motion kommunikation",
+"category": "Kabarett & Comedy",
+"tags": [
+"Kabarett",
+"Alfons",
+"Satire"
+],
+"description": "Emmanuel Peterfalvi alias Reporter Alfons erzählt in seinem Programm Anekdoten über Deutschland und seine großen Themen.",
+"price": "33,70 €",
+"url": "https://www.motion-kommunikation.de/event/alfons-klasse/",
+"sources": [
+"motion kommunikation"
+],
+"house": "Das Zentrum",
+"id": "85fb127341"
+},
+{
+"title": "Mathias Kellner: Schnappschuss!",
+"subtitle": null,
+"date": "2026-12-13",
+"end_date": null,
+"time": "20:00",
+"venue": "Gaststätte Becher – Bechersaal, St.-Nikolaus-Straße 25",
+"organizer": "motion kommunikation",
+"category": "Kabarett & Comedy",
+"tags": [
+"Liedermacher",
+"Musikkabarett",
+"Bayern"
+],
+"description": "Der niederbayerische Liedermacher Mathias Kellner verbindet Songs und Erzählungen über bayerische Eigenheiten und Alltagsmomente. Saal nicht barrierefrei.",
+"price": "27,10–30 €",
+"url": "https://www.motion-kommunikation.de/event/mathias-kellner-schnappschuss/",
+"sources": [
+"motion kommunikation"
+],
+"house": "Becher Bräu",
+"id": "464d570a83"
 }
 ]
 }
