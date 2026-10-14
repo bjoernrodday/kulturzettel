@@ -227,9 +227,33 @@
 {
 "name": "Die Naturbühne – Spielplan",
 "url": "https://dienaturbuehne.de/spielplan/"
+},
+{
+"name": "Cineplex Bayreuth – Programm",
+"url": "https://www.cineplex.de/bayreuth/programm"
+},
+{
+"name": "Neuneinhalb – Veranstalterseite",
+"url": "https://www.neuneinhalb.org/eventer-organizer/neuneinhalb/"
+},
+{
+"name": "Stadtkirche Bayreuth – Veranstaltungen",
+"url": "https://www.stadtkirche-bayreuth.de/xml/xmlscript.php?pageID=1"
+},
+{
+"name": "Kunstverein Bayreuth – Kalender",
+"url": "https://kunstverein-bayreuth.de/sample-page/veranstaltungskalender-2026/"
+},
+{
+"name": "Liebesbier – Events",
+"url": "https://www.liebesbier.de/de/events/"
+},
+{
+"name": "Studiobühne Bayreuth – Produktionen",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktionen/"
 }
 ],
-"updated": "2026-10-13T07:37+02:00",
+"updated": "2026-10-14T06:48+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -840,32 +864,6 @@
 "id": "67cd2cb53d"
 },
 {
-"title": "CineArt: Vaterland",
-"subtitle": "Arthouse-Reihe im Cineplex",
-"date": "2026-10-08",
-"end_date": "2026-10-13",
-"time": "16:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Kino",
-"Thomas Mann",
-"Filmkunst"
-],
-"description": "Arthouse-Film in der CineArt-Reihe; weitere Vorstellungen am 11.10. (10:45) und 13.10. (19:00).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "d9a25f2b3a"
-},
-{
 "title": "Familientafel",
 "subtitle": null,
 "date": "2026-10-08",
@@ -1183,29 +1181,6 @@
 "id": "4ab6859de1"
 },
 {
-"title": "Figurentheater: Pippi Langstrumpf in Taka-Tuka-Land",
-"subtitle": null,
-"date": "2026-10-13",
-"end_date": null,
-"time": "16:00",
-"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
-"organizer": "Das Bilderbuchtheater",
-"category": "Kinder & Familie",
-"tags": [
-"Figurentheater",
-"Astrid Lindgren",
-"ab 2 Jahren"
-],
-"description": "Rund 50-minütiges Figurentheater nach Astrid Lindgren für Kinder ab zwei Jahren; Karten nur an der Tageskasse.",
-"price": "11 €",
-"url": "https://region-bayreuth.de/veranstaltung/figurentheater-pippi-langstrumpf-taka-tuka-land-bayreuth-95448-940t3s",
-"sources": [
-"Das Bilderbuchtheater (nur Stadt, Land, Leben)"
-],
-"house": "Das Zentrum",
-"id": "e991e8bf2d"
-},
-{
 "title": "Pub&Go Spieleabend",
 "subtitle": null,
 "date": "2026-10-13",
@@ -1231,77 +1206,6 @@
 "id": "253fca73e4"
 },
 {
-"title": "Aufbruch in die Neue Welt",
-"subtitle": "Vortrag von Reinhard Stelzer",
-"date": "2026-10-13",
-"end_date": null,
-"time": "17:30",
-"venue": "Evangelisches Zentrum, Richard-Wagner-Straße 24",
-"organizer": null,
-"category": "Vortrag & Diskurs",
-"tags": [
-"Geschichte",
-"Auswanderung",
-"Oberfranken"
-],
-"description": "Der Historiker Reinhard Stelzer spricht über die Auswanderung aus Oberfranken nach Nordamerika im 19. Jahrhundert, über Lebenswege der Ausgewanderten und den Druck auf die deutsche Sprache und Kultur in den USA nach dem Ersten Weltkrieg.",
-"price": null,
-"url": "https://event.kurier.de/detail/30197",
-"sources": [
-"Hinweis: Kurier-Kalender"
-],
-"house": "Das Zentrum",
-"id": "02048d5be2"
-},
-{
-"title": "Konzert: Magnetic Spaceman (NL)",
-"subtitle": null,
-"date": "2026-10-13",
-"end_date": null,
-"time": "19:00",
-"venue": "Schokofabrik, Gaußstraße 6",
-"organizer": "Schoko e.V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Psychedelic",
-"Konzert",
-"Livemusik",
-"Kneipenkonzert"
-],
-"description": "Konzert der niederländischen Band im Jugendkulturzentrum Schoko.",
-"price": null,
-"url": "https://www.schoko-bayreuth.de/event/konzert-magnetic-spaceman-nl/",
-"sources": [
-"Schoko e.V.",
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "787b91e47d"
-},
-{
-"title": "Jeeps – Öffentliche Probe",
-"subtitle": null,
-"date": "2026-10-13",
-"end_date": null,
-"time": "19:00",
-"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth e.V.",
-"category": "Theater",
-"tags": [
-"Schauspiel",
-"Probe",
-"Eintritt frei"
-],
-"description": "Vor der Premiere am 23. Oktober zeigt die Studiobühne ihre Produktion „Jeeps“ in einer öffentlichen Probe. Der Eintritt ist frei.",
-"price": "Eintritt frei",
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158&collection_code=produktionen",
-"sources": [
-"Studiobühne Bayreuth"
-],
-"house": "Studiobühne",
-"id": "38c5de9ade"
-},
-{
 "title": "Literaturkurs der Anthroposophischen Gesellschaft: Goethes Faust II",
 "subtitle": null,
 "date": "2026-10-13",
@@ -1325,29 +1229,6 @@
 "id": "1f324f19a4"
 },
 {
-"title": "Karaoke-Abend",
-"subtitle": null,
-"date": "2026-10-13",
-"end_date": null,
-"time": "20:00",
-"venue": "Katholische Hochschulgemeinde – Roncalli-Saal, Emil-Warburg-Weg 17",
-"organizer": "Katholische Hochschulgemeinde Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Karaoke",
-"Singen",
-"Campus"
-],
-"description": "Offener Karaoke-Abend in der Hochschulgemeinde, solo oder im Duett; keine Anmeldung nötig, mitgebrachte Snacks willkommen.",
-"price": null,
-"url": "https://www.khg-in-bayreuth.de",
-"sources": [
-"Katholische Hochschulgemeinde Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "e93926c228"
-},
-{
 "title": "Sprechen und Zuhören",
 "subtitle": "Gesprächsrunden von Wundersam Anders e.V.",
 "date": "2026-10-13",
@@ -1369,32 +1250,6 @@
 ],
 "house": "Weitere Orte",
 "id": "232c812767"
-},
-{
-"title": "Hexis (DK), Violence (DK) & Black Birch (SWE)",
-"subtitle": "Hexis (DK), Violence (DK), Black Birch (SWE)",
-"date": "2026-10-13",
-"end_date": null,
-"time": "20:30",
-"venue": "Glashaus",
-"organizer": "Glashaus",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Metal",
-"Hardcore",
-"Konzert",
-"Black Metal",
-"Industrial"
-],
-"description": "Konzertabend mit drei skandinavischen Bands der härteren Gangart.",
-"price": "10 € VVK, Soli 15 €",
-"url": "https://www.glashaus.org/programm/hexis-dk-violence-dk-black-birch-swe",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "8223e8c098"
 },
 {
 "title": "Erzählcafé",
@@ -1594,6 +1449,29 @@
 "id": "88214aae74"
 },
 {
+"title": "Spieletreff",
+"subtitle": "Offene Runde für Karten- und Brettspiele",
+"date": "2026-10-15",
+"end_date": "2026-12-10",
+"time": "14:00",
+"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
+"organizer": "Stadt Bayreuth – Seniorenamt",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Kartenspiele",
+"Senioren"
+],
+"description": "Offener Spielenachmittag mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr (15.10. bis 10.12.).",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
+"sources": [
+"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "22a31fc128"
+},
+{
 "title": "CineArt: That's Why The Lady Is A Champ",
 "subtitle": "Arthouse-Reihe im Cineplex",
 "date": "2026-10-15",
@@ -1671,6 +1549,37 @@
 "id": "dd80bc8abd"
 },
 {
+"title": "Ana Lucía: Gewinner (Vorpremiere)",
+"subtitle": "Vorpremiere",
+"date": "2026-10-15",
+"end_date": null,
+"time": "19:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kunst- und Kulturhaus Neuneinhalb",
+"category": "Kabarett & Comedy",
+"tags": [
+"Kabarett",
+"Solo",
+"Comedy",
+"Solo-Debüt",
+"Stand-up"
+],
+"description": "Erstes Soloprogramm der Kabarettistin über das Gewinnen; Termin vom 22.10. vorverlegt.",
+"price": "VVK 16 €/11 €, AK 18 €/14 €",
+"url": "https://www.neuneinhalb.org/veranstaltungen/ana-lucia-gewinner-vorpremiere/edate/2026-10-15",
+"sources": [
+"Kunst- und Kulturhaus Neuneinhalb",
+"Neuneinhalb Ticketshop (eventim-light)",
+"Neuneinhalb",
+"Neuneinhalb e.V.",
+"Neuneinhalb e. V.",
+"Stadt, Land, Leben (region-bayreuth.de)",
+"eventfinder.de"
+],
+"house": "Neuneinhalb",
+"id": "166802f88d"
+},
+{
 "title": "Bernd Stelter",
 "subtitle": "Reg' dich nicht auf. Gibt nur Falten!",
 "date": "2026-10-15",
@@ -1696,37 +1605,6 @@
 ],
 "house": "Friedrichsforum",
 "id": "db88711731"
-},
-{
-"title": "Ana Lucía: Gewinner (Vorpremiere)",
-"subtitle": "Vorpremiere",
-"date": "2026-10-15",
-"end_date": null,
-"time": "20:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kunst- und Kulturhaus Neuneinhalb",
-"category": "Kabarett & Comedy",
-"tags": [
-"Kabarett",
-"Solo",
-"Comedy",
-"Solo-Debüt",
-"Stand-up"
-],
-"description": "Erstes Soloprogramm der Kabarettistin über das Gewinnen; Termin vom 22.10. vorverlegt.",
-"price": "VVK 16 €/11 €, AK 18 €/14 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/ana-lucia-gewinner-vorpremiere/edate/2026-10-15",
-"sources": [
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb Ticketshop (eventim-light)",
-"Neuneinhalb",
-"Neuneinhalb e.V.",
-"Neuneinhalb e. V.",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"eventfinder.de"
-],
-"house": "Neuneinhalb",
-"id": "166802f88d"
 },
 {
 "title": "Kult-Sneak",
@@ -1804,6 +1682,29 @@
 ],
 "house": "Stadtführungen",
 "id": "3530eff511"
+},
+{
+"title": "Vom Acker in die Tüte – wie Deutschland seinen Zucker produziert",
+"subtitle": null,
+"date": "2026-10-16",
+"end_date": null,
+"time": "17:00",
+"venue": "RW21 Volkshochschule – Seminarraum 1, Richard-Wagner-Straße 21",
+"organizer": "vhs Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Landwirtschaft",
+"Zucker",
+"Nachhaltigkeit"
+],
+"description": "Vortrag über Anbau, Ernte und industrielle Verarbeitung der Zuckerrübe, mit Blick darauf, warum in Oberfranken kaum Rüben wachsen. Anmeldung über die vhs.",
+"price": "7,80 €",
+"url": "https://www.vhs-bayreuth.de/programm/bildung-fuer-nachhaltige-entwicklung-bne/kurs/Vom-Acker-in-die-Tuete-Wie-Deutschland-seinen-Zucker-produziert/I1502#inhalt",
+"sources": [
+"vhs Bayreuth"
+],
+"house": "RW21",
+"id": "5b0964cd9f"
 },
 {
 "title": "Colette – eine faszinierende Schriftstellerin",
@@ -1905,7 +1806,7 @@
 ],
 "description": "Internationale Acts und lokale Kollektive im Museumsneubau – mit DJ Hell, SACID, No Merzy und den Elektrovögeln.",
 "price": "ausverkauft",
-"url": "https://jean-paul-kulturverein.de/",
+"url": "https://jean-paul-kulturverein.de/portfolio-items/neubayreuth-reloaded-mit-dj-hell/",
 "sources": [
 "Stadt, Land, Leben (region-bayreuth.de)",
 "Jean Paul Kulturverein (Ticketing concerticket)",
@@ -1935,6 +1836,29 @@
 ],
 "house": "Kirchen",
 "id": "eef8187df5"
+},
+{
+"title": "Organum spectaculum: Bayreuther Orgelnacht",
+"subtitle": null,
+"date": "2026-10-16",
+"end_date": null,
+"time": "19:00",
+"venue": "St. Hedwig, Stadtkirche und Schlosskirche Bayreuth",
+"organizer": "Schlosskirchenmusik Bayreuth",
+"category": "Klassik",
+"tags": [
+"Orgel",
+"Kirchenmusik",
+"Eintritt frei"
+],
+"description": "Orgelnacht mit stündlichen Konzerten in mehreren Bayreuther Kirchen: Elizaveta Suslova in St. Hedwig (19 Uhr), Studierende der Hochschule für evangelische Kirchenmusik (20 Uhr), Michael Dorn und Yuka Koroyasu in der Stadtkirche (21 Uhr) sowie Sebastian Ruf mit Schlagwerker Johannes Kilian in der Schlosskirche (22 Uhr).",
+"price": "Eintritt frei",
+"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Bayreuther-Orgelnacht-2026.10.16/?instancedate=1792170000000",
+"sources": [
+"Schlosskirchenmusik Bayreuth"
+],
+"house": "Kirchen",
+"id": "ae9876558a"
 },
 {
 "title": "Stuttgarter Philharmoniker",
@@ -2184,6 +2108,29 @@
 "id": "b00596b551"
 },
 {
+"title": "Guided City Tour (English)",
+"subtitle": null,
+"date": "2026-10-17",
+"end_date": "2026-10-31",
+"time": "10:30",
+"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
+"organizer": "Bayreuth Marketing & Tourismus GmbH",
+"category": "Führung",
+"tags": [
+"Stadtführung",
+"Englisch",
+"Altstadt"
+],
+"description": "Historischer Stadtrundgang in englischer Sprache, rund zwei Stunden. Termine: 17., 18., 24., 25. und 31. Oktober, jeweils 10:30 Uhr; Buchung bis 12 Uhr am Vortag.",
+"price": "12 €, ermäßigt 6 €",
+"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
+"sources": [
+"Bayreuth Marketing & Tourismus"
+],
+"house": "Stadtführungen",
+"id": "a49e88c0d0"
+},
+{
 "title": "Marcel Benker – Live im Dorf",
 "subtitle": null,
 "date": "2026-10-17",
@@ -2385,29 +2332,6 @@
 "id": "9af78c022b"
 },
 {
-"title": "Organum spectaculum: Bayreuther Orgelnacht",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "19:00",
-"venue": "St. Hedwig, Stadtkirche und Schlosskirche Bayreuth",
-"organizer": "Schlosskirchenmusik Bayreuth",
-"category": "Klassik",
-"tags": [
-"Orgel",
-"Kirchenmusik",
-"Eintritt frei"
-],
-"description": "Orgelnacht mit stündlichen Konzerten in mehreren Bayreuther Kirchen: Elizaveta Suslova in St. Hedwig (19 Uhr), Studierende der Hochschule für evangelische Kirchenmusik (20 Uhr), Michael Dorn und Yuka Koroyasu in der Stadtkirche (21 Uhr) sowie Sebastian Ruf mit Schlagwerker Johannes Kilian in der Schlosskirche (22 Uhr).",
-"price": "Eintritt frei",
-"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Bayreuther-Orgelnacht-2026.10.17/?instancedate=1792256400000",
-"sources": [
-"Schlosskirchenmusik Bayreuth"
-],
-"house": "Kirchen",
-"id": "0cb56e2bfa"
-},
-{
 "title": "NeuBayreuth Reloaded – Festspiele der elektronischen Musik, Tag 2",
 "subtitle": "Nacht der Kollektive mit Tongranulat, Saalmitte, Neobloom, Lachsbecken",
 "date": "2026-10-17",
@@ -2575,6 +2499,29 @@
 ],
 "house": "Das Zentrum",
 "id": "6e152b5fff"
+},
+{
+"title": "Polnische Filmreihe: Lalka (The Doll)",
+"subtitle": null,
+"date": "2026-10-18",
+"end_date": null,
+"time": "11:30",
+"venue": "Cineplex Bayreuth",
+"organizer": null,
+"category": "Film",
+"tags": [
+"Filmreihe",
+"Polen",
+"OmeU"
+],
+"description": "Vorstellung im Rahmen der Polnischen Filmreihe: die Verfilmung „Lalka“ in polnischer Originalfassung mit englischen Untertiteln.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "1ba6a07ff0"
 },
 {
 "title": "TAC-Turnier",
@@ -2978,6 +2925,29 @@
 "id": "1f26136783"
 },
 {
+"title": "QuizKino Live",
+"subtitle": null,
+"date": "2026-10-20",
+"end_date": null,
+"time": "19:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"Filmquiz",
+"Kino",
+"Mitmachen"
+],
+"description": "Interaktives Filmquiz im Kinosaal, empfohlen ab 16 Jahren. Die Kinoseite nennt teils 19:00, teils 20:00 Uhr – Uhrzeit vorab prüfen.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "e901a336bb"
+},
+{
 "title": "4. Rudelsingen",
 "subtitle": null,
 "date": "2026-10-20",
@@ -3052,29 +3022,6 @@
 ],
 "house": "Neuneinhalb",
 "id": "88ae7fd5f4"
-},
-{
-"title": "QuizKino Live",
-"subtitle": null,
-"date": "2026-10-20",
-"end_date": null,
-"time": null,
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Filmquiz",
-"Kino",
-"Mitmachen"
-],
-"description": "Interaktives Filmquiz im Kinosaal, empfohlen ab 16 Jahren. Die Kinoseite nennt teils 19:00, teils 20:00 Uhr – Uhrzeit vorab prüfen.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "e901a336bb"
 },
 {
 "title": "5. Bayreuther Tastenlöwen-Festival – Pianomarathon",
@@ -3393,9 +3340,9 @@
 "Gaming",
 "Retro"
 ],
-"description": "Dreitägige LAN-Party mit Turnieren (u. a. League of Legends, CS2) und freiem Spiel; eigener Rechner oder Premium-Ticket mit Hardware, ab 18 Jahren. Einlass Fr ab 15 Uhr, Eröffnung 18 Uhr.",
-"price": "45–120 € (3 Tage, nur Vorverkauf)",
-"url": "https://www.frankenlan.de/",
+"description": "LAN-Party mit Turnieren und Freeplay im Hofgartensaal: Fr ab 15 Uhr Check-in, 18 Uhr Eröffnung; Sa ganztägig; So bis 18 Uhr. Eigener Rechner oder Leihhardware (Premium).",
+"price": "45–120 € (3 Tage, je nach Ticket)",
+"url": "https://frankenlan.de/",
 "sources": [
 "FrankenLAN / E-Sport UBT e.V.",
 "Friedrichsforum",
@@ -3479,7 +3426,7 @@
 ],
 "description": "Wagners Ring in komprimierter, bairisch erzählter Fassung.",
 "price": null,
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/veranst.asp",
+"url": "https://musica-bayreuth.de/events/oper-auf-bayrisch-zusatzveranstaltung/",
 "sources": [
 "Bayerische Schlösserverwaltung",
 "Schlösserverwaltung Bayreuth",
@@ -3778,6 +3725,29 @@
 "id": "2d75312bc8"
 },
 {
+"title": "RING! RING! – Bus 34 hält nicht am Festspielhaus",
+"subtitle": null,
+"date": "2026-10-24",
+"end_date": "2026-10-25",
+"time": "17:00",
+"venue": "Jean Paul Art Space",
+"organizer": "Jean Paul Kulturverein",
+"category": "Theater",
+"tags": [
+"Performance",
+"Wagner",
+"Freie Szene"
+],
+"description": "Abschlussinszenierung des festspiel|artlab im Rahmen von Festival150: Über 25 freie Künstlerinnen und Künstler zeigen eine eigene Ring-Interpretation mit Schauspiel, Gesang und Orchester, an zwei Tagen mit je zwei Aufführungen (laut Stadt, Land, Leben ab Sa 17 Uhr und So 15 Uhr; Zeiten beim Veranstalter prüfen).",
+"price": null,
+"url": "https://jean-paul-kulturverein.de/",
+"sources": [
+"Jean Paul Kulturverein"
+],
+"house": "Weitere Orte",
+"id": "d9b209a85a"
+},
+{
 "title": "Mendelssohn: Elias",
 "subtitle": "Junges Vokalensemble",
 "date": "2026-10-24",
@@ -3799,29 +3769,6 @@
 ],
 "house": "Kirchen",
 "id": "09656e4986"
-},
-{
-"title": "Bus 34 hält nicht am Festspielhaus",
-"subtitle": null,
-"date": "2026-10-24",
-"end_date": "2026-10-25",
-"time": "19:00",
-"venue": "Jean Paul Art Space",
-"organizer": null,
-"category": "Theater",
-"tags": [
-"Performance",
-"Wagner",
-"Freie Szene"
-],
-"description": "Performance im Jean Paul Art Space rund um das Festspielhaus; Vorstellungen am 24. (19 Uhr) und 25. Oktober (17 und 19 Uhr).",
-"price": null,
-"url": "https://www.bayreuth4u.de/event/bus-34-haelt-nicht-am-festspielhaus/",
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Weitere Orte",
-"id": "f8fc0bbebb"
 },
 {
 "title": "Les Amateurs virtuoses – Tastenlöwen in Bayreuth",
@@ -4139,7 +4086,7 @@
 ],
 "description": "Zweite Aufführung von Mendelssohn Bartholdys Oratorium „Elias“ mit dem Jungen Vokalensemble, diesmal am Nachmittag.",
 "price": null,
-"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Felix-Mendelssohn-Bartholdy-Elias-2026.10.24/?instancedate=1792861200000",
+"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Felix-Mendelssohn-Bartholdy-Elias-2026.10.25/?instancedate=1792936800000",
 "sources": [
 "Schlosskirchenmusik Bayreuth"
 ],
@@ -4226,30 +4173,6 @@
 ],
 "house": "Weitere Orte",
 "id": "b9635cb056"
-},
-{
-"title": "A. D. Trantenroth – Ausstellungseröffnung",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "17:00",
-"venue": "Kunstmuseum Bayreuth, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Vernissage",
-"Gegenwartskunst",
-"Konzeptkunst",
-"Nachlass"
-],
-"description": "Eröffnung einer Ausstellung mit Arbeiten von A. D. Trantenroth; Laufzeit noch nicht veröffentlicht.",
-"price": null,
-"url": "https://www.bayreuth4u.de/event/a-d-trantenroth/",
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Kunstmuseum",
-"id": "c3798ddb75"
 },
 {
 "title": "Notte Italiana – Pino Barone live",
@@ -4453,6 +4376,29 @@
 ],
 "house": "Glashaus",
 "id": "a12c92e450"
+},
+{
+"title": "Cinema Africa: Afrikanische Filmreihe",
+"subtitle": null,
+"date": "2026-10-26",
+"end_date": "2026-11-23",
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": null,
+"category": "Film",
+"tags": [
+"Filmreihe",
+"Afrika",
+"OmU"
+],
+"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Soumsoum, la nuit des astres“ (26.10., 20 Uhr), „Dao“ (9.11., 20 Uhr) und „Hanami“ (23.11., 18 und 20 Uhr). Weitere Filme folgen im Januar 2027.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "7350bb7921"
 },
 {
 "title": "Allgemeine Führung durch das Friedrichsforum",
@@ -5039,6 +4985,29 @@
 "id": "dba960c5b1"
 },
 {
+"title": "Lesung mit Birgit Gruber",
+"subtitle": "Krimi trifft Romantik",
+"date": "2026-10-30",
+"end_date": null,
+"time": "19:30",
+"venue": "Café Antons, Bayreuth",
+"organizer": null,
+"category": "Literatur",
+"tags": [
+"Lesung",
+"Krimi",
+"Bayreuth-Krimi"
+],
+"description": "Die Autorin liest aus ihrer Bayreuther Krimireihe, die Spannung, Romantik und Humor verbindet. Einlass ab 18 Uhr; Karten im Vorverkauf in der Buchhandlung im Kircheneck und im Café Antons.",
+"price": "14 €",
+"url": "https://www.bayreuther-tagblatt.de/nachrichten-meldungen-news/krimi-trifft-romantik-lesung-mit-birgit-gruber-in-bayreuth/",
+"sources": [
+"Hinweis: Bayreuther Tagblatt"
+],
+"house": "Weitere Orte",
+"id": "fa2417665f"
+},
+{
 "title": "Bamberger Symphoniker",
 "subtitle": "Dirigentin Mirga Gražinytė-Tyla, Klavier Onutė Gražinytė",
 "date": "2026-10-30",
@@ -5463,7 +5432,7 @@
 "title": "Herbstferienprogramm in der Lernwerkstatt",
 "subtitle": "Kreativ-Workshops für Grundschulkinder",
 "date": "2026-11-03",
-"end_date": "2026-11-05",
+"end_date": "2026-11-06",
 "time": "13:00",
 "venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
 "organizer": "Bezirk Oberfranken – KulturServiceStelle im Museum für bäuerliche Arbeitsgeräte",
@@ -5474,7 +5443,7 @@
 "Museum",
 "Handwerk"
 ],
-"description": "Workshops für Kinder ab 6 Jahren: Porzellanteller bemalen (3.11., 13–15 Uhr), Wolle mit Naturmaterialien färben (4.11., 13–15 Uhr) und Schmetterlinge aus Märchenwolle basteln (5.11., 14–16 Uhr). Kostenlos, Anmeldung erforderlich.",
+"description": "Workshops in der Lernwerkstatt: Porzellanteller bemalen (3.11., 13–15 Uhr), Wolle mit Naturmaterialien färben (4.11., 13–15 Uhr), Schmetterlinge aus Märchenwolle basteln (5.11., 14–16 Uhr) für Kinder ab 6 Jahren sowie ein herbstlicher Kochkurs mit fränkischen Gerichten für Jugendliche ab der 5. Klasse (6.11., 10 Uhr). Kostenlos, Anmeldung erforderlich.",
 "price": "frei (Anmeldung erforderlich)",
 "url": "https://region-bayreuth.de/veranstaltung/ferienprogramm-lernwerkstatt-bemale-deinen-eigenen-teller-bayreuth-95448-01bgz0",
 "sources": [
@@ -6339,8 +6308,8 @@
 "date": "2026-11-08",
 "end_date": null,
 "time": "14:00",
-"venue": "Wilhelm-Leuschner-Gedenkstätte (Treffpunkt laut Führungsprogramm)",
-"organizer": "Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus",
+"venue": "Historisches Museum Bayreuth, Kirchplatz 4 (Treffpunkt)",
+"organizer": "Historisches Museum Bayreuth",
 "category": "Führung",
 "tags": [
 "NS-Zeit",
@@ -6350,7 +6319,7 @@
 "Stadtführung"
 ],
 "description": "Rundgang zu Orten, an denen sich Bayreuths Geschichte im Nationalsozialismus nachvollziehen lässt; etwas Gehfitness wird empfohlen.",
-"price": "12 € / erm. 6 €",
+"price": "2 €, ermäßigt 1 €",
 "url": "https://region-bayreuth.de/veranstaltung/taeterorte-bayreuth-95444-qwmvux",
 "sources": [
 "Bayreuth Tourismus (Führungsprogramm 2026)",
@@ -6358,7 +6327,7 @@
 "Bayreuth Tourismus",
 "Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus (Führungsprogramm 2026)"
 ],
-"house": "Stadtführungen",
+"house": "Historisches Museum",
 "id": "284f729fbc"
 },
 {
@@ -8139,6 +8108,31 @@
 "id": "d5f9a3c0e6"
 },
 {
+"title": "Die Bremer Stadtmusikanten",
+"subtitle": "Märchen nach den Brüdern Grimm",
+"date": "2026-11-21",
+"end_date": "2027-01-06",
+"time": "15:00",
+"venue": "Brandenburger Kulturstadl, Brandenburger Straße 35",
+"organizer": "Brandenburger Kulturstadl",
+"category": "Kinder & Familie",
+"tags": [
+"Märchen",
+"Kindertheater",
+"Grimm",
+"Familientheater",
+"Weihnachtsstück"
+],
+"description": "Märchen nach den Brüdern Grimm, inszeniert von Gordian Beck.",
+"price": null,
+"url": "https://www.kulturstadl.de/de/theater-stuecke/aktuell/Die-Bremer-Stadtmusikanten.php",
+"sources": [
+"Brandenburger Kulturstadl"
+],
+"house": "Brandenburger Kulturstadl",
+"id": "8bd2fc4e56"
+},
+{
 "title": "House am See – Wintergarten Edition",
 "subtitle": null,
 "date": "2026-11-21",
@@ -8289,31 +8283,6 @@
 ],
 "house": "Glashaus",
 "id": "3948256b5e"
-},
-{
-"title": "Die Bremer Stadtmusikanten",
-"subtitle": "Märchen nach den Brüdern Grimm",
-"date": "2026-11-21",
-"end_date": "2027-01-06",
-"time": null,
-"venue": "Brandenburger Kulturstadl, Brandenburger Straße 35",
-"organizer": "Brandenburger Kulturstadl",
-"category": "Kinder & Familie",
-"tags": [
-"Märchen",
-"Kindertheater",
-"Grimm",
-"Familientheater",
-"Weihnachtsstück"
-],
-"description": "Märchen nach den Brüdern Grimm, inszeniert von Gordian Beck.",
-"price": null,
-"url": "https://www.kulturstadl.de/de/theater-stuecke/vorschau/",
-"sources": [
-"Brandenburger Kulturstadl"
-],
-"house": "Brandenburger Kulturstadl",
-"id": "8bd2fc4e56"
 },
 {
 "title": "Vis-à-vis: Frankreich im Fokus – November",
@@ -8612,6 +8581,29 @@
 ],
 "house": "Liebesbier",
 "id": "cdd2df20bc"
+},
+{
+"title": "Anime: Puella Magi Madoka Magica – Walpurgisnacht: Rising",
+"subtitle": null,
+"date": "2026-11-24",
+"end_date": null,
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": null,
+"category": "Film",
+"tags": [
+"Anime",
+"Filmreihe",
+"OmU"
+],
+"description": "Anime-Abend im Cineplex mit dem neuen Kinofilm der Madoka-Magica-Reihe in Originalfassung mit Untertiteln.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "c649e9c44a"
 },
 {
 "title": "Kaffee, Klatsch & Kino: Der Spaziergang nach Syrakus",
@@ -9309,6 +9301,30 @@
 ],
 "house": "Becher Bräu",
 "id": "ef7481eae1"
+},
+{
+"title": "WAP Duality",
+"subtitle": "Dramatic Beats aus Berlin",
+"date": "2026-11-28",
+"end_date": null,
+"time": "20:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e. V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Konzert",
+"Elektronik",
+"Pop-Rock",
+"Duo"
+],
+"description": "Das Berliner Duo um Lana Mari (Piano, Keyboard) und Jonathan Boudevin verbindet Pop-Rock, Broken Beats, klassische Gesangselemente und Elektronik.",
+"price": "VVK 10 € (erm. 8 €), AK 12 € (erm. 10 €)",
+"url": "https://www.neuneinhalb.org/veranstaltungen/wap-duality/edate/2026-11-28",
+"sources": [
+"Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "59684d25ef"
 },
 {
 "title": "Markgräfliches Opernhaus: Welterbe & Museum – Führung in Deutscher Gebärdensprache",
@@ -10702,6 +10718,29 @@
 "id": "f86a8fa428"
 },
 {
+"title": "Alles Gute, Herr Horváth!",
+"subtitle": "Lesung zum 125. Geburtstag Ödön von Horváths",
+"date": "2026-12-09",
+"end_date": null,
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Theaterkeller, Röntgenstraße 2",
+"organizer": "Studiobühne Bayreuth",
+"category": "Literatur",
+"tags": [
+"Lesung",
+"Horváth",
+"Studiobühne"
+],
+"description": "Unter Leitung von Klaus Meile lesen sechs Ensemblemitglieder Auszüge aus Horváths „Sportmärchen“, ein Kapitel aus „Sechsunddreißig Stunden“ und eine Szene aus dem Volksstück „Zur schönen Aussicht“. Dauer etwa 60 Minuten.",
+"price": "Eintritt frei",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2161&collection_code=produktionen",
+"sources": [
+"Studiobühne Bayreuth"
+],
+"house": "Studiobühne",
+"id": "a9a19be19d"
+},
+{
 "title": "Jan van Weyde",
 "subtitle": "Immer Weyder…",
 "date": "2026-12-09",
@@ -10892,6 +10931,29 @@
 "id": "982c2d3eeb"
 },
 {
+"title": "Weihnachten neu gehört",
+"subtitle": null,
+"date": "2026-12-11",
+"end_date": null,
+"time": "19:00",
+"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": "Kirchengemeinde Bayreuth-Stadtkirche",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Advent",
+"Kirchenraum",
+"Musikprogramm"
+],
+"description": "Ein Team junger Musikerinnen und Musiker verbindet Radiohits, Klassik, neu arrangierte Weihnachtschoräle und aktuelle Worship-Songs mit kurzen Gedanken verschiedener Sprecher zur Weihnachtszeit.",
+"price": null,
+"url": "https://www.stadtkirche-bayreuth.de/xml/xmlscript.php?etID=8242825",
+"sources": [
+"Evang. Kirchengemeinde Bayreuth-Stadtkirche"
+],
+"house": "Kirchen",
+"id": "801613a29a"
+},
+{
 "title": "Bundespolizeiorchester München",
 "subtitle": "Benefizkonzert zugunsten der DKMS",
 "date": "2026-12-11",
@@ -10915,6 +10977,73 @@
 "id": "0ae9834845"
 },
 {
+"title": "Adventsprogramm in der Lernwerkstatt: Familienbacktag",
+"subtitle": null,
+"date": "2026-12-12",
+"end_date": null,
+"time": "13:00",
+"venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
+"organizer": "Bezirk Oberfranken",
+"category": "Kinder & Familie",
+"tags": [
+"Museum",
+"Advent",
+"Familie"
+],
+"description": "Familien backen gemeinsam Apfelkuchen im historischen Holzbackofen des Museums; danach Kuchen und Punsch in der Stube. Kostenlos, begrenzte Plätze, Anmeldung telefonisch beim Bezirk.",
+"price": "kostenfrei (Anmeldung erforderlich)",
+"url": "https://www.bezirk-oberfranken.de/lettenhof",
+"sources": [
+"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte"
+],
+"house": "Weitere Orte",
+"id": "acf89e7555"
+},
+{
+"title": "Kristin Rempt – Auftritt",
+"subtitle": null,
+"date": "2026-12-12",
+"end_date": null,
+"time": "14:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Live-Musik",
+"Christkindlesmarkt"
+],
+"description": "Die Sängerin Kristin Rempt tritt auf der Bühne des Christkindlesmarkts auf.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/auftritt-saengerin-kristin-rempt-bayreuth-95444-kxipcv",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "559d8d87f6"
+},
+{
+"title": "Lydia Franke – Bandauftritt",
+"subtitle": null,
+"date": "2026-12-12",
+"end_date": null,
+"time": "17:30",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Live-Musik",
+"Christkindlesmarkt"
+],
+"description": "Abendlicher Bandauftritt von Lydia Franke auf der Bühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/bandauftritt-lydia-franke-bayreuth-95444-ef5gop",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "a54ae4a214"
+},
+{
 "title": "Till Brönner & Trio – Christmas Live 2026",
 "subtitle": null,
 "date": "2026-12-12",
@@ -10936,6 +11065,52 @@
 ],
 "house": "Friedrichsforum",
 "id": "4bfad19f1d"
+},
+{
+"title": "DANS LE NOIR – 3 Jahre Jubiläum",
+"subtitle": "Konzert Thorofon, danach Party",
+"date": "2026-12-12",
+"end_date": null,
+"time": "21:00",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
+"organizer": "DAS ZENTRUM",
+"category": "Club & Party",
+"tags": [
+"Dark Wave",
+"Industrial",
+"Schwarze Szene"
+],
+"description": "Jubiläumsabend der Reihe für die schwarze Szene: Konzert von Thorofon, anschließend legen Dan Courtman und DJ Wurfgeschoss Industrial, Darkwave und Dark80s auf. Ab 18 Jahren; Spende für die Kriegskindernothilfe erbeten.",
+"price": "Eintritt frei (Spende erbeten)",
+"url": "https://www.das-zentrum.de/veranstaltung/dans-le-noir-3-jahre-jubilaeumsfeier/",
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "30e1e7b936"
+},
+{
+"title": "Strickkino: Drei Haselnüsse für Aschenbrödel",
+"subtitle": null,
+"date": "2026-12-13",
+"end_date": null,
+"time": "14:00",
+"venue": "Cineplex Bayreuth",
+"organizer": null,
+"category": "Film",
+"tags": [
+"Strickkino",
+"Märchenfilm",
+"Advent"
+],
+"description": "Vorstellung der Reihe „Strickfilm“, bei der im Kinosaal mitgebrachte Handarbeiten erlaubt sind; gezeigt wird der Märchenklassiker.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "4b6a70afb1"
 },
 {
 "title": "ALFONS – Klasse!",
@@ -10982,6 +11157,52 @@
 ],
 "house": "Becher Bräu",
 "id": "464d570a83"
+},
+{
+"title": "Städtisches Blasorchester Bayreuth",
+"subtitle": null,
+"date": "2026-12-14",
+"end_date": null,
+"time": "18:15",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Klassik",
+"tags": [
+"Blasmusik",
+"Advent",
+"Christkindlesmarkt"
+],
+"description": "Das Städtische Blasorchester spielt unter der Leitung von Peter König auf der Bühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/staedtisches-blasorchester-bayreuth-95444-pzuj6i",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "45368409a6"
+},
+{
+"title": "Dokufilmreihe „Wirklichkeiten“: Der Tod ist ein Arschloch",
+"subtitle": null,
+"date": "2026-12-14",
+"end_date": null,
+"time": "19:00",
+"venue": "Friedrichsforum – Kleiner Saal",
+"organizer": "Friedrichsforum",
+"category": "Film",
+"tags": [
+"Dokumentarfilm",
+"Tod",
+"Trauer"
+],
+"description": "Dokumentarfilm von Michael Schwarz (D 2025) über den Bestatter Eric Wrede und sein Team, die Verstorbene und Angehörige auf ungewöhnliche Weise begleiten.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261214-der-tod-ist-ein-arschloch",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "a5aa07ae53"
 }
 ]
 }
