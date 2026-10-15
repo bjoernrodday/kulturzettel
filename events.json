@@ -251,9 +251,37 @@
 {
 "name": "Studiobühne Bayreuth – Produktionen",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktionen/"
+},
+{
+"name": "Deutsch-Französische Gesellschaft Bayreuth",
+"url": "https://www.dfg-bayreuth.de/bevorstehende-veranstaltungen"
+},
+{
+"name": "Gesangverein Bayreuth-Meyernberg",
+"url": "https://www.gesangverein-bayreuth-meyernberg.de/GVMtermine.htm"
+},
+{
+"name": "Evangelisches Zentrum Bayreuth",
+"url": "https://www.ez-bayreuth.de/veranstaltungskalender"
+},
+{
+"name": "Unichor Bayreuth",
+"url": "https://unichor-bayreuth.de/termine/"
+},
+{
+"name": "Kunstmuseum Bayreuth – Aktuelle Ausstellungen",
+"url": "https://www.kunstmuseum-bayreuth.de/aktuelles/aktuelle-ausstellung"
+},
+{
+"name": "Jazzforum Bayreuth – Konzerte",
+"url": "https://www.jazz-bayreuth.de/konzerte/"
+},
+{
+"name": "Jean-Paul-Kulturverein – Termine",
+"url": "https://jean-paul-kulturverein.de/termine/"
 }
 ],
-"updated": "2026-10-14T06:48+02:00",
+"updated": "2026-10-15T07:34+02:00",
 "events": [
 {
 "title": "Dinos. Drachen. Drama.",
@@ -491,7 +519,7 @@
 "Festspielgeschichte",
 "Wahnfried"
 ],
-"description": "Öffentliche Führung durch Haus Wahnfried und die Dauerausstellung, sonntags um 14 Uhr (4., 11., 18., 25. Oktober und 1. November).",
+"description": "Öffentliche Führung durch Haus Wahnfried und die Dauerausstellung, sonntags um 14 Uhr (Oktober und November, u. a. 18. und 25.10., 1., 8., 15., 22. und 29.11.).",
 "price": "3 € zzgl. Eintritt (8–10 €)",
 "url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
 "sources": [
@@ -1156,31 +1184,6 @@
 "id": "05738f862d"
 },
 {
-"title": "Konzertfilm: Always Lalisa",
-"subtitle": null,
-"date": "2026-10-12",
-"end_date": "2026-10-14",
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Konzertfilm",
-"K-Pop",
-"Lisa",
-"Concerts in Cinema"
-],
-"description": "Konzertfilm über die Sängerin Lisa; Vorstellungen am 12. und 14. Oktober.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "4ab6859de1"
-},
-{
 "title": "Pub&Go Spieleabend",
 "subtitle": null,
 "date": "2026-10-13",
@@ -1252,29 +1255,6 @@
 "id": "232c812767"
 },
 {
-"title": "Erzählcafé",
-"subtitle": null,
-"date": "2026-10-14",
-"end_date": null,
-"time": "14:30",
-"venue": "RW21 Stadtbibliothek – Kreativwerkstatt (EG), Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Literatur",
-"tags": [
-"Erzählen",
-"Begegnung",
-"Bibliothek"
-],
-"description": "Offene Gesprächsrunde in der Stadtbibliothek, bei der Geschichten und Erinnerungen ausgetauscht werden.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/erzaehlcafe-bayreuth-95444-pjr6k9",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "2afd1fcbe3"
-},
-{
 "title": "(Medien)Geschichte(n) des Festspielhauses – Eine audiovisuelle Spurensuche",
 "subtitle": "Interaktive Ausstellung der Universität Bayreuth",
 "date": "2026-10-14",
@@ -1300,79 +1280,6 @@
 ],
 "house": "Universität",
 "id": "3dbebef8a3"
-},
-{
-"title": "Das Neue Schloss – entdecken, verstehen, führen",
-"subtitle": "vhs-Kurs I1055",
-"date": "2026-10-14",
-"end_date": null,
-"time": "18:30",
-"venue": "RW21 Volkshochschule – Seminarraum 4, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Neues Schloss",
-"Markgrafen",
-"Stadtgeschichte"
-],
-"description": "Einführung in Geschichte und Räume des Neuen Schlosses; derzeit nur Warteliste.",
-"price": null,
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Das-Neue-Schloss-Entdecken-verstehen-fuehren/I1055",
-"sources": [
-"vhs Bayreuth"
-],
-"house": "RW21",
-"id": "047d7d6761"
-},
-{
-"title": "Die lebendige Linie: Aktzeichnen",
-"subtitle": null,
-"date": "2026-10-14",
-"end_date": null,
-"time": "18:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V.",
-"category": "Ausstellung",
-"tags": [
-"Zeichnen",
-"Aktmodell",
-"Workshop",
-"Mitmachen",
-"Aktzeichnen"
-],
-"description": "Freies Zeichnen nach lebendem Modell mit wechselnden Kurzposen, ohne Anleitung; Material bitte selbst mitbringen und pünktlich bis 18:45 Uhr kommen.",
-"price": "5 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-35/edate/2026-10-14",
-"sources": [
-"Neuneinhalb",
-"Neuneinhalb e.V.",
-"Neuneinhalb e. V."
-],
-"house": "Neuneinhalb",
-"id": "711b2b3601"
-},
-{
-"title": "Wer spinnt denn da?",
-"subtitle": "Märchenabend mit Fiona Ahlborn",
-"date": "2026-10-14",
-"end_date": null,
-"time": "19:00",
-"venue": "Gemeindebücherei der Friedenskirche, Friedenstraße 1",
-"organizer": "Fiona Ahlborn mit der Gemeindebücherei der Friedenskirche",
-"category": "Literatur",
-"tags": [
-"Märchen",
-"Erzählkunst",
-"Erwachsene"
-],
-"description": "Die Erzählerin Fiona Ahlborn trägt Märchen über Spinnen, Weben und Lebensfäden vor. Empfohlen ab 16 Jahren, ohne Anmeldung.",
-"price": "7 €",
-"url": "https://ahlborn-erzaehlerin.de/veranstaltungen/",
-"sources": [
-"Fiona Ahlborn – Märchenerzählerin"
-],
-"house": "Kirchen",
-"id": "5d01db2d54"
 },
 {
 "title": "Tanzhaus im ZENTRUM",
@@ -3128,6 +3035,30 @@
 "id": "4375d5d5e9"
 },
 {
+"title": "Sepp Maier live",
+"subtitle": "Porträtshow mit Tobias Bücklein",
+"date": "2026-10-21",
+"end_date": null,
+"time": "19:30",
+"venue": "Evangelisches Zentrum Bayreuth",
+"organizer": null,
+"category": "Vortrag & Diskurs",
+"tags": [
+"Fußball",
+"Porträt",
+"Gespräch",
+"Anekdoten"
+],
+"description": "Der frühere Nationaltorwart Sepp Maier erzählt im Gespräch mit Tobias Bücklein aus seinem Leben, begleitet von Bildern und Anekdoten. Einlass ab 18:30 Uhr.",
+"price": null,
+"url": "https://www.ez-bayreuth.de/veranstaltungskalender",
+"sources": [
+"Evangelisches Zentrum Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "9b5e6208e7"
+},
+{
 "title": "Tastenlöwen: Eröffnungskonzert in Haus Wahnfried",
 "subtitle": "Dale Backus und Deirbhile Brennan, Klavier",
 "date": "2026-10-21",
@@ -3151,6 +3082,30 @@
 ],
 "house": "Richard Wagner Museum",
 "id": "59204c2db3"
+},
+{
+"title": "Digitale Souveränität – Wirtschaftliche, politische und gesellschaftliche Implikationen",
+"subtitle": "mit Digitalminister Dr. Fabian Mehring und BR-Journalist Fritz Espenlaub",
+"date": "2026-10-22",
+"end_date": null,
+"time": "10:00",
+"venue": "Friedrichsforum – Hofgartensaal",
+"organizer": "Förderverein der Wirtschaftsjunioren Bayreuth e.V.",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Digitalisierung",
+"Tech-Konzerne",
+"Gesellschaft",
+"Diskussion"
+],
+"description": "Veranstaltung zur Abhängigkeit von ausländischen Tech-Konzernen und zu den gesellschaftlichen und politischen Folgen. Es sprechen der bayerische Digitalminister Fabian Mehring und der Journalist Fritz Espenlaub; Einlass ab 9 Uhr.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261022-wirtschaftsjunioren",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "2abf697742"
 },
 {
 "title": "Iwalewahaus öffnet wieder",
@@ -3323,6 +3278,54 @@
 ],
 "house": "Das Zentrum",
 "id": "8310d90dc2"
+},
+{
+"title": "750 Elefanten ziehen in Malawi um",
+"subtitle": "Vortrag von Frank Weitzer",
+"date": "2026-10-23",
+"end_date": null,
+"time": "18:00",
+"venue": "Umweltschutz-Informationszentrum Lindenhof – Saal, Karolinenreuther Straße 58",
+"organizer": "Rettung bedrohter Wildtiere",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Afrika",
+"Artenschutz",
+"Elefanten",
+"Bildvortrag"
+],
+"description": "Frank Weitzer berichtet mit eigenen Aufnahmen von drei Aktionen in den Jahren 2016, 2017 und 2022, bei denen Elefanten in Familiengruppen zwischen Nationalparks in Malawi umgesiedelt wurden.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://region-bayreuth.de/veranstaltung/750-elefanten-ziehen-im-malawi-bayreuth-95448-ranr35",
+"sources": [
+"Rettung bedrohter Wildtiere (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "942d4d1f70"
+},
+{
+"title": "Kollektive Getreidespeicher in Südtunesien und Südmarokko",
+"subtitle": "Vortrag von Prof. Dr. Herbert Popp",
+"date": "2026-10-23",
+"end_date": null,
+"time": "18:00",
+"venue": "Schulstraße 5, Bayreuth",
+"organizer": "Deutsch-Französische Gesellschaft Bayreuth e.V.",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Maghreb",
+"Architektur",
+"Kulturerbe",
+"Vortrag"
+],
+"description": "Der Geograf Herbert Popp spricht über die gemeinschaftlichen Speicherburgen im Süden Tunesiens und Marokkos – zwischen Verfall, Denkmalpflege und Kulturtourismus. Dauer bis etwa 19:30 Uhr.",
+"price": null,
+"url": "https://www.dfg-bayreuth.de/details-registrierung/vortrag-prof-dr-herbert-popp-kollektive-getreidespeicher-in-sudtunesien-und-sudmarokko",
+"sources": [
+"Deutsch-Französische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "9154a60427"
 },
 {
 "title": "FrankenLAN",
@@ -3534,7 +3537,7 @@
 ],
 "description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie; zahlreiche Vorstellungen bis Ende Dezember (meist 20 Uhr, sonntags 17 Uhr).",
 "price": "frei",
-"url": "https://checkout.tickets4arts.de/studiobuhne-bayreuth-e-v/events/",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
 "sources": [
 "Studiobühne Bayreuth",
 "Studiobühne (tickets4arts)",
@@ -3920,6 +3923,31 @@
 "id": "3c31691f66"
 },
 {
+"title": "A. D. Trantenroth – Objekte und Gedanken aus dem Künstlernachlass",
+"subtitle": "Begleitprogramm im Kunstmuseum",
+"date": "2026-10-25",
+"end_date": "2027-02-28",
+"time": "10:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Skulptur",
+"Nachlass",
+"Oberfranken",
+"Kunstvermittlung",
+"Inklusion"
+],
+"description": "Erste umfassende Schau aus dem Nachlass des oberfränkischen Bildhauers Artur Dieter Trantenroth (1940–2019): Skulpturen, Objekte, Zeichnungen, Fotoserien und Archivmaterial in sieben Räumen. Geöffnet Di–So 10–17 Uhr.",
+"price": "frei bis 5 €",
+"url": "https://www.kunstmuseum-bayreuth.de/aktuelles/aktuelle-ausstellung",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "d9613e6864"
+},
+{
 "title": "Abenteuer Opernhaus – Führung hinter die Kulissen",
 "subtitle": "Familienführung für Kinder von 6–12 Jahren",
 "date": "2026-10-25",
@@ -4121,6 +4149,29 @@
 ],
 "house": "Richard Wagner Museum",
 "id": "3d7422da55"
+},
+{
+"title": "Sonntag im Museum – Kunst macht Spaß",
+"subtitle": null,
+"date": "2026-10-25",
+"end_date": "2026-12-20",
+"time": "16:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Workshop",
+"Malen",
+"Kunstvermittlung"
+],
+"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 25.10., 8.11., 22.11., 6.12. und 20.12.; Anmeldung unter 0921/7645310.",
+"price": "15 € pro Termin zzgl. Material",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "d5f714b86a"
 },
 {
 "title": "Vis-à-vis: Frankreich im Fokus – Oktober",
@@ -5681,6 +5732,29 @@
 "id": "e2c3783570"
 },
 {
+"title": "Kino Jenseits",
+"subtitle": "Thema: Kulinarik",
+"date": "2026-11-04",
+"end_date": null,
+"time": "20:15",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kunst- und Kulturhaus Neuneinhalb",
+"category": "Film",
+"tags": [
+"Arthouse",
+"Kino",
+"Kulinarik"
+],
+"description": "Arthouse-Filmabend im Neuneinhalb, diesmal zum Thema Kulinarik; der Eintritt ist frei.",
+"price": "Eintritt frei",
+"url": "https://www.neuneinhalb.org",
+"sources": [
+"Kunst- und Kulturhaus Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "0781f86541"
+},
+{
 "title": "Puder, Parfüm, Parasiten – Mode und Hygiene im Barock",
 "subtitle": "für Kinder von 7–11 Jahren",
 "date": "2026-11-05",
@@ -6016,7 +6090,7 @@
 ],
 "description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre. Termine im Zeitraum: 6., 14. und 28. November, 5. und 12. Dezember (20 Uhr) sowie 6. und 13. Dezember (17 Uhr).",
 "price": "15–45 €",
-"url": "https://dienaturbuehne.de/spielplan/",
+"url": "https://dienaturbuehne.de/produkt/cabaret-2026-11-06/",
 "sources": [
 "die naturbühne",
 "Stadt, Land, Leben (region-bayreuth.de)"
@@ -6046,6 +6120,30 @@
 ],
 "house": "Kino",
 "id": "6f5bc8a179"
+},
+{
+"title": "Auf der Spur der Eulen",
+"subtitle": "NAJU-Exkursion für Kinder und Jugendliche ab 8 Jahren",
+"date": "2026-11-07",
+"end_date": null,
+"time": "17:00",
+"venue": "Rudolf Steiner Haus Bayreuth, Zeppelinstraße 18 (Treffpunkt)",
+"organizer": "NAJU Bayreuth (Naturschutzjugend im LBV)",
+"category": "Kinder & Familie",
+"tags": [
+"Natur",
+"Eulen",
+"Exkursion",
+"Kinder"
+],
+"description": "Abendliche Naturerkundung für Kinder ab acht Jahren: Die Gruppe lernt heimische Eulenarten und ihre Rufe kennen und sucht nach ihren Spuren. Dauer bis etwa 19 Uhr.",
+"price": "2 €",
+"url": "https://familien-in-bayreuth.de/freizeit-kultur/events/detail/termin/naju-bayreuth-fuer-jugendliche-ab-8-jahre-auf-der-spur-der-eulen/",
+"sources": [
+"NAJU Bayreuth (via Familienbündnis Bayreuth)"
+],
+"house": "Stadtführungen",
+"id": "867648964b"
 },
 {
 "title": "Nacht der Klänge – ein Musikerlebnis für alle Sinne",
@@ -6631,6 +6729,29 @@
 "id": "934d233668"
 },
 {
+"title": "Fritz Bauer und der erste Frankfurter Auschwitz-Prozess 1963–1965",
+"subtitle": "Vortrag mit Ralf Oberndörfer",
+"date": "2026-11-10",
+"end_date": null,
+"time": "19:30",
+"venue": "Kunstmuseum Bayreuth – Historischer Sitzungssaal, Maximilianstraße 33",
+"organizer": "KEB Bayreuth – Hof – Kulmbach e.V.",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Zeitgeschichte",
+"NS-Aufarbeitung",
+"Justiz"
+],
+"description": "Ralf Oberndörfer spricht über den Juristen Fritz Bauer, der als hessischer Generalstaatsanwalt die Anklage im ersten Frankfurter Auschwitz-Prozess vorbereitete, und über die Bedeutung des Verfahrens für die Auseinandersetzung mit den NS-Verbrechen.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/zeitgeschichte-fritz-bauer-bayreuth-95444-hk36y6",
+"sources": [
+"KEB Bayreuth – Hof – Kulmbach (nur Stadt, Land, Leben)"
+],
+"house": "Kunstmuseum",
+"id": "e60c0b5aae"
+},
+{
 "title": "Royal Opera live im Kino: Carmen",
 "subtitle": "Übertragung aus dem Royal Opera House London",
 "date": "2026-11-10",
@@ -6655,6 +6776,30 @@
 ],
 "house": "Kino",
 "id": "467b19d623"
+},
+{
+"title": "Sübkültür: Sunday Morning Orchestra",
+"subtitle": null,
+"date": "2026-11-10",
+"end_date": null,
+"time": "20:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kunst- und Kulturhaus Neuneinhalb",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jazz",
+"Pop Noir",
+"Duo",
+"Kontrabass"
+],
+"description": "Das Duo Maleen Schulz-Kallenbach (Gesang) und Oliver Zoglauer (Kontrabass) spielt reduzierte Songs zwischen Lo-Fi-Jazz und Pop Noir, darunter Stücke ihres neuen Albums. Einlass 20 Uhr.",
+"price": "2 € plus Spenden",
+"url": "https://www.neuneinhalb.org",
+"sources": [
+"Kunst- und Kulturhaus Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "46aa640170"
 },
 {
 "title": "Erzählcafé",
@@ -6883,7 +7028,7 @@
 "title": "Konzertfilm: George Michael – The Faith Tour",
 "subtitle": null,
 "date": "2026-11-12",
-"end_date": "2026-11-15",
+"end_date": "2026-11-16",
 "time": "20:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -6894,7 +7039,7 @@
 "George Michael",
 "Concerts in Cinema"
 ],
-"description": "Konzertfilm zur „Faith“-Tour von George Michael.",
+"description": "Konzertfilm zur „Faith“-Tour von George Michael; Vorstellungen am Do 12.11. und Mo 16.11., jeweils 20 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -7590,7 +7735,7 @@
 ],
 "description": "Weihnachtliches Kinderstück nach dem Märchen; sonntags 15 Uhr (15.11., 29.11., 6.12. und weitere Termine im Dezember).",
 "price": null,
-"url": "https://checkout.tickets4arts.de/studiobuhne-bayreuth-e-v/events/",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2165",
 "sources": [
 "Studiobühne Bayreuth",
 "Studiobühne (tickets4arts)",
@@ -7721,7 +7866,7 @@
 ],
 "description": "Familienstück nach dem bekannten Märchen: Aschenbrödel findet drei Zaubernüsse und nimmt ihr Schicksal selbst in die Hand. Termine: 18. und 29. November (15 Uhr), 3. Dezember (10 Uhr), weitere bis 17. Dezember.",
 "price": "10–15 €",
-"url": "https://dienaturbuehne.de/spielplan/",
+"url": "https://dienaturbuehne.de/produkt/drei-nuesse-fuer-aschenbroedel-2026-11-18/",
 "sources": [
 "die naturbühne",
 "Stadt, Land, Leben (region-bayreuth.de)"
@@ -7782,6 +7927,29 @@
 ],
 "house": "RW21",
 "id": "0fef35a253"
+},
+{
+"title": "AfriKaleidoskop meets ARTE",
+"subtitle": "Zwei Reportagen aus der DR Kongo und dem Sudan mit Gespräch",
+"date": "2026-11-18",
+"end_date": null,
+"time": "19:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Exzellenzcluster Africa Multiple der Universität Bayreuth mit ARTE",
+"category": "Film",
+"tags": [
+"Dokumentarfilm",
+"Afrika",
+"Diskussion"
+],
+"description": "Gezeigt werden zwei ARTE-Reportagen: über eine Poetry-Slam-Bewegung in der DR Kongo und über Frauen im Krieg im Sudan. Danach beantwortet die Filmemacherin Laura Salm-Reifferscheit Fragen aus dem Publikum.",
+"price": "Eintritt frei",
+"url": "https://www.neuneinhalb.org",
+"sources": [
+"Kunst- und Kulturhaus Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "e4a1e442d5"
 },
 {
 "title": "Live-Show – Abenteuer Weltumrundung",
@@ -7904,6 +8072,29 @@
 "id": "f22ad12ca7"
 },
 {
+"title": "Schauvorlesung Materialwissenschaft",
+"subtitle": "Ritter Metall und Druide Schmiedus",
+"date": "2026-11-20",
+"end_date": null,
+"time": "18:30",
+"venue": "Universität Bayreuth – Hörsaal H32, Gebäude FAN B",
+"organizer": "Lehrstuhl Metallische Werkstoffe, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Wissenschaft",
+"Experimente",
+"Werkstoffe"
+],
+"description": "Inszenierte Experimentalvorlesung des Lehrstuhls Metallische Werkstoffe, die Materialwissenschaft in eine Rittergeschichte um Ritter Metall und den Druiden Schmiedus verpackt.",
+"price": null,
+"url": "https://www.metalle.uni-bayreuth.de/de/91-schauvorlesungen/index.php",
+"sources": [
+"Universität Bayreuth – Lehrstuhl Metallische Werkstoffe"
+],
+"house": "Universität",
+"id": "d340971ed1"
+},
+{
 "title": "Niels Gade Quartet",
 "subtitle": "Orkun Pala, Sophie Rau, Bennett Ortmann, Jordi Albelda Santamargarita",
 "date": "2026-11-20",
@@ -7985,30 +8176,6 @@
 ],
 "house": "Steingraeber Haus",
 "id": "ae59989941"
-},
-{
-"title": "Comedyflash – Die Stand-up-Comedy-Show",
-"subtitle": null,
-"date": "2026-11-20",
-"end_date": null,
-"time": "20:00",
-"venue": "Liebesbier (Maisel & Friends)",
-"organizer": null,
-"category": "Kabarett & Comedy",
-"tags": [
-"Stand-up",
-"Mixed Show",
-"Comedy"
-],
-"description": "Stand-up-Abend mit wechselnden Comedians und Moderation.",
-"price": "26,90 €",
-"url": "https://www.liebesbier.de/de/events/comedyflash-201126-5170/",
-"sources": [
-"Liebesbier / Maisel & Friends",
-"Liebesbier"
-],
-"house": "Liebesbier",
-"id": "c60098ce7a"
 },
 {
 "title": "Von Memphis nach Vegas",
@@ -8583,6 +8750,29 @@
 "id": "cdd2df20bc"
 },
 {
+"title": "Des Kaisers ganz neue Kleider",
+"subtitle": "Offene Probe des Labortheaters Bayreuth",
+"date": "2026-11-24",
+"end_date": null,
+"time": "20:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Labortheater Bayreuth / Kunst- und Kulturhaus Neuneinhalb",
+"category": "Theater",
+"tags": [
+"Forumtheater",
+"Offene Probe",
+"Mitmachen"
+],
+"description": "Das Labortheater Bayreuth zeigt eine Probe seines neuen Stücks, das nach den Methoden des Forumtheaters entsteht. Das Publikum kann zusehen, Vorschläge einbringen oder selbst mitspielen; Vorkenntnisse sind nicht nötig.",
+"price": "Eintritt frei",
+"url": "https://www.neuneinhalb.org",
+"sources": [
+"Kunst- und Kulturhaus Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "f59097f223"
+},
+{
 "title": "Anime: Puella Magi Madoka Magica – Walpurgisnacht: Rising",
 "subtitle": null,
 "date": "2026-11-24",
@@ -8725,6 +8915,29 @@
 ],
 "house": "Kino",
 "id": "cb1942f239"
+},
+{
+"title": "Theologische Gedanken zur Kunst",
+"subtitle": "zur Ausstellung A. D. Trantenroth",
+"date": "2026-11-26",
+"end_date": null,
+"time": "18:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Kunst",
+"Theologie",
+"Skulptur"
+],
+"description": "Dekan i. R. Hans Peetz betrachtet Werke aus dem Nachlass von A. D. Trantenroth aus theologischer Sicht.",
+"price": "Eintritt frei",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "70005f82dc"
 },
 {
 "title": "Beethoven! – Junge Meisterpianist:innen aus Nürnberg",
@@ -9102,7 +9315,7 @@
 ],
 "description": "Doppelkonzert mit Hi Mum und Nikita Curtis.",
 "price": "ab 9,27 €",
-"url": "https://www.eventim-light.com/de/a/621f2123c9be13326bef446c/e/6ab51f9cb7344a6e5c928b7d",
+"url": "https://www.neuneinhalb.org/veranstaltungen/hi-mum-nikita-curtis/edate/2026-11-27",
 "sources": [
 "Neuneinhalb Ticketshop (eventim-light)",
 "Neuneinhalb (Ticketshop)",
@@ -9422,6 +9635,29 @@
 ],
 "house": "Weitere Orte",
 "id": "6dabd4ccb6"
+},
+{
+"title": "Adventskonzert der Sängergruppe des Gesangvereins Meyernberg",
+"subtitle": null,
+"date": "2026-11-29",
+"end_date": null,
+"time": "16:00",
+"venue": "Kath. Kirche St. Hedwig, Bayreuth",
+"organizer": "Gesangverein Bayreuth-Meyernberg 1919",
+"category": "Klassik",
+"tags": [
+"Chor",
+"Advent",
+"Kirchenkonzert"
+],
+"description": "Die Sängergruppe des Meyernberger Gesangvereins singt zum ersten Advent in St. Hedwig.",
+"price": null,
+"url": "https://www.gesangverein-bayreuth-meyernberg.de/GVMtermine.htm",
+"sources": [
+"Gesangverein Bayreuth-Meyernberg"
+],
+"house": "Kirchen",
+"id": "5f1980f223"
 },
 {
 "title": "Tabaluga und Lilli",
@@ -9784,6 +10020,29 @@
 ],
 "house": "Weitere Orte",
 "id": "aeb34edce9"
+},
+{
+"title": "Plauderrunde: Pflanzen in der Adventszeit",
+"subtitle": "für Senior:innen",
+"date": "2026-12-02",
+"end_date": null,
+"time": "15:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth – Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Führung",
+"tags": [
+"Botanik",
+"Advent",
+"Senioren"
+],
+"description": "Barrierearmer Rundgang mit höchstens 45 Minuten Gehzeit, der Pflanzen der Adventszeit vorstellt und Raum für Gespräche lässt; Teil des Projekts „Lebenslanges Lernen im ÖBG“.",
+"price": "kostenfrei",
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261202-Aktion-Plaudern-Senioren-Adventspflanzen/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten der Universität Bayreuth"
+],
+"house": "Botanischer Garten",
+"id": "49124455cc"
 },
 {
 "title": "Bayreuther Stadtgespräche: Künstliche Intelligenz im Alltag",
@@ -10374,7 +10633,7 @@
 ],
 "description": "Bühnenfassung des Kriminalromans von Andrea Maria Schenkel.",
 "price": null,
-"url": "https://checkout.tickets4arts.de/studiobuhne-bayreuth-e-v/events/",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166",
 "sources": [
 "Studiobühne Bayreuth",
 "Studiobühne (tickets4arts)"
@@ -11113,6 +11372,29 @@
 "id": "4b6a70afb1"
 },
 {
+"title": "Adventskonzert des Gesangvereins Meyernberg",
+"subtitle": null,
+"date": "2026-12-13",
+"end_date": null,
+"time": "17:00",
+"venue": "Katharina-von-Bora-Kirche, Bayreuth-Meyernberg",
+"organizer": "Gesangverein Bayreuth-Meyernberg 1919",
+"category": "Klassik",
+"tags": [
+"Chor",
+"Advent",
+"Kirchenkonzert"
+],
+"description": "Adventliches Chorkonzert des Gesangvereins Bayreuth-Meyernberg am dritten Adventssonntag.",
+"price": null,
+"url": "https://www.gesangverein-bayreuth-meyernberg.de/GVMtermine.htm",
+"sources": [
+"Gesangverein Bayreuth-Meyernberg"
+],
+"house": "Kirchen",
+"id": "02d657ec86"
+},
+{
 "title": "ALFONS – Klasse!",
 "subtitle": null,
 "date": "2026-12-13",
@@ -11203,6 +11485,75 @@
 ],
 "house": "Friedrichsforum",
 "id": "a5aa07ae53"
+},
+{
+"title": "Unichor Bayreuth",
+"subtitle": "Weihnachtslieder auf der Aktionsbühne",
+"date": "2026-12-15",
+"end_date": null,
+"time": "18:30",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Unichor Bayreuth",
+"category": "Klassik",
+"tags": [
+"Chor",
+"Weihnachtslieder",
+"Christkindlesmarkt"
+],
+"description": "Der Unichor Bayreuth singt eine halbe Stunde lang traditionelle Weihnachtslieder auf der Bühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://unichor-bayreuth.de/termine/",
+"sources": [
+"Unichor Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "9f30643056"
+},
+{
+"title": "Wahre Verbrechen und absurde Fälle",
+"subtitle": "Philipp Möller & Dr. Tino Grosche – Blutspuren-Tour 2026",
+"date": "2026-12-15",
+"end_date": null,
+"time": "19:30",
+"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
+"organizer": null,
+"category": "Literatur",
+"tags": [
+"True Crime",
+"Lesung",
+"Bühnenshow"
+],
+"description": "Bühnenabend zu echten Kriminalfällen und kuriosen Gerichtsgeschichten, präsentiert von Philipp Möller und Tino Grosche.",
+"price": "ab 34,20 €",
+"url": "https://72.reservix.de/p/reservix/event/2412910",
+"sources": [
+"Reservix (Ticketshop)"
+],
+"house": "Das Zentrum",
+"id": "149b7cd5a5"
+},
+{
+"title": "Weihnachtskonzert des Orchestervereins Bayreuth",
+"subtitle": null,
+"date": "2026-12-15",
+"end_date": null,
+"time": null,
+"venue": "Stadtkirche Heilig Dreifaltigkeit",
+"organizer": "Orchesterverein Bayreuth",
+"category": "Klassik",
+"tags": [
+"Orchester",
+"Weihnachten",
+"Laienorchester"
+],
+"description": "Der Orchesterverein spielt festliche Musik zur Weihnachtszeit in der Stadtkirche. Programm und Uhrzeit sind noch nicht veröffentlicht.",
+"price": null,
+"url": "https://www.orchesterverein-bayreuth.org/konzerte",
+"sources": [
+"Orchesterverein Bayreuth"
+],
+"house": "Kirchen",
+"id": "3611e469ad"
 }
 ]
 }
