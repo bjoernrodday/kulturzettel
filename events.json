@@ -279,36 +279,30 @@
 {
 "name": "Jean-Paul-Kulturverein – Termine",
 "url": "https://jean-paul-kulturverein.de/termine/"
+},
+{
+"name": "Festival150",
+"url": "https://festival150.com/programm/"
+},
+{
+"name": "Iwalewahaus – Besuch",
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/besuch/"
+},
+{
+"name": "Kino ist Programm – Sonderveranstaltungen",
+"url": "https://kino-ist-programm.de/sonderveranstaltungen/"
+},
+{
+"name": "Schlosskirchenmusik – Konzerte",
+"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/konzerte/"
+},
+{
+"name": "Ev.-Luth. Dekanat Bayreuth",
+"url": "https://www.ev-luth-dekanat-bayreuth.de/veranstaltungen"
 }
 ],
-"updated": "2026-10-15T07:34+02:00",
+"updated": "2026-10-16T07:05+02:00",
 "events": [
-{
-"title": "Dinos. Drachen. Drama.",
-"subtitle": "Sonderausstellung zum Festspieljubiläum",
-"date": "2026-02-27",
-"end_date": "2026-10-15",
-"time": "10:00",
-"venue": "Urwelt-Museum Oberfranken, Kanzleistraße 1",
-"organizer": "Urwelt-Museum Oberfranken mit dem Kulturamt der Stadt Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Dinosaurier",
-"Drachenmythen",
-"Wagner",
-"Paläontologie",
-"Drachen"
-],
-"description": "Sonderausstellung zum Zusammenhang von Drachensagen und Dinosaurierfunden, mit historischen Illustrationen zu Wagners „Siegfried“. Letzte Tage bis 15. Oktober.",
-"price": "3,50–5 €",
-"url": "https://urwelt-museum.snsb.de/sonderausstellungen/",
-"sources": [
-"Urwelt-Museum Oberfranken",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Urwelt-Museum",
-"id": "140f370ee0"
-},
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
 "subtitle": null,
@@ -424,7 +418,7 @@
 ],
 "description": "127. Kabinettausstellung des Kunstvereins im ersten Obergeschoss des Alten Barockrathauses (Eingang Brautgasse).",
 "price": "frei",
-"url": "https://kunstverein-bayreuth.de/veranstaltungskalender-2026/",
+"url": "https://kunstverein-bayreuth.de/linda-maennel/",
 "sources": [
 "Kunstverein Bayreuth",
 "Stadt, Land, Leben (region-bayreuth.de)"
@@ -507,7 +501,7 @@
 "title": "Museumsführung im Richard Wagner Museum",
 "subtitle": "sonntags 14 Uhr",
 "date": "2026-10-04",
-"end_date": "2026-12-06",
+"end_date": "2026-12-20",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -519,7 +513,7 @@
 "Festspielgeschichte",
 "Wahnfried"
 ],
-"description": "Öffentliche Führung durch Haus Wahnfried und die Dauerausstellung, sonntags um 14 Uhr (Oktober und November, u. a. 18. und 25.10., 1., 8., 15., 22. und 29.11.).",
+"description": "Öffentliche Führung durch Haus Wahnfried und die Dauerausstellung, sonntags um 14 Uhr (u. a. 18. und 25.10., 1., 8., 15., 22. und 29.11., 6., 13. und 20.12.).",
 "price": "3 € zzgl. Eintritt (8–10 €)",
 "url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
 "sources": [
@@ -752,7 +746,7 @@
 "title": "Kuratorenführung im Richard Wagner Museum",
 "subtitle": "dienstags 14 Uhr",
 "date": "2026-10-06",
-"end_date": "2026-12-08",
+"end_date": "2026-12-22",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -764,7 +758,7 @@
 "Kurator",
 "dienstags"
 ],
-"description": "Führung mit dem Kuratorenteam des Museums, jeweils dienstags um 14 Uhr (Oktober und November bis 24.11.).",
+"description": "Führung mit dem Kuratorenteam durch die drei Häuser des Museums, jeweils dienstags um 14 Uhr (u. a. 20. und 27.10., 3., 10., 17. und 24.11., 1., 8., 15. und 22.12.).",
 "price": "11–13 €",
 "url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
 "sources": [
@@ -1393,7 +1387,7 @@
 "Kino",
 "Filmkunst"
 ],
-"description": "CineArt-Vorstellungen am Do 15.10. (17:30) und Di 20.10. (20:00, Originalfassung).",
+"description": "CineArt-Vorstellungen am So 18.10. (10:45) und Di 20.10. (20:00, Originalfassung).",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -1402,116 +1396,6 @@
 ],
 "house": "Kino",
 "id": "2bfc92b5a0"
-},
-{
-"title": "Der Schlossgarten von Thurnau",
-"subtitle": "Vortrag von Harald Stark",
-"date": "2026-10-15",
-"end_date": null,
-"time": "19:00",
-"venue": "Gasthaus Tierzuchtklause, Bayreuth",
-"organizer": "Frankenbund Gruppe Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Gartenkunst",
-"Franken",
-"Heimatgeschichte",
-"Gartengeschichte",
-"Frankenbund"
-],
-"description": "Der Kulmbacher Harald Stark berichtet über Geschichte und Gestaltung des Thurnauer Schlossgartens. Eintritt frei, Spenden erbeten.",
-"price": "frei (Spende)",
-"url": "https://frankenbundbayreuth.jimdofree.com/n%C3%A4chste-veranstaltungen/",
-"sources": [
-"Frankenbund Bayreuth",
-"Frankenbund e.V., Gruppe Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "fc8ccdaf09"
-},
-{
-"title": "Sarah Bosetti: Make Democracy Great Again!",
-"subtitle": "Make Democracy Great Again!",
-"date": "2026-10-15",
-"end_date": null,
-"time": "19:30",
-"venue": "DAS ZENTRUM",
-"organizer": "motion kommunikation",
-"category": "Kabarett & Comedy",
-"tags": [
-"Satire",
-"Politik",
-"Demokratie",
-"Politisches Kabarett"
-],
-"description": "Satirisches Bühnenprogramm der Autorin und Kabarettistin.",
-"price": "33,80 €",
-"url": "https://www.motion-kommunikation.de/event/sarah-bosetti-make-democracy-great-again/",
-"sources": [
-"motion kommunikation",
-"motion Kommunikation",
-"Motion Kommunikation"
-],
-"house": "Das Zentrum",
-"id": "dd80bc8abd"
-},
-{
-"title": "Ana Lucía: Gewinner (Vorpremiere)",
-"subtitle": "Vorpremiere",
-"date": "2026-10-15",
-"end_date": null,
-"time": "19:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kunst- und Kulturhaus Neuneinhalb",
-"category": "Kabarett & Comedy",
-"tags": [
-"Kabarett",
-"Solo",
-"Comedy",
-"Solo-Debüt",
-"Stand-up"
-],
-"description": "Erstes Soloprogramm der Kabarettistin über das Gewinnen; Termin vom 22.10. vorverlegt.",
-"price": "VVK 16 €/11 €, AK 18 €/14 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/ana-lucia-gewinner-vorpremiere/edate/2026-10-15",
-"sources": [
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb Ticketshop (eventim-light)",
-"Neuneinhalb",
-"Neuneinhalb e.V.",
-"Neuneinhalb e. V.",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"eventfinder.de"
-],
-"house": "Neuneinhalb",
-"id": "166802f88d"
-},
-{
-"title": "Bernd Stelter",
-"subtitle": "Reg' dich nicht auf. Gibt nur Falten!",
-"date": "2026-10-15",
-"end_date": null,
-"time": "20:00",
-"venue": "Friedrichsforum – Kleiner Saal",
-"organizer": "Friedrichsforum",
-"category": "Kabarett & Comedy",
-"tags": [
-"Comedy",
-"Kabarett",
-"Solo",
-"Alltag",
-"Tournee"
-],
-"description": "Der Komiker präsentiert sein Programm „Reg' dich nicht auf. Gibt nur Falten!“.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/261015-bernd-stelter",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth",
-"bayreuth4U Terminkalender"
-],
-"house": "Friedrichsforum",
-"id": "db88711731"
 },
 {
 "title": "Kult-Sneak",
@@ -1538,32 +1422,6 @@
 ],
 "house": "Kino",
 "id": "d95e833593"
-},
-{
-"title": "Mr Bison (ITA) + Crimson Roots",
-"subtitle": "Mr Bison (Italien), Crimson Roots (Nürnberg)",
-"date": "2026-10-15",
-"end_date": null,
-"time": "20:30",
-"venue": "Glashaus",
-"organizer": "Glashaus",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Stoner Rock",
-"Konzert",
-"Rock",
-"Stoner",
-"Psychedelic Rock"
-],
-"description": "Rockkonzert mit Mr Bison aus Italien und Crimson Roots aus Nürnberg.",
-"price": "7 € VVK, 9 € AK",
-"url": "https://www.glashaus.org/programm/mr-bison-crimson-roots",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "20820967a9"
 },
 {
 "title": "Führung: Auf den Spuren der Markgräfin Wilhelmine",
@@ -1670,6 +1528,29 @@
 ],
 "house": "Stadtführungen",
 "id": "d29914bc85"
+},
+{
+"title": "Offenes Magic Spielen",
+"subtitle": null,
+"date": "2026-10-16",
+"end_date": null,
+"time": "18:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Kartenspiel",
+"Magic",
+"Spieleabend"
+],
+"description": "Offener Abend für das Sammelkartenspiel Magic: The Gathering, 18 bis 23 Uhr im Haus des Spiels.",
+"price": null,
+"url": "https://wundersam-anders.de/haus-des-spiels/",
+"sources": [
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "35c175a6bd"
 },
 {
 "title": "DJ-Abende im Winterdorf",
@@ -2860,15 +2741,15 @@
 "date": "2026-10-20",
 "end_date": null,
 "time": "19:30",
-"venue": "DAS ZENTRUM",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
 "organizer": null,
 "category": "Pop, Rock & Jazz",
 "tags": [
 "Mitsingen",
 "Pop-Hits"
 ],
-"description": "Gemeinsames Singen bekannter Songs im großen Rudel.",
-"price": null,
+"description": "Gemeinsames Singen bekannter Songs im großen Rudel; Einlass 18:30 Uhr, Beginn 19:30 Uhr.",
+"price": "ab 15 € zzgl. Gebühr",
 "url": "https://tickets.rudelsingen.de/event/das-4-bayreuther-rudelsingen-de2ere",
 "sources": [
 "Rudelsingen (Ticketshop)"
@@ -3121,9 +3002,9 @@
 "Afrika",
 "Gegenwartskunst"
 ],
-"description": "Nach dem Umbau ist der Ausstellungsbereich des Iwalewahauses ab 22.10. wieder geöffnet; Titel der neuen Präsentation wurden noch nicht veröffentlicht. Bisherige Öffnungszeiten Di–Do 12–16 Uhr, Eintritt frei.",
+"description": "Nach dem Umbau ist der Ausstellungsbereich des Iwalewahauses ab 22.10. wieder geöffnet; zum Auftakt läuft vom 22. bis 24.10. das African Feminism Gathering, ab 27.10. ist die Ausstellung „Beyond the Sweet and Obvious: African Feminisms Refracted“ zu sehen. Öffnungszeiten Di–Do 12–16 Uhr, Eintritt frei.",
 "price": "frei",
-"url": "https://www.iwalewahaus.uni-bayreuth.de/de/besuch/index.html",
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/besuch/",
 "sources": [
 "Iwalewahaus (Universität Bayreuth)"
 ],
@@ -4191,7 +4072,7 @@
 ],
 "description": "Französische Filmreihe: „Die jüngste Tochter“ um 16 Uhr und „Die einfachen Dinge“ um 19 Uhr.",
 "price": "7 €, Kinder 4 €",
-"url": "https://kino-ist-programm.de/sonderveranstaltungen.html",
+"url": "https://kino-ist-programm.de/die-juengste-tochter-la-petite-derniere/",
 "sources": [
 "Kino ist Programm",
 "Kino ist Programm – Sonderveranstaltungen",
@@ -4224,6 +4105,30 @@
 ],
 "house": "Weitere Orte",
 "id": "b9635cb056"
+},
+{
+"title": "Stimmen gegen das Vergessen",
+"subtitle": "Konzertlesung mit der Klezmer-Band PASSAGE",
+"date": "2026-10-25",
+"end_date": null,
+"time": "17:00",
+"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": "Evang.-Luth. Kirchengemeinde Stadtkirche Bayreuth (Pfarrer Dr. Carsten Brall)",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Klezmer",
+"Lesung",
+"Erinnerung",
+"Kirche"
+],
+"description": "Die Nürnberger Band PASSAGE spielt Klezmer, dazu lesen Stefan Brandenburger und Nasim Konietzny Texte; Moderation Pfarrer Dr. Carsten Brall. Anschließend Ausstellungsmidissage mit Rundgang durch die Ausstellung in der Kirche.",
+"price": null,
+"url": "https://www.stadtkirche-bayreuth.de/xml/xmlscript.php?etID=8254267",
+"sources": [
+"Stadtkirche Bayreuth"
+],
+"house": "Kirchen",
+"id": "b4ab09e0aa"
 },
 {
 "title": "Notte Italiana – Pino Barone live",
@@ -4295,7 +4200,7 @@
 ],
 "description": "Abendvorstellung der Reihe „Vis-à-vis: Frankreich im Fokus“: Éric Besnards Komödie (F 2023) über einen gestressten Unternehmer, der auf einem abgelegenen Bergbauernhof strandet. Französisch mit Untertiteln.",
 "price": "7 €",
-"url": "https://kino-ist-programm.de/sonderveranstaltungen.html",
+"url": "https://kino-ist-programm.de/die-einfachen-dinge-les-choses-simples/",
 "sources": [
 "Kino ist Programm e.V."
 ],
@@ -4450,6 +4355,30 @@
 ],
 "house": "Kino",
 "id": "7350bb7921"
+},
+{
+"title": "Beyond the Sweet and Obvious: African Feminisms Refracted",
+"subtitle": "Ausstellung, kuratiert von Natasha A. Kelly",
+"date": "2026-10-27",
+"end_date": "2027-02-15",
+"time": "12:00",
+"venue": "Iwalewahaus, Wölfelstraße 2",
+"organizer": "Iwalewahaus, Universität Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Afrika",
+"Feminismus",
+"Gegenwartskunst",
+"Universität"
+],
+"description": "Ausstellung zu afrikanischen Feminismen nach dem Umbau des Ausstellungsbereichs; eröffnet im Rahmen des African Feminism Gathering. Geöffnet Di–Do 12–16 Uhr, Eintritt frei; Führungen nach Vereinbarung.",
+"price": "Eintritt frei",
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/besuch/",
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "36f742ccbb"
 },
 {
 "title": "Allgemeine Führung durch das Friedrichsforum",
@@ -4772,7 +4701,7 @@
 "Kino",
 "Filmkunst"
 ],
-"description": "CineArt-Vorstellungen am 29.10. (17:30), 1.11. (16:00) und 3.11. (20:00).",
+"description": "CineArt-Vorstellungen am Do 29.10. (17:30), So 1.11. (10:45) und Di 3.11. (20:00, Originalfassung).",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -4822,7 +4751,7 @@
 "Fantasy",
 "Marathon"
 ],
-"description": "Die drei Teile in den langen Fassungen (29.10., 31.10., 3.11.) und als Marathon am 8.11. ab 14 Uhr.",
+"description": "Die drei Teile in den langen Fassungen: Teil 1 am Do 29.10. (19:00/19:30) und Fr 30.10. (16:00, 4DX), Teil 2 am Sa 31.10. (16:00), Teil 3 am So 1.11. (16:00); Marathon der ganzen Trilogie am So 8.11. ab 11 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -5443,8 +5372,8 @@
 "Festival150"
 ],
 "description": "Vorführung der Dokumentation über Christoph Schlingensiefs Wiener Container-Aktion aus dem Jahr 2000.",
-"price": null,
-"url": "https://www.saalmitte.de",
+"price": "Eintritt frei",
+"url": "https://festival150.com/veranstaltung/auslaender-raus-schlingensiefs-container-doku-screening-bayreuth-95445-0e6qu4",
 "sources": [
 "Saalmitte",
 "Stadt, Land, Leben (region-bayreuth.de)"
@@ -5644,7 +5573,7 @@
 ],
 "description": "Mitgliederausstellung des Kunstvereins in der Ausstellungshalle im Erdgeschoss; Eröffnung am 4. November um 18 Uhr.",
 "price": null,
-"url": "https://kunstverein-bayreuth.de/veranstaltungskalender-2026/",
+"url": "https://kunstverein-bayreuth.de/kunst-im-herbst-2026/",
 "sources": [
 "Kunstverein Bayreuth"
 ],
@@ -5966,6 +5895,52 @@
 "id": "2925c8f944"
 },
 {
+"title": "Obdachlos in Bayreuth",
+"subtitle": "Filmvorführung und Gespräch",
+"date": "2026-11-06",
+"end_date": null,
+"time": "17:00",
+"venue": "Katharina-von-Bora-Kirche Bayreuth",
+"organizer": "Ev.-Luth. Kirchengemeinde (Dekanat Bayreuth)",
+"category": "Film",
+"tags": [
+"Dokumentarfilm",
+"Wohnungslosigkeit",
+"Gespräch"
+],
+"description": "Vorführung des Bayreuther Dokumentarfilms über Menschen ohne Wohnung in der Stadt, danach Gespräch; Dauer etwa eine Stunde.",
+"price": null,
+"url": "https://www.evangelische-termine.de/detail-bt?ID=8131686",
+"sources": [
+"Ev.-Luth. Dekanat Bayreuth (evangelische-termine.de)"
+],
+"house": "Kirchen",
+"id": "7bdbee1aae"
+},
+{
+"title": "Mach (K)ein Theater! – Werkschau",
+"subtitle": null,
+"date": "2026-11-06",
+"end_date": null,
+"time": "18:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb",
+"organizer": "Neuneinhalb e.V.",
+"category": "Theater",
+"tags": [
+"Jugendtheater",
+"Werkschau",
+"Workshop"
+],
+"description": "Jugendliche zwischen 12 und 16 Jahren zeigen, was sie im Theaterworkshop der Herbstferien unter Anleitung gemeinsam entwickelt haben. Eintritt frei.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/mach-k-ein-theater-werkschau-bayreuth-95445-tsdnbz",
+"sources": [
+"Neuneinhalb e.V. (nur Stadt, Land, Leben)"
+],
+"house": "Neuneinhalb",
+"id": "f18dca4537"
+},
+{
 "title": "Liebe, Macht und Untergang – Szenen aus Wagners „Ring“",
 "subtitle": "Szenen aus Richard Wagners „Der Ring des Nibelungen“ (vhs-Kurs I5203, 5 Abende)",
 "date": "2026-11-06",
@@ -6097,6 +6072,29 @@
 ],
 "house": "Kulturbühne Reichshof",
 "id": "9e19bbfebc"
+},
+{
+"title": "Planet Ritmo Vol. 3",
+"subtitle": "Electro-Nacht mit Tongranulat",
+"date": "2026-11-06",
+"end_date": null,
+"time": "22:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e.V. / Tongranulat",
+"category": "Club & Party",
+"tags": [
+"Electro",
+"Booty Bass",
+"DJ"
+],
+"description": "Clubnacht mit Electro, Booty Bass und Electro Funk; an den Decks MAD IGEL, Cufme, 1905 und YEN bis in den Morgen. Ab 18 Jahren.",
+"price": null,
+"url": "https://www.neuneinhalb.org/veranstaltungen/",
+"sources": [
+"Neuneinhalb e.V."
+],
+"house": "Neuneinhalb",
+"id": "bac266d100"
 },
 {
 "title": "Konzertfilm: Stray Kids World Tour <RUN IT> – Live Viewing",
@@ -6298,6 +6296,29 @@
 ],
 "house": "Weitere Orte",
 "id": "55ca96d633"
+},
+{
+"title": "Mayflower Madame",
+"subtitle": "Insight Tour",
+"date": "2026-11-07",
+"end_date": null,
+"time": null,
+"venue": "Das Zentrum",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Post-Punk",
+"Konzert",
+"Norwegen"
+],
+"description": "Die norwegische Band Mayflower Madame spielt düsteren Post-Punk mit Psychedelic-Einflüssen. Einlass laut Konzertportal 19 Uhr.",
+"price": null,
+"url": "https://www.songkick.com/concerts/43274589-mayflower-madame-at-das-zentrum",
+"sources": [
+"Hinweis: Songkick"
+],
+"house": "Das Zentrum",
+"id": "bf04038aa0"
 },
 {
 "title": "Pauline Viardot: Shooting-Star, It-Girl, Ikone",
@@ -7028,7 +7049,7 @@
 "title": "Konzertfilm: George Michael – The Faith Tour",
 "subtitle": null,
 "date": "2026-11-12",
-"end_date": "2026-11-16",
+"end_date": "2026-11-15",
 "time": "20:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -7039,7 +7060,7 @@
 "George Michael",
 "Concerts in Cinema"
 ],
-"description": "Konzertfilm zur „Faith“-Tour von George Michael; Vorstellungen am Do 12.11. und Mo 16.11., jeweils 20 Uhr.",
+"description": "Konzertfilm zur „Faith“-Tour von George Michael (OmU); Vorstellungen am Do 12.11. um 20 Uhr und So 15.11. um 18:15 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -8469,7 +8490,7 @@
 ],
 "description": "Französische Filmreihe: „Petite Maman“ um 16 Uhr und „Gelobt sei Gott“ um 19 Uhr.",
 "price": "7 €, Kinder 4 €",
-"url": "https://kino-ist-programm.de/sonderveranstaltungen.html",
+"url": "https://kino-ist-programm.de/petite-maman-als-wir-kinder-waren/",
 "sources": [
 "Kino ist Programm",
 "Kino ist Programm – Sonderveranstaltungen",
@@ -8570,7 +8591,7 @@
 ],
 "description": "Abendvorstellung der Reihe „Vis-à-vis: Frankreich im Fokus“: François Ozons Drama (F 2019) über Betroffene von Missbrauch in der Kirche, die gemeinsam an die Öffentlichkeit gehen. Französisch mit Untertiteln.",
 "price": "7 €",
-"url": "https://kino-ist-programm.de/sonderveranstaltungen.html",
+"url": "https://kino-ist-programm.de/gelobt-sei-gott-grace-a-dieu/",
 "sources": [
 "Kino ist Programm e.V."
 ],
@@ -9372,6 +9393,29 @@
 "id": "0c5bf9f363"
 },
 {
+"title": "Blut und Herz – mit Blick auf »De motu cordis« von Thomas von Aquin",
+"subtitle": "Vortrag von Prof. Dr. Bettina Pfannmüller",
+"date": "2026-11-28",
+"end_date": null,
+"time": "11:30",
+"venue": "Rudolf Steiner Haus, Zeppelinstraße 18",
+"organizer": "Anthroposophische Gesellschaft Bayreuth (Medizinisch-Pharmazeutische Arbeitsgruppe)",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Medizin",
+"Philosophie",
+"Anthroposophie"
+],
+"description": "Die Herzchirurgin Bettina Pfannmüller spricht über Blut und Herz und bezieht sich dabei auf eine Schrift des Thomas von Aquin; Teil des Vortragswochenendes nach dem Vorabendvortrag „Blut ist ein besonderer Saft“.",
+"price": "Unkostenbeitrag",
+"url": "https://anthroposophie-bayreuth.de/?page_id=3880",
+"sources": [
+"Anthroposophische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "1dccb925bd"
+},
+{
 "title": "Band Herzblatt-Musik",
 "subtitle": null,
 "date": "2026-11-28",
@@ -9580,7 +9624,7 @@
 ],
 "description": "128. Kabinettausstellung des Kunstvereins; Eröffnung am Sonntag, 29. November, um 11 Uhr.",
 "price": null,
-"url": "https://kunstverein-bayreuth.de/veranstaltungskalender-2026/",
+"url": "https://kunstverein-bayreuth.de/sample-page/veranstaltungskalender-2026/",
 "sources": [
 "Kunstverein Bayreuth"
 ],
@@ -11462,6 +11506,29 @@
 ],
 "house": "Weitere Orte",
 "id": "45368409a6"
+},
+{
+"title": "Lesung zu Weihnachten",
+"subtitle": "Leitung: Sylvia Raab",
+"date": "2026-12-14",
+"end_date": null,
+"time": "19:00",
+"venue": "Rudolf Steiner Haus, Zeppelinstraße 18",
+"organizer": "Anthroposophische Gesellschaft Bayreuth",
+"category": "Literatur",
+"tags": [
+"Lesung",
+"Weihnachten",
+"Advent"
+],
+"description": "Vorweihnachtliche Lesung im Rudolf Steiner Haus unter der Leitung von Sylvia Raab.",
+"price": "Unkostenbeitrag",
+"url": "https://anthroposophie-bayreuth.de/?page_id=3880",
+"sources": [
+"Anthroposophische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "91c886f616"
 },
 {
 "title": "Dokufilmreihe „Wirklichkeiten“: Der Tod ist ein Arschloch",
