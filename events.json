@@ -299,9 +299,29 @@
 {
 "name": "Ev.-Luth. Dekanat Bayreuth",
 "url": "https://www.ev-luth-dekanat-bayreuth.de/veranstaltungen"
+},
+{
+"name": "DAS ZENTRUM (Programm)",
+"url": "https://www.das-zentrum.de/veranstaltungen/"
+},
+{
+"name": "Kunstmuseum Bayreuth – Begleitprogramm Trantenroth",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf"
+},
+{
+"name": "wundersam anders – Kalender",
+"url": "https://wundersam-anders.de/kalender/"
+},
+{
+"name": "Kino ist Programm – Termine zum Vormerken",
+"url": "https://kino-ist-programm.de/termine-zum-vormerken/"
+},
+{
+"name": "Kultur im Becher (okticket)",
+"url": "https://okticket.de/tickets-kultur-im-becher-g105?event_group_id=105&cookiecheck=true"
 }
 ],
-"updated": "2026-10-16T07:05+02:00",
+"updated": "2026-10-17T06:45+02:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -427,30 +447,6 @@
 "id": "6eefdca90e"
 },
 {
-"title": "Historische Stadtführung",
-"subtitle": null,
-"date": "2026-10-03",
-"end_date": "2026-10-31",
-"time": "10:30",
-"venue": "Tourist-Information Bayreuth (Treffpunkt)",
-"organizer": "Touristinformation Bayreuth",
-"category": "Führung",
-"tags": [
-"Stadtgeschichte",
-"täglich"
-],
-"description": "Klassischer Rundgang durch die Altstadt mit Gästeführer:innen; im Oktober täglich um 10:30 Uhr, an vielen Tagen (meist Freitag bis Sonntag) zusätzlich um 14 Uhr.",
-"price": "6–12 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/historischer-stadtrundgang/",
-"sources": [
-"Bayreuth Marketing & Tourismus",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"Bayreuth Tourismus"
-],
-"house": "Stadtführungen",
-"id": "1c8160ab2d"
-},
-{
 "title": "Festspielhaus-Führung",
 "subtitle": null,
 "date": "2026-10-04",
@@ -571,28 +567,6 @@
 ],
 "house": "Weitere Orte",
 "id": "47f4cc1ff6"
-},
-{
-"title": "gegenklang",
-"subtitle": "Malerei und Objekte von Harriet Schmid",
-"date": "2026-10-04",
-"end_date": "2026-10-25",
-"time": null,
-"venue": "Ökologisch-Botanischer Garten – Ausstellungsraum",
-"organizer": null,
-"category": "Ausstellung",
-"tags": [
-"Malerei",
-"Objekte"
-],
-"description": "Malerei und Objekte von Harriet Schmid im Ausstellungsraum des Botanischen Gartens der Universität.",
-"price": null,
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20260802-Vernissage-HarrietSchmid/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Uni Bayreuth"
-],
-"house": "Botanischer Garten",
-"id": "58e0d9261b"
 },
 {
 "title": "Historischer Stadtrundgang",
@@ -1424,83 +1398,6 @@
 "id": "d95e833593"
 },
 {
-"title": "Führung: Auf den Spuren der Markgräfin Wilhelmine",
-"subtitle": null,
-"date": "2026-10-16",
-"end_date": null,
-"time": "16:00",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Wilhelmine",
-"Barock",
-"Stadtführung"
-],
-"description": "Themenführung zu Bauten und Orten, die Markgräfin Wilhelmine in Bayreuth geprägt hat.",
-"price": "6–12 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/auf-den-spuren-wilhelmines/",
-"sources": [
-"Bayreuth Tourismus",
-"Bayreuth Marketing & Tourismus",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Stadtführungen",
-"id": "3530eff511"
-},
-{
-"title": "Vom Acker in die Tüte – wie Deutschland seinen Zucker produziert",
-"subtitle": null,
-"date": "2026-10-16",
-"end_date": null,
-"time": "17:00",
-"venue": "RW21 Volkshochschule – Seminarraum 1, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Landwirtschaft",
-"Zucker",
-"Nachhaltigkeit"
-],
-"description": "Vortrag über Anbau, Ernte und industrielle Verarbeitung der Zuckerrübe, mit Blick darauf, warum in Oberfranken kaum Rüben wachsen. Anmeldung über die vhs.",
-"price": "7,80 €",
-"url": "https://www.vhs-bayreuth.de/programm/bildung-fuer-nachhaltige-entwicklung-bne/kurs/Vom-Acker-in-die-Tuete-Wie-Deutschland-seinen-Zucker-produziert/I1502#inhalt",
-"sources": [
-"vhs Bayreuth"
-],
-"house": "RW21",
-"id": "5b0964cd9f"
-},
-{
-"title": "Colette – eine faszinierende Schriftstellerin",
-"subtitle": "Vortrag und Lesung im RW21-Leseherbst",
-"date": "2026-10-16",
-"end_date": null,
-"time": "17:00",
-"venue": "RW21 Volkshochschule – Seminarraum 5, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Literatur",
-"tags": [
-"Leseherbst",
-"Vortrag",
-"Lesung",
-"Frankreich",
-"Schriftstellerin"
-],
-"description": "Melanie Vogt stellt Leben und Werk der französischen Autorin Colette in Vortrag und Lesung vor. Anmeldung über die VHS.",
-"price": "7,50 €",
-"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Colette-eine-faszinierende-Schriftstellerin-Vortrag-Lesung/I6004",
-"sources": [
-"RW21 Leseherbst / vhs Bayreuth",
-"vhs Bayreuth",
-"RW21 Stadtbibliothek Bayreuth",
-"RW21 Stadtbibliothek",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "RW21",
-"id": "8d5235e2ac"
-},
-{
 "title": "Führung durch das Festspielhaus „intensiv“",
 "subtitle": "Termine 16.10., 30.10., 13.11., 11.12.",
 "date": "2026-10-16",
@@ -1530,29 +1427,6 @@
 "id": "d29914bc85"
 },
 {
-"title": "Offenes Magic Spielen",
-"subtitle": null,
-"date": "2026-10-16",
-"end_date": null,
-"time": "18:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Kartenspiel",
-"Magic",
-"Spieleabend"
-],
-"description": "Offener Abend für das Sammelkartenspiel Magic: The Gathering, 18 bis 23 Uhr im Haus des Spiels.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "35c175a6bd"
-},
-{
 "title": "DJ-Abende im Winterdorf",
 "subtitle": "Dorf-Dienstag, Dorf-Mittwoch, Dorf-Fest und Dorf-Gaudi",
 "date": "2026-10-16",
@@ -1575,107 +1449,6 @@
 ],
 "house": "Winterdorf",
 "id": "ee1818c342"
-},
-{
-"title": "NeuBayreuth Reloaded – Festspiele der elektronischen Musik, Tag 1",
-"subtitle": "mit DJ Hell, SACID, No Merzy, Elektrovögel",
-"date": "2026-10-16",
-"end_date": null,
-"time": "19:00",
-"venue": "Richard Wagner Museum – Neubau",
-"organizer": "Jean Paul Kulturverein",
-"category": "Club & Party",
-"tags": [
-"Festival150",
-"Electronic",
-"ausverkauft",
-"Techno",
-"Elektronische Musik"
-],
-"description": "Internationale Acts und lokale Kollektive im Museumsneubau – mit DJ Hell, SACID, No Merzy und den Elektrovögeln.",
-"price": "ausverkauft",
-"url": "https://jean-paul-kulturverein.de/portfolio-items/neubayreuth-reloaded-mit-dj-hell/",
-"sources": [
-"Stadt, Land, Leben (region-bayreuth.de)",
-"Jean Paul Kulturverein (Ticketing concerticket)",
-"Jean Paul Kulturverein"
-],
-"house": "Richard Wagner Museum",
-"id": "193e9efed8"
-},
-{
-"title": "Blockflötenkonzert – von Antonio Vivaldi bis Louis Armstrong",
-"subtitle": "Benefizkonzert für das Albert-Schweitzer-Hospiz",
-"date": "2026-10-16",
-"end_date": null,
-"time": "19:00",
-"venue": "Katholische Kirche Heilig Geist",
-"organizer": "Albert-Schweitzer-Hospiz",
-"category": "Klassik",
-"tags": [
-"Benefiz",
-"Blockflöte"
-],
-"description": "Das Duo energico spielt Barock bis Jazz zugunsten des Albert-Schweitzer-Hospizes.",
-"price": null,
-"url": "https://www.hospiz-bayreuth.de/veranstaltung/benefizkonzert-des-duo-energico-fuer-das-hospiz/",
-"sources": [
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Kirchen",
-"id": "eef8187df5"
-},
-{
-"title": "Organum spectaculum: Bayreuther Orgelnacht",
-"subtitle": null,
-"date": "2026-10-16",
-"end_date": null,
-"time": "19:00",
-"venue": "St. Hedwig, Stadtkirche und Schlosskirche Bayreuth",
-"organizer": "Schlosskirchenmusik Bayreuth",
-"category": "Klassik",
-"tags": [
-"Orgel",
-"Kirchenmusik",
-"Eintritt frei"
-],
-"description": "Orgelnacht mit stündlichen Konzerten in mehreren Bayreuther Kirchen: Elizaveta Suslova in St. Hedwig (19 Uhr), Studierende der Hochschule für evangelische Kirchenmusik (20 Uhr), Michael Dorn und Yuka Koroyasu in der Stadtkirche (21 Uhr) sowie Sebastian Ruf mit Schlagwerker Johannes Kilian in der Schlosskirche (22 Uhr).",
-"price": "Eintritt frei",
-"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Bayreuther-Orgelnacht-2026.10.16/?instancedate=1792170000000",
-"sources": [
-"Schlosskirchenmusik Bayreuth"
-],
-"house": "Kirchen",
-"id": "ae9876558a"
-},
-{
-"title": "Stuttgarter Philharmoniker",
-"subtitle": "Dirigent Timur Zangiev, Violoncello Eldar Saparayev",
-"date": "2026-10-16",
-"end_date": null,
-"time": "19:30",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Kulturfreunde Bayreuth",
-"category": "Klassik",
-"tags": [
-"Orchester",
-"Kulturfreunde",
-"Cello",
-"Mozart",
-"Strawinsky"
-],
-"description": "Sinfoniekonzert der Kulturfreunde mit Werken von Mozart, Saint-Saëns und Strawinsky; Leitung Timur Zangiev, Solist Eldar Saparayev (Violoncello).",
-"price": "25–75 €",
-"url": "https://www.friedrichsforum.de/programm/kulturfreunde-stuttgarter-philharmoniker",
-"sources": [
-"Friedrichsforum",
-"Kulturfreunde Bayreuth",
-"Friedrichsforum Bayreuth",
-"Kulturfreunde Bayreuth / Friedrichsforum",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Friedrichsforum",
-"id": "ec341b36a4"
 },
 {
 "title": "Verdi-Wagner-Operngala",
@@ -1706,90 +1479,6 @@
 "id": "3658f65700"
 },
 {
-"title": "Karaoke",
-"subtitle": null,
-"date": "2026-10-16",
-"end_date": null,
-"time": "20:00",
-"venue": "Glashaus",
-"organizer": "Glashaus",
-"category": "Club & Party",
-"tags": [
-"Karaoke",
-"Mitsingen",
-"Campus"
-],
-"description": "Offener Karaokeabend.",
-"price": "4 €",
-"url": "https://www.glashaus.org/programm/karaoke-16",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "acf9d4947b"
-},
-{
-"title": "Simon & Garfunkel meets Classic",
-"subtitle": "Graceland mit Streichquartett",
-"date": "2026-10-16",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM",
-"organizer": "okticket – Das Zentrum",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Tribute",
-"Folk",
-"Folk-Pop",
-"Streichquartett",
-"Klassik"
-],
-"description": "Lieder von Simon & Garfunkel in Bearbeitung mit klassischen Instrumenten.",
-"price": "46 €",
-"url": "https://okticket.de/tickets-simon-garfunkel-meets-classic-bayreuth-das-zentrum-2026-10-16-e58503",
-"sources": [
-"okticket – Das Zentrum",
-"Das Zentrum (okticket)",
-"okticket (Das Zentrum)",
-"Das Zentrum (Ticketing okticket)",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"regioactive.de"
-],
-"house": "Das Zentrum",
-"id": "59f83d1bd5"
-},
-{
-"title": "Normal – Eine Besichtigung des Wahns",
-"subtitle": "mit Thomas Ebermann, Thorsten Mense und Flo Thamer",
-"date": "2026-10-16",
-"end_date": null,
-"time": "20:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kunst- und Kulturhaus Neuneinhalb",
-"category": "Theater",
-"tags": [
-"Schauspiel",
-"Lecture-Performance",
-"Gesellschaftskritik",
-"Lesung",
-"Performance"
-],
-"description": "Theaterabend im Neuneinhalb.",
-"price": "VVK 10 €/7 €, AK 12 €/9 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/normal-eine-besichtigung-des-wahns/edate/2026-10-16",
-"sources": [
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb Ticketshop (eventim-light)",
-"Neuneinhalb",
-"Neuneinhalb e.V.",
-"Neuneinhalb e. V.",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Neuneinhalb",
-"id": "6c92c049f1"
-},
-{
 "title": "Die Impro-Show!",
 "subtitle": "Mamaladnamala – Improvisationstheater",
 "date": "2026-10-16",
@@ -1817,28 +1506,6 @@
 ],
 "house": "Das Zentrum",
 "id": "ab3291b696"
-},
-{
-"title": "Friday Disco Night",
-"subtitle": null,
-"date": "2026-10-16",
-"end_date": null,
-"time": "21:00",
-"venue": "Tanzbar Bayreuth, Bernecker Straße 79",
-"organizer": "Tanzbar Bayreuth",
-"category": "Club & Party",
-"tags": [
-"Party",
-"Disco"
-],
-"description": "Disco-Abend zum Wochenendauftakt in der Tanzbar.",
-"price": null,
-"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "6e8b4b6e97"
 },
 {
 "title": "Kreatives Schreiben: Spiele mit Worten, Quelle der Inspiration",
@@ -2740,7 +2407,7 @@
 "subtitle": null,
 "date": "2026-10-20",
 "end_date": null,
-"time": "19:30",
+"time": "20:00",
 "venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
 "organizer": null,
 "category": "Pop, Rock & Jazz",
@@ -3136,29 +2803,6 @@
 ],
 "house": "Botanischer Garten",
 "id": "b294378250"
-},
-{
-"title": "Figurentheater: Die kleine Eule feiert Weihnachten",
-"subtitle": null,
-"date": "2026-10-23",
-"end_date": null,
-"time": "16:00",
-"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
-"organizer": null,
-"category": "Kinder & Familie",
-"tags": [
-"Figurentheater",
-"Kinder ab 3",
-"Bilderbuch"
-],
-"description": "Figurenspiel vor einem großen Bilderbuch für Kinder ab drei Jahren: Die kleine Eule soll vor Weihnachten umziehen und will ihre Freunde nicht verlassen. Dauer etwa 50 Minuten, mit Reimen zum Mitmachen.",
-"price": null,
-"url": "https://event.kurier.de/detail/30059",
-"sources": [
-"Hinweis: Kurier-Kalender"
-],
-"house": "Das Zentrum",
-"id": "8310d90dc2"
 },
 {
 "title": "750 Elefanten ziehen in Malawi um",
@@ -3708,6 +3352,29 @@
 "id": "3ac43ef133"
 },
 {
+"title": "34. Kneipenfestival im Zentrum: SnC, Distanzboys und Federhall",
+"subtitle": null,
+"date": "2026-10-24",
+"end_date": null,
+"time": "20:30",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
+"organizer": "DAS ZENTRUM",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Kneipenfestival",
+"Livemusik",
+"Bands"
+],
+"description": "Station des Bayreuther Kneipenfestivals auf der Kleinkunstbühne des Zentrums mit drei Live-Acts.",
+"price": "14,90 €",
+"url": "https://www.das-zentrum.de/veranstaltung/34-kneipenfestival-bayreuth/",
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "9eaabcd4cc"
+},
+{
 "title": "Bayreuther Kneipenfestival im Liebesbier",
 "subtitle": null,
 "date": "2026-10-24",
@@ -3880,6 +3547,29 @@
 ],
 "house": "Historisches Museum",
 "id": "0504a0de5c"
+},
+{
+"title": "Spaziergang durch die Ausstellung A. D. Trantenroth",
+"subtitle": "Zur Eröffnung",
+"date": "2026-10-25",
+"end_date": null,
+"time": "13:15",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Ausstellung",
+"Führung"
+],
+"description": "Gemeinsamer Rundgang durch die neue Ausstellung zum Nachlass von A. D. Trantenroth mit Anja Eichler, Felix Lorenz und Alexandra Kuhnke am Eröffnungstag.",
+"price": "frei",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "f435b1ed07"
 },
 {
 "title": "Industriegeschichte in Bayreuth",
@@ -4307,6 +3997,29 @@
 ],
 "house": "Weitere Orte",
 "id": "2220e71cd7"
+},
+{
+"title": "Sip and Play: Spieleabend in der Bar",
+"subtitle": null,
+"date": "2026-10-26",
+"end_date": null,
+"time": "18:00",
+"venue": "AMPERE Bar, Maximilianstraße 85",
+"organizer": "Offline Connection",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Kennenlernen",
+"Bar"
+],
+"description": "Sonderausgabe des Kennenlern-Spieleabends von Offline Connection: Brett- und Kartenspiele mit Fremden in der AMPERE Bar, Spiele werden vor Ort erklärt.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/sip-and-play-spieleabend-bar-bayreuth-95444-ldq23w",
+"sources": [
+"offline.connection (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "b707c1e59a"
 },
 {
 "title": "Workshop: Optimierung Band- und Bühnensound",
@@ -5017,6 +4730,29 @@
 "id": "6d3ebeb64d"
 },
 {
+"title": "Stadt.Land.Mord. – Ein Fall. Drei Perspektiven.",
+"subtitle": "True-Crime-Abend",
+"date": "2026-10-30",
+"end_date": null,
+"time": "20:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "NOFX Comms",
+"category": "Vortrag & Diskurs",
+"tags": [
+"True Crime",
+"Live-Show",
+"Justiz"
+],
+"description": "Die Journalistin Janina Kirsch und der Strafverteidiger Philip Müller rollen anhand von Urteilen und Recherchen einen realen Mordfall aus der Region Bayreuth auf; das Publikum kann Fragen stellen und abstimmen.",
+"price": "45 €",
+"url": "https://www.das-zentrum.de/veranstaltung/stadt-land-mord-ein-fall-drei-perspektiven/",
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "7093d9e959"
+},
+{
 "title": "„Wollen Sie wippen?“ – Hart auf Hart",
 "subtitle": "Hart auf Hart – Elisabeth Hart & Rhaban Straumann",
 "date": "2026-10-30",
@@ -5160,7 +4896,7 @@
 "subtitle": null,
 "date": "2026-10-31",
 "end_date": null,
-"time": "19:15",
+"time": "19:19",
 "venue": "DAS ZENTRUM – Kleinkunstbühne",
 "organizer": "AX-Clubbing",
 "category": "Club & Party",
@@ -5170,7 +4906,7 @@
 ],
 "description": "Techno-Klassiker zu Halloween, mit begrenzter Gästezahl und Kostümbonus.",
 "price": "6,66–8,99 €",
-"url": "https://axclubbing.ticket.io/",
+"url": "https://www.das-zentrum.de/veranstaltung/schmetterlinge-im-bauch-techno-classics/",
 "sources": [
 "Stadt, Land, Leben (region-bayreuth.de)"
 ],
@@ -5556,6 +5292,29 @@
 "id": "1e611fa1ee"
 },
 {
+"title": "Plauderrunde: Tee und Kaffee",
+"subtitle": "Rundgang für Seniorinnen und Senioren",
+"date": "2026-11-04",
+"end_date": null,
+"time": "15:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth – Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Führung",
+"tags": [
+"Botanik",
+"Tropenhaus",
+"Senioren"
+],
+"description": "Gemütlicher Rundgang durch die Tropengewächshäuser zu Teepflanze, Kaffeestrauch und weiteren Pflanzen für Heißgetränke und Gewürze, mit viel Zeit zum Austausch; höchstens 45 Minuten Gehzeit.",
+"price": "kostenfrei",
+"url": "https://region-bayreuth.de/veranstaltung/plauderrunde-tee-kaffee-bayreuth-95447-w5yge7",
+"sources": [
+"Ökologisch-Botanischer Garten (nur Stadt, Land, Leben)"
+],
+"house": "Botanischer Garten",
+"id": "9520247a69"
+},
+{
 "title": "Kunst im Herbst 2026",
 "subtitle": "Mitgliederausstellung des Kunstvereins Bayreuth",
 "date": "2026-11-04",
@@ -5740,7 +5499,7 @@
 "title": "CineArt: Alte Liebe",
 "subtitle": null,
 "date": "2026-11-05",
-"end_date": "2026-11-11",
+"end_date": "2026-11-10",
 "time": "17:30",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -5750,7 +5509,7 @@
 "Arthouse",
 "Komödie"
 ],
-"description": "Tragikomödie über ein seit Jahrzehnten verheiratetes Paar in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoseite: Do 05.11. 17:30, So 08.11. 10:45/11:00, Di 10.11. 20:00, Mi 11.11. 20:00 (Zeiten vorab prüfen).",
+"description": "Tragikomödie über ein seit Jahrzehnten verheiratetes Paar in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoseite: Do 05.11. 17:30, So 08.11. 10:45, Di 10.11. 20:00.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -6120,6 +5879,29 @@
 "id": "6f5bc8a179"
 },
 {
+"title": "Kurzbesuch zum Kennenlernen",
+"subtitle": "30-Minuten-Einblick in die Ausstellung A. D. Trantenroth",
+"date": "2026-11-07",
+"end_date": "2026-12-05",
+"time": "16:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Kurzführung",
+"Ausstellung"
+],
+"description": "Halbstündiger Einblick in die aktuelle Ausstellung mit der Kunsthistorikerin Ursula Leibinger-Hasibether, jeweils am ersten Samstag im Monat: 7.11. und 5.12., 16–16.30 Uhr.",
+"price": "2,50 €",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "918c199cbd"
+},
+{
 "title": "Auf der Spur der Eulen",
 "subtitle": "NAJU-Exkursion für Kinder und Jugendliche ab 8 Jahren",
 "date": "2026-11-07",
@@ -6210,9 +5992,9 @@
 "Konzertabend",
 "Konzert"
 ],
-"description": "Konzertabend der schwarzen Szene mit Left for Pleasure, Mayflower Madame und Isla Ola, danach Party mit den Geisterwelt Nights. Ab 18 Jahren.",
+"description": "Konzertabend für die schwarze Szene mit Left for Pleasure, Isla Ola und Mayflower Madame, anschließend Party mit Geisterwelt Nights.",
 "price": "28–40 €",
-"url": "https://www.eventim-light.com/de/a/5db8414800ee660001e9ffb8/e/6a1d92ecbd3fc96282248f6f?lang=de",
+"url": "https://www.das-zentrum.de/veranstaltung/herbstnebel-darkdisco/",
 "sources": [
 "Das Zentrum (Ticketshop)",
 "DAS ZENTRUM (Ticketshop)",
@@ -6296,29 +6078,6 @@
 ],
 "house": "Weitere Orte",
 "id": "55ca96d633"
-},
-{
-"title": "Mayflower Madame",
-"subtitle": "Insight Tour",
-"date": "2026-11-07",
-"end_date": null,
-"time": null,
-"venue": "Das Zentrum",
-"organizer": null,
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Post-Punk",
-"Konzert",
-"Norwegen"
-],
-"description": "Die norwegische Band Mayflower Madame spielt düsteren Post-Punk mit Psychedelic-Einflüssen. Einlass laut Konzertportal 19 Uhr.",
-"price": null,
-"url": "https://www.songkick.com/concerts/43274589-mayflower-madame-at-das-zentrum",
-"sources": [
-"Hinweis: Songkick"
-],
-"house": "Das Zentrum",
-"id": "bf04038aa0"
 },
 {
 "title": "Pauline Viardot: Shooting-Star, It-Girl, Ikone",
@@ -6448,29 +6207,6 @@
 ],
 "house": "Historisches Museum",
 "id": "284f729fbc"
-},
-{
-"title": "Öffentliche Führungen im Richard Wagner Museum",
-"subtitle": null,
-"date": "2026-11-08",
-"end_date": "2026-11-29",
-"time": "14:00",
-"venue": "Richard Wagner Museum / Haus Wahnfried",
-"organizer": "Richard Wagner Museum",
-"category": "Führung",
-"tags": [
-"Wagner",
-"Museum",
-"Haus Wahnfried"
-],
-"description": "Rundgänge durch die drei Häuser des Museums: sonntags als Überblicksführung (8., 15., 22. und 29. November), dienstags als Kuratorenführung (10., 17. und 24. November), jeweils 14 Uhr, etwa 90 Minuten.",
-"price": "11–13 €",
-"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
-"sources": [
-"Richard Wagner Museum"
-],
-"house": "Richard Wagner Museum",
-"id": "32f4df214a"
 },
 {
 "title": "Standesgemäß zechen und schmausen – Bayreuther Fayence",
@@ -6851,7 +6587,7 @@
 "date": "2026-11-11",
 "end_date": null,
 "time": "19:00",
-"venue": "Friedenskirche Bayreuth, Friedenstraße 1",
+"venue": "Gemeindebücherei der Friedenskirche, Friedenstraße 1",
 "organizer": "Fiona Ahlborn",
 "category": "Literatur",
 "tags": [
@@ -6861,9 +6597,9 @@
 ],
 "description": "Märchen, Legenden und alte Bräuche rund um den Martinstag, mit einem Blick auf traditionelles Gebäck und die Verbindung zu Weihnachten.",
 "price": "7 €",
-"url": "https://region-bayreuth.de/veranstaltung/st-martin-kein-kinderkram-bayreuth-95447-wt5h17",
+"url": "https://ahlborn-erzaehlerin.de/veranstaltungen/",
 "sources": [
-"Fiona Ahlborn (nur Stadt, Land, Leben)"
+"Fiona Ahlborn"
 ],
 "house": "Kirchen",
 "id": "41769bd756"
@@ -7118,6 +6854,29 @@
 ],
 "house": "Das Zentrum",
 "id": "2d5f851bbd"
+},
+{
+"title": "BarriereFREI – A. D. Trantenroth – inklusiv",
+"subtitle": null,
+"date": "2026-11-13",
+"end_date": null,
+"time": "14:30",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Inklusion",
+"Führung"
+],
+"description": "Inklusive Führung durch die Ausstellung zum Künstlernachlass von A. D. Trantenroth mit Philipp Schramm.",
+"price": "5 €",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "954ed4aeac"
 },
 {
 "title": "Mama, Papa, wie wird ein Klavier gemacht?",
@@ -7817,6 +7576,29 @@
 ],
 "house": "Becher Bräu",
 "id": "e124332cd6"
+},
+{
+"title": "Bildbetrachtungen",
+"subtitle": "In der Ausstellung A. D. Trantenroth",
+"date": "2026-11-17",
+"end_date": "2026-12-15",
+"time": "15:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Kunstgeschichte",
+"Führung"
+],
+"description": "Rundgang mit Ursula Leibinger-Hasibether, bei dem einzelne Werke genauer betrachtet und in ihren zeitlichen Zusammenhang gestellt werden; Termine 17.11. und 15.12., jeweils 15 Uhr.",
+"price": "5 €",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "c1f0d633ca"
 },
 {
 "title": "Ringlstetter & Zinner: Irgendwas mit Küche",
@@ -8627,6 +8409,29 @@
 "id": "5cfaf37080"
 },
 {
+"title": "Figurentheater: Die kleine Eule feiert Weihnachten",
+"subtitle": null,
+"date": "2026-11-23",
+"end_date": null,
+"time": "16:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": null,
+"category": "Kinder & Familie",
+"tags": [
+"Figurentheater",
+"Kinder ab 3",
+"Bilderbuch"
+],
+"description": "Figurenspiel vor einem großen Bilderbuch für Kinder ab drei Jahren: Die kleine Eule soll vor Weihnachten umziehen und will ihre Freunde nicht verlassen. Dauer etwa 50 Minuten, mit Reimen zum Mitmachen.",
+"price": "11 €",
+"url": "https://www.das-zentrum.de/veranstaltung/die-kleine-eule-feiert-weihnachten/",
+"sources": [
+"Hinweis: Kurier-Kalender"
+],
+"house": "Das Zentrum",
+"id": "37eda38f4c"
+},
+{
 "title": "Eröffnung des Christkindlesmarktes",
 "subtitle": null,
 "date": "2026-11-23",
@@ -8717,6 +8522,29 @@
 ],
 "house": "RW21",
 "id": "1d57fca671"
+},
+{
+"title": "Sagenlesung mit Dr. Adrian Roßner",
+"subtitle": null,
+"date": "2026-11-24",
+"end_date": null,
+"time": "19:00",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
+"organizer": "Katholische Erwachsenenbildung Bayreuth-Hof-Kulmbach",
+"category": "Literatur",
+"tags": [
+"Lesung",
+"Sagen",
+"Fichtelgebirge"
+],
+"description": "Der Heimatforscher Adrian Roßner trägt Sagen und Legenden aus dem Fichtelgebirge vor, angelehnt an die winterlichen Erzählabende der fränkischen Rockenstuben.",
+"price": "Eintritt frei",
+"url": "https://www.das-zentrum.de/veranstaltung/sagenlesung-mit-dr-adrian-rossner/",
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "4ce9b7f910"
 },
 {
 "title": "Tannöd – Ein Kriminalfall: Öffentliche Probe",
@@ -9605,6 +9433,29 @@
 ],
 "house": "Markgräfliches Opernhaus",
 "id": "e91a10250d"
+},
+{
+"title": "Öffentliche Führungen durch die Ausstellung A. D. Trantenroth",
+"subtitle": "Auch zweisprachig",
+"date": "2026-11-29",
+"end_date": "2026-12-20",
+"time": "11:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Führung",
+"mehrsprachig"
+],
+"description": "Führungen durch die Nachlass-Ausstellung: 29.11., 11 Uhr mit Dr. Beatrice Trost (5 €); 2.12., 15 Uhr Russisch/Deutsch; 19.12., 11 Uhr Ukrainisch/Deutsch und 20.12., 11 Uhr Französisch/Deutsch (frei).",
+"price": "5 € bzw. frei",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "9b82387a3a"
 },
 {
 "title": "Johannes Schreiber – Leergut oder der Geist der Flasche",
@@ -11615,12 +11466,127 @@
 ],
 "description": "Der Orchesterverein spielt festliche Musik zur Weihnachtszeit in der Stadtkirche. Programm und Uhrzeit sind noch nicht veröffentlicht.",
 "price": null,
-"url": "https://www.orchesterverein-bayreuth.org/konzerte",
+"url": "https://www.orchesterverein-bayreuth.org/events/weihnachtskonzert2026stadtkirche",
 "sources": [
 "Orchesterverein Bayreuth"
 ],
 "house": "Kirchen",
 "id": "3611e469ad"
+},
+{
+"title": "Chor der Alexander-von-Humboldt-Realschule",
+"subtitle": null,
+"date": "2026-12-16",
+"end_date": null,
+"time": "15:30",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Chor",
+"Weihnachtslieder",
+"Christkindlesmarkt"
+],
+"description": "Der Schulchor der Alexander-von-Humboldt-Realschule gestaltet ein weihnachtliches Programm auf der Aktionsbühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/auftritt-chors-alexander-von-humboldt-realschule-bayreuth-95444-7bmtf1",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "9263b0080e"
+},
+{
+"title": "Posaunenchor Saaser Blech",
+"subtitle": null,
+"date": "2026-12-16",
+"end_date": null,
+"time": "18:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Klassik",
+"tags": [
+"Bläser",
+"Advent",
+"Christkindlesmarkt"
+],
+"description": "Der junge Posaunenchor Saaser Blech spielt adventliche Bläsermusik auf der Bühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/posaunenchor-saaser-blech-bayreuth-95444-6zg3nn",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "6d33500258"
+},
+{
+"title": "Weihnachtslieder – Auftritt der Mittelschule Bayreuth-Altstadt",
+"subtitle": null,
+"date": "2026-12-17",
+"end_date": null,
+"time": "17:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Schule",
+"Weihnachtslieder",
+"Christkindlesmarkt"
+],
+"description": "Schülerinnen und Schüler der Mittelschule Bayreuth-Altstadt tragen Weihnachtslieder, kleine Geschichten und Gedichte auf der Aktionsbühne vor.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/weihnachtslieder-auftritt-mittelschule-bayreuth-altstadt-bayreuth-95444-g6ah5u",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "67459b7f2c"
+},
+{
+"title": "Keplerband – Johannes-Kepler-Realschule",
+"subtitle": null,
+"date": "2026-12-17",
+"end_date": null,
+"time": "17:30",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Schulband",
+"Live-Musik",
+"Christkindlesmarkt"
+],
+"description": "Die Schulband der Johannes-Kepler-Realschule spielt auf der Aktionsbühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/keplerband-johanes-kepler-realschule-bayreuth-95444-b8zzeb",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "97eb662346"
+},
+{
+"title": "Semino Rossi – Feliz Navidad Tour 2026",
+"subtitle": null,
+"date": "2026-12-17",
+"end_date": null,
+"time": "19:30",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Schlager",
+"Weihnachten",
+"Konzert"
+],
+"description": "Der argentinische Schlagersänger Semino Rossi gastiert mit seinem weihnachtlichen Tourprogramm im Großen Saal des Friedrichsforums.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/161217-semino-rossi-feliz-navidad",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "28b110ac75"
 }
 ]
 }
