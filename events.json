@@ -319,9 +319,29 @@
 {
 "name": "Kultur im Becher (okticket)",
 "url": "https://okticket.de/tickets-kultur-im-becher-g105?event_group_id=105&cookiecheck=true"
+},
+{
+"name": "Deutsch-Französische Gesellschaft Bayreuth (Startseite)",
+"url": "https://www.dfg-bayreuth.de/"
+},
+{
+"name": "UniKino der Fachschaft MPI",
+"url": "https://fsmpi.uni-bayreuth.de/en/uniCinema"
+},
+{
+"name": "HUEBNOTIX Tourdaten",
+"url": "https://www.huebnotix.de/tour/"
+},
+{
+"name": "Bayreuther Weihnachtscircus",
+"url": "https://bayreuther-weihnachtscircus.de/"
+},
+{
+"name": "Stadt Bayreuth – Rathaus Aktuell",
+"url": "https://www.bayreuth.de/rathaus-buergerservice/rathaus-aktuell/"
 }
 ],
-"updated": "2026-10-17T06:45+02:00",
+"updated": "2026-10-18T07:31+02:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -1451,34 +1471,6 @@
 "id": "ee1818c342"
 },
 {
-"title": "Verdi-Wagner-Operngala",
-"subtitle": "konzertante Aufführung",
-"date": "2026-10-16",
-"end_date": "2026-10-17",
-"time": "19:30",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "GTW Touristik GmbH",
-"category": "Oper & Musiktheater",
-"tags": [
-"Gala",
-"Verdi",
-"Wagner",
-"Operngala"
-],
-"description": "Konzertante Operngala mit Werken von Verdi und Wagner (16. und 17.10.).",
-"price": null,
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/veranst.asp",
-"sources": [
-"Bayerische Schlösserverwaltung",
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Markgräfliches Opernhaus",
-"Bayerische Schlösserverwaltung / Opera Classica Europa"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "3658f65700"
-},
-{
 "title": "Die Impro-Show!",
 "subtitle": "Mamaladnamala – Improvisationstheater",
 "date": "2026-10-16",
@@ -1508,61 +1500,6 @@
 "id": "ab3291b696"
 },
 {
-"title": "Kreatives Schreiben: Spiele mit Worten, Quelle der Inspiration",
-"subtitle": "RW21-Leseherbst",
-"date": "2026-10-17",
-"end_date": null,
-"time": "10:00",
-"venue": "RW21 Volkshochschule – Seminarraum 1, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Literatur",
-"tags": [
-"Leseherbst",
-"Schreibworkshop",
-"Schreibwerkstatt",
-"Erwachsene",
-"Kreatives Schreiben"
-],
-"description": "Dreistündiger Schreibworkshop mit Marc Heinz für Erwachsene; derzeit nur Warteliste.",
-"price": "frei",
-"url": "https://stadtbibliothek.bayreuth.de/der-rw21-leseherbst/",
-"sources": [
-"RW21 Leseherbst",
-"RW21 Stadtbibliothek",
-"RW21 Stadtbibliothek Bayreuth"
-],
-"house": "RW21",
-"id": "49b26f22c9"
-},
-{
-"title": "Mach (K)ein Theater!",
-"subtitle": "Infotermin für Jugendliche von 12 bis 16",
-"date": "2026-10-17",
-"end_date": null,
-"time": "10:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V.",
-"category": "Theater",
-"tags": [
-"Jugendtheater",
-"Workshop",
-"Herbstferien",
-"Theaterworkshop",
-"Jugend"
-],
-"description": "Theaterbegeisterte Jugendliche lernen sich kennen und probieren sich aus – als Vorbereitung auf einen Workshop in den Herbstferien, in dem ein eigenes Stück entsteht.",
-"price": "5 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/mach-kein-theater/edate/2026-10-17",
-"sources": [
-"Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V.",
-"Kunst- und Kulturhaus Neuneinhalb"
-],
-"house": "Neuneinhalb",
-"id": "b00596b551"
-},
-{
 "title": "Guided City Tour (English)",
 "subtitle": null,
 "date": "2026-10-17",
@@ -1584,88 +1521,6 @@
 ],
 "house": "Stadtführungen",
 "id": "a49e88c0d0"
-},
-{
-"title": "Marcel Benker – Live im Dorf",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "15:00",
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Livemusik",
-"Winterdorf",
-"Live-Musik",
-"Volksmusik",
-"Schlager"
-],
-"description": "Livemusik im Winterdorf, Eintritt frei.",
-"price": "frei",
-"url": "https://winterdorf-bayreuth.de/events/marcel-benker-3-846/",
-"sources": [
-"Bayreuther Winterdorf",
-"Winterdorf",
-"Marcel Benker (Künstler-Website)"
-],
-"house": "Winterdorf",
-"id": "8737c535b7"
-},
-{
-"title": "Bei Prinz und Prinzessin im barocken Schloss zu Gast",
-"subtitle": "Familienführung für Kinder von 5–6 Jahren",
-"date": "2026-10-17",
-"end_date": null,
-"time": "15:00",
-"venue": "Neues Schloss, Ludwigstraße 21",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Kinder & Familie",
-"tags": [
-"Kinder",
-"Neues Schloss",
-"Barock",
-"Kinderführung",
-"Familienführung"
-],
-"description": "Schlossführung für Kinder von etwa fünf bis sechs Jahren mit Begleitung; Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt Erwachsene",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=2&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Bayreuth-Wilhelmine (Führungen)"
-],
-"house": "Schlösser & Eremitage",
-"id": "729c8491db"
-},
-{
-"title": "„Wasser marsch!“ – Auf den Spuren der Wasserspiele des 18. Jahrhunderts",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "15:00",
-"venue": "Hofgarten Eremitage – Treffpunkt Kasse Altes Schloss",
-"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
-"category": "Führung",
-"tags": [
-"Eremitage",
-"Wasserspiele",
-"Garten",
-"Gartenkunst"
-],
-"description": "Rund einstündige Führung zu den historischen Wasserspielen und Grotten der Eremitage; Anmeldung erforderlich, bei Regen oder Sturm entfällt sie.",
-"price": "3 € zzgl. 3,50 € Grotteneintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=2&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
-],
-"house": "Schlösser & Eremitage",
-"id": "f6df443ef4"
 },
 {
 "title": "Familienführungen in Opernhaus und Neuem Schloss",
@@ -1716,198 +1571,6 @@
 "id": "09941ca852"
 },
 {
-"title": "Kino ist Programm: Wer weiß schon, was ein Leben ist? / Vaterland",
-"subtitle": "Programmkino mit Vorfilm",
-"date": "2026-10-17",
-"end_date": null,
-"time": "16:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm e.V.",
-"category": "Film",
-"tags": [
-"Programmkino",
-"Arthouse",
-"Paula Modersohn-Becker"
-],
-"description": "Um 16 Uhr ein Film über eine junge Schauspielerin auf den Spuren Paula Modersohn-Beckers von Worpswede bis Paris, um 18:30 Uhr „Vaterland“, jeweils mit Vorfilm.",
-"price": "7 € (Kinder 4 €)",
-"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
-"sources": [
-"Kino ist Programm"
-],
-"house": "Neuneinhalb",
-"id": "0d79466928"
-},
-{
-"title": "Neuigkeiten – Musik zum Hören und Entdecken",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "17:00",
-"venue": "Städtische Musikschule – Richard-Wagner-Saal",
-"organizer": "Städtische Musikschule Bayreuth",
-"category": "Klassik",
-"tags": [
-"Musikschule",
-"Vorspiel"
-],
-"description": "Schülerinnen und Schüler der Städtischen Musikschule stellen neu einstudierte Stücke vor.",
-"price": null,
-"url": "https://musikschule.bayreuth.de/veranstaltung/neuigkeiten-musik-zum-hoeren-und-entdecken/",
-"sources": [
-"Städtische Musikschule Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "f2dc3099e3"
-},
-{
-"title": "MET Opera live: Macbeth",
-"subtitle": "Live-Übertragung aus der Metropolitan Opera New York",
-"date": "2026-10-17",
-"end_date": null,
-"time": "18:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Oper & Musiktheater",
-"tags": [
-"Met Opera",
-"Verdi",
-"Live-Übertragung",
-"Oper",
-"Live im Kino"
-],
-"description": "Live-Übertragung von Verdis „Macbeth“ aus der Metropolitan Opera New York.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "9af78c022b"
-},
-{
-"title": "NeuBayreuth Reloaded – Festspiele der elektronischen Musik, Tag 2",
-"subtitle": "Nacht der Kollektive mit Tongranulat, Saalmitte, Neobloom, Lachsbecken",
-"date": "2026-10-17",
-"end_date": null,
-"time": "19:00",
-"venue": "Schokofabrik (Schoko e.V.), Gaußstraße 6",
-"organizer": "Jean Paul Kulturverein in Kooperation mit Schoko e.V.",
-"category": "Club & Party",
-"tags": [
-"Elektronische Musik",
-"Kollektive",
-"Subkultur"
-],
-"description": "Der zweite Festivaltag widmet sich der regionalen Elektro-Szene: Ab dem Abend gibt es eine Subkultur-Messe, ab 22 Uhr legen fünf Bayreuther Kollektive solo und im Wechsel auf.",
-"price": "8 € (Abendkasse)",
-"url": "https://jean-paul-kulturverein.de/",
-"sources": [
-"Jean Paul Kulturverein"
-],
-"house": "Clubs",
-"id": "8c30d939e3"
-},
-{
-"title": "Alex Hitchcock Quartet",
-"subtitle": "Clubkonzert",
-"date": "2026-10-17",
-"end_date": null,
-"time": "20:00",
-"venue": "Gaststätte Becher – Bechersaal",
-"organizer": "Jazzforum Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Jazz",
-"Konzert",
-"Saxofon",
-"London",
-"UK"
-],
-"description": "Clubkonzert mit dem Quartett des britischen Saxophonisten.",
-"price": "24 €, ermäßigt 12 €, unter 17 und Mitglieder frei",
-"url": "https://www.jazz-bayreuth.de/konzerte/alex-hitchcock-quartet/",
-"sources": [
-"Jazzforum Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Becher Bräu",
-"id": "c6556999f8"
-},
-{
-"title": "Ü40 Party Night",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "21:00",
-"venue": "Tanzbar Bayreuth, Bernecker Straße 79",
-"organizer": "Tanzbar Bayreuth",
-"category": "Club & Party",
-"tags": [
-"Party",
-"Ü40"
-],
-"description": "Partynacht für ein Publikum ab 40 Jahren.",
-"price": null,
-"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "c332a5642c"
-},
-{
-"title": "Fak.ING Abfeier",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "21:30",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Club & Party",
-"tags": [
-"Party",
-"Studierende",
-"Fachschaftsparty"
-],
-"description": "Party der Ingenieurwissenschaften-Fachschaft.",
-"price": "4 €",
-"url": "https://www.glashaus.org/programm/fak-ing-abfeier-2",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "2eac213fa6"
-},
-{
-"title": "Strictly Hip Hop mit DJ Dollar Bill",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": null,
-"time": "23:00",
-"venue": "FABRIK Bayreuth",
-"organizer": "FABRIK Bayreuth",
-"category": "Club & Party",
-"tags": [
-"Hip-Hop",
-"DJ",
-"Party",
-"Club",
-"Clubnacht"
-],
-"description": "Clubnacht mit Hip-Hop.",
-"price": null,
-"url": "https://fabrik-bayreuth.com/events",
-"sources": [
-"FABRIK Bayreuth",
-"Fabrik Bayreuth"
-],
-"house": "Clubs",
-"id": "4b14e7af75"
-},
-{
 "title": "Arachnotopia",
 "subtitle": "Faszinierende Welt der Spinnen & Insekten",
 "date": "2026-10-18",
@@ -1934,12 +1597,12 @@
 "id": "c968edf9ff"
 },
 {
-"title": "Ein Fest für alle Sinne",
-"subtitle": null,
+"title": "Ein Fest für die Sinne",
+"subtitle": "Erlebnistag für die ganze Familie",
 "date": "2026-10-18",
 "end_date": null,
 "time": "10:00",
-"venue": "DAS ZENTRUM",
+"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
 "organizer": null,
 "category": "Kinder & Familie",
 "tags": [
@@ -1948,12 +1611,12 @@
 ],
 "description": "Familientag im Jugendkulturzentrum.",
 "price": null,
-"url": "https://www.bayreuth4u.de/event/ein-fest-fuer-alle-sinne/",
+"url": "https://www.das-zentrum.de/veranstaltung/ein-fest-fuer-die-sinne-erlebnistag-fuer-die-ganze-familie/",
 "sources": [
-"Hinweis: bayreuth4U"
+"DAS ZENTRUM"
 ],
 "house": "Das Zentrum",
-"id": "6e152b5fff"
+"id": "0a70296d20"
 },
 {
 "title": "Polnische Filmreihe: Lalka (The Doll)",
@@ -3257,7 +2920,7 @@
 "subtitle": null,
 "date": "2026-10-24",
 "end_date": "2026-10-25",
-"time": "17:00",
+"time": "19:00",
 "venue": "Jean Paul Art Space",
 "organizer": "Jean Paul Kulturverein",
 "category": "Theater",
@@ -3266,9 +2929,9 @@
 "Wagner",
 "Freie Szene"
 ],
-"description": "Abschlussinszenierung des festspiel|artlab im Rahmen von Festival150: Über 25 freie Künstlerinnen und Künstler zeigen eine eigene Ring-Interpretation mit Schauspiel, Gesang und Orchester, an zwei Tagen mit je zwei Aufführungen (laut Stadt, Land, Leben ab Sa 17 Uhr und So 15 Uhr; Zeiten beim Veranstalter prüfen).",
-"price": null,
-"url": "https://jean-paul-kulturverein.de/",
+"description": "Abschlussinszenierung des festspiel|artlab im Rahmen von Festival150: Über 25 freie Künstlerinnen und Künstler zeigen eine eigene Ring-Interpretation mit Schauspiel, Gesang und Orchester auf selbstgebauter Bühne. Aufführungen Sa 24.10. um 19 und 21 Uhr, So 25.10. um 17 und 19 Uhr; davor jeweils das Kinder-Vorspiel „Wie der Kaschber dem Richard half, die Harmonie zu finden“ (Sa 17 Uhr, So 15 Uhr). Eintritt frei.",
+"price": "Eintritt frei",
+"url": "https://festival150.com/veranstaltung/ring-festspiel-gesamtkunstwerk-bayreuth-95444-oygpq2",
 "sources": [
 "Jean Paul Kulturverein"
 ],
@@ -3486,7 +3149,7 @@
 "Kunstvermittlung",
 "Inklusion"
 ],
-"description": "Erste umfassende Schau aus dem Nachlass des oberfränkischen Bildhauers Artur Dieter Trantenroth (1940–2019): Skulpturen, Objekte, Zeichnungen, Fotoserien und Archivmaterial in sieben Räumen. Geöffnet Di–So 10–17 Uhr.",
+"description": "Erste umfassende Schau aus dem Nachlass des oberfränkischen Bildhauers Artur Dieter Trantenroth (1940–2019): Skulpturen, Objekte, Zeichnungen, Fotoserien und Archivmaterial in sieben Räumen. Eröffnung am So 25.10. um 11 Uhr mit Grußwort von Bürgermeister Stefan Schuh und Einführung von Alexandra Kuhnke; danach geöffnet Di–So 10–17 Uhr.",
 "price": "frei bis 5 €",
 "url": "https://www.kunstmuseum-bayreuth.de/aktuelles/aktuelle-ausstellung",
 "sources": [
@@ -4299,8 +3962,8 @@
 "title": "Schreibkreis „Thoughts to Page“",
 "subtitle": null,
 "date": "2026-10-28",
-"end_date": null,
-"time": "19:15",
+"end_date": "2026-11-16",
+"time": "19:00",
 "venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
 "organizer": "Neuneinhalb e. V.",
 "category": "Literatur",
@@ -4311,7 +3974,7 @@
 "Schreibwerkstatt",
 "Workshop"
 ],
-"description": "Offener Schreibkreis für alle Erfahrungsstufen zum Austausch über eigene Texte; wer kein Thema mitbringt, erhält eine Schreibanregung. Eintritt frei.",
+"description": "Offener Schreibkreis für alle Erfahrungsstufen zum Austausch über eigene Texte; wer kein Thema mitbringt, erhält eine Schreibanregung. Termine: Mi 28.10., 19 Uhr, und Mo 16.11., 19.15 Uhr. Eintritt frei.",
 "price": "frei",
 "url": "https://www.neuneinhalb.org/veranstaltungen/schreibkreis-thoughts-to-page-7/edate/2026-10-28",
 "sources": [
@@ -4816,7 +4479,7 @@
 "date": "2026-10-30",
 "end_date": null,
 "time": "20:00",
-"venue": "Das Zentrum",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
 "organizer": "Das Zentrum",
 "category": "Pop, Rock & Jazz",
 "tags": [
@@ -4828,7 +4491,7 @@
 ],
 "description": "Die Songwriterin tritt mit Band im Zentrum auf und stellt ihre aktuelle Tour vor.",
 "price": "ab 16,52 €",
-"url": "https://www.eventim-light.com/de/a/5db8414800ee660001e9ffb8/e/6911bff2747cf2650bd624df",
+"url": "https://www.das-zentrum.de/veranstaltung/mina-richman-band-different-flavours-of-being-happy-tour/",
 "sources": [
 "Das Zentrum (Ticketshop)",
 "Das Zentrum (eigener Ticketshop eventim-light)",
@@ -5194,6 +4857,30 @@
 "id": "1d06c5a67e"
 },
 {
+"title": "Nachtwächterführung für Kinder (Ferienprogramm)",
+"subtitle": null,
+"date": "2026-11-03",
+"end_date": null,
+"time": "18:00",
+"venue": "Bayreuth, Innenstadt (Treffpunkt nach Anmeldung)",
+"organizer": "Stadt Bayreuth – Amt für Kinder, Jugend und Familie",
+"category": "Kinder & Familie",
+"tags": [
+"Führung",
+"Kinder",
+"Stadtgeschichte",
+"Herbstferien"
+],
+"description": "Abendlicher Rundgang durch die Innenstadt für Kinder von 8 bis 12 Jahren mit Geschichten, Anekdoten und Sagen aus Bayreuth, 18 bis 19:30 Uhr. Anmeldung ab 22. Oktober über das Ferienprogramm-Portal, Plätze begrenzt.",
+"price": "5 €",
+"url": "https://www.bayreuth.de/nachtwaechterfuehrung-fuer-kinder/",
+"sources": [
+"Stadt Bayreuth"
+],
+"house": "Stadtführungen",
+"id": "fc201b3f5a"
+},
+{
 "title": "Der leise Blick",
 "subtitle": "Fotografien von Friederike Lippert",
 "date": "2026-11-03",
@@ -5265,6 +4952,29 @@
 ],
 "house": "Kino",
 "id": "c722a479fe"
+},
+{
+"title": "UniKino der Fachschaft MPI",
+"subtitle": null,
+"date": "2026-11-03",
+"end_date": "2026-12-15",
+"time": null,
+"venue": "Universität Bayreuth – Hörsäle H17/H18",
+"organizer": "Fachschaft Mathematik/Physik/Informatik der Universität Bayreuth",
+"category": "Film",
+"tags": [
+"Kino",
+"Universität",
+"Eintritt frei"
+],
+"description": "Die Fachschaft MPI zeigt während der Vorlesungszeit alle zwei Wochen dienstags Filme, in H17 im Original mit englischen Untertiteln, in H18 auf Deutsch. Termine im Zeitraum: 3. und 17. November, 1. und 15. Dezember; das Filmprogramm steht nur im Uni-Netz.",
+"price": "frei",
+"url": "https://fsmpi.uni-bayreuth.de/en/uniCinema",
+"sources": [
+"Fachschaft MPI Universität Bayreuth"
+],
+"house": "Universität",
+"id": "2bf58d4462"
 },
 {
 "title": "Literatur im Gespräch: Autorinnen des 21. Jahrhunderts",
@@ -5355,7 +5065,7 @@
 "Nachhaltigkeit",
 "Gesprächsreihe"
 ],
-"description": "Gespräch zu zehn Jahren Fairtrade-Universität mit Susanne Tittlbach, Bürgermeister Stefan Schuh und Dieter Overath (Fairtrade Deutschland). Eintritt frei, ohne Anmeldung.",
+"description": "Gespräch zu zehn Jahren Fairtrade-Universität mit Übergabe der Jubiläumsurkunde durch Dieter Overath (ehem. Fairtrade Deutschland) und Diskussion mit Susanne Tittlbach, Bürgermeister Stefan Schuh und Fairtrade-Jugendbotschafterin Magdalena Herzing. Bereits ab 17 Uhr wird eine Fairtrade-Ausstellung eröffnet; das Gespräch beginnt um 18 Uhr. Eintritt frei.",
 "price": "frei",
 "url": "https://www.uni-bayreuth.de/bayreuther-stadtgespraeche",
 "sources": [
@@ -5784,7 +5494,7 @@
 "date": "2026-11-06",
 "end_date": null,
 "time": "20:00",
-"venue": "Das Zentrum",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
 "organizer": "DAS ZENTRUM",
 "category": "Pop, Rock & Jazz",
 "tags": [
@@ -5796,7 +5506,7 @@
 ],
 "description": "Konzert der Schweizer Sängerin To Athena.",
 "price": "21,69 €",
-"url": "https://www.eventim-light.com/de/a/5db8414800ee660001e9ffb8/e/69dca493bca63b14868829ee",
+"url": "https://www.das-zentrum.de/veranstaltung/to-athena-have-i-lost-my-magic-tour/",
 "sources": [
 "Das Zentrum (Ticketshop)",
 "Das Zentrum (Ticketing eventim-light)",
@@ -6580,6 +6290,29 @@
 ],
 "house": "RW21",
 "id": "2a08292ef9"
+},
+{
+"title": "Konzert zum Jubiläum der Städtepartnerschaft Bayreuth–Annecy",
+"subtitle": "Trio sous les Toits mit Mine Krause",
+"date": "2026-11-11",
+"end_date": null,
+"time": "18:00",
+"venue": "Königsallee 17, Bayreuth",
+"organizer": "Deutsch-Französische Gesellschaft Bayreuth e. V.",
+"category": "Klassik",
+"tags": [
+"Kammermusik",
+"Städtepartnerschaft",
+"Frankreich"
+],
+"description": "Zum 60-jährigen Bestehen der Partnerschaft mit Annecy spielt das deutsch-französische Trio sous les Toits aus Paris mit der Bayreuther Geigerin Mine Krause Werke von Louise Farrenc und Felix Mendelssohn Bartholdy. Getränke und Snacks bietet das Café blu.",
+"price": null,
+"url": "https://www.dfg-bayreuth.de/details-registrierung/konzert-zum-jubilaum-der-stadtepartnerschaft",
+"sources": [
+"Deutsch-Französische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "6d154116d3"
 },
 {
 "title": "St.-Martin – kein Kinderkram",
@@ -7667,7 +7400,7 @@
 "Wintermärchen",
 "Theater"
 ],
-"description": "Familienstück nach dem bekannten Märchen: Aschenbrödel findet drei Zaubernüsse und nimmt ihr Schicksal selbst in die Hand. Termine: 18. und 29. November (15 Uhr), 3. Dezember (10 Uhr), weitere bis 17. Dezember.",
+"description": "Familienstück nach dem bekannten Märchen: Aschenbrödel findet drei Zaubernüsse und nimmt ihr Schicksal selbst in die Hand. Termine: 18. und 29. November (15 Uhr), 3. und 6. Dezember (10 Uhr), 10. und 12. Dezember (15 Uhr), 17. Dezember (10 Uhr).",
 "price": "10–15 €",
 "url": "https://dienaturbuehne.de/produkt/drei-nuesse-fuer-aschenbroedel-2026-11-18/",
 "sources": [
@@ -8743,6 +8476,29 @@
 "id": "fff4a2c545"
 },
 {
+"title": "Hausführung im RW21",
+"subtitle": null,
+"date": "2026-11-26",
+"end_date": null,
+"time": "16:30",
+"venue": "RW21 Stadtbibliothek – Servicepoint (EG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Führung",
+"tags": [
+"Bibliothek",
+"Führung",
+"Medien"
+],
+"description": "Einstündige Führung durch das RW21 mit Blick hinter die Kulissen der Stadtbibliothek und Gelegenheit für Fragen an das Bibliotheksteam.",
+"price": null,
+"url": "https://stadtbibliothek.bayreuth.de/angebote/fuehrungen-beratung/",
+"sources": [
+"RW21 Stadtbibliothek"
+],
+"house": "RW21",
+"id": "372812e61d"
+},
+{
 "title": "CineArt: Heimsuchung – Eine Jahrhundertgeschichte",
 "subtitle": null,
 "date": "2026-11-26",
@@ -9110,7 +8866,7 @@
 ],
 "description": "Comedy-Wettstreit, bei dem mehrere Komiker um die Gunst des Publikums antreten.",
 "price": "13,41–18 €",
-"url": "https://www.eventim-light.com/de/a/5db8414800ee660001e9ffb8/e/69b7cdb590e1773b399b7f20",
+"url": "https://www.das-zentrum.de/veranstaltung/gtd-comedy-slam-der-groesste-comedy-slam-deutschlands/",
 "sources": [
 "Das Zentrum (Ticketshop)",
 "DAS ZENTRUM (Ticketshop)",
@@ -9126,7 +8882,7 @@
 "title": "Der Messias",
 "subtitle": null,
 "date": "2026-11-27",
-"end_date": "2026-12-11",
+"end_date": "2026-12-18",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -9136,7 +8892,7 @@
 "Weihnachten",
 "Zwei-Personen-Stück"
 ],
-"description": "Komödie, in der zwei Darsteller die ganze Weihnachtsgeschichte allein spielen wollen und dabei im Chaos landen. Termine im Zeitraum: 27. November, 4. und 11. Dezember, jeweils 20 Uhr.",
+"description": "Komödie, in der zwei Darsteller die ganze Weihnachtsgeschichte allein spielen wollen und dabei im Chaos landen. Termine im Zeitraum: 27. November, 4., 11. und 18. Dezember, jeweils 20 Uhr.",
 "price": "12–22 €",
 "url": "https://dienaturbuehne.de/produkt/der-messias-2026-11-27/",
 "sources": [
@@ -10467,7 +10223,7 @@
 "date": "2026-12-05",
 "end_date": null,
 "time": "19:30",
-"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
 "organizer": null,
 "category": "Pop, Rock & Jazz",
 "tags": [
@@ -10477,7 +10233,7 @@
 ],
 "description": "Achte Ausgabe der Konzertreihe „Save Your Tears“ im Zentrum. Das Programm ist noch nicht veröffentlicht, der Vorverkauf startet demnächst.",
 "price": null,
-"url": "https://www.eventim-light.com/de/a/5db8414800ee660001e9ffb8/e/6ac8aac3a47cb7abb7b1c4d8",
+"url": "https://www.das-zentrum.de/veranstaltung/save-your-tears-vol-8/",
 "sources": [
 "Das Zentrum (eventim-light)"
 ],
@@ -11433,7 +11189,7 @@
 "date": "2026-12-15",
 "end_date": null,
 "time": "19:30",
-"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
 "organizer": null,
 "category": "Literatur",
 "tags": [
@@ -11443,7 +11199,7 @@
 ],
 "description": "Bühnenabend zu echten Kriminalfällen und kuriosen Gerichtsgeschichten, präsentiert von Philipp Möller und Tino Grosche.",
 "price": "ab 34,20 €",
-"url": "https://72.reservix.de/p/reservix/event/2412910",
+"url": "https://www.das-zentrum.de/veranstaltung/true-crime-live-in-bayreuth-philipp-moeller/",
 "sources": [
 "Reservix (Ticketshop)"
 ],
@@ -11587,6 +11343,146 @@
 ],
 "house": "Friedrichsforum",
 "id": "28b110ac75"
+},
+{
+"title": "Bayreuther Weihnachtscircus 2026/27",
+"subtitle": null,
+"date": "2026-12-18",
+"end_date": "2027-01-03",
+"time": "16:00",
+"venue": "Volksfestplatz Bayreuth, Friedrich-Ebert-Straße (beheiztes Circuszelt)",
+"organizer": "Bayreuther Weihnachtscircus",
+"category": "Kinder & Familie",
+"tags": [
+"Zirkus",
+"Artistik",
+"Weihnachten",
+"Familie"
+],
+"description": "Zirkusprogramm im beheizten Zelt auf dem Volksfestplatz, Galapremiere am 18.12. um 16 Uhr; danach meist täglich 16 Uhr (nicht am 24.12.), am 26.12. und 2.1. auch 15 und 19 Uhr, Silvester-Gala 19 Uhr.",
+"price": "21–43 € (Premiere 15–25 €)",
+"url": "https://bayreuther-weihnachtscircus.de/",
+"sources": [
+"Bayreuther Weihnachtscircus"
+],
+"house": "Weitere Orte",
+"id": "eeac45e556"
+},
+{
+"title": "Fränkische Weihnacht",
+"subtitle": "Weihnachtsgeschichte in fränkischer Mundart",
+"date": "2026-12-18",
+"end_date": null,
+"time": "18:30",
+"venue": "Spitalkirche Bayreuth, Maximilianstraße 64",
+"organizer": "Heimat- und Volkstrachtenverein Alt Bayreuth e. V. und Hospitalstiftung Bayreuth",
+"category": "Literatur",
+"tags": [
+"Mundart",
+"Weihnachten",
+"Volksmusik",
+"Lesung"
+],
+"description": "Traditioneller Abend mit Musik der Musik- und Singgruppe Alt Bayreuth und des Bläserensembles „Wiesenttaler Blech“; Markus Kratzer liest die Weihnachtsgeschichte in fränkischer Mundart nach Hans Mehl. Eintritt frei, Spenden für den Erhalt der Kirche erbeten.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://region-bayreuth.de/veranstaltung/fraenkische-weihnacht-bayreuth-95444-uz71hb",
+"sources": [
+"Heimat- und Volkstrachtenverein Alt Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "475371f5b5"
+},
+{
+"title": "Vereinsabend: Von Maurenbrunnen und Weinbrunnen – Jakobsweg in Spanien (Teil 2)",
+"subtitle": "Bildvortrag von Michael Thein",
+"date": "2026-12-18",
+"end_date": null,
+"time": "19:00",
+"venue": "Evangelisches Gemeindehaus Bayreuth-Altstadt (Erlöserkirche), Dietrich-Bonhoeffer-Straße 1",
+"organizer": "Fichtelgebirgsverein, Ortsgruppe Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Reisebericht",
+"Jakobsweg",
+"Bildvortrag"
+],
+"description": "Zweiter Teil des Bildvortrags über den spanischen Jakobsweg, diesmal von Puente la Reina nach Logroño. Eintritt frei, Spenden erbeten.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://www.fichtelgebirgsverein-bayreuth.de/wanderungen",
+"sources": [
+"Fichtelgebirgsverein Bayreuth"
+],
+"house": "Kirchen",
+"id": "9c49f3a9ae"
+},
+{
+"title": "Die Verwirrungen des Zöglings Törless",
+"subtitle": "Premiere",
+"date": "2026-12-18",
+"end_date": null,
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
+"organizer": "Studiobühne Bayreuth e.V.",
+"category": "Theater",
+"tags": [
+"Musil",
+"Uraufführung",
+"Schauspiel"
+],
+"description": "Uraufführung von Uwe Hoppes Bühnenfassung nach Robert Musils Roman über Demütigung und Gewalt unter Internatsschülern. Weitere Vorstellung am 27. Dezember, 17 Uhr.",
+"price": null,
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2164&collection_code=produktionen",
+"sources": [
+"Studiobühne Bayreuth"
+],
+"house": "Studiobühne",
+"id": "a19786cfce"
+},
+{
+"title": "HUEBNOTIX & The Red River Horns",
+"subtitle": "The X-Mas Concerts",
+"date": "2026-12-18",
+"end_date": null,
+"time": "20:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "DAS ZENTRUM Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Weihnachtskonzert",
+"Coverband",
+"Bläser"
+],
+"description": "Die Bayreuther Band HUEBNOTIX spielt ihr traditionelles Weihnachtskonzert, diesmal verstärkt durch den Bläsersatz Red River Horns mit Trompete, Posaune und Saxophon. Ein weiteres Konzert folgt am 19. Dezember.",
+"price": "33,81 €",
+"url": "https://www.das-zentrum.de/veranstaltung/huebnotix-the-red-river-horns-the-x-mas-concerts/",
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "50007d4671"
+},
+{
+"title": "Auftritt des Sängers Michael Lane",
+"subtitle": null,
+"date": "2026-12-18",
+"end_date": null,
+"time": "20:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Christkindlesmarkt",
+"Gesang",
+"Live"
+],
+"description": "Der Sänger Michael Lane tritt eine Stunde lang auf der Aktionsbühne des Christkindlesmarkts auf.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/auftritt-saengers-michael-lane-bayreuth-95444-64q67l",
+"sources": [
+"Stadt Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "410d63a855"
 }
 ]
 }
