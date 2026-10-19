@@ -339,9 +339,37 @@
 {
 "name": "Stadt Bayreuth – Rathaus Aktuell",
 "url": "https://www.bayreuth.de/rathaus-buergerservice/rathaus-aktuell/"
+},
+{
+"name": "Fröhliche Kinderbühne – Termine",
+"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html"
+},
+{
+"name": "Sübkültür (Neuneinhalb) – Programm",
+"url": "https://www.suebklueb.de/kategorie/programm/"
+},
+{
+"name": "Schokofabrik – Events",
+"url": "https://www.schoko-bayreuth.de/events/"
+},
+{
+"name": "Kulturbühne Reichshof",
+"url": "https://www.reichshof-bayreuth.de/"
+},
+{
+"name": "Jazzforum – Jazz-November",
+"url": "https://www.jazz-bayreuth.de/konzertreihe/jazz-november/"
+},
+{
+"name": "Robert-Eller-Chor",
+"url": "https://www.robert-eller-chor.de/nächste-auftritte/"
+},
+{
+"name": "Living Water Gospelchoir",
+"url": "https://www.living-water.de/portfolio/dates/"
 }
 ],
-"updated": "2026-10-18T07:31+02:00",
+"updated": "2026-10-19T07:15+02:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -1243,33 +1271,6 @@
 "id": "232c812767"
 },
 {
-"title": "(Medien)Geschichte(n) des Festspielhauses – Eine audiovisuelle Spurensuche",
-"subtitle": "Interaktive Ausstellung der Universität Bayreuth",
-"date": "2026-10-14",
-"end_date": "2026-10-18",
-"time": "18:00",
-"venue": "Jean Paul Art Space, Friedrichstraße 5",
-"organizer": "Medienwissenschaft Universität Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Medienwissenschaft",
-"Festspielhaus",
-"Festival150",
-"Medienkunst",
-"Universität"
-],
-"description": "Masterstudierende der Medienwissenschaft zeigen interaktive audiovisuelle Arbeiten zur Mediengeschichte des Festspielhauses, etwa zur ersten Radio-Liveübertragung 1931 und zur Wiedereröffnung 1951. Geöffnet 14.–16.10. 18–22 Uhr, 17./18.10. 16–20 Uhr.",
-"price": "frei",
-"url": "https://festival150.com/veranstaltung/medien-geschichte-n-festspielhauses-audiovisuelle-spurensuche-bayreuth-95444-rjvd4h",
-"sources": [
-"Medienwissenschaft Universität Bayreuth / Festival150",
-"Festival150 (Programm)",
-"Jean Paul Kulturverein (nur Stadt, Land, Leben)"
-],
-"house": "Universität",
-"id": "3dbebef8a3"
-},
-{
 "title": "Tanzhaus im ZENTRUM",
 "subtitle": null,
 "date": "2026-10-14",
@@ -1546,202 +1547,6 @@
 "id": "6fc03ec122"
 },
 {
-"title": "Kino ist Programm: Programmkino-Wochenende Oktober",
-"subtitle": "Kino ist Programm",
-"date": "2026-10-17",
-"end_date": "2026-10-18",
-"time": "16:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm",
-"category": "Film",
-"tags": [
-"Programmkino",
-"Arthouse",
-"Filmverein"
-],
-"description": "Vier Filme an zwei Tagen: „Wer weiß schon, was ein Leben ist?“ und „Vaterland“ (Sa 16/18:30), „Everytime“ und „A Sad and Beautiful World“ (So 16/18:30), jeweils mit Vorfilm.",
-"price": "7 €, Kinder 4 €",
-"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
-"sources": [
-"Kino ist Programm",
-"Kino ist Programm e. V.",
-"Neuneinhalb e.V."
-],
-"house": "Neuneinhalb",
-"id": "09941ca852"
-},
-{
-"title": "Arachnotopia",
-"subtitle": "Faszinierende Welt der Spinnen & Insekten",
-"date": "2026-10-18",
-"end_date": null,
-"time": "10:00",
-"venue": "Friedrichsforum – Wandelhalle",
-"organizer": "Jeremy Leidig",
-"category": "Ausstellung",
-"tags": [
-"Spinnen",
-"Insekten",
-"Familie",
-"Ausstellung",
-"Natur"
-],
-"description": "Eintägige Wanderausstellung mit über 500 lebenden und präparierten Spinnen, Skorpionen und Insekten. Tickets nur an der Tageskasse.",
-"price": "12 €, Kinder 10 €, Familie 40 €",
-"url": "https://www.friedrichsforum.de/programm/261018-leidig-arachnotopia",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "c968edf9ff"
-},
-{
-"title": "Ein Fest für die Sinne",
-"subtitle": "Erlebnistag für die ganze Familie",
-"date": "2026-10-18",
-"end_date": null,
-"time": "10:00",
-"venue": "DAS ZENTRUM, Äußere Badstraße 7a",
-"organizer": null,
-"category": "Kinder & Familie",
-"tags": [
-"Familienfest",
-"Mitmachen"
-],
-"description": "Familientag im Jugendkulturzentrum.",
-"price": null,
-"url": "https://www.das-zentrum.de/veranstaltung/ein-fest-fuer-die-sinne-erlebnistag-fuer-die-ganze-familie/",
-"sources": [
-"DAS ZENTRUM"
-],
-"house": "Das Zentrum",
-"id": "0a70296d20"
-},
-{
-"title": "Polnische Filmreihe: Lalka (The Doll)",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "11:30",
-"venue": "Cineplex Bayreuth",
-"organizer": null,
-"category": "Film",
-"tags": [
-"Filmreihe",
-"Polen",
-"OmeU"
-],
-"description": "Vorstellung im Rahmen der Polnischen Filmreihe: die Verfilmung „Lalka“ in polnischer Originalfassung mit englischen Untertiteln.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "1ba6a07ff0"
-},
-{
-"title": "TAC-Turnier",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "12:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Brettspiel",
-"Turnier",
-"Teamspiel",
-"Teams",
-"TAC"
-],
-"description": "Teamturnier im Brett- und Kartenspiel TAC über mehrere Runden; Anmeldung erforderlich.",
-"price": "5 € pro Team",
-"url": "https://wundersam-anders.de/2026/10/06/tac-turnier/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e.V.",
-"wundersam anders e. V.",
-"Wundersam anders e.V. (Haus des Spiels)"
-],
-"house": "Weitere Orte",
-"id": "f4c2e65485"
-},
-{
-"title": "Den ÖBG kennenlernen: Allgemeine Gartenführung",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "14:00",
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
-"category": "Führung",
-"tags": [
-"Gartenführung",
-"Botanik",
-"Garten",
-"Rundgang"
-],
-"description": "Überblicksführung durch die Anlagen des Ökologisch-Botanischen Gartens.",
-"price": "frei",
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261018-Fueh-Allgemein/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Bayreuth",
-"Ökologisch-Botanischer Garten"
-],
-"house": "Botanischer Garten",
-"id": "536d2866b4"
-},
-{
-"title": "Tag der Steine in der Stadt",
-"subtitle": "Historisch-geologischer Stadtrundgang",
-"date": "2026-10-18",
-"end_date": null,
-"time": "14:00",
-"venue": "Neues Rathaus, Luitpoldplatz 13 (Treffpunkt)",
-"organizer": "Geopark Bayern-Böhmen e.V.",
-"category": "Führung",
-"tags": [
-"Geologie",
-"Baugeschichte",
-"Stadtrundgang",
-"Architektur"
-],
-"description": "Historisch-geologischer Stadtrundgang zu den Bausteinen der Bayreuther Gebäude.",
-"price": "6 €",
-"url": "https://www.geopark-bayern.de/de/detailinfo.php?kal_Nummer=5263&mode=1",
-"sources": [
-"Geopark Bayern-Böhmen"
-],
-"house": "Stadtführungen",
-"id": "c3ea1f4662"
-},
-{
-"title": "Farben aus dem Wald – Wolle färben mit Pilzen",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "14:15",
-"venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
-"organizer": "Museum für bäuerliche Arbeitsgeräte des Bezirks Oberfranken",
-"category": "Führung",
-"tags": [
-"Handwerk",
-"Pilze",
-"Spinnen"
-],
-"description": "Gemeinsam mit der Spinnstube Bayreuther Land wird das Färben von Wolle mit Pilzen vorgeführt, anschließend geht es zu einem Waldspaziergang, um Färbepilze am Standort zu bestimmen. Anmeldung erforderlich.",
-"price": "frei",
-"url": "https://www.bezirk-oberfranken.de/kultur/detailseite/default-e54be243598e2020d7775d1edf1555b9",
-"sources": [
-"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte"
-],
-"house": "Weitere Orte",
-"id": "a55f957577"
-},
-{
 "title": "Großes Theater! Willkommen im Markgräflichen Opernhaus",
 "subtitle": "Familienführung für Kinder von 6–12 Jahren",
 "date": "2026-10-18",
@@ -1768,182 +1573,6 @@
 ],
 "house": "Markgräfliches Opernhaus",
 "id": "21f75b003f"
-},
-{
-"title": "Theatertag",
-"subtitle": "Saisoneröffnung 2026/27",
-"date": "2026-10-18",
-"end_date": null,
-"time": "15:00",
-"venue": "Studiobühne Bayreuth – Hauptbühne",
-"organizer": "Studiobühne Bayreuth",
-"category": "Theater",
-"tags": [
-"Tag der offenen Tür",
-"Proben",
-"Backstage",
-"Theater",
-"Familie"
-],
-"description": "Die Studiobühne öffnet von 15 bis 20 Uhr ihre Türen mit offenen Proben, Führungen hinter die Kulissen und einer Kunstaktion für Kinder.",
-"price": "frei",
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2159",
-"sources": [
-"Studiobühne Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"bayreuth4U Terminkalender"
-],
-"house": "Studiobühne",
-"id": "a1074691e6"
-},
-{
-"title": "Kino ist Programm: Everytime / A Sad and Beautiful World",
-"subtitle": "Programmkino mit Vorfilm",
-"date": "2026-10-18",
-"end_date": null,
-"time": "16:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm e.V.",
-"category": "Film",
-"tags": [
-"Programmkino",
-"Arthouse"
-],
-"description": "Zwei Vorstellungen des Bayreuther Programmkinovereins, um 16 und 18:30 Uhr, jeweils mit Vorfilm.",
-"price": "7 € (Kinder 4 €)",
-"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
-"sources": [
-"Kino ist Programm"
-],
-"house": "Neuneinhalb",
-"id": "eb9e3a6f10"
-},
-{
-"title": "Das Kriminal Dinner: Und raus bist du",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "17:00",
-"venue": "Gaststätte Becher, St.-Nikolaus-Straße 25",
-"organizer": "Das Kriminal Dinner",
-"category": "Theater",
-"tags": [
-"Krimidinner",
-"Menü",
-"Krimi",
-"Dinner",
-"interaktiv"
-],
-"description": "Interaktives Krimitheater zum mehrgängigen Menü.",
-"price": "84,90 €",
-"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/brauereigasthof-becher-braeu",
-"sources": [
-"Das Kriminal Dinner"
-],
-"house": "Becher Bräu",
-"id": "a47d2ebd06"
-},
-{
-"title": "Hannes Wölfel – Live im Dorf",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "17:00",
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Livemusik",
-"Winterdorf",
-"Live-Musik",
-"Akustik",
-"Singer-Songwriter"
-],
-"description": "Livemusik im Winterdorf, Eintritt frei.",
-"price": "frei",
-"url": "https://winterdorf-bayreuth.de/events/hannes-woelfel-2-600/",
-"sources": [
-"Bayreuther Winterdorf",
-"Winterdorf"
-],
-"house": "Winterdorf",
-"id": "e2ca03b111"
-},
-{
-"title": "Karisma – Herbsttour 2026",
-"subtitle": null,
-"date": "2026-10-18",
-"end_date": null,
-"time": "18:00",
-"venue": "Epiphaniaskirche Laineck, Warmensteinacher Straße 85",
-"organizer": null,
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Liederabend",
-"Kirchenkonzert",
-"Laineck"
-],
-"description": "Liederabend der Formation Karisma mit Liedern u. a. von PUR, Rainhard Fendrich sowie Simon & Garfunkel in der Epiphaniaskirche. Eintritt frei, Spenden erbeten.",
-"price": "Eintritt frei, Spenden erbeten",
-"url": "https://event.kurier.de/detail/30271",
-"sources": [
-"Hinweis: Kurier-Kalender"
-],
-"house": "Kirchen",
-"id": "be9c43b922"
-},
-{
-"title": "Workshop: Songwriting für Einsteiger*innen (FLINTA+)",
-"subtitle": "mit Katie",
-"date": "2026-10-18",
-"end_date": null,
-"time": "19:00",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Workshop",
-"Songwriting",
-"FLINTA"
-],
-"description": "Einführungsworkshop ins Songschreiben für FLINTA+-Personen; Anmeldung über das Glashaus.",
-"price": "nach Anmeldung",
-"url": "https://www.glashaus.org/programm/workshop-songwriting-fuer-einsteigerinnen-flinta-only-mit-katie",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "c9d389480b"
-},
-{
-"title": "Herbstkonzert des Orchestervereins Bayreuth",
-"subtitle": "Meisterwerke der Romantik",
-"date": "2026-10-18",
-"end_date": null,
-"time": "19:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Orchesterverein Bayreuth",
-"category": "Klassik",
-"tags": [
-"Sinfoniekonzert",
-"Laienorchester",
-"Schumann",
-"Dvořák",
-"Sinfonieorchester"
-],
-"description": "Sinfoniekonzert des Bayreuther Orchestervereins zum Herbst.",
-"price": "25–32 €",
-"url": "https://www.friedrichsforum.de/programm/261018-orchesterverein-bayreuth-herbstkonzert",
-"sources": [
-"Orchesterverein Bayreuth",
-"Friedrichsforum",
-"Friedrichsforum Bayreuth",
-"Orchesterverein Bayreuth / Friedrichsforum",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Friedrichsforum",
-"id": "f74f021d30"
 },
 {
 "title": "30 Jahre Paläobotanische Sammlung Rossmann",
@@ -4808,6 +4437,29 @@
 "id": "62e3dc95f4"
 },
 {
+"title": "Die legendäre Glashaus Jamsession",
+"subtitle": null,
+"date": "2026-11-02",
+"end_date": "2026-12-07",
+"time": "19:00",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jamsession",
+"Live-Musik",
+"offene Bühne"
+],
+"description": "Offene Session für Musikerinnen und Musiker aller Instrumente und Niveaus, Backline ist vorhanden; Termine am 2.11. und 7.12. Ab 18, Glashaus-Mitgliedschaft erforderlich.",
+"price": "Eintritt frei (Mitgliedschaft ab 1 €)",
+"url": "https://www.glashaus.org/programm/jamsession-260727-2-2",
+"sources": [
+"Glashaus"
+],
+"house": "Glashaus",
+"id": "6f541a1349"
+},
+{
 "title": "Herbstferienprogramm in der Lernwerkstatt",
 "subtitle": "Kreativ-Workshops für Grundschulkinder",
 "date": "2026-11-03",
@@ -5944,6 +5596,32 @@
 "id": "d9b6f75634"
 },
 {
+"title": "Wie der Kaschber dem Richard half, seine Harmonie zu finden",
+"subtitle": "Puppentheater der Fröhlichen Kinderbühne",
+"date": "2026-11-08",
+"end_date": null,
+"time": "16:00",
+"venue": "Friedenskirche Bayreuth",
+"organizer": "Die Fröhliche Kinderbühne",
+"category": "Kinder & Familie",
+"tags": [
+"Puppentheater",
+"Kasper",
+"Richard Wagner",
+"Wagner",
+"Kasperl"
+],
+"description": "Puppenspiel für Kinder, in dem der Kaschber Richard Wagner aus einer Schaffenskrise hilft. Karten an der Tageskasse ab 30 Minuten vor Beginn.",
+"price": "7 €",
+"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
+"sources": [
+"Die Fröhliche Kinderbühne",
+"Die fröhliche Kinderbühne"
+],
+"house": "Kirchen",
+"id": "f9e7dafadc"
+},
+{
 "title": "Das Aus für die Banane? Vielfalt, Wissenschaft und Überleben",
 "subtitle": "Vortrag von Prof. Sandra Calkins",
 "date": "2026-11-08",
@@ -5966,32 +5644,6 @@
 ],
 "house": "Universität",
 "id": "66a3384a3a"
-},
-{
-"title": "Wie der Kaschber dem Richard half, die Harmonie zu finden",
-"subtitle": "Puppentheater der Fröhlichen Kinderbühne",
-"date": "2026-11-08",
-"end_date": null,
-"time": "16:00",
-"venue": "Friedenskirche Bayreuth, Friedenstraße 3",
-"organizer": "Die fröhliche Kinderbühne",
-"category": "Kinder & Familie",
-"tags": [
-"Puppentheater",
-"Wagner",
-"Kasperl",
-"Kasper",
-"Richard Wagner"
-],
-"description": "Puppentheater um Kasper und Richard Wagner.",
-"price": "7 €",
-"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
-"sources": [
-"Die fröhliche Kinderbühne",
-"Die Fröhliche Kinderbühne"
-],
-"house": "Kirchen",
-"id": "c20edbd1df"
 },
 {
 "title": "Klaviersoirée: Junge Meisterpianist:innen aus Weimar",
@@ -6458,6 +6110,29 @@
 ],
 "house": "Kunstmuseum",
 "id": "439c80394e"
+},
+{
+"title": "AZB + Mon Coeur",
+"subtitle": null,
+"date": "2026-11-12",
+"end_date": null,
+"time": "20:00",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Alternative Rock",
+"Metal",
+"Rap"
+],
+"description": "Doppelkonzert mit der Bayreuther Rap-Rock-Formation AZB und der Hofer Band Mon Coeur, die ihr Debütalbum „Breaking the Dark“ vorstellt. Einlass 19 Uhr, ab 18.",
+"price": "VVK 5 €, AK 7 €",
+"url": "https://www.glashaus.org/programm/azb-mon-coeur",
+"sources": [
+"Glashaus"
+],
+"house": "Glashaus",
+"id": "decffb7224"
 },
 {
 "title": "Mnozil Brass – Jubelei",
@@ -8041,6 +7716,31 @@
 "id": "5849942552"
 },
 {
+"title": "Benefizkonzert des Gitarrenorchesters",
+"subtitle": null,
+"date": "2026-11-22",
+"end_date": null,
+"time": "17:00",
+"venue": "Lutherkirche Bayreuth",
+"organizer": "Ev.-Luth. Dekanat Bayreuth",
+"category": "Klassik",
+"tags": [
+"Gitarre",
+"Orchester",
+"Benefiz",
+"Kirchenkonzert"
+],
+"description": "Ein Gitarrenorchester gibt in der Lutherkirche ein Konzert zugunsten eines guten Zwecks.",
+"price": null,
+"url": "https://www.evangelische-termine.de/detail-bt?ID=7954556",
+"sources": [
+"Ev.-Luth. Dekanat Bayreuth",
+"Ev.-Luth. Dekanat Bayreuth (Veranstaltungskalender)"
+],
+"house": "Kirchen",
+"id": "7cba19b95b"
+},
+{
 "title": "Von Engeln, Clowns und Enten",
 "subtitle": "Lesung mit Geschichten von Silvia Guhr",
 "date": "2026-11-22",
@@ -9277,7 +8977,7 @@
 "Kinder",
 "ab 6 Jahren"
 ],
-"description": "Kindgerechte Fassung der Zauberflöte mit Marionetten (29.11. 15 Uhr, 4.12. 17 Uhr, weitere Termine bis 22.12.).",
+"description": "Kindgerechte Fassung der Zauberflöte mit Marionetten; Termine 29.11. 15 Uhr, 4.12. 17 Uhr, 19.12. 17 Uhr, 20.12. 15 Uhr und 22.12. 17 Uhr (ausverkauft).",
 "price": "15 €, Kinder 12 €",
 "url": "https://www.operla.de/produkt/kinderzauberfloete/",
 "sources": [
@@ -9286,6 +8986,31 @@
 ],
 "house": "Weitere Orte",
 "id": "6dabd4ccb6"
+},
+{
+"title": "Wie der Kaschber dem Richard half, seine Harmonie zu finden",
+"subtitle": "Puppentheater der Fröhlichen Kinderbühne",
+"date": "2026-11-29",
+"end_date": null,
+"time": "16:00",
+"venue": "Lutherkirche Bayreuth",
+"organizer": "Die Fröhliche Kinderbühne",
+"category": "Kinder & Familie",
+"tags": [
+"Puppentheater",
+"Kasper",
+"Richard Wagner",
+"Kasperl",
+"Wagner"
+],
+"description": "Puppenspiel für Kinder, in dem der Kaschber Richard Wagner aus einer Schaffenskrise hilft. Karten an der Tageskasse ab 30 Minuten vor Beginn.",
+"price": "7 €",
+"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
+"sources": [
+"Die Fröhliche Kinderbühne"
+],
+"house": "Kirchen",
+"id": "0e95b871c8"
 },
 {
 "title": "Adventskonzert der Sängergruppe des Gesangvereins Meyernberg",
@@ -9333,29 +9058,6 @@
 ],
 "house": "Friedrichsforum",
 "id": "354aa43a48"
-},
-{
-"title": "Wie der Kaschber dem Richard half, die Harmonie zu finden",
-"subtitle": "Puppentheater der Fröhlichen Kinderbühne",
-"date": "2026-11-29",
-"end_date": null,
-"time": "16:00",
-"venue": "Lutherkirche Bayreuth",
-"organizer": "Die Fröhliche Kinderbühne",
-"category": "Kinder & Familie",
-"tags": [
-"Puppentheater",
-"Kasperl",
-"Wagner"
-],
-"description": "Kasperltheater für Kinder, in dem der Kaschber Richard Wagner bei der Suche nach der Harmonie hilft. Tageskasse öffnet 30 Minuten vor Beginn.",
-"price": "7 € (Tageskasse)",
-"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
-"sources": [
-"Die Fröhliche Kinderbühne"
-],
-"house": "Kirchen",
-"id": "f1a0a0e2bd"
 },
 {
 "title": "Wort und Musik zum 1. Advent",
@@ -9998,6 +9700,29 @@
 ],
 "house": "Friedrichsforum",
 "id": "c2fc4a6def"
+},
+{
+"title": "Advent mit Rilke",
+"subtitle": "„Gott macht sich mild“",
+"date": "2026-12-04",
+"end_date": null,
+"time": "20:00",
+"venue": "Ev. Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": null,
+"category": "Literatur",
+"tags": [
+"Rilke",
+"Advent",
+"Lyrik"
+],
+"description": "Adventlicher Abend mit Texten von Rainer Maria Rilke in der Stadtkirche.",
+"price": null,
+"url": "https://www.eventfinder.de/veranstaltung/3419992/advent-mit-rilke-in-bayreuth-am-2026-12-04-um-20-00-uhr/",
+"sources": [
+"Hinweis: eventfinder"
+],
+"house": "Kirchen",
+"id": "c7a1d18f59"
 },
 {
 "title": "Adventsprogramm in der Lernwerkstatt: Weihnachtsbasteln",
@@ -11442,7 +11167,7 @@
 "title": "HUEBNOTIX & The Red River Horns",
 "subtitle": "The X-Mas Concerts",
 "date": "2026-12-18",
-"end_date": null,
+"end_date": "2026-12-19",
 "time": "20:00",
 "venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
 "organizer": "DAS ZENTRUM Bayreuth",
@@ -11452,7 +11177,7 @@
 "Coverband",
 "Bläser"
 ],
-"description": "Die Bayreuther Band HUEBNOTIX spielt ihr traditionelles Weihnachtskonzert, diesmal verstärkt durch den Bläsersatz Red River Horns mit Trompete, Posaune und Saxophon. Ein weiteres Konzert folgt am 19. Dezember.",
+"description": "Die Bayreuther Band HUEBNOTIX spielt ihr traditionelles Weihnachtskonzert, diesmal verstärkt durch den Bläsersatz Red River Horns mit Trompete, Posaune und Saxophon. Zwei Konzerte: 18. und 19. Dezember, jeweils 20 Uhr (Einlass 19 Uhr).",
 "price": "33,81 €",
 "url": "https://www.das-zentrum.de/veranstaltung/huebnotix-the-red-river-horns-the-x-mas-concerts/",
 "sources": [
@@ -11483,6 +11208,100 @@
 ],
 "house": "Weitere Orte",
 "id": "410d63a855"
+},
+{
+"subtitle": null,
+"end_date": null,
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"price": "Eintritt frei",
+"title": "Bandauftritt D&D Unplugged",
+"date": "2026-12-19",
+"time": "13:30",
+"tags": [
+"Christkindlesmarkt",
+"Live",
+"Unplugged"
+],
+"description": "Die Band D&D Unplugged spielt ein akustisches Set auf der Aktionsbühne des Christkindlesmarkts.",
+"url": "https://region-bayreuth.de/veranstaltung/bandauftritt-d-d-unplugged-bayreuth-95444-vhk0xj",
+"sources": [
+"Stadt Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "aa325df584"
+},
+{
+"subtitle": null,
+"end_date": null,
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Pop, Rock & Jazz",
+"price": "Eintritt frei",
+"title": "Auftritt der Band Zweitakter",
+"date": "2026-12-19",
+"time": "17:30",
+"tags": [
+"Christkindlesmarkt",
+"Live",
+"Band"
+],
+"description": "Die Band Zweitakter tritt auf der Aktionsbühne des Christkindlesmarkts auf.",
+"url": "https://region-bayreuth.de/veranstaltung/auftritt-band-zweitakter-bayreuth-95444-nxv2g1",
+"sources": [
+"Stadt Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "8433f05ebb"
+},
+{
+"title": "Svavar Knútur – Yule Tour",
+"subtitle": null,
+"date": "2026-12-19",
+"end_date": null,
+"time": "19:00",
+"venue": "Friedrichsforum – Kleiner Saal",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Singer-Songwriter",
+"Island",
+"Weihnachten"
+],
+"description": "Der isländische Liedermacher Svavar Knútur kommt mit seinem weihnachtlichen Tourprogramm in den Kleinen Saal.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261219-svavar-knutur",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "efbee64e89"
+},
+{
+"title": "Windsbacher Knabenchor: J. S. Bach – Weihnachtsoratorium",
+"subtitle": null,
+"date": "2026-12-19",
+"end_date": null,
+"time": "19:30",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": null,
+"category": "Klassik",
+"tags": [
+"Chor",
+"Bach",
+"Weihnachtsoratorium",
+"Weihnachten",
+"Oratorium"
+],
+"description": "Der Windsbacher Knabenchor führt Bachs Weihnachtsoratorium im Großen Saal auf.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261219-windsbacher",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "5b5a13eea7"
 }
 ]
 }
