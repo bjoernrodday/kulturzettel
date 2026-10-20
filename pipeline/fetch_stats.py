@@ -31,16 +31,16 @@ today = datetime.datetime.now(tz).date()
 yday = today - datetime.timedelta(days=1)
 
 def rng(days):
-    # GoatCounter: end ist exklusiv -> end = heute schließt gestern noch ein
+    # Volle UTC-Tage als Zeitpunkte angeben, damit alle Endpunkte denselben Zeitraum nutzen
     start = today - datetime.timedelta(days=days)
-    return {"start": start.isoformat(), "end": today.isoformat()}
+    return {"start": f"{start.isoformat()}T00:00:00Z", "end": f"{yday.isoformat()}T23:59:59Z"}
 
 def block(days):
     r = rng(days)
     tot = api("stats/total", **r) or {}
     hits = api("stats/hits", limit=15, **r) or {}
     refs = api("stats/toprefs", limit=10, **r) or {}
-    out = {"von": r["start"], "bis": yday.isoformat(),
+    out = {"von": r["start"][:10], "bis": yday.isoformat(),
            "besucher": tot.get("total"), "besucher_ohne_events": tot.get("total_utc", None),
            "seiten": [{"pfad": h.get("path"), "titel": h.get("title"), "besucher": h.get("count")}
                       for h in hits.get("hits", [])],
@@ -55,7 +55,7 @@ gestern, _ = block(1)
 woche, _ = block(7)
 monat, tot90 = block(28)
 verlauf_raw = api("stats/total", **rng(90)) or {}
-heute = api("stats/total", start=today.isoformat(), end=(today + datetime.timedelta(days=1)).isoformat()) or {}
+heute = api("stats/total", start=f"{today.isoformat()}T00:00:00Z", end=f"{today.isoformat()}T23:59:59Z") or {}
 verlauf = [{"tag": s.get("day"), "besucher": s.get("daily")} for s in verlauf_raw.get("stats", [])]
 
 data = {"quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
