@@ -333,11 +333,14 @@ let tq;$("#f-q").addEventListener("input",e=>{clearTimeout(tq);tq=setTimeout(()=
 
 fetch("filme.json",{cache:"no-store"}).then(r=>r.json()).then(k=>{
   if(!k||k.date!==TODAY||!k.films||!k.films.length)return;
+  const upd=()=>{
+  if(new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Berlin"})!==k.date){$("#kino-t").textContent="Alle Filme, die heute in Bayreuth laufen";$("#kino-s").textContent="Komplettes Tagesprogramm mit allen Vorstellungen, Sälen und Genres";return}
   const now=new Date().toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"});
   const shows=k.films.flatMap(f=>f.shows.map(x=>({t:x.time,f:f.title}))).sort((a,b)=>a.t.localeCompare(b.t));
   const next=shows.find(x=>x.t>=now);
   $("#kino-t").textContent=k.films.length+" Filme heute im Kino";
-  $("#kino-s").textContent=next?"Nächste Vorstellung: "+next.t+" Uhr – "+next.f:shows.length+" Vorstellungen heute – alle Zeiten, Säle und Genres";
+  $("#kino-s").textContent=next?"Nächste Vorstellung: "+next.t+" Uhr – "+next.f:"Für heute keine weiteren Vorstellungen – das Tagesprogramm steht weiter auf der Kinoseite";
+  };upd();setInterval(upd,60000);
 }).catch(()=>{});
 fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{DATA=d;head();render()})
 .catch(()=>{$("#prog").innerHTML='<div class="empty">Das Programm konnte gerade nicht geladen werden. Bitte die Seite neu laden.</div>'});
