@@ -35,7 +35,7 @@ def rng(days):
     start = today - datetime.timedelta(days=days)
     return {"start": f"{start.isoformat()}T00:00:00Z", "end": f"{yday.isoformat()}T23:59:59Z"}
 
-def block(days):
+def block(days, details=False):
     r = rng(days)
     tot = api("stats/total", **r) or {}
     hits = api("stats/hits", limit=15, **r) or {}
@@ -46,14 +46,14 @@ def block(days):
                       for h in hits.get("hits", [])],
            "herkunft": [{"name": s.get("name") or "(direkt)", "besucher": s.get("count")}
                         for s in refs.get("stats", [])]}
-    for page, key in (("browsers", "browser"), ("systems", "systeme"), ("sizes", "bildschirm"), ("locations", "laender")):
+    for page, key in (() if not details else ("browsers", "browser"), ("systems", "systeme"), ("sizes", "bildschirm"), ("locations", "laender")):
         d = api(f"stats/{page}", limit=8, **r) or {}
         out[key] = [{"name": s.get("name"), "besucher": s.get("count")} for s in d.get("stats", [])]
     return out, tot
 
 gestern, _ = block(1)
 woche, _ = block(7)
-monat, tot90 = block(28)
+monat, tot90 = block(28, details=True)
 verlauf_raw = api("stats/total", **rng(90)) or {}
 heute = api("stats/total", start=f"{today.isoformat()}T00:00:00Z", end=f"{today.isoformat()}T23:59:59Z") or {}
 verlauf = [{"tag": s.get("day"), "besucher": s.get("daily")} for s in verlauf_raw.get("stats", [])]
