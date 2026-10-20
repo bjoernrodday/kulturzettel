@@ -1,4 +1,4 @@
-<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style><title>Kinozettel Bayreuth</title><meta name="description" content="Alle Filme, die heute in Bayreuth laufen – mit allen Vorstellungen des Tages, direkt aus den Programmen der Kinos."></head><body>
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style><script>try{var t=localStorage.getItem("kz-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script><title>Kinozettel Bayreuth</title><meta name="description" content="Alle Filme, die heute in Bayreuth laufen – mit allen Vorstellungen des Tages, direkt aus den Programmen der Kinos."></head><body>
 
 <link rel="stylesheet" href="fonts/fonts.css">
 <style>
@@ -26,9 +26,15 @@ button{font:inherit;color:inherit}
 
 /* Masthead */
 .mast{padding-block:28px 22px}
-.mast-top{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:500 12px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.mast-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;font:500 12px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .mast-top a{color:inherit;text-underline-offset:3px}
 .mast-top a:hover{color:var(--accent)}
+.mast-r{display:flex;align-items:center;gap:6px 14px;flex-wrap:wrap}
+.theme{display:inline-flex;border:1px solid var(--rule);border-radius:999px;padding:2px;gap:2px}
+.theme button{border:0;background:none;font:500 11px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:5px 9px;border-radius:999px;cursor:pointer}
+.theme button:hover{color:var(--ink)}
+.theme button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+
 .mast h1{font:700 clamp(50px,11vw,160px)/.9 var(--display);letter-spacing:-.04em;margin:18px 0 0}
 .mast h1 span{color:var(--accent)}
 .mast-sub{display:flex;justify-content:space-between;align-items:end;gap:16px 32px;flex-wrap:wrap;margin-top:14px}
@@ -172,7 +178,7 @@ a.show:hover{background:var(--ink);color:var(--paper)}
 </style>
 
 <header class="wrap mast">
-  <div class="mast-top"><span id="issue">Bayreuth</span><span class="mast-r"><span id="upd">ohne Gewähr</span> · <a href="index.html">Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></span></div>
+  <div class="mast-top"><span id="issue">Bayreuth</span><span class="mast-r"><span id="upd"></span><span class="theme" role="group" aria-label="Farbschema"><button data-theme-set="auto">Auto</button><button data-theme-set="light">Hell</button><button data-theme-set="dark">Dunkel</button></span></span></div>
   <h1>Kino<span>zettel</span></h1>
   <div class="mast-sub">
     <div class="intro"><p>Alle Filme, die <b>heute</b> in Bayreuth laufen – mit allen Vorstellungen des Tages.</p>
@@ -257,7 +263,7 @@ function render(){
 function head(){
   const d=new Date(D.date+"T12:00:00");
   $("#issue").textContent="Bayreuth · Kinoprogramm · "+WD[d.getDay()]+", "+d.getDate()+". "+MO[d.getMonth()]+" "+d.getFullYear();
-  if(D.updated){const u=new Date(D.updated);$("#upd").textContent="Stand "+u.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})+" Uhr · ohne Gewähr"}
+  if(D.updated){const u=new Date(D.updated);$("#upd").textContent="Stand "+u.toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"})+" Uhr"}
   const sites=[...new Set(D.films.flatMap(f=>f.shows.map(s=>siteOf(f,s))))].sort((a,b)=>a.localeCompare(b,"de"));
   $("#f-site").innerHTML='<option value="">Alle Kinos &amp; Säle</option>'+sites.map(s=>`<option>${esc(s)}</option>`).join("");
   $("#stats").innerHTML=`<div><b>${D.films.length}</b><small>Filme heute</small></div><div><b>${D.films.reduce((n,f)=>n+f.shows.length,0)}</b><small>Vorstellungen</small></div><div><b>${sites.length}</b><small>Spielorte</small></div>`;
@@ -274,4 +280,12 @@ if(window.FILME)go(window.FILME);else fetch("filme.json",{cache:"no-store"}).the
 })();
 </script>
 
+<script>
+(function(){const r=document.documentElement;
+function get(){try{return localStorage.getItem("kz-theme")||"auto"}catch(e){return "auto"}}
+function mark(v){document.querySelectorAll("[data-theme-set]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.themeSet===v))}
+function set(v){if(v==="auto")delete r.dataset.theme;else r.dataset.theme=v;try{v==="auto"?localStorage.removeItem("kz-theme"):localStorage.setItem("kz-theme",v)}catch(e){}mark(v)}
+document.addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b)set(b.dataset.themeSet)});
+mark(get());})();
+</script>
 </body></html>
