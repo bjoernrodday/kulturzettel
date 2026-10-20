@@ -121,6 +121,15 @@ footer .legal{margin-top:16px;max-width:none}
 footer .nb{white-space:nowrap}
 footer .legal a{color:var(--ink);text-underline-offset:3px}
 
+
+/* Kino-Hinweis */
+.kino{display:flex;align-items:center;justify-content:space-between;gap:12px 28px;flex-wrap:wrap;background:var(--accent);color:var(--accent-ink);text-decoration:none;padding:16px 22px;margin-bottom:22px}
+.kino:hover .kino-go{background:var(--accent-ink);color:var(--accent)}
+.kino-l{display:flex;flex-direction:column;gap:2px;min-width:0}
+.kino-k{font:500 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;opacity:.85}
+.kino-t{font:600 clamp(20px,2.4vw,28px)/1.2 var(--display);letter-spacing:-.01em}
+.kino-s{font-size:14px;opacity:.9}
+.kino-go{font:500 13px var(--mono);border:1px solid var(--accent-ink);border-radius:999px;padding:8px 14px;white-space:nowrap;transition:background .15s,color .15s}
 .load{padding:40px 0;font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 
 @media (max-width:860px){
@@ -148,6 +157,11 @@ footer .legal a{color:var(--ink);text-underline-offset:3px}
     <div class="stats" id="stats"></div>
   </div>
 </header>
+
+<div class="wrap"><a class="kino" id="kino" href="kino.html">
+  <span class="kino-l"><span class="kino-k">Neu · Kino heute</span><span class="kino-t" id="kino-t">Alle Filme, die heute in Bayreuth laufen</span><span class="kino-s" id="kino-s">Komplettes Tagesprogramm mit allen Vorstellungen, Sälen und Genres</span></span>
+  <span class="kino-go">Zum Kinoprogramm →</span>
+</a></div>
 
 <nav class="bar" aria-label="Filter">
   <div class="wrap bar-in">
@@ -310,6 +324,14 @@ document.querySelectorAll(".scroller").forEach(sc=>{
 $("#f-house").addEventListener("change",e=>{st.house=e.target.value;render()});
 let tq;$("#f-q").addEventListener("input",e=>{clearTimeout(tq);tq=setTimeout(()=>{st.q=e.target.value.trim();render()},160)});
 
+fetch("filme.json",{cache:"no-store"}).then(r=>r.json()).then(k=>{
+  if(!k||k.date!==TODAY||!k.films||!k.films.length)return;
+  const now=new Date().toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"});
+  const shows=k.films.flatMap(f=>f.shows.map(x=>({t:x.time,f:f.title}))).sort((a,b)=>a.t.localeCompare(b.t));
+  const next=shows.find(x=>x.t>=now);
+  $("#kino-t").textContent=k.films.length+" Filme heute im Kino";
+  $("#kino-s").textContent=next?"Nächste Vorstellung: "+next.t+" Uhr – "+next.f:shows.length+" Vorstellungen heute – alle Zeiten, Säle und Genres";
+}).catch(()=>{});
 fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{DATA=d;head();render()})
 .catch(()=>{$("#prog").innerHTML='<div class="empty">Das Programm konnte gerade nicht geladen werden. Bitte die Seite neu laden.</div>'});
 })();
