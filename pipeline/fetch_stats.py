@@ -31,15 +31,16 @@ today = datetime.datetime.now(tz).date()
 yday = today - datetime.timedelta(days=1)
 
 def rng(days):
+    # GoatCounter: end ist exklusiv -> end = heute schließt gestern noch ein
     start = today - datetime.timedelta(days=days)
-    return {"start": start.isoformat(), "end": yday.isoformat()}
+    return {"start": start.isoformat(), "end": today.isoformat()}
 
 def block(days):
     r = rng(days)
     tot = api("stats/total", **r) or {}
     hits = api("stats/hits", limit=15, **r) or {}
     refs = api("stats/toprefs", limit=10, **r) or {}
-    out = {"von": r["start"], "bis": r["end"],
+    out = {"von": r["start"], "bis": yday.isoformat(),
            "besucher": tot.get("total"), "besucher_ohne_events": tot.get("total_utc", None),
            "seiten": [{"pfad": h.get("path"), "titel": h.get("title"), "besucher": h.get("count")}
                       for h in hits.get("hits", [])],
@@ -54,11 +55,12 @@ gestern, _ = block(1)
 woche, _ = block(7)
 monat, tot90 = block(28)
 verlauf_raw = api("stats/total", **rng(90)) or {}
+heute = api("stats/total", start=today.isoformat(), end=(today + datetime.timedelta(days=1)).isoformat()) or {}
 verlauf = [{"tag": s.get("day"), "besucher": s.get("daily")} for s in verlauf_raw.get("stats", [])]
 
 data = {"quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
         "abgerufen": datetime.datetime.now(tz).isoformat(timespec="minutes"),
-        "gestern": gestern, "letzte_7_tage": woche, "letzte_28_tage": monat, "verlauf_90_tage": verlauf}
+        "heute_bis_abruf": heute.get("total"), "gestern": gestern, "letzte_7_tage": woche, "letzte_28_tage": monat, "verlauf_90_tage": verlauf}
 if gestern.get("besucher") is None and woche.get("besucher") is None:
     print("keine Daten erhalten – Datei bleibt unverändert", file=sys.stderr); sys.exit(1)
 json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
