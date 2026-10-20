@@ -268,7 +268,7 @@ function head(){
   $("#f-site").innerHTML='<option value="">Alle Kinos &amp; Säle</option>'+sites.map(s=>`<option>${esc(s)}</option>`).join("");
   $("#stats").innerHTML=`<div><b>${D.films.length}</b><small>Filme heute</small></div><div><b>${D.films.reduce((n,f)=>n+f.shows.length,0)}</b><small>Vorstellungen</small></div><div><b>${sites.length}</b><small>Spielorte</small></div>`;
   $("#foot").innerHTML=`<p>Der Kinozettel liest jeden Morgen das veröffentlichte Tagesprogramm der Bayreuther Kinos und Filmveranstalter aus. Maßgeblich sind ausschließlich die Angaben der Kinos, auf deren Seiten jeder Film verlinkt – Zeiten können sich kurzfristig ändern. Für Richtigkeit und Vollständigkeit wird keine Gewähr übernommen.</p>
-  <p class="legal"><a href="index.html">Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Angebot von <span class="nb">Björn Rodday</span>.</p>`}
+  <p class="legal"><a href="index.html">Kulturzettel</a> · <a href="ueber.html">Über den Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Projekt von <a href="ueber.html" class="nb">Björn Rodday</a>.</p>`}
 document.addEventListener("click",ev=>{const b=ev.target.closest("button");if(!b)return;
   if(b.dataset.g!==undefined){const g=b.dataset.g;if(!g)st.gen.clear();else st.gen.has(g)?st.gen.delete(g):st.gen.add(g);render()}
   else if(b.id&&b.id.startsWith("f-")){const k=b.id.slice(2);if(k in st&&typeof st[k]==="boolean"){st[k]=!st[k];render()}}});
