@@ -1,0 +1,465 @@
+{
+ "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
+ "abgerufen": "2026-10-20T11:38+02:00",
+ "gestern": {
+  "von": "2026-10-19",
+  "bis": "2026-10-19",
+  "besucher": null,
+  "besucher_ohne_events": null,
+  "seiten": [],
+  "herkunft": [],
+  "browser": [],
+  "systeme": [],
+  "bildschirm": [
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   }
+  ],
+  "laender": []
+ },
+ "letzte_7_tage": {
+  "von": "2026-10-13",
+  "bis": "2026-10-19",
+  "besucher": 0,
+  "besucher_ohne_events": 0,
+  "seiten": [],
+  "herkunft": [],
+  "browser": [],
+  "systeme": [],
+  "bildschirm": [
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   }
+  ],
+  "laender": []
+ },
+ "letzte_28_tage": {
+  "von": "2026-09-22",
+  "bis": "2026-10-19",
+  "besucher": 0,
+  "besucher_ohne_events": 0,
+  "seiten": [],
+  "herkunft": [],
+  "browser": [],
+  "systeme": [],
+  "bildschirm": [
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   },
+   {
+    "name": "",
+    "besucher": 0
+   }
+  ],
+  "laender": []
+ },
+ "verlauf_90_tage": [
+  {
+   "tag": "2026-07-22",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-23",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-24",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-25",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-26",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-27",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-28",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-29",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-30",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-07-31",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-01",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-02",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-03",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-04",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-05",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-06",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-07",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-08",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-09",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-10",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-11",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-12",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-13",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-14",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-15",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-16",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-17",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-18",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-19",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-20",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-21",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-22",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-23",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-24",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-25",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-26",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-27",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-28",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-29",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-30",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-08-31",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-01",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-02",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-03",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-04",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-05",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-06",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-07",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-08",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-09",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-10",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-11",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-12",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-13",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-14",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-15",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-16",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-17",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-18",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-19",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-20",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-21",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-22",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-23",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-24",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-25",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-26",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-27",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-28",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-29",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-09-30",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-01",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-02",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-03",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-04",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-05",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-06",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-07",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-08",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-09",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-10",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-11",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-12",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-13",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-14",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-15",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-16",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-17",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-18",
+   "besucher": 0
+  },
+  {
+   "tag": "2026-10-19",
+   "besucher": 0
+  }
+ ]
+}
