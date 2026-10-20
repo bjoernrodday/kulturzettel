@@ -367,9 +367,37 @@
 {
 "name": "Living Water Gospelchoir",
 "url": "https://www.living-water.de/portfolio/dates/"
+},
+{
+"name": "Studiobühne Bayreuth – Herbst-Flyer 2026",
+"url": "https://www.studiobuehne-bayreuth.de/userdata/files/herbst_2026.pdf"
+},
+{
+"name": "magpie alley – Live",
+"url": "https://magpiealley.de/live/"
+},
+{
+"name": "Iwalewahaus – Veranstaltungen",
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/index.html"
+},
+{
+"name": "Game Innovation Lab Uni Bayreuth – Kultur",
+"url": "https://medienwissenschaft.uni-bayreuth.de/gil/kultur/"
+},
+{
+"name": "Franken Game Jam",
+"url": "https://www.frankengamejam.de/"
+},
+{
+"name": "KHG Bayreuth – Veranstaltungen",
+"url": "https://www.khg-in-bayreuth.de/events/"
+},
+{
+"name": "Schloss Colmdorf (Carolinenruhe)",
+"url": "https://schloss-colmdorf.de/en/start-en/"
 }
 ],
-"updated": "2026-10-19T07:15+02:00",
+"updated": "2026-10-20T06:29+02:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -641,6 +669,32 @@
 "id": "147338c992"
 },
 {
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-10-05",
+"end_date": "2026-12-09",
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Selbermachen",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr, vom 5. Oktober bis 9. Dezember.",
+"price": "Eintritt frei",
+"url": "https://wundersam-anders.de/haus-des-spiels/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "9ab36de646"
+},
+{
 "title": "Wundersame Kreativzeit",
 "subtitle": null,
 "date": "2026-10-05",
@@ -662,32 +716,6 @@
 ],
 "house": "Weitere Orte",
 "id": "6a3e12f28c"
-},
-{
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-10-05",
-"end_date": "2026-12-09",
-"time": "17:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Selbermachen",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs ab 17 Uhr vom 5. Oktober bis 9. Dezember.",
-"price": "Eintritt frei",
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "9ab36de646"
 },
 {
 "title": "Miniaturen bemalen",
@@ -1575,30 +1603,6 @@
 "id": "21f75b003f"
 },
 {
-"title": "30 Jahre Paläobotanische Sammlung Rossmann",
-"subtitle": "Festakt mit Vortrag und Lesung",
-"date": "2026-10-19",
-"end_date": null,
-"time": "18:00",
-"venue": "Universität Bayreuth – Gebäude NW III, Universitätsstraße 30",
-"organizer": "Paläobotanische Sammlung Rossmann Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Paläobotanik",
-"Sammlung",
-"Jubiläum",
-"Eintritt frei"
-],
-"description": "Mit einem Festakt aus Vortrag und Lesung begeht die Paläobotanische Sammlung Rossmann ihr 30-jähriges Bestehen. Eine Anmeldung ist nicht nötig.",
-"price": "kostenlos",
-"url": "http://www.pbs.uni-bayreuth.de",
-"sources": [
-"Paläobotanische Sammlung Rossmann"
-],
-"house": "Universität",
-"id": "7d6f292597"
-},
-{
 "title": "Bayreuth Lectures: Antonette Mendoza",
 "subtitle": "Englischsprachige Vorträge im Studium Generale",
 "date": "2026-10-19",
@@ -1622,6 +1626,29 @@
 ],
 "house": "Universität",
 "id": "6716a0bebc"
+},
+{
+"title": "Polnische Filmreihe: Lalka (The Doll)",
+"subtitle": null,
+"date": "2026-10-20",
+"end_date": null,
+"time": "11:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"Polnische Filmreihe",
+"Literaturverfilmung",
+"OmeU"
+],
+"description": "Verfilmung des Romans von Bolesław Prus (Regie: Maciej Kawalski, Polen 2026) über den Kaufmann Wokulski und seine unglückliche Liebe zu Izabela Łęcka; polnisches Original mit englischen Untertiteln.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "09531cecde"
 },
 {
 "title": "Wissenschaft gegen Faschismus",
@@ -1699,7 +1726,7 @@
 "subtitle": null,
 "date": "2026-10-20",
 "end_date": null,
-"time": "20:00",
+"time": "19:30",
 "venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
 "organizer": null,
 "category": "Pop, Rock & Jazz",
@@ -1769,6 +1796,29 @@
 ],
 "house": "Neuneinhalb",
 "id": "88ae7fd5f4"
+},
+{
+"title": "Games Industry Talk: Von Community zu Game Design",
+"subtitle": "Ein Karriereweg in der Spielebranche – mit Dorothea Drobbe",
+"date": "2026-10-21",
+"end_date": null,
+"time": "14:15",
+"venue": "Universität Bayreuth – Zapf, Gebäude 4, Seminarraum, Nürnberger Straße 38",
+"organizer": "Game Innovation Lab der Universität Bayreuth",
+"category": "Games",
+"tags": [
+"Game Design",
+"Vortrag",
+"Spielebranche"
+],
+"description": "Dorothea Drobbe, Lead Game Designer bei Studio Deloryan, erzählt von ihrem Weg aus der Spieler-Community in die Spieleentwicklung. Teilnahme vor Ort oder per Zoom, kostenlos.",
+"price": "frei",
+"url": "https://events.games-bavaria.com/event/%f0%9f%8e%ae%f0%9f%92%ac-games-industry-talk-von-community-zu-game-design-ein-karriereweg-in-der-spielebranche/",
+"sources": [
+"Game Innovation Lab (Universität Bayreuth) via Games/Bavaria"
+],
+"house": "Universität",
+"id": "2969d48e6f"
 },
 {
 "title": "5. Bayreuther Tastenlöwen-Festival – Pianomarathon",
@@ -2095,6 +2145,29 @@
 ],
 "house": "Botanischer Garten",
 "id": "b294378250"
+},
+{
+"title": "Offenes Magic Spielen",
+"subtitle": null,
+"date": "2026-10-23",
+"end_date": "2026-10-30",
+"time": "18:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Magic: The Gathering",
+"Kartenspiel",
+"Spieletreff"
+],
+"description": "Offene Runde für das Sammelkartenspiel Magic: The Gathering, freitags von 18 bis 23 Uhr; im Kalender stehen bislang der 23. und 30.10.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "83e747978f"
 },
 {
 "title": "750 Elefanten ziehen in Malawi um",
@@ -2914,6 +2987,29 @@
 "id": "f0578b989b"
 },
 {
+"title": "Französischer Spielenachmittag: Taboo",
+"subtitle": null,
+"date": "2026-10-25",
+"end_date": null,
+"time": "14:30",
+"venue": "Internationaler Zirkel, Schulstraße 5",
+"organizer": "Deutsch-Französische Gesellschaft Bayreuth",
+"category": "Games",
+"tags": [
+"Spielenachmittag",
+"Französisch",
+"Sprache"
+],
+"description": "Begriffe-Ratespiel auf Französisch, bei dem kooperativ statt gegeneinander gespielt wird; Ziel ist, möglichst viel Französisch zu sprechen. 14.30 bis 18.30 Uhr, Anmeldung über die Website.",
+"price": null,
+"url": "https://www.dfg-bayreuth.de/details-registrierung/franzosischer-spielenachmittag-taboo",
+"sources": [
+"Deutsch-Französische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "a9f2f6bb28"
+},
+{
 "title": "Konzertfilm: BTS Tour ARIRANG in Buenos Aires – Live Viewing",
 "subtitle": null,
 "date": "2026-10-25",
@@ -3588,6 +3684,29 @@
 "id": "5a8037dff1"
 },
 {
+"title": "Dorf-Mittwoch mit Jonas Taubmann",
+"subtitle": null,
+"date": "2026-10-28",
+"end_date": null,
+"time": "18:00",
+"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
+"organizer": "Bayreuther Winterdorf",
+"category": "Club & Party",
+"tags": [
+"Winterdorf",
+"Musik",
+"Eintritt frei"
+],
+"description": "Jonas Taubmann sorgt von 18 bis 23 Uhr für Musik von aktuellen Hits bis zu Klassikern zwischen den Hütten.",
+"price": "Eintritt frei",
+"url": "https://winterdorf-bayreuth.de/events/jonas-taubmann-824/",
+"sources": [
+"Bayreuther Winterdorf"
+],
+"house": "Winterdorf",
+"id": "7e44049503"
+},
+{
 "title": "Schreibkreis „Thoughts to Page“",
 "subtitle": null,
 "date": "2026-10-28",
@@ -3732,8 +3851,8 @@
 "Dinner",
 "interaktiv"
 ],
-"description": "Krimikomödie mit Menü (29. und 30.10.).",
-"price": "94,90 €",
+"description": "Krimikomödie mit Menü am 29. und 30.10.; für den 30.10. ist der Vorverkauf geschlossen.",
+"price": "89,90–94,90 €",
 "url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/hotel-restaurant-lohmuehle",
 "sources": [
 "Das Kriminal Dinner",
@@ -3944,6 +4063,30 @@
 "id": "3b7d65e953"
 },
 {
+"title": "Rock im Winterdorf",
+"subtitle": "mit Dr. Michael Hohl und Prof. Dr. Stefan Leible",
+"date": "2026-10-30",
+"end_date": null,
+"time": "18:00",
+"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
+"organizer": "Bayreuther Winterdorf",
+"category": "Club & Party",
+"tags": [
+"Rock",
+"Winterdorf",
+"DJ",
+"Eintritt frei"
+],
+"description": "Altoberbürgermeister Michael Hohl und Universitätspräsident Stefan Leible legen von 18 bis 23 Uhr gemeinsam Rockklassiker auf.",
+"price": "Eintritt frei",
+"url": "https://winterdorf-bayreuth.de/events/rock-im-winterdorf-234/",
+"sources": [
+"Bayreuther Winterdorf"
+],
+"house": "Winterdorf",
+"id": "d26816aeb2"
+},
+{
 "title": "Märchenhaftes Frankreich – 60 Jahre Freundschaft Annecy-Bayreuth",
 "subtitle": "60 Jahre Freundschaft Annecy–Bayreuth",
 "date": "2026-10-30",
@@ -3968,6 +4111,29 @@
 ],
 "house": "RW21",
 "id": "dba960c5b1"
+},
+{
+"title": "Games Night im Zapf",
+"subtitle": "Brett- und Kartenspielabend des Game Innovation Lab",
+"date": "2026-10-30",
+"end_date": "2026-12-11",
+"time": "19:00",
+"venue": "Universität Bayreuth – Zapf, Nürnberger Straße 38",
+"organizer": "Game Innovation Lab der Universität Bayreuth",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Kartenspiele",
+"Spieleabend"
+],
+"description": "Offener Abend mit Brett- und Kartenspielen, während des Semesters alle zwei Wochen donnerstags ab 19 Uhr (Start 16.10.). Termine im Zeitraum laut Zwei-Wochen-Rhythmus: 30.10., 13.11., 27.11., 11.12.",
+"price": null,
+"url": "https://medienwissenschaft.uni-bayreuth.de/gil/kultur/",
+"sources": [
+"Game Innovation Lab (Universität Bayreuth)"
+],
+"house": "Universität",
+"id": "17aa5d6a27"
 },
 {
 "title": "Lesung mit Birgit Gruber",
@@ -4184,6 +4350,29 @@
 "id": "c480807ea2"
 },
 {
+"title": "Halloween für Kids",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "15:00",
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Halloween",
+"Kinderparty",
+"Familie"
+],
+"description": "Nachmittagsparty für jüngere Halloween-Gäste von 15 bis 18 Uhr.",
+"price": "5 €, Familienticket 15 €",
+"url": "https://www.bayreuther-tagblatt.de/nachrichten-meldungen-news/halloween-wo-die-partys-in-bayreuth-steigen/",
+"sources": [
+"Hinweis: Bayreuther Tagblatt"
+],
+"house": "Clubs",
+"id": "deb9e83384"
+},
+{
 "title": "Schmetterlinge im Bauch – Techno Classics (Halloween Edition)",
 "subtitle": null,
 "date": "2026-10-31",
@@ -4231,6 +4420,30 @@
 ],
 "house": "Friedrichsforum",
 "id": "643300e7d2"
+},
+{
+"title": "Halloween Party – 80s & 90s",
+"subtitle": "mit DJ Slivo, DJ Omme und Dr. Fernet",
+"date": "2026-10-31",
+"end_date": null,
+"time": "20:00",
+"venue": "Gaststätte Becher – Bechersaal",
+"organizer": "Becher Bräu",
+"category": "Club & Party",
+"tags": [
+"Halloween",
+"80er",
+"90er",
+"DJ"
+],
+"description": "Halloween-Party mit Hits der 80er und 90er Jahre im Bechersaal; das Kartenkontingent ist auf 200 Tickets begrenzt.",
+"price": null,
+"url": "https://vvk-tickets.de/ticketshop/80er-90er-hits-im-bechersaal",
+"sources": [
+"Gaststätte Becher"
+],
+"house": "Becher Bräu",
+"id": "7d684577b5"
 },
 {
 "title": "Matthias Walz: Der böse Mann am Klavier",
@@ -4284,6 +4497,29 @@
 ],
 "house": "Botanischer Garten",
 "id": "ac1b034348"
+},
+{
+"title": "Führung durch Schloss Carolinenruhe",
+"subtitle": "Wohnräume der Sommerresidenz der Markgräfin Caroline",
+"date": "2026-11-01",
+"end_date": "2026-12-06",
+"time": "14:00",
+"venue": "Schloss Colmdorf (Carolinenruhe), Colmdorf 8",
+"organizer": "Schloss Colmdorf",
+"category": "Führung",
+"tags": [
+"Schloss",
+"Markgrafen",
+"Führung"
+],
+"description": "Rundgang durch die Wohnräume des kleinen Sommerschlosses der Markgräfin Caroline in Colmdorf, jeweils am ersten Sonntag des Monats (1.11. und 6.12.). Gruppen ab zehn Personen können auch andere Termine telefonisch vereinbaren.",
+"price": null,
+"url": "https://schloss-colmdorf.de/en/start-en/",
+"sources": [
+"Schloss Colmdorf"
+],
+"house": "Schlösser & Eremitage",
+"id": "b0df0211d8"
 },
 {
 "title": "Wurzelzeit: Apotheke unter der Erde",
@@ -5747,6 +5983,29 @@
 "id": "0b7f2db94e"
 },
 {
+"title": "Cozy Autumn Evening",
+"subtitle": null,
+"date": "2026-11-09",
+"end_date": null,
+"time": "19:00",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Ambient",
+"Lesen",
+"Handarbeit"
+],
+"description": "Ruhiger Herbstabend mit Ambient-Musik, bei dem Gäste lesen, stricken oder häkeln können. Ab 18 Jahren, Glashaus-Mitgliedschaft erforderlich.",
+"price": "frei (Mitgliedschaft 1 €/Monat bzw. 6 €/Jahr)",
+"url": "https://www.glashaus.org/programm/cozy-autumn-evening",
+"sources": [
+"Glashaus"
+],
+"house": "Glashaus",
+"id": "af638c58c4"
+},
+{
 "title": "SilberFILM: Drei Männer im Schnee",
 "subtitle": "Seniorenkino",
 "date": "2026-11-10",
@@ -5965,6 +6224,29 @@
 ],
 "house": "Weitere Orte",
 "id": "6d154116d3"
+},
+{
+"title": "Die lebendige Linie: Aktzeichnen",
+"subtitle": null,
+"date": "2026-11-11",
+"end_date": "2026-11-23",
+"time": "18:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e.V.",
+"category": "Ausstellung",
+"tags": [
+"Zeichnen",
+"Aktmodell",
+"Mitmachen"
+],
+"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung; Termine am 11. und 23.11., jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
+"price": "5 €",
+"url": "https://region-bayreuth.de/veranstaltung/lebendige-linie-aktzeichnen-bayreuth-95445-hubpso",
+"sources": [
+"Neuneinhalb e.V. (nur Stadt, Land, Leben)"
+],
+"house": "Neuneinhalb",
+"id": "91be9ced60"
 },
 {
 "title": "St.-Martin – kein Kinderkram",
@@ -6502,6 +6784,29 @@
 "id": "21b2b313d5"
 },
 {
+"title": "Franken Game Jam 2026",
+"subtitle": "Standort Bayreuth im Games Innovation Lab",
+"date": "2026-11-13",
+"end_date": "2026-11-15",
+"time": null,
+"venue": "Games Innovation Lab der Universität Bayreuth",
+"organizer": "Franken Game Jam",
+"category": "Games",
+"tags": [
+"Game Jam",
+"Spieleentwicklung",
+"Wochenende"
+],
+"description": "Ein Wochenende lang entwickeln Teams in rund 48 Stunden Spielprototypen – gleichzeitig an mehreren fränkischen Standorten, darunter Bayreuth, und online. Ausdrücklich kein Wettbewerb.",
+"price": null,
+"url": "https://www.frankengamejam.de/",
+"sources": [
+"Franken Game Jam"
+],
+"house": "Universität",
+"id": "df8392a26f"
+},
+{
 "title": "Wagner-Wochenende: Leben und Werk",
 "subtitle": "Leben und Werk in acht Vorträgen mit Dr. Sven Friedrich",
 "date": "2026-11-14",
@@ -7009,6 +7314,29 @@
 "id": "c1f0d633ca"
 },
 {
+"title": "Frauen in der Kirchengeschichte",
+"subtitle": "Vortrags- und Gesprächsabend / Women in Church History",
+"date": "2026-11-17",
+"end_date": null,
+"time": "20:00",
+"venue": "Katholische Hochschulgemeinde Bayreuth, Emil-Warburg-Weg 17",
+"organizer": "Katholische Hochschulgemeinde Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Vortrag",
+"Kirchengeschichte",
+"Frauen"
+],
+"description": "Zweisprachiger Vortrags- und Gesprächsabend über Frauen in der Geschichte der Kirche.",
+"price": null,
+"url": "https://www.khg-in-bayreuth.de/event/frauen-in-der-kirchngeschichte-vortrags-gespraechsabend-women-in-church-history-lecture-and-discussion-evening/",
+"sources": [
+"Katholische Hochschulgemeinde Bayreuth"
+],
+"house": "Kirchen",
+"id": "e8fdf18656"
+},
+{
 "title": "Ringlstetter & Zinner: Irgendwas mit Küche",
 "subtitle": "Irgendwas mit Küche",
 "date": "2026-11-17",
@@ -7211,6 +7539,29 @@
 "id": "fa5e9c5b6d"
 },
 {
+"title": "Schwarze Magie: Kohlenstoffe für den Wandel in der Chemie",
+"subtitle": "JCV-Vortrag mit Prof. Dr. Markus Antonietti (MPI Potsdam)",
+"date": "2026-11-19",
+"end_date": null,
+"time": "17:00",
+"venue": "Universität Bayreuth, Gebäude NW I, Hörsaal H 14",
+"organizer": "Chemie an der Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Chemie",
+"Wissenschaft",
+"Universität"
+],
+"description": "Der Kolloidchemiker Markus Antonietti vom Max-Planck-Institut in Potsdam spricht über Kohlenstoffmaterialien und ihre Rolle für eine nachhaltigere Chemie.",
+"price": null,
+"url": "https://www.chemiestudium.uni-bayreuth.de/de/Vortraege/index.html",
+"sources": [
+"Universität Bayreuth – Chemie (Vorträge und Ringvorlesungen)"
+],
+"house": "Universität",
+"id": "3e81e2a6b5"
+},
+{
 "title": "CineArt: Chopin – Eine Sonate in Paris",
 "subtitle": null,
 "date": "2026-11-19",
@@ -7232,32 +7583,6 @@
 ],
 "house": "Kino",
 "id": "6f77022e30"
-},
-{
-"title": "Das Kriminal Dinner: Und raus bist du",
-"subtitle": null,
-"date": "2026-11-19",
-"end_date": "2026-11-20",
-"time": "19:00",
-"venue": "Hotel & Restaurant Lohmühle, Badstraße 37",
-"organizer": "Das Kriminal Dinner",
-"category": "Theater",
-"tags": [
-"Krimidinner",
-"Menü",
-"Krimi",
-"Dinner",
-"interaktiv"
-],
-"description": "Krimitheater mit Menü (19. und 20.11.).",
-"price": "94,90 €",
-"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/hotel-restaurant-lohmuehle",
-"sources": [
-"Das Kriminal Dinner",
-"Das Kriminal Dinner (Lohmühle)"
-],
-"house": "Weitere Orte",
-"id": "5906453027"
 },
 {
 "title": "Bilderbuchkino: Uhuwe liest vor",
@@ -7304,6 +7629,55 @@
 ],
 "house": "Universität",
 "id": "d340971ed1"
+},
+{
+"title": "Das Kriminal Dinner: Und raus bist du",
+"subtitle": null,
+"date": "2026-11-20",
+"end_date": null,
+"time": "19:00",
+"venue": "Hotel & Restaurant Lohmühle, Badstraße 37",
+"organizer": "Das Kriminal Dinner",
+"category": "Theater",
+"tags": [
+"Krimidinner",
+"Menü",
+"Krimi",
+"Dinner",
+"interaktiv"
+],
+"description": "Krimitheater mit Menü am 20.11. (laut Veranstalter einziger Termin im November).",
+"price": "94,90 €",
+"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/hotel-restaurant-lohmuehle",
+"sources": [
+"Das Kriminal Dinner",
+"Das Kriminal Dinner (Lohmühle)"
+],
+"house": "Weitere Orte",
+"id": "ba81e8aa7a"
+},
+{
+"title": "Beaujolais-Abend mit Chansons von Cécile Rose",
+"subtitle": "Mit dem Trio Scho",
+"date": "2026-11-20",
+"end_date": null,
+"time": "19:30",
+"venue": "Lindenhof, Karolinenreuther Straße 58",
+"organizer": "Deutsch-Französische Gesellschaft Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Chanson",
+"Frankreich",
+"Akkordeon"
+],
+"description": "Traditioneller Abend zum neuen Beaujolais, bei dem die Sängerin Cécile Rose französische Chansons singt, begleitet von Akkordeon, Geige, Gitarre und Kontrabass. Einlass 18.30 Uhr; laut Veranstalter ausverkauft.",
+"price": "16–19 € (ausverkauft)",
+"url": "https://www.dfg-bayreuth.de/details-registrierung/beaujolais-abend-2026",
+"sources": [
+"Deutsch-Französische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "2034298a81"
 },
 {
 "title": "Niels Gade Quartet",
@@ -8582,7 +8956,7 @@
 "title": "Der Messias",
 "subtitle": null,
 "date": "2026-11-27",
-"end_date": "2026-12-18",
+"end_date": "2026-12-20",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -8592,7 +8966,7 @@
 "Weihnachten",
 "Zwei-Personen-Stück"
 ],
-"description": "Komödie, in der zwei Darsteller die ganze Weihnachtsgeschichte allein spielen wollen und dabei im Chaos landen. Termine im Zeitraum: 27. November, 4., 11. und 18. Dezember, jeweils 20 Uhr.",
+"description": "Komödie, in der zwei Darsteller die ganze Weihnachtsgeschichte allein spielen wollen und dabei im Chaos landen. Termine im Zeitraum: 27. November, 4., 11. und 18. Dezember jeweils 20 Uhr sowie 20. Dezember um 17 Uhr.",
 "price": "12–22 €",
 "url": "https://dienaturbuehne.de/produkt/der-messias-2026-11-27/",
 "sources": [
@@ -9944,7 +10318,7 @@
 },
 {
 "title": "Save Your Tears Vol. 8",
-"subtitle": null,
+"subtitle": "mit Dagger Threat, Drøver, Brotherfight und Without A Word",
 "date": "2026-12-05",
 "end_date": null,
 "time": "19:30",
@@ -9956,8 +10330,8 @@
 "Livemusik",
 "Konzertreihe"
 ],
-"description": "Achte Ausgabe der Konzertreihe „Save Your Tears“ im Zentrum. Das Programm ist noch nicht veröffentlicht, der Vorverkauf startet demnächst.",
-"price": null,
+"description": "Achte Ausgabe der Hardcore-Konzertreihe im Zentrum: Dagger Threat spielen als Hauptact, dazu Drøver, Brotherfight und Without A Word.",
+"price": "ca. 25 €",
 "url": "https://www.das-zentrum.de/veranstaltung/save-your-tears-vol-8/",
 "sources": [
 "Das Zentrum (eventim-light)"
@@ -11070,6 +11444,29 @@
 "id": "28b110ac75"
 },
 {
+"title": "Weihnachtskonzert des Robert-Eller-Chors",
+"subtitle": null,
+"date": "2026-12-17",
+"end_date": null,
+"time": null,
+"venue": "Ordenskirche St. Georgen, Bayreuth",
+"organizer": "Robert-Eller-Chor Bayreuth",
+"category": "Klassik",
+"tags": [
+"Chor",
+"Weihnachten",
+"Konzert"
+],
+"description": "Weihnachtliches Chorkonzert in der Ordenskirche; der Chor nennt den Termin als vorläufig, Uhrzeit noch offen.",
+"price": null,
+"url": "https://www.robert-eller-chor.de/nächste-auftritte/",
+"sources": [
+"Robert-Eller-Chor"
+],
+"house": "Kirchen",
+"id": "db9947cd4d"
+},
+{
 "title": "Bayreuther Weihnachtscircus 2026/27",
 "subtitle": null,
 "date": "2026-12-18",
@@ -11154,7 +11551,7 @@
 "Uraufführung",
 "Schauspiel"
 ],
-"description": "Uraufführung von Uwe Hoppes Bühnenfassung nach Robert Musils Roman über Demütigung und Gewalt unter Internatsschülern. Weitere Vorstellung am 27. Dezember, 17 Uhr.",
+"description": "Uraufführung von Uwe Hoppes Bühnenfassung nach Robert Musils Roman über Demütigung und Gewalt unter Internatsschülern. Weitere Vorstellungen laut Spielplan am 27. Dezember (17 Uhr) und 31. Dezember (20 Uhr).",
 "price": null,
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2164&collection_code=produktionen",
 "sources": [
@@ -11302,6 +11699,99 @@
 ],
 "house": "Friedrichsforum",
 "id": "5b5a13eea7"
+},
+{
+"title": "Royal Ballet live im Kino: Der Nussknacker",
+"subtitle": null,
+"date": "2026-12-20",
+"end_date": null,
+"time": "11:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Tanz",
+"tags": [
+"Ballett",
+"Royal Ballet",
+"Übertragung",
+"OmU"
+],
+"description": "Übertragung von Tschaikowskys Ballett „Der Nussknacker“ aus dem Royal Opera House London in der Reihe Klassik & Co.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "d21c4d239f"
+},
+{
+"title": "Krippenspiel der Kreuzkirche",
+"subtitle": null,
+"date": "2026-12-20",
+"end_date": null,
+"time": "13:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Ev.-Luth. Kreuzkirche Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Krippenspiel",
+"Christkindlesmarkt",
+"Weihnachten"
+],
+"description": "Die Kreuzkirchengemeinde führt auf der Aktionsbühne des Christkindlesmarkts ihr Krippenspiel auf.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/krippenspiel-kreuz-kirche-bayreuth-95444-b0yjp1",
+"sources": [
+"Kreuzkirche Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "e206c4baa9"
+},
+{
+"title": "SANGESLUST 2026: Weihnachtskonzert mit magpie alley",
+"subtitle": null,
+"date": "2026-12-20",
+"end_date": null,
+"time": "20:00",
+"venue": "Friedrichsforum – Balkonsaal",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"A cappella",
+"Weihnachten",
+"Sangeslust"
+],
+"description": "Das Vokalensemble magpie alley gibt im Rahmen des A-cappella-Festivals Sangeslust ein Weihnachtskonzert im Balkonsaal.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261220-magpie-alley",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "c0a1ca3a4e"
+},
+{
+"title": "Weihnachtssingen im Städtischen Stadion",
+"subtitle": null,
+"date": "2026-12-20",
+"end_date": null,
+"time": null,
+"venue": "Städtisches Stadion Bayreuth",
+"organizer": "Robert-Eller-Chor Bayreuth",
+"category": "Klassik",
+"tags": [
+"Weihnachtssingen",
+"Chor",
+"Mitsingen"
+],
+"description": "Erstmals geplantes Weihnachtssingen im Stadion unter Mitwirkung des Robert-Eller-Chors; Uhrzeit und Einzelheiten noch nicht veröffentlicht.",
+"price": null,
+"url": "https://www.robert-eller-chor.de/nächste-auftritte/",
+"sources": [
+"Robert-Eller-Chor"
+],
+"house": "Weitere Orte",
+"id": "ffc8e568b2"
 }
 ]
 }
