@@ -1,7 +1,7 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-20T11:39+02:00",
- "heute_bis_abruf": 3,
+ "abgerufen": "2026-10-20T11:41+02:00",
+ "heute_bis_abruf": 4,
  "gestern": {
   "von": "2026-10-19",
   "bis": "2026-10-19",
@@ -13,18 +13,22 @@
    {
     "name": "Chrome",
     "besucher": 3
+   },
+   {
+    "name": "Safari",
+    "besucher": 1
    }
   ],
   "systeme": [
    {
     "name": "macOS",
-    "besucher": 3
+    "besucher": 4
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 0
+    "besucher": 1
    },
    {
     "name": "",
@@ -46,7 +50,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 3
+    "besucher": 4
    }
   ]
  },
@@ -61,18 +65,22 @@
    {
     "name": "Chrome",
     "besucher": 3
+   },
+   {
+    "name": "Safari",
+    "besucher": 1
    }
   ],
   "systeme": [
    {
     "name": "macOS",
-    "besucher": 3
+    "besucher": 4
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 0
+    "besucher": 1
    },
    {
     "name": "",
@@ -94,7 +102,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 3
+    "besucher": 4
    }
   ]
  },
@@ -109,18 +117,22 @@
    {
     "name": "Chrome",
     "besucher": 3
+   },
+   {
+    "name": "Safari",
+    "besucher": 1
    }
   ],
   "systeme": [
    {
     "name": "macOS",
-    "besucher": 3
+    "besucher": 4
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 0
+    "besucher": 1
    },
    {
     "name": "",
@@ -142,7 +154,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 3
+    "besucher": 4
    }
   ]
  },
