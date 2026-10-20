@@ -41,12 +41,13 @@ def block(days, details=False):
     hits = api("stats/hits", limit=15, **r) or {}
     refs = api("stats/toprefs", limit=10, **r) or {}
     out = {"von": r["start"][:10], "bis": yday.isoformat(),
-           "besucher": tot.get("total"), "besucher_ohne_events": tot.get("total_utc", None),
+           "besucher": tot.get("total"),
            "seiten": [{"pfad": h.get("path"), "titel": h.get("title"), "besucher": h.get("count")}
                       for h in hits.get("hits", [])],
            "herkunft": [{"name": s.get("name") or "(direkt)", "besucher": s.get("count")}
                         for s in refs.get("stats", [])]}
-    for page, key in (() if not details else ("browsers", "browser"), ("systems", "systeme"), ("sizes", "bildschirm"), ("locations", "laender")):
+    pages = (("browsers", "browser"), ("systems", "systeme"), ("sizes", "bildschirm"), ("locations", "laender")) if details else ()
+    for page, key in pages:
         d = api(f"stats/{page}", limit=8, **r) or {}
         out[key] = [{"name": s.get("name"), "besucher": s.get("count")} for s in d.get("stats", [])]
     return out, tot
@@ -60,6 +61,7 @@ verlauf = [{"tag": s.get("day"), "besucher": s.get("daily")} for s in verlauf_ra
 
 data = {"quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
         "abgerufen": datetime.datetime.now(tz).isoformat(timespec="minutes"),
+        "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
         "heute_bis_abruf": heute.get("total"), "gestern": gestern, "letzte_7_tage": woche, "letzte_28_tage": monat, "verlauf_90_tage": verlauf}
 if gestern.get("besucher") is None and woche.get("besucher") is None:
     print("keine Daten erhalten – Datei bleibt unverändert", file=sys.stderr); sys.exit(1)
