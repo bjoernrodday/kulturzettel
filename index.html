@@ -122,14 +122,15 @@ footer .nb{white-space:nowrap}
 footer .legal a{color:var(--ink);text-underline-offset:3px}
 
 
-/* Kino-Hinweis */
-.kino{display:flex;align-items:center;justify-content:space-between;gap:12px 28px;flex-wrap:wrap;background:var(--accent);color:var(--accent-ink);text-decoration:none;padding:16px 22px;margin-bottom:22px}
-.kino:hover .kino-go{background:var(--accent-ink);color:var(--accent)}
+/* Kino-Hinweis / Querverweis */
+.kino{display:flex;align-items:center;justify-content:space-between;gap:12px 28px;flex-wrap:wrap;background:var(--sheet);color:var(--ink);text-decoration:none;padding:14px 20px;margin-bottom:22px;border:1px solid var(--rule);border-left:4px solid var(--accent);transition:border-color .15s}
+.kino:hover{border-color:var(--ink);border-left-color:var(--accent)}
+.kino:hover .kino-go{background:var(--ink);color:var(--paper)}
 .kino-l{display:flex;flex-direction:column;gap:2px;min-width:0}
-.kino-k{font:500 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;opacity:.85}
-.kino-t{font:600 clamp(20px,2.4vw,28px)/1.2 var(--display);letter-spacing:-.01em}
-.kino-s{font-size:14px;opacity:.9}
-.kino-go{font:500 13px var(--mono);border:1px solid var(--accent-ink);border-radius:999px;padding:8px 14px;white-space:nowrap;transition:background .15s,color .15s}
+.kino-k{font:500 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.kino-t{font:600 clamp(18px,2vw,23px)/1.2 var(--display);letter-spacing:-.01em}
+.kino-s{font-size:14px;color:var(--muted)}
+.kino-go{font:500 13px var(--mono);border:1px solid var(--ink);border-radius:999px;padding:7px 13px;white-space:nowrap;transition:background .15s,color .15s}
 .load{padding:40px 0;font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 
 @media (max-width:860px){

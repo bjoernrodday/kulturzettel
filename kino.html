@@ -138,6 +138,16 @@ footer .legal a{color:var(--ink);text-underline-offset:3px}
   .mast h1{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
   @keyframes rise{from{opacity:.001;transform:translateY(18px)}to{opacity:1;transform:none}}
 }
+
+/* Kino-Hinweis / Querverweis */
+.kino{display:flex;align-items:center;justify-content:space-between;gap:12px 28px;flex-wrap:wrap;background:var(--sheet);color:var(--ink);text-decoration:none;padding:14px 20px;margin-bottom:22px;border:1px solid var(--rule);border-left:4px solid var(--accent);transition:border-color .15s}
+.kino:hover{border-color:var(--ink);border-left-color:var(--accent)}
+.kino:hover .kino-go{background:var(--ink);color:var(--paper)}
+.kino-l{display:flex;flex-direction:column;gap:2px;min-width:0}
+.kino-k{font:500 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.kino-t{font:600 clamp(18px,2vw,23px)/1.2 var(--display);letter-spacing:-.01em}
+.kino-s{font-size:14px;color:var(--muted)}
+.kino-go{font:500 13px var(--mono);border:1px solid var(--ink);border-radius:999px;padding:7px 13px;white-space:nowrap;transition:background .15s,color .15s}
 .film{display:grid;grid-template-columns:62px minmax(0,1fr) auto;gap:4px 18px;padding-block:20px;border-bottom:1px solid var(--rule)}
 .film .t{font:500 14px/1.9 var(--mono);font-variant-numeric:tabular-nums}
 .film h3{font:600 clamp(19px,2vw,23px)/1.2 var(--display);margin:0;text-wrap:balance}
@@ -170,6 +180,11 @@ a.show:hover{background:var(--ink);color:var(--paper)}
     <div class="stats" id="stats"></div>
   </div>
 </header>
+
+<div class="wrap"><a class="kino" href="index.html">
+  <span class="kino-l"><span class="kino-k">← Zurück zum Kulturzettel</span><span class="kino-t">Alle Kulturtermine in Bayreuth</span><span class="kino-s">Bühnen, Konzerte, Ausstellungen, Führungen und Film-Sonderveranstaltungen der nächsten zwei Monate</span></span>
+  <span class="kino-go">← Zum Kulturzettel</span>
+</a></div>
 
 <nav class="bar" aria-label="Filter">
   <div class="wrap bar-in">
