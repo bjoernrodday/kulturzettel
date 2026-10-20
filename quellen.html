@@ -36,4 +36,5 @@ fetch("events.json",{cache:"no-cache"}).then(r=>r.json()).then(d=>{
   if(d.updated){const u=new Date(d.updated);document.getElementById("stand").textContent=list.length+" Quellen · Stand "+u.toLocaleDateString("de-DE",{day:"numeric",month:"long",year:"numeric"})}
 }).catch(()=>{document.getElementById("srcs").innerHTML='<li class="small">Die Liste konnte gerade nicht geladen werden.</li>'});
 </script>
-</div></body></html>
+</div><script data-goatcounter="https://brodday.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>
