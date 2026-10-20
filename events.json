@@ -1751,15 +1751,13 @@
 "time": "20:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
-"category": "Kabarett & Comedy",
+"category": "Film",
 "tags": [
-"Kabarett",
-"Event-Kino",
-"Dokumentation",
-"Ukraine",
-"Popkultur"
+"Dokumentarfilm",
+"OmU",
+"Kabarett"
 ],
-"description": "Kabarett-Programm von Kuzma auf der Kinoleinwand.",
+"description": "Dokumentarfilm über den Kabarettisten Kuzma, im Cineplex in Originalfassung mit Untertiteln.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [

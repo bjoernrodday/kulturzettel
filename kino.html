@@ -1,0 +1,262 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style><title>Kinozettel Bayreuth</title><meta name="description" content="Alle Filme, die heute in Bayreuth laufen – mit allen Vorstellungen des Tages, direkt aus den Programmen der Kinos."></head><body>
+
+<link rel="stylesheet" href="fonts/fonts.css">
+<style>
+/* Layout: Programmheft – Masthead, Fokus-Strecke, dann Tage als Doppelspalte (große Tagesziffer links, Termine rechts) */
+:root{
+  --paper:#EDEFF2; --sheet:#F7F8FA; --ink:#14161B; --muted:#5A616C; --rule:#C9CED6;
+  --accent:#A8122A; --accent-ink:#FFF7F5; --accent-soft:#F3DADD;
+  --display:"Figtree", "Helvetica Neue", Arial, sans-serif;
+  --body:"Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --gut:clamp(16px,4vw,56px);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#101216; --sheet:#171A1F; --ink:#ECEDEF; --muted:#99A0AA; --rule:#2B3038;
+  --accent:#E04A5E; --accent-ink:#1A0508; --accent-soft:#3A1A20; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#101216; --sheet:#171A1F; --ink:#ECEDEF; --muted:#99A0AA; --rule:#2B3038;
+  --accent:#E04A5E; --accent-ink:#1A0508; --accent-soft:#3A1A20; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:400 16px/1.55 var(--body);margin:0}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:var(--gut)}
+
+/* Masthead */
+.mast{padding-block:28px 22px}
+.mast-top{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:500 12px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.mast-top a{color:inherit;text-underline-offset:3px}
+.mast-top a:hover{color:var(--accent)}
+.mast h1{font:700 clamp(50px,11vw,160px)/.9 var(--display);letter-spacing:-.04em;margin:18px 0 0}
+.mast h1 span{color:var(--accent)}
+.mast-sub{display:flex;justify-content:space-between;align-items:end;gap:16px 32px;flex-wrap:wrap;margin-top:14px}
+.mast-sub p{margin:0;max-width:40ch;font-size:17px;line-height:1.4}
+.intro{display:flex;flex-direction:column;gap:10px}
+.mast-sub p.note{max-width:52ch;font-size:12.5px;line-height:1.45;color:var(--muted)}
+.stats{display:flex;gap:28px;font-variant-numeric:tabular-nums}
+.stats div{display:flex;flex-direction:column}
+.stats b{font:700 32px/1 var(--display);letter-spacing:-.02em}
+.stats small{font:500 11px/1.4 var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:4px}
+
+/* Filter */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-block:1px solid var(--ink);margin-top:8px}
+.bar-in{display:flex;flex-direction:column;gap:10px;padding-block:12px}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.row-label{font:500 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);width:64px;flex:none}
+.chip{border:1px solid var(--rule);background:transparent;padding:5px 11px;border-radius:999px;font-size:13.5px;cursor:pointer;white-space:nowrap;transition:border-color .15s,background .15s}
+.chip:hover{border-color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip .c{font:400 11px var(--mono);opacity:.6;margin-left:4px}
+.scroller{display:flex;flex-wrap:wrap;gap:6px;min-width:0;flex:1;padding-block:2px}
+@media (max-width:860px){
+  .scroller{flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:var(--rule) transparent;padding-bottom:6px;
+    -webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent)}
+  .scroller.end{-webkit-mask-image:none;mask-image:none}
+  .scroller::-webkit-scrollbar{height:3px}
+  .scroller::-webkit-scrollbar-thumb{background:var(--rule);border-radius:3px}
+}
+.tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.tools input,.tools select{background:var(--sheet);border:1px solid var(--rule);border-radius:999px;padding:6px 14px;font:inherit;font-size:14px;color:var(--ink);min-width:0}
+.tools input{flex:1 1 200px}
+.tools select{flex:0 1 220px}
+.active-tag{display:none}
+.active-tag.on{display:inline-flex;gap:6px;align-items:center;background:var(--accent-soft);border-color:transparent}
+
+/* Laufend */
+.running{padding-block:36px 8px}
+.sec-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--ink);padding-bottom:8px;margin-bottom:4px}
+.sec-h h2{font:600 26px/1.15 var(--display);letter-spacing:-.01em;margin:0}
+.sec-h span{font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.run-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:0 28px}
+.run{padding-block:14px;border-bottom:1px solid var(--rule);display:flex;flex-direction:column;gap:3px;min-width:0}
+.run .span{font:500 11.5px var(--mono);color:var(--accent);letter-spacing:.04em}
+.run a{font:600 17px/1.25 var(--display);text-decoration:none}
+.run a:hover{text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}
+.run .v{font-size:13.5px;color:var(--muted)}
+.more{margin-top:14px}
+
+/* Programm */
+.prog{padding-block:36px 64px}
+.day{display:grid;grid-template-columns:180px minmax(0,1fr);gap:0 36px;border-top:1px solid var(--ink);padding-top:18px;margin-top:36px}
+.day-mark{position:sticky;top:calc(env(safe-area-inset-top,0px) + 132px);align-self:start}
+.day-mark .n{font:700 96px/.85 var(--display);letter-spacing:-.05em;font-variant-numeric:tabular-nums}
+.day-mark .w{font:600 20px/1.2 var(--display);margin-top:10px}
+.day-mark .m{font:500 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
+.day-mark .today{display:inline-block;margin-top:10px;font:500 10.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;background:var(--accent);color:var(--accent-ink);padding:2px 7px}
+.ev{display:grid;grid-template-columns:62px minmax(0,1fr) auto;gap:4px 18px;padding-block:18px;border-bottom:1px solid var(--rule)}
+.ev:last-child{border-bottom:0}
+.ev .t{font:500 14px/1.9 var(--mono);font-variant-numeric:tabular-nums}
+.ev .cat{font:500 11px/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+.ev h3{font:600 clamp(19px,2vw,23px)/1.2 var(--display);letter-spacing:-.005em;margin:0;text-wrap:balance}
+.ev h3 a{text-decoration:none}
+.ev h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.ev .sub{font:italic 400 15.5px/1.35 var(--body);color:var(--muted);margin-top:3px}
+.ev .desc{margin:8px 0 0;max-width:62ch;font-size:15px}
+.ev .meta{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:10px;font-size:13.5px;color:var(--muted)}
+.ev .meta b{font-weight:500;color:var(--ink)}
+.tags{display:flex;flex-wrap:wrap;gap:4px 10px;margin-top:8px}
+.tag{border:0;background:none;padding:0;font:400 12.5px var(--mono);color:var(--muted);cursor:pointer}
+.tag:hover{color:var(--accent)}
+.acts{align-self:start;display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.cal{position:relative;font:500 12px var(--mono)}
+.cal summary{list-style:none;cursor:pointer;color:var(--muted);padding:2px 4px}
+.cal summary::-webkit-details-marker{display:none}
+.cal summary:hover,.cal[open] summary{color:var(--accent)}
+.cal-menu{position:absolute;right:0;top:calc(100% + 4px);z-index:3;display:flex;flex-direction:column;min-width:170px;background:var(--sheet);border:1px solid var(--ink);padding:4px}
+.cal-menu a{padding:7px 10px;text-decoration:none;white-space:nowrap}
+.cal-menu a:hover{background:var(--ink);color:var(--paper)}
+.ev .link{font:500 12.5px var(--mono);text-decoration:none;border:1px solid var(--ink);padding:6px 10px;white-space:nowrap;border-radius:999px}
+.ev .link:hover{background:var(--ink);color:var(--paper)}
+.ev.feat h3{color:var(--accent)}
+.empty{padding:48px 0;font:500 22px/1.35 var(--display);color:var(--muted)}
+
+footer{border-top:1px solid var(--ink);padding-block:28px 48px;font-size:13.5px;color:var(--muted)}
+footer h2{font:600 20px var(--display);color:var(--ink);margin:0 0 10px}
+.srcs{display:flex;flex-wrap:wrap;gap:4px 16px;margin:0 0 18px;padding:0;list-style:none}
+.srcs a{text-decoration-color:var(--rule);text-underline-offset:3px}
+footer p{max-width:70ch;margin:0 0 8px}
+footer .legal{margin-top:16px;max-width:none}
+footer .nb{white-space:nowrap}
+footer .legal a{color:var(--ink);text-underline-offset:3px}
+
+.load{padding:40px 0;font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+
+@media (max-width:860px){
+  .day{grid-template-columns:minmax(0,1fr)}
+  .day-mark{position:static;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+  .day-mark .n{font-size:64px}
+  .day-mark .w,.day-mark .m,.day-mark .today{margin-top:0}
+  .ev{grid-template-columns:52px minmax(0,1fr)}
+  .acts{grid-column:2;flex-direction:row;align-items:center;justify-self:start;margin-top:8px;gap:14px}
+  .cal-menu{right:auto;left:0}
+  .stats{gap:20px}
+  .row-label{display:none}
+}
+@media (prefers-reduced-motion:no-preference){
+  .mast h1{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes rise{from{opacity:.001;transform:translateY(18px)}to{opacity:1;transform:none}}
+}
+.film{display:grid;grid-template-columns:62px minmax(0,1fr) auto;gap:4px 18px;padding-block:20px;border-bottom:1px solid var(--rule)}
+.film .t{font:500 14px/1.9 var(--mono);font-variant-numeric:tabular-nums}
+.film h3{font:600 clamp(19px,2vw,23px)/1.2 var(--display);margin:0;text-wrap:balance}
+.film h3 a{text-decoration:none}.film h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.film .cat{font:500 11px/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+.film .meta{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:6px;font-size:13.5px;color:var(--muted)}
+.film .meta b{font-weight:500;color:var(--ink)}
+.badge{font:500 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--accent);color:var(--accent);padding:1px 6px;margin-left:8px;vertical-align:3px;white-space:nowrap}
+.shows{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.show{display:flex;flex-direction:column;border:1px solid var(--ink);padding:6px 10px;min-width:92px;text-decoration:none}
+a.show:hover{background:var(--ink);color:var(--paper)}
+.show b{font:600 17px/1.1 var(--mono);font-variant-numeric:tabular-nums}
+.show small{font:400 11.5px/1.35 var(--mono);opacity:.75;margin-top:3px}
+.show.past{border-color:var(--rule);color:var(--muted)}
+.show.past b{text-decoration:line-through;text-decoration-thickness:1px}
+.film .note{font-size:13.5px;color:var(--muted);margin:10px 0 0;max-width:62ch}
+.film .link{align-self:start;font:500 12.5px var(--mono);text-decoration:none;border:1px solid var(--ink);padding:6px 10px;white-space:nowrap;border-radius:999px}
+.film .link:hover{background:var(--ink);color:var(--paper)}
+.film.gone h3{color:var(--muted)}
+.sec-h{margin-top:28px}
+@media (max-width:860px){.film{grid-template-columns:52px minmax(0,1fr)}.film .link{grid-column:2;justify-self:start;margin-top:8px}}
+</style>
+
+<header class="wrap mast">
+  <div class="mast-top"><span id="issue">Bayreuth</span><span class="mast-r"><span id="upd">ohne Gewähr</span> · <a href="index.html">Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></span></div>
+  <h1>Kino<span>zettel</span></h1>
+  <div class="mast-sub">
+    <div class="intro"><p>Alle Filme, die <b>heute</b> in Bayreuth laufen – mit allen Vorstellungen des Tages.</p>
+      <p class="note">Diese Seite zeigt bewusst nur das Programm von heute, nicht von morgen oder später. Film-Sonderveranstaltungen der nächsten Wochen stehen im <a href="index.html">Kulturzettel</a>.</p></div>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<nav class="bar" aria-label="Filter">
+  <div class="wrap bar-in">
+    <div class="row"><span class="row-label">Genre</span><div class="scroller" id="f-gen"></div></div>
+    <div class="row tools">
+      <span class="row-label">Wo</span>
+      <select id="f-site" aria-label="Spielort"><option value="">Alle Kinos &amp; Säle</option></select>
+      <input id="f-q" type="search" placeholder="Film suchen …" aria-label="Suche">
+      <button class="chip" id="f-now" aria-pressed="true">Ab jetzt</button>
+      <button class="chip" id="f-ov" aria-pressed="false">Originalfassung</button>
+      <button class="chip" id="f-kids" aria-pressed="false">Für Kinder (FSK 0/6)</button>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap prog" id="prog"><div class="load">Kinoprogramm wird geladen …</div></main>
+<footer class="wrap" id="foot"></footer>
+
+<script>
+(function(){
+const WD=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
+const MO=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+const GORDER=["Action & Abenteuer","Animation","Dokumentarfilm","Drama","Events & Live","Horror","Kinder & Familie","Komödie","Liebesfilm","Musik","Science-Fiction & Fantasy","Thriller & Krimi"];
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const TODAY=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Berlin"});
+const NOW=()=>new Date().toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"});
+const st={gen:new Set(),site:"",q:"",now:true,ov:false,kids:false};
+let D=null;
+function siteOf(f,s){return f.venue+(s.site&&s.site!=="Haupthaus"?" – "+s.site:"")}
+function isOV(s){return (s.flags||[]).some(x=>/^(OV|OmU|OmdU)/.test(x))}
+function shows(f){const n=NOW();return f.shows.filter(s=>(!st.site||siteOf(f,s)===st.site)&&(!st.ov||isOV(s))&&(!st.now||D.date!==TODAY||s.time>=n))}
+function ok(f,ignoreGen){
+  if(!ignoreGen&&st.gen.size&&!f.genres.some(g=>st.gen.has(g)))return false;
+  if(st.kids&&!(f.fsk==="0"||f.fsk==="6"))return false;
+  if(st.q){const h=[f.title,f.venue,f.genres.join(" "),(f.badges||[]).join(" ")].join(" ").toLowerCase();if(!st.q.toLowerCase().split(/\s+/).every(w=>h.includes(w)))return false}
+  return shows(f).length>0}
+function chips(){
+  const cnt={};D.films.forEach(f=>{if(ok(f,true))f.genres.forEach(g=>cnt[g]=(cnt[g]||0)+1)});
+  const gs=[...new Set(D.films.flatMap(f=>f.genres))].sort((a,b)=>(GORDER.indexOf(a)+99)%999-(GORDER.indexOf(b)+99)%999||a.localeCompare(b,"de"));
+  $("#f-gen").innerHTML=`<button class="chip" data-g="" aria-pressed="${!st.gen.size}">Alle Genres</button>`+gs.map(g=>`<button class="chip" data-g="${esc(g)}" aria-pressed="${st.gen.has(g)}">${esc(g)}<span class="c">${cnt[g]||0}</span></button>`).join("")}
+function card(f){
+  const n=NOW(),sh=shows(f);
+  const meta=[f.genres.join(" · "),f.fsk!=null?"FSK "+f.fsk:null,f.runtime?f.runtime+" Min.":null,f.week].filter(Boolean);
+  const badges=(f.badges||[]).map(b=>`<span class="badge">${esc(b)}</span>`).join("");
+  return `<article class="film">
+    <div class="t">${esc(sh[0].time)}</div>
+    <div style="min-width:0">
+      <div class="cat">${esc(f.venue)}</div>
+      <h3><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title)}</a>${badges}</h3>
+      <div class="meta">${meta.map(m=>`<span>${esc(m)}</span>`).join("")}</div>
+      <div class="shows">${f.shows.filter(s=>sh.includes(s)||(!st.now?false:false)).map(s=>{
+        const past=D.date===TODAY&&s.time<n;
+        const sub=[s.room&&s.room.startsWith("F&G")?"Franz & Gloria "+s.room.slice(4):s.room,...(s.flags||[]).filter(x=>x!=="Barrierefrei")].filter(Boolean).join(" · ");
+        return `<a class="show${past?" past":""}" href="${esc(f.url)}" target="_blank" rel="noopener"><b>${esc(s.time)}</b>${sub?`<small>${esc(sub)}</small>`:""}</a>`}).join("")}</div>
+      ${f.note?`<p class="note">${esc(f.note)}</p>`:""}
+      ${f.more?`<p class="note">Möglicherweise weitere Vorstellungen – alle Zeiten beim Kino.</p>`:""}
+    </div>
+    <a class="link" href="${esc(f.url)}" target="_blank" rel="noopener">Tickets &amp; Zeiten ↗</a>
+  </article>`}
+function render(){
+  chips();
+  const fs=D.films.filter(f=>ok(f)).sort((a,b)=>shows(a)[0].time.localeCompare(shows(b)[0].time));
+  const total=fs.reduce((n,f)=>n+shows(f).length,0);
+  if(D.date!==TODAY){$("#prog").innerHTML=`<div class="empty">Das Kinoprogramm für heute ist noch nicht eingelesen. Der letzte Stand ist vom ${esc(D.date.split("-").reverse().join("."))} – bitte direkt beim Kino nachsehen.</div>`;return}
+  $("#prog").innerHTML=fs.length?`<div class="sec-h"><h2>${st.now?"Heute noch":"Heute"}</h2><span>${fs.length} ${fs.length===1?"Film":"Filme"} · ${total} Vorstellungen</span></div>`+fs.map(card).join("")
+    :`<div class="empty">${st.now?"Heute läuft mit dieser Auswahl nichts mehr. Schalte „Ab jetzt“ aus, um das ganze Tagesprogramm zu sehen.":"Für diese Auswahl läuft heute nichts."}</div>`;
+  ["now","ov","kids"].forEach(k=>$("#f-"+k).setAttribute("aria-pressed",st[k]));
+}
+function head(){
+  const d=new Date(D.date+"T12:00:00");
+  $("#issue").textContent="Bayreuth · Kinoprogramm · "+WD[d.getDay()]+", "+d.getDate()+". "+MO[d.getMonth()]+" "+d.getFullYear();
+  if(D.updated){const u=new Date(D.updated);$("#upd").textContent="Stand "+u.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})+" Uhr · ohne Gewähr"}
+  const sites=[...new Set(D.films.flatMap(f=>f.shows.map(s=>siteOf(f,s))))].sort((a,b)=>a.localeCompare(b,"de"));
+  $("#f-site").innerHTML='<option value="">Alle Kinos &amp; Säle</option>'+sites.map(s=>`<option>${esc(s)}</option>`).join("");
+  $("#stats").innerHTML=`<div><b>${D.films.length}</b><small>Filme heute</small></div><div><b>${D.films.reduce((n,f)=>n+f.shows.length,0)}</b><small>Vorstellungen</small></div><div><b>${sites.length}</b><small>Spielorte</small></div>`;
+  $("#foot").innerHTML=`<p>Der Kinozettel liest jeden Morgen das veröffentlichte Tagesprogramm der Bayreuther Kinos und Filmveranstalter aus. Maßgeblich sind ausschließlich die Angaben der Kinos, auf deren Seiten jeder Film verlinkt – Zeiten können sich kurzfristig ändern. Für Richtigkeit und Vollständigkeit wird keine Gewähr übernommen.</p>
+  <p class="legal"><a href="index.html">Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Angebot von <span class="nb">Björn Rodday</span>.</p>`}
+document.addEventListener("click",ev=>{const b=ev.target.closest("button");if(!b)return;
+  if(b.dataset.g!==undefined){const g=b.dataset.g;if(!g)st.gen.clear();else st.gen.has(g)?st.gen.delete(g):st.gen.add(g);render()}
+  else if(b.id&&b.id.startsWith("f-")){const k=b.id.slice(2);if(k in st&&typeof st[k]==="boolean"){st[k]=!st[k];render()}}});
+$("#f-site").addEventListener("change",e=>{st.site=e.target.value;render()});
+let tq;$("#f-q").addEventListener("input",e=>{clearTimeout(tq);tq=setTimeout(()=>{st.q=e.target.value.trim();render()},160)});
+setInterval(()=>{if(D&&st.now)render()},60000);
+const go=d=>{D=d;head();render()};
+if(window.FILME)go(window.FILME);else fetch("filme.json",{cache:"no-store"}).then(r=>r.json()).then(go).catch(()=>{$("#prog").innerHTML='<div class="empty">Das Kinoprogramm konnte gerade nicht geladen werden. Bitte die Seite neu laden.</div>'});
+})();
+</script>
+
+</body></html>
