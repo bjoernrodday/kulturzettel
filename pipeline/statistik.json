@@ -1,116 +1,26 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-20T11:41+02:00",
+ "abgerufen": "2026-10-20T11:43+02:00",
+ "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 4,
  "gestern": {
   "von": "2026-10-19",
   "bis": "2026-10-19",
   "besucher": 0,
-  "besucher_ohne_events": 0,
   "seiten": [],
-  "herkunft": [],
-  "browser": [
-   {
-    "name": "Chrome",
-    "besucher": 3
-   },
-   {
-    "name": "Safari",
-    "besucher": 1
-   }
-  ],
-  "systeme": [
-   {
-    "name": "macOS",
-    "besucher": 4
-   }
-  ],
-  "bildschirm": [
-   {
-    "name": "",
-    "besucher": 1
-   },
-   {
-    "name": "",
-    "besucher": 0
-   },
-   {
-    "name": "",
-    "besucher": 3
-   },
-   {
-    "name": "",
-    "besucher": 0
-   },
-   {
-    "name": "",
-    "besucher": 0
-   }
-  ],
-  "laender": [
-   {
-    "name": "Germany",
-    "besucher": 4
-   }
-  ]
+  "herkunft": []
  },
  "letzte_7_tage": {
   "von": "2026-10-13",
   "bis": "2026-10-19",
   "besucher": 0,
-  "besucher_ohne_events": 0,
   "seiten": [],
-  "herkunft": [],
-  "browser": [
-   {
-    "name": "Chrome",
-    "besucher": 3
-   },
-   {
-    "name": "Safari",
-    "besucher": 1
-   }
-  ],
-  "systeme": [
-   {
-    "name": "macOS",
-    "besucher": 4
-   }
-  ],
-  "bildschirm": [
-   {
-    "name": "",
-    "besucher": 1
-   },
-   {
-    "name": "",
-    "besucher": 0
-   },
-   {
-    "name": "",
-    "besucher": 3
-   },
-   {
-    "name": "",
-    "besucher": 0
-   },
-   {
-    "name": "",
-    "besucher": 0
-   }
-  ],
-  "laender": [
-   {
-    "name": "Germany",
-    "besucher": 4
-   }
-  ]
+  "herkunft": []
  },
  "letzte_28_tage": {
   "von": "2026-09-22",
   "bis": "2026-10-19",
   "besucher": 0,
-  "besucher_ohne_events": 0,
   "seiten": [],
   "herkunft": [],
   "browser": [
