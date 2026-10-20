@@ -1,0 +1,31 @@
+name: Besucherstatistik holen
+on:
+  schedule:
+    - cron: "23 3 * * *"   # täglich ca. 04:23/05:23 Uhr, vor der Morgenlage um 06:45
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: statistik
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python pipeline/fetch_stats.py
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+      - name: Commit, falls sich etwas geändert hat
+        run: |
+          git config user.name "Kulturzettel-Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pipeline/statistik.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Besucherstatistik $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          exit 1
