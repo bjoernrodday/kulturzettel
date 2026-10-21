@@ -395,9 +395,69 @@
 {
 "name": "Schloss Colmdorf (Carolinenruhe)",
 "url": "https://schloss-colmdorf.de/en/start-en/"
+},
+{
+"name": "Bayreuth Feiert (Club, ehem. Breakout) – Tickets",
+"url": "https://bayreuthfeiert.ticket.io/kmTrl4rx/?lang=en"
+},
+{
+"name": "C³ Peace and Conflict Research (Uni Bayreuth)",
+"url": "https://www.peaceandconflict.uni-bayreuth.de/en/index.html"
+},
+{
+"name": "Astronomieverein Humboldt Bayreuth",
+"url": "https://astronomieverein-humboldt-bayreuth.de/aktivitaeten/"
+},
+{
+"name": "Sternwarte (vhs Bayreuth)",
+"url": "https://www.vhs-bayreuth.de/ueber-uns/sternwarte"
+},
+{
+"name": "Tanzbar Bayreuth",
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/"
+},
+{
+"name": "FABRIK Bayreuth",
+"url": "https://fabrik-bayreuth.com/events"
+},
+{
+"name": "theater am campus",
+"url": "https://theateramcampus.com/spielplan/"
+},
+{
+"name": "Big Band der Universität Bayreuth",
+"url": "https://bigbandunibayreuth.de/"
+},
+{
+"name": "Uniorchester Bayreuth – Tickets",
+"url": "https://tickets.uniorchester-bayreuth.de/"
+},
+{
+"name": "Deutsch-Polnische Gesellschaft Bayreuth",
+"url": "https://www.dpg-bayreuth.de/aktuelles-und-programm"
+},
+{
+"name": "okticket Bechersaal",
+"url": "https://okticket.de/tickets-bayreuth-bechersaal-o359?eventort_id=359&cookiecheck=true"
+},
+{
+"name": "KHG Bayreuth – Veranstaltungsliste",
+"url": "https://www.khg-in-bayreuth.de/events/list/"
+},
+{
+"name": "Cinema Africa (Africa Multiple, Uni Bayreuth)",
+"url": "https://www.africamultiple.uni-bayreuth.de/en/1_4-Public-engagement_-engagement1/Film--series/Cinema-Africa/index.html"
+},
+{
+"name": "Evangelisches Bildungswerk Oberfranken-Mitte – Termine",
+"url": "https://ebw-oberfranken-mitte.de/evangelische-termine/"
+},
+{
+"name": "Kino ist Programm (Startseite)",
+"url": "https://kino-ist-programm.de/"
 }
 ],
-"updated": "2026-10-20T06:29+02:00",
+"updated": "2026-10-21T06:25+02:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -536,7 +596,7 @@
 "Wagner",
 "regelmäßig"
 ],
-"description": "45-minütige Führung durch Richard Wagners Festspielhaus. Im Oktober und November täglich um 11, 12, 14 und 15 Uhr, samstags 13 Uhr auf Englisch; im Dezember täglich 14 Uhr, am Wochenende zusätzlich 11 Uhr.",
+"description": "45-minütige Führung durch Richard Wagners Festspielhaus. Bis 31.10. täglich um 11, 12, 14 und 15 Uhr (samstags zusätzlich 13 Uhr auf Englisch); vom 1.11. bis 21.12. täglich 14 Uhr, samstags und sonntags zusätzlich 11 Uhr. Anmeldung über die Tourist-Information.",
 "price": "10 €, ermäßigt 5 €",
 "url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
 "sources": [
@@ -1228,6 +1288,30 @@
 "id": "05738f862d"
 },
 {
+"title": "Die Krim dokumentieren: Kulturerbe durch Freies Wissen",
+"subtitle": "Fotoausstellung",
+"date": "2026-10-12",
+"end_date": "2026-11-27",
+"time": null,
+"venue": "Universität Bayreuth – Zentralbibliothek, Library Lounge, Universitätsstraße 30",
+"organizer": "Assoc. Prof. Dr. Mariana Senkiv mit Wikimedia Ukraine",
+"category": "Ausstellung",
+"tags": [
+"Fotografie",
+"Ukraine",
+"Krim",
+"Freies Wissen"
+],
+"description": "Über 40 Fotografien aus Wikimedia Commons und Familienarchiven zum Natur- und Kulturerbe der Krim und zu Krimtataren, Karaimen und Krymtschaken, mit erläuternden Texten. Zu sehen während der Öffnungszeiten der Bibliothek.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/krim-dokumentieren-kulturerbe-freies-wissen-fotoausstellung-bayreuth-95447-jwgae9",
+"sources": [
+"Universität Bayreuth / Wikimedia Ukraine (nur Stadt, Land, Leben)"
+],
+"house": "Universität",
+"id": "6a5e3d6f53"
+},
+{
 "title": "Pub&Go Spieleabend",
 "subtitle": null,
 "date": "2026-10-13",
@@ -1394,31 +1478,6 @@
 ],
 "house": "Weitere Orte",
 "id": "22a31fc128"
-},
-{
-"title": "CineArt: That's Why The Lady Is A Champ",
-"subtitle": "Arthouse-Reihe im Cineplex",
-"date": "2026-10-15",
-"end_date": "2026-10-20",
-"time": "17:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Kino",
-"Filmkunst"
-],
-"description": "CineArt-Vorstellungen am So 18.10. (10:45) und Di 20.10. (20:00, Originalfassung).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "2bfc92b5a0"
 },
 {
 "title": "Kult-Sneak",
@@ -1628,29 +1687,6 @@
 "id": "6716a0bebc"
 },
 {
-"title": "Polnische Filmreihe: Lalka (The Doll)",
-"subtitle": null,
-"date": "2026-10-20",
-"end_date": null,
-"time": "11:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Polnische Filmreihe",
-"Literaturverfilmung",
-"OmeU"
-],
-"description": "Verfilmung des Romans von Bolesław Prus (Regie: Maciej Kawalski, Polen 2026) über den Kaufmann Wokulski und seine unglückliche Liebe zu Izabela Łęcka; polnisches Original mit englischen Untertiteln.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "09531cecde"
-},
-{
 "title": "Wissenschaft gegen Faschismus",
 "subtitle": "Vortragsreihe der Fachschaft KuWi",
 "date": "2026-10-20",
@@ -1673,127 +1709,8 @@
 "Universität Bayreuth",
 "Fachschaft KuWi, Universität Bayreuth"
 ],
-"house": "Das Zentrum",
+"house": "Universität",
 "id": "abd2014e70"
-},
-{
-"title": "Wesley & the Boys",
-"subtitle": null,
-"date": "2026-10-20",
-"end_date": null,
-"time": "19:00",
-"venue": "Schokofabrik",
-"organizer": null,
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Livemusik",
-"Kneipenkonzert"
-],
-"description": "Konzert von Wesley & the Boys in der Schokofabrik.",
-"price": null,
-"url": "https://www.bayreuth4u.de/event/wesley-the-boys/",
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "1f26136783"
-},
-{
-"title": "QuizKino Live",
-"subtitle": null,
-"date": "2026-10-20",
-"end_date": null,
-"time": "19:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Filmquiz",
-"Kino",
-"Mitmachen"
-],
-"description": "Interaktives Filmquiz im Kinosaal, empfohlen ab 16 Jahren. Die Kinoseite nennt teils 19:00, teils 20:00 Uhr – Uhrzeit vorab prüfen.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "e901a336bb"
-},
-{
-"title": "4. Rudelsingen",
-"subtitle": null,
-"date": "2026-10-20",
-"end_date": null,
-"time": "19:30",
-"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": null,
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Mitsingen",
-"Pop-Hits"
-],
-"description": "Gemeinsames Singen bekannter Songs im großen Rudel; Einlass 18:30 Uhr, Beginn 19:30 Uhr.",
-"price": "ab 15 € zzgl. Gebühr",
-"url": "https://tickets.rudelsingen.de/event/das-4-bayreuther-rudelsingen-de2ere",
-"sources": [
-"Rudelsingen (Ticketshop)"
-],
-"house": "Das Zentrum",
-"id": "61227fc199"
-},
-{
-"title": "Kuzma: Erschreckend heiter",
-"subtitle": "Kino-Special",
-"date": "2026-10-20",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Dokumentarfilm",
-"OmU",
-"Kabarett"
-],
-"description": "Dokumentarfilm über den Kabarettisten Kuzma, im Cineplex in Originalfassung mit Untertiteln.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "d2bdc1e665"
-},
-{
-"title": "Süb-Vortrag: Extremistische Männlichkeiten und ihre Medien",
-"subtitle": "mit Dr. Felix Raczkowski",
-"date": "2026-10-20",
-"end_date": null,
-"time": "20:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Sübkültür / Neuneinhalb e. V.",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Medienwissenschaft",
-"Männlichkeit",
-"Online-Kultur",
-"Extremismus",
-"Medien"
-],
-"description": "Der Bayreuther Medienwissenschaftler zeigt, wie sich junge Männer in Online-Communities wie Incel- oder Männerrechtsszenen organisieren, und diskutiert Ansätze zum Gegensteuern.",
-"price": "2 € + Spende",
-"url": "https://www.neuneinhalb.org/veranstaltungen/sueb-vortrag-extremistische-maennlichkeiten-und-ihre-medien/edate/2026-10-20",
-"sources": [
-"Neuneinhalb",
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V."
-],
-"house": "Neuneinhalb",
-"id": "88ae7fd5f4"
 },
 {
 "title": "Games Industry Talk: Von Community zu Game Design",
@@ -1921,6 +1838,29 @@
 ],
 "house": "Neuneinhalb",
 "id": "4375d5d5e9"
+},
+{
+"title": "Öffentliche Sternwartenführung",
+"subtitle": null,
+"date": "2026-10-21",
+"end_date": null,
+"time": "19:30",
+"venue": "Sternwarte der Alexander-von-Humboldt-Realschule, An der Bürgerreuth 14",
+"organizer": "vhs Bayreuth mit Astronomieverein Humboldt Bayreuth e.V.",
+"category": "Führung",
+"tags": [
+"Astronomie",
+"Sternwarte",
+"Himmelsbeobachtung"
+],
+"description": "Führung durch die Schulsternwarte, bei klarem Himmel mit Beobachtung. Treffpunkt am Haupteingang der Schule; Anmeldung über die vhs nötig, maximal 15 Personen.",
+"price": "5 €",
+"url": "https://www.vhs-bayreuth.de/ueber-uns/sternwarte",
+"sources": [
+"vhs Bayreuth / Astronomieverein Humboldt Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "c52b7b73b1"
 },
 {
 "title": "Sepp Maier live",
@@ -2091,6 +2031,29 @@
 ],
 "house": "Winterdorf",
 "id": "d79d5d00b0"
+},
+{
+"title": "Film- und Diskussionsabend",
+"subtitle": null,
+"date": "2026-10-22",
+"end_date": null,
+"time": "18:30",
+"venue": "LKG Bayreuth / Oase 30 1/3, Richard-Wagner-Straße 30 1/3",
+"organizer": "LKG Bayreuth",
+"category": "Film",
+"tags": [
+"Filmklassiker",
+"Diskussion",
+"Filmabend"
+],
+"description": "Gemeinsames Anschauen eines Filmklassikers mit anschließendem Gespräch über den Film; ab 12 Jahren.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/film-diskussionsabend-bayreuth-95444-8r8b7u",
+"sources": [
+"LKG Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "cbff82aec6"
 },
 {
 "title": "Bring Your Vinyl – Kneipenabend",
@@ -2616,7 +2579,7 @@
 "id": "2d75312bc8"
 },
 {
-"title": "RING! RING! – Bus 34 hält nicht am Festspielhaus",
+"title": "RING! RING! – Bus 304 hält nicht am Festspielhaus",
 "subtitle": null,
 "date": "2026-10-24",
 "end_date": "2026-10-25",
@@ -2631,12 +2594,12 @@
 ],
 "description": "Abschlussinszenierung des festspiel|artlab im Rahmen von Festival150: Über 25 freie Künstlerinnen und Künstler zeigen eine eigene Ring-Interpretation mit Schauspiel, Gesang und Orchester auf selbstgebauter Bühne. Aufführungen Sa 24.10. um 19 und 21 Uhr, So 25.10. um 17 und 19 Uhr; davor jeweils das Kinder-Vorspiel „Wie der Kaschber dem Richard half, die Harmonie zu finden“ (Sa 17 Uhr, So 15 Uhr). Eintritt frei.",
 "price": "Eintritt frei",
-"url": "https://festival150.com/veranstaltung/ring-festspiel-gesamtkunstwerk-bayreuth-95444-oygpq2",
+"url": "https://jean-paul-kulturverein.de/portfolio-items/zum-abschluss-von-festival150-ring-ring-6-auffuehrungen-an-2-abenden/",
 "sources": [
 "Jean Paul Kulturverein"
 ],
 "house": "Weitere Orte",
-"id": "d9b209a85a"
+"id": "e658b75175"
 },
 {
 "title": "Mendelssohn: Elias",
@@ -2809,6 +2772,29 @@
 ],
 "house": "Neuneinhalb",
 "id": "bc901fa9b4"
+},
+{
+"title": "Peaches & Cream w/ Odin",
+"subtitle": null,
+"date": "2026-10-24",
+"end_date": null,
+"time": "23:00",
+"venue": "Bayreuth Feiert (ehem. Breakout)",
+"organizer": "Bayreuth Feiert",
+"category": "Club & Party",
+"tags": [
+"Clubnacht",
+"DJ",
+"Party"
+],
+"description": "Clubnacht mit DJ Odin aus Oberhausen im Bayreuth Feiert.",
+"price": "ab 9 €",
+"url": "https://bayreuthfeiert.ticket.io/6XGXl1e4/",
+"sources": [
+"Bayreuth Feiert (ticket.io)"
+],
+"house": "Weitere Orte",
+"id": "28d353578c"
 },
 {
 "title": "bayreuther dialoge 2026: EUphorie! – zurück in unsere Zukunft",
@@ -3502,6 +3488,30 @@
 ],
 "house": "Friedrichsforum",
 "id": "f7ba2bc4a8"
+},
+{
+"title": "„Disruption“ – Launch Event des C³ Research Center",
+"subtitle": "Podiumsdiskussion zur Eröffnung des Forschungszentrums Conflict, Crisis, and Change",
+"date": "2026-10-27",
+"end_date": null,
+"time": "18:00",
+"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Kongresshalle, Universitätsstraße 30",
+"organizer": "Universität Bayreuth – C³ Research Center",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Universität",
+"Konfliktforschung",
+"Podium",
+"englisch"
+],
+"description": "Nach einer Begrüßung durch Unipräsident Stefan Leible diskutieren Nina Nestler, Cindy Wittke-Hohlfeld und Joschka Philipps unter Moderation von Jana Hönke, was Disruption für Krisen und Konflikte bedeutet; danach Empfang. Ankündigung auf Englisch, Teilnahme ohne Anmeldung.",
+"price": "Eintritt frei",
+"url": "https://www.peaceandconflict.uni-bayreuth.de/en/news/2026/07_24_c3-launch-event-disruption/index.html",
+"sources": [
+"Universität Bayreuth – C³ Peace and Conflict Research"
+],
+"house": "Universität",
+"id": "899c935c1b"
 },
 {
 "title": "Anime: Rascal Does Not Dream Of A Dear Friend",
@@ -4296,6 +4306,29 @@
 "id": "33e76bc9e8"
 },
 {
+"title": "Halloween Bayreuth Pt. 1 (ab 16)",
+"subtitle": null,
+"date": "2026-10-30",
+"end_date": null,
+"time": "21:00",
+"venue": "Bayreuth Feiert (ehem. Breakout)",
+"organizer": "Bayreuth Feiert",
+"category": "Club & Party",
+"tags": [
+"Halloween",
+"Party",
+"ab 16"
+],
+"description": "Erster Abend der Halloween-Party im Bayreuth Feiert, Einlass ab 16 Jahren.",
+"price": "ab 10 €",
+"url": "https://bayreuthfeiert.ticket.io/Kykeq5kI/",
+"sources": [
+"Bayreuth Feiert (ticket.io)"
+],
+"house": "Weitere Orte",
+"id": "ebc164009d"
+},
+{
 "title": "Fliegende Haie – „Alle gehen dumm“-Tour",
 "subtitle": "Support: Esther Babl, Aftershow: DJ Goldene Müllabfuhr",
 "date": "2026-10-30",
@@ -4348,6 +4381,29 @@
 "id": "c480807ea2"
 },
 {
+"title": "Kinder-Halloweenparty im Bayreuth Feiert",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "15:00",
+"venue": "Bayreuth Feiert (ehem. Breakout)",
+"organizer": "Bayreuth Feiert",
+"category": "Kinder & Familie",
+"tags": [
+"Halloween",
+"Kinder",
+"Party"
+],
+"description": "Halloween-Nachmittagsparty für Kinder bis 13 Jahre in Begleitung der Eltern, von 15 bis 18 Uhr.",
+"price": "ab 5 €",
+"url": "https://bayreuthfeiert.ticket.io/Ax7YGTRd/",
+"sources": [
+"Bayreuth Feiert (ticket.io)"
+],
+"house": "Weitere Orte",
+"id": "8ddc8437e8"
+},
+{
 "title": "Halloween für Kids",
 "subtitle": null,
 "date": "2026-10-31",
@@ -4369,6 +4425,29 @@
 ],
 "house": "Clubs",
 "id": "deb9e83384"
+},
+{
+"title": "Halloween-Party im KOMM",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "17:00",
+"venue": "KOMM – Kommunales Jugendzentrum, Hindenburgstraße 47",
+"organizer": "Stadt Bayreuth – KOMM",
+"category": "Club & Party",
+"tags": [
+"Halloween",
+"Jugend",
+"Party"
+],
+"description": "Halloween-Party im städtischen Jugendzentrum mit Musik und kostenlosem Essen, von 17 bis 22 Uhr.",
+"price": null,
+"url": "https://www.bayreuth.de/komm-startet-bunt-in-den-oktober-mit-graffiti-workshop/",
+"sources": [
+"Stadt Bayreuth (KOMM)"
+],
+"house": "Weitere Orte",
+"id": "4152bc30d4"
 },
 {
 "title": "Schmetterlinge im Bauch – Techno Classics (Halloween Edition)",
@@ -4469,6 +4548,52 @@
 ],
 "house": "Das Zentrum",
 "id": "b3d2618a8e"
+},
+{
+"title": "Halloween Bayreuth Pt. 2 (ab 18)",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "21:00",
+"venue": "Bayreuth Feiert (ehem. Breakout)",
+"organizer": "Bayreuth Feiert",
+"category": "Club & Party",
+"tags": [
+"Halloween",
+"Party",
+"ab 18"
+],
+"description": "Zweiter Abend der Halloween-Party im Bayreuth Feiert, mit Max Navarro, DJ Gio und DJ D-Lane; Einlass ab 18 Jahren.",
+"price": "ab 10 €",
+"url": "https://bayreuthfeiert.ticket.io/vicnxHLi/",
+"sources": [
+"Bayreuth Feiert (ticket.io)"
+],
+"house": "Weitere Orte",
+"id": "aea7a042f7"
+},
+{
+"title": "Spooky Halloween Party",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "21:00",
+"venue": "Tanzbar Bayreuth, Bernecker Straße 79",
+"organizer": "Tanzbar Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Halloween",
+"Party",
+"Tanz"
+],
+"description": "Halloween-Tanzabend in der Tanzbar am Samstagabend.",
+"price": null,
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
+"sources": [
+"Hinweis: regioactive"
+],
+"house": "Clubs",
+"id": "49bc94d53b"
 },
 {
 "title": "Der Welt eine Bühne",
@@ -4903,9 +5028,9 @@
 ],
 "description": "Gemütlicher Rundgang durch die Tropengewächshäuser zu Teepflanze, Kaffeestrauch und weiteren Pflanzen für Heißgetränke und Gewürze, mit viel Zeit zum Austausch; höchstens 45 Minuten Gehzeit.",
 "price": "kostenfrei",
-"url": "https://region-bayreuth.de/veranstaltung/plauderrunde-tee-kaffee-bayreuth-95447-w5yge7",
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261104-Plauderrunde-Tee-und-Kaffee/index.html",
 "sources": [
-"Ökologisch-Botanischer Garten (nur Stadt, Land, Leben)"
+"Ökologisch-Botanischer Garten"
 ],
 "house": "Botanischer Garten",
 "id": "9520247a69"
@@ -6909,6 +7034,54 @@
 "id": "8b5291d6ce"
 },
 {
+"title": "Kino ist Programm: Programmkino-Wochenende November",
+"subtitle": "Lügen über meine Mutter, Call Me Queen, Watching People Watching Birds, Hirten",
+"date": "2026-11-14",
+"end_date": "2026-11-15",
+"time": "16:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kino ist Programm",
+"category": "Film",
+"tags": [
+"Programmkino",
+"Arthouse",
+"Filmverein"
+],
+"description": "Programmkinotage mit vier Filmen, jeweils mit Vorfilm: Sa 14.11. 16:30 „Lügen über meine Mutter“, 19:00 „Call Me Queen“ (OmU); So 15.11. 16:00 „Watching People Watching Birds“ (OmU), 18:30 „Hirten – mit 827 Schafen in der Provence“ (OmU). Karten nur an der Tages-/Abendkasse, Reservierung per E-Mail.",
+"price": "7 €, Kinder 4 €",
+"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
+"sources": [
+"Kino ist Programm",
+"Kino ist Programm e. V."
+],
+"house": "Neuneinhalb",
+"id": "9478f38d7f"
+},
+{
+"title": "Fuego – Latin Night",
+"subtitle": "Tanzkurs, freies Tanzen und Latin Party",
+"date": "2026-11-14",
+"end_date": null,
+"time": "18:00",
+"venue": "Friedrichsforum – Balkonsaal",
+"organizer": "Friedrichsforum",
+"category": "Club & Party",
+"tags": [
+"Latin",
+"Salsa",
+"Tanzen",
+"Party"
+],
+"description": "Lateinamerikanischer Tanzabend: um 18 Uhr ein Einsteiger-Tanzkurs, ab 20 Uhr freies Tanzen und ab 22 Uhr Party mit DJs (Salsa, Bachata, Merengue, Reggaeton). Vorkenntnisse sind nicht nötig.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261114-fuego-latin-night",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "008bb68126"
+},
+{
 "title": "Bayreuther Jazz-November 2026: Stemeseder Lillinger Quartet",
 "subtitle": "feat. Peter Evans and Nick Joz",
 "date": "2026-11-14",
@@ -7057,30 +7230,6 @@
 ],
 "house": "Clubs",
 "id": "dce226cca8"
-},
-{
-"title": "Kino ist Programm: Programmkino-Wochenende November",
-"subtitle": "Filme noch nicht bekanntgegeben",
-"date": "2026-11-14",
-"end_date": "2026-11-15",
-"time": null,
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm",
-"category": "Film",
-"tags": [
-"Programmkino",
-"Arthouse",
-"Filmverein"
-],
-"description": "Vorgemerkte Programmkinotage; Filmauswahl und Zeiten werden noch bekanntgegeben.",
-"price": "7 €, Kinder 4 €",
-"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
-"sources": [
-"Kino ist Programm",
-"Kino ist Programm e. V."
-],
-"house": "Neuneinhalb",
-"id": "9478f38d7f"
 },
 {
 "title": "Sangeslust 2026: SingSing mit StimmGold",
@@ -7317,8 +7466,8 @@
 "date": "2026-11-17",
 "end_date": null,
 "time": "20:00",
-"venue": "Katholische Hochschulgemeinde Bayreuth, Emil-Warburg-Weg 17",
-"organizer": "Katholische Hochschulgemeinde Bayreuth",
+"venue": "ESG Bayreuth, Richard-Wagner-Straße 24",
+"organizer": "Ökumenische Hochschulgemeinde (KHG/ESG Bayreuth)",
 "category": "Vortrag & Diskurs",
 "tags": [
 "Vortrag",
@@ -7764,7 +7913,7 @@
 "title": "Von Memphis nach Vegas",
 "subtitle": "Elvis-Tributeshow mit Mark Summers",
 "date": "2026-11-20",
-"end_date": "2026-11-21",
+"end_date": null,
 "time": "20:00",
 "venue": "Kulturbühne Reichshof",
 "organizer": null,
@@ -7776,12 +7925,35 @@
 ],
 "description": "Der britische Elvis-Darsteller Mark Summers zeichnet mit Band die Karriere von Elvis Presley nach; zwei Abende am 20. und 21. November.",
 "price": null,
-"url": "https://www.regioactive.de/konzert/von-memphis-nach-vegas-eine-epische-reise-durch-das-leben-elvis-bayreuth-kulturbuehne-reichshof-2026-11-20-mZrFVlGTRN",
+"url": "https://www.reservix.de/tickets-von-memphis-nach-vegas-eine-epische-reise-durch-das-leben-von-elvis-in-bayreuth-reichshof-kulturbuehne-am-20-11-2026/e2582845",
 "sources": [
 "Hinweis: regioactive"
 ],
 "house": "Kulturbühne Reichshof",
 "id": "d941256ea9"
+},
+{
+"title": "HALiFAX Revival #4 – 21 Jahre Jubiläum",
+"subtitle": "House & Dance Edition",
+"date": "2026-11-20",
+"end_date": null,
+"time": "22:00",
+"venue": "Bayreuth Feiert (ehem. Breakout)",
+"organizer": "Bayreuth Feiert",
+"category": "Club & Party",
+"tags": [
+"House",
+"Dance",
+"Revival"
+],
+"description": "Revival-Abend zum 21-jährigen Jubiläum des früheren Clubs HALiFAX mit House- und Dance-Musik.",
+"price": "ab 12 €",
+"url": "https://bayreuthfeiert.ticket.io/5V82Za5U/",
+"sources": [
+"Bayreuth Feiert (ticket.io)"
+],
+"house": "Weitere Orte",
+"id": "91e6767806"
 },
 {
 "title": "Russian Grand Opening",
@@ -10189,6 +10361,29 @@
 "id": "3f21bbf0ce"
 },
 {
+"title": "Hänsel & Gretel – Marionettentheater Operla auf der Gassenweihnacht",
+"subtitle": "Mobile Wanderbühne",
+"date": "2026-12-05",
+"end_date": null,
+"time": "15:00",
+"venue": "Bayreuther Gassenweihnacht, Innenstadt",
+"organizer": "Marionettentheater Operla",
+"category": "Kinder & Familie",
+"tags": [
+"Marionetten",
+"Märchen",
+"Weihnachten"
+],
+"description": "Die mobile Wanderbühne des Marionettentheaters Operla spielt das Märchen Hänsel und Gretel als rund 45-minütige Marionettenvorstellung, um 15:00 und 18:30 Uhr.",
+"price": null,
+"url": "https://www.operla.de/",
+"sources": [
+"Marionettentheater Operla"
+],
+"house": "Weitere Orte",
+"id": "1ef9634596"
+},
+{
 "title": "André Rieus Weihnachtskonzert 2026: Let it Snow",
 "subtitle": "Konzertfilm",
 "date": "2026-12-05",
@@ -11790,6 +11985,52 @@
 ],
 "house": "Weitere Orte",
 "id": "ffc8e568b2"
+},
+{
+"title": "Posaunenchor der Stadtkirche",
+"subtitle": null,
+"date": "2026-12-21",
+"end_date": null,
+"time": "18:00",
+"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
+"organizer": "Stadt Bayreuth",
+"category": "Klassik",
+"tags": [
+"Bläser",
+"Advent",
+"Christkindlesmarkt"
+],
+"description": "Der Posaunenchor der Stadtkirche spielt rund eine halbe Stunde auf der Aktionsbühne des Christkindlesmarkts.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/posaunenchor-stadtkirche-bayreuth-95444-yi4dfu",
+"sources": [
+"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "22b6e8fa68"
+},
+{
+"title": "Dokufilmreihe „Wirklichkeiten“: Im Prinzip Familie",
+"subtitle": "Dokumentarfilm von Daniel Abma (D 2024)",
+"date": "2026-12-21",
+"end_date": null,
+"time": "19:00",
+"venue": "Friedrichsforum – Kleiner Saal",
+"organizer": "Friedrichsforum",
+"category": "Film",
+"tags": [
+"Dokumentarfilm",
+"Jugendhilfe",
+"Filmreihe"
+],
+"description": "Der Dokumentarfilm begleitet ein Jahr lang eine Wohngruppe mit fünf Kindern und ihren Betreuerinnen und Betreuern und zeigt den Alltag der Kinder- und Jugendhilfe.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261221-im-prinzip-familie",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "8064a8796c"
 }
 ]
 }
