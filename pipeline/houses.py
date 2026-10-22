@@ -1,7 +1,7 @@
 import re
 RULES=[
  (r'friedrichsforum|stadthalle','Friedrichsforum'),
- (r'zentrum(?!.*evangel)|europasaal','Das Zentrum'),
+ (r'^(?!.*(evangel|informationszentrum|forschungszentrum|jugendzentrum)).*zentrum|europasaal','Das Zentrum'),
  (r'glashaus','Glashaus'),
  (r'opernhaus','Markgräfliches Opernhaus'),
  (r'steingraeber','Steingraeber Haus'),

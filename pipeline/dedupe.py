@@ -3,6 +3,7 @@ D=json.load(open('events.json'));ev=D['events']
 def n(s): return re.sub(r'\W+',' ',s.lower()).strip()
 MAN=[]  # manuelle Dublettenpaare (keep_id, drop_id), je Lauf nach Sichtung ergänzen
 drop=set()
+def ismulti(e): return bool(e.get('end_date')) and e['end_date']>e['date']
 def absorb(k,d):
     k['sources']=list(dict.fromkeys(k['sources']+d['sources']))
     k['end_date']=max(k.get('end_date') or k['date'],d.get('end_date') or d['date'])
@@ -22,7 +23,7 @@ for i,a in enumerate(M):
 for a in M:
     if a['id'] in drop: continue
     for b in ev:
-        if b['id'] in drop or ismulti(b) or b is a: continue
+        if b['id'] in drop or ismulti(b) or b is a or 'Masken' in b['title']: continue
         if a['date']<=b['date']<=a['end_date'] and difflib.SequenceMatcher(None,n(a['title']),n(b['title'])).ratio()>0.8:
             a['sources']=list(dict.fromkeys(a['sources']+b['sources'])); drop.add(b['id'])
 D['events']=[e for e in ev if e['id'] not in drop]
