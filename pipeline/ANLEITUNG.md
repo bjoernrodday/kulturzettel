@@ -75,3 +75,14 @@ WebFetch nur auf Adressen, die wörtlich irgendwo stehen: in der Anleitung, in d
 ## Kino: Vollständigkeit prüfen (seit 22.10.2026)
 - WebFetch kürzt lange Seiten. Deshalb beim Cineplex zuerst in einem eigenen Abruf nur die vollständige Titelliste von HEUTE samt Anzahl holen, dann die Details; vor dem Schreiben abgleichen, dass jeder Titel der Liste in filme.json steht (am 22.10.2026 fehlte „Street Fighter“). Fehlende Titel gezielt nachholen.
 - Die Cineplex-Programmseite liefert keine eigenen Adressen je Film oder Vorstellung; url bleibt https://www.cineplex.de/bayreuth/programm. Findet ein Lauf feste Filmseiten beim Cineplex (über Links der Seite, nicht geraten), diese als url verwenden.
+
+## Suchmaschinenfassung (seit 22.10.2026)
+
+Die GitHub Action `.github/workflows/suchmaschinen.yml` läuft nach jedem Push von events.json, filme.json, index.html, kino.html oder quellen.html und kurz nach Mitternacht. Sie führt `pipeline/build_seo.py` aus:
+
+- rendert index.html, kino.html und quellen.html im Browser und speichert das Ergebnis, damit die Termine schon im Quelltext stehen (die Seiten rendern sich im Browser wie bisher selbst neu)
+- erzeugt Unterseiten je Sparte (`sparte/*.html`) und Spielort (`ort/*.html`) aus index.html mit voreingestelltem Filter (`window.KZ_PRESET`)
+- setzt Titel, Beschreibung, Canonical, Open-Graph-Angaben (Bild og.png) und strukturierte Termindaten (schema.org/Event) zwischen die Markierungen `<!--seo-->`, `<!--ld-->` und `<!--pagehead-->`
+- schreibt sitemap.xml und meldet geänderte Seiten über `pipeline/indexnow.py` an IndexNow (Schlüssel in pipeline/indexnow_key.txt und als Datei im Hauptordner)
+
+Die tägliche Aufgabe fasst diese Dateien nicht an. Wer index.html von Hand ändert, lässt die Markierungen stehen; die Action baut danach automatisch neu. Google Search Console ist für die Domain eingerichtet (Konto bjoern.rodday@gmail.com, Bestätigung per TXT-Eintrag bei netcup).
