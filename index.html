@@ -329,7 +329,6 @@ function head(){
   const hs=[...houses].sort((a,b)=>a==="Weitere Orte"?1:b==="Weitere Orte"?-1:a.localeCompare(b,"de"));
   $("#f-house").innerHTML='<option value="">Alle Orte</option>'+hs.map(h=>`<option>${esc(h)}</option>`).join("");
   $("#foot").innerHTML=`<p>Der Kulturzettel liest die veröffentlichten Programme der Bayreuther Kulturhäuser und Portale aus und fasst sie zusammen. Die Kurztexte sind eigene Zusammenfassungen. Der Kulturzettel ist ein unverbindlicher Service: Für Richtigkeit, Vollständigkeit und Aktualität der Angaben wird keine Gewähr übernommen. Maßgeblich sind ausschließlich die Angaben der Veranstalter, auf deren Seiten jeder Termin verlinkt. Bitte Datum, Uhrzeit, Ort und Tickets vor dem Besuch dort prüfen.</p>
-  <p>Fehler entdeckt oder einen Termin vermisst? <a href="mailto:bjoern.rodday@gmail.com?subject=Kulturzettel%3A%20Hinweis">Schreib mir eine kurze Nachricht</a>.</p>
   <p class="legal"><a href="kino.html">Kino heute</a> · <a href="ueber.html">Über den Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Projekt von <a href="ueber.html" class="nb">Björn Rodday</a>.</p>`}
 
 document.addEventListener("click",ev=>{
