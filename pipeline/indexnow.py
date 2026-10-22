@@ -4,7 +4,11 @@ Google nimmt nicht an IndexNow teil und liest die Sitemap."""
 import json, os, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 key = open(os.path.join(ROOT, "pipeline/indexnow_key.txt")).read().strip()
-urls = [u.strip() for u in open(os.path.join(ROOT, "pipeline/geaendert.txt")) if u.strip()]
+import re
+if "--alle" in sys.argv:
+    urls = re.findall(r"<loc>(.*?)</loc>", open(os.path.join(ROOT, "sitemap.xml")).read())
+else:
+    urls = [u.strip() for u in open(os.path.join(ROOT, "pipeline/geaendert.txt")) if u.strip()]
 if not urls:
     print("nichts zu melden"); sys.exit(0)
 body = json.dumps({"host": "kulturzettel-bayreuth.de", "key": key,

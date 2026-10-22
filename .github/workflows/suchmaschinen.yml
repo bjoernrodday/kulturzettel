@@ -41,3 +41,6 @@ jobs:
       - name: Geänderte Seiten an IndexNow melden
         if: steps.commit.outputs.neu == '1'
         run: sleep 120 && python pipeline/indexnow.py
+      - name: Bei manuellem Start alle Seiten an IndexNow melden
+        if: github.event_name == 'workflow_dispatch'
+        run: python pipeline/indexnow.py --alle
