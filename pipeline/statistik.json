@@ -1,12 +1,12 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-22T05:57+02:00",
+ "abgerufen": "2026-10-22T06:55+02:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
   "von": "2026-10-21",
   "bis": "2026-10-21",
-  "besucher": null,
+  "besucher": 9,
   "seiten": [
    {
     "pfad": "/",
