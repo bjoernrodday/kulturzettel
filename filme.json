@@ -1,86 +1,53 @@
 {
- "date": "2026-10-21",
- "updated": "2026-10-21T06:02+02:00",
+ "date": "2026-10-22",
+ "updated": "2026-10-22T06:23+02:00",
  "films": [
   {
-   "title": "Alte Liebe",
+   "title": "Clayface",
    "venue": "Cineplex Bayreuth",
-   "runtime": 111,
-   "fsk": "6",
-   "genres": [
-    "Komödie",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Komödie",
-    "Drama"
-   ],
-   "badges": [
-    "CineArt"
-   ],
-   "week": 2,
-   "shows": [
-    {
-     "time": "19:30",
-     "room": "Kino 1",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Bibi Blocksberg – Die total verhexte Zeitreise",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 90,
-   "fsk": "0",
-   "genres": [
-    "Kinder & Familie"
-   ],
-   "genres_raw": [
-    "Familienfilm"
-   ],
-   "badges": [],
-   "week": 4,
-   "shows": [
-    {
-     "time": "16:15",
-     "room": "Kino 2",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Corpus Delicti",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 104,
-   "fsk": "12",
+   "runtime": 109,
+   "fsk": "16",
    "genres": [
     "Thriller & Krimi",
-    "Drama"
+    "Horror"
    ],
    "genres_raw": [
     "Thriller",
-    "Drama"
+    "Horrorfilm"
    ],
-   "badges": [],
-   "week": 3,
+   "badges": [
+    "NEU"
+   ],
+   "week": 1,
    "shows": [
     {
      "time": "18:30",
-     "room": "Kino 2",
+     "room": "Kino 6",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "19:40",
+     "room": "F&G 2",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Dolby Atmos",
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "20:45",
+     "room": "4DX",
+     "site": "Haupthaus",
+     "flags": [
+      "4DX"
+     ]
+    },
+    {
+     "time": "21:00",
+     "room": "Kino 6",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
@@ -104,42 +71,58 @@
     "Komödie"
    ],
    "badges": [
-    "Emotions",
-    "Preview"
+    "NEU"
    ],
-   "week": null,
+   "week": 1,
    "shows": [
     {
-     "time": "20:00",
+     "time": "17:00",
      "room": "ULTIMATE. Studio 7",
      "site": "Haupthaus",
      "flags": [
       "Dolby Atmos",
       "D-BOX",
-      "Emotions",
       "Barrierefrei"
      ]
     },
     {
-     "time": "20:00",
-     "room": "F&G 5",
+     "time": "19:00",
+     "room": "F&G 3",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
-      "Emotions",
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "19:45",
+     "room": "ULTIMATE. Studio 7",
+     "site": "Haupthaus",
+     "flags": [
+      "Dolby Atmos",
+      "D-BOX",
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "20:30",
+     "room": "F&G 4",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Dolby Atmos",
       "Barrierefrei"
      ]
     }
    ],
    "more": true,
-   "note": "Vorpremiere (Emotions) – regulärer Filmstart am 22.10.2026.",
+   "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "Digger",
+   "title": "Frau Winkler verlässt das Haus",
    "venue": "Cineplex Bayreuth",
-   "runtime": 130,
+   "runtime": 112,
    "fsk": "12",
    "genres": [
     "Komödie",
@@ -149,11 +132,257 @@
     "Komödie",
     "Drama"
    ],
+   "badges": [
+    "CineArt"
+   ],
+   "week": 4,
+   "shows": [
+    {
+     "time": "17:30",
+     "room": "Kino 8",
+     "site": "Haupthaus",
+     "flags": [
+      "VPT Intense",
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Monster Mia",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 81,
+   "fsk": "0",
+   "genres": [
+    "Kinder & Familie",
+    "Komödie",
+    "Animation"
+   ],
+   "genres_raw": [
+    "Familienfilm",
+    "Komödie",
+    "Animation"
+   ],
    "badges": [],
+   "week": 2,
+   "shows": [
+    {
+     "time": "16:00",
+     "room": "Kino 1",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Alte Liebe",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 111,
+   "fsk": "6",
+   "genres": [
+    "Komödie",
+    "Drama"
+   ],
+   "genres_raw": [
+    "Komödie",
+    "Drama"
+   ],
+   "badges": [
+    "CineArt"
+   ],
    "week": 3,
    "shows": [
     {
-     "time": "16:30",
+     "time": "16:15",
+     "room": "Kino 3",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Resident Evil",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 94,
+   "fsk": "16",
+   "genres": [
+    "Action & Abenteuer",
+    "Horror"
+   ],
+   "genres_raw": [
+    "Action",
+    "Horrorfilm"
+   ],
+   "badges": [],
+   "week": 6,
+   "shows": [
+    {
+     "time": "18:30",
+     "room": "4DX",
+     "site": "Haupthaus",
+     "flags": [
+      "4DX"
+     ]
+    },
+    {
+     "time": "21:15",
+     "room": "Kino 3",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": true,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Die Odyssee",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 173,
+   "fsk": "12",
+   "genres": [
+    "Action & Abenteuer"
+   ],
+   "genres_raw": [
+    "Abenteuer",
+    "Action"
+   ],
+   "badges": [],
+   "week": 15,
+   "shows": [
+    {
+     "time": "19:15",
+     "room": "Kino 5",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Verity - Dunkle Geheimnisse",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 118,
+   "fsk": "12",
+   "genres": [
+    "Thriller & Krimi"
+   ],
+   "genres_raw": [
+    "Thriller"
+   ],
+   "badges": [],
+   "week": 4,
+   "shows": [
+    {
+     "time": "20:00",
+     "room": "F&G 5",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Dolby Atmos",
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "20:15",
+     "room": "Kino 8",
+     "site": "Haupthaus",
+     "flags": [
+      "VPT Intense",
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": true,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Steckerlfischfiasko",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 100,
+   "fsk": "12",
+   "genres": [
+    "Komödie"
+   ],
+   "genres_raw": [
+    "Komödie"
+   ],
+   "badges": [],
+   "week": 11,
+   "shows": [
+    {
+     "time": "18:15",
+     "room": "Kino 2",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "19:20",
+     "room": "F&G 1",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": true,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Whalefall",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 107,
+   "fsk": "16",
+   "genres": [
+    "Action & Abenteuer",
+    "Thriller & Krimi"
+   ],
+   "genres_raw": [
+    "Abenteuer",
+    "Thriller"
+   ],
+   "badges": [],
+   "week": 2,
+   "shows": [
+    {
+     "time": "16:00",
+     "room": "4DX",
+     "site": "Haupthaus",
+     "flags": [
+      "4DX"
+     ]
+    },
+    {
+     "time": "21:00",
      "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
@@ -167,39 +396,33 @@
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "Eiserne Wildnis – Heart of the Beast",
+   "title": "Shaun das Schaf - Spuk im Kürbisfeld",
    "venue": "Cineplex Bayreuth",
-   "runtime": 102,
-   "fsk": "12",
+   "runtime": 80,
+   "fsk": "0",
    "genres": [
-    "Drama",
-    "Action & Abenteuer"
+    "Animation",
+    "Kinder & Familie",
+    "Komödie"
    ],
    "genres_raw": [
-    "Drama",
-    "Action"
+    "Animation",
+    "Familienfilm",
+    "Komödie"
    ],
    "badges": [],
    "week": 4,
    "shows": [
     {
-     "time": "18:15",
-     "room": "4DX",
+     "time": "16:15",
+     "room": "Kino 6",
      "site": "Haupthaus",
-     "flags": [
-      "4DX"
-     ]
-    },
-    {
-     "time": "19:40",
-     "room": "F&G 1",
-     "site": "Franz & Gloria",
      "flags": [
       "Barrierefrei"
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -220,11 +443,69 @@
     "Familienfilm"
    ],
    "badges": [],
-   "week": 4,
+   "week": 5,
+   "shows": [
+    {
+     "time": "16:45",
+     "room": "Kino 5",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Eiserne Wildnis - Heart of the Beast",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 102,
+   "fsk": "12",
+   "genres": [
+    "Drama",
+    "Action & Abenteuer"
+   ],
+   "genres_raw": [
+    "Drama",
+    "Action"
+   ],
+   "badges": [],
+   "week": 5,
+   "shows": [
+    {
+     "time": "18:45",
+     "room": "Kino 3",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 90,
+   "fsk": "0",
+   "genres": [
+    "Kinder & Familie"
+   ],
+   "genres_raw": [
+    "Familienfilm"
+   ],
+   "badges": [],
+   "week": 5,
    "shows": [
     {
      "time": "16:00",
-     "room": "Kino 5",
+     "room": "Kino 2",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
@@ -250,323 +531,54 @@
     "Komödie"
    ],
    "badges": [],
-   "week": 2,
+   "week": 3,
    "shows": [
     {
-     "time": "18:00",
-     "room": "Kino 6",
+     "time": "18:15",
+     "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "Kino mit Vision: Cycling Cities – Eine neue Geschichte der Mobilität",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 84,
+   "title": "Film- und Diskussionsabend",
+   "venue": "LKG Bayreuth / Oase 30 1/3, Richard-Wagner-Straße 30 1/3",
+   "runtime": null,
    "fsk": null,
    "genres": [
-    "Dokumentarfilm"
+    "Drama"
    ],
    "genres_raw": [
-    "Dokumentarfilm"
+    "Film & Kino",
+    "Drama",
+    "Krimi"
    ],
    "badges": [
-    "Kino mit Vision"
+    "Filmabend"
    ],
    "week": null,
    "shows": [
     {
-     "time": "19:00",
+     "time": "18:30",
      "room": null,
      "site": null,
-     "flags": []
-    }
-   ],
-   "more": false,
-   "note": "Dokumentarfilm von Ingwar Perowanowitsch (D 2025); anschließend Podiumsdiskussion mit dem Regisseur. Eintritt frei, Spenden willkommen. Veranstaltet von Die Grünen KV Bayreuth Stadt und Kino ist Programm e. V. mit ADFC, VCD und der Initiative Pro Erlanger- und Bismarckstraße. Gerberplatz 1 (Zugang über Hohenzollernring).",
-   "url": "https://kino-ist-programm.de/kino-mit-vision-cycling-cities-eine-neue-geschichte-der-mobilitaet/",
-   "source": "Kino ist Programm"
-  },
-  {
-   "title": "Monster Mia",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 81,
-   "fsk": "0",
-   "genres": [
-    "Kinder & Familie",
-    "Komödie",
-    "Animation"
-   ],
-   "genres_raw": [
-    "Familienfilm",
-    "Komödie",
-    "Animation"
-   ],
-   "badges": [
-    "NEU"
-   ],
-   "week": 1,
-   "shows": [
-    {
-     "time": "16:15",
-     "room": "Kino 8",
-     "site": "Haupthaus",
      "flags": [
-      "VPT Intense",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Resident Evil",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 94,
-   "fsk": "16",
-   "genres": [
-    "Action & Abenteuer",
-    "Horror"
-   ],
-   "genres_raw": [
-    "Action",
-    "Horrorfilm"
-   ],
-   "badges": [],
-   "week": 5,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": "4DX",
-     "site": "Haupthaus",
-     "flags": [
-      "4DX"
-     ]
-    },
-    {
-     "time": "21:00",
-     "room": "Kino 8",
-     "site": "Haupthaus",
-     "flags": [
-      "VPT Intense",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Shaun das Schaf – Spuk im Kürbisfeld",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 80,
-   "fsk": "0",
-   "genres": [
-    "Animation",
-    "Kinder & Familie",
-    "Komödie"
-   ],
-   "genres_raw": [
-    "Animation",
-    "Familienfilm",
-    "Komödie"
-   ],
-   "badges": [],
-   "week": 3,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": "Kino 6",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Steckerlfischfiasko",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 100,
-   "fsk": "12",
-   "genres": [
-    "Komödie"
-   ],
-   "genres_raw": [
-    "Komödie"
-   ],
-   "badges": [],
-   "week": 10,
-   "shows": [
-    {
-     "time": "18:30",
-     "room": "Kino 8",
-     "site": "Haupthaus",
-     "flags": [
-      "VPT Intense",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "19:00",
-     "room": "F&G 2",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Street Fighter",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 120,
-   "fsk": "12",
-   "genres": [
-    "Action & Abenteuer"
-   ],
-   "genres_raw": [
-    "Action"
-   ],
-   "badges": [
-    "NEU"
-   ],
-   "week": 1,
-   "shows": [
-    {
-     "time": "17:00",
-     "room": "ULTIMATE. Studio 7",
-     "site": "Haupthaus",
-     "flags": [
-      "Dolby Atmos",
-      "D-BOX",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "19:20",
-     "room": "F&G 3",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:00",
-     "room": "Kino 3",
-     "site": "Haupthaus",
-     "flags": [
-      "OV Englisch",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:45",
-     "room": "4DX",
-     "site": "Haupthaus",
-     "flags": [
-      "4DX"
+      "Eintritt frei",
+      "ab 12 Jahren"
      ]
     }
    ],
    "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "The Social Reckoning",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 114,
-   "fsk": "12",
-   "genres": [
-    "Drama"
-   ],
-   "genres_raw": [
-    "Drama"
-   ],
-   "badges": [],
-   "week": 2,
-   "shows": [
-    {
-     "time": "20:45",
-     "room": "Kino 2",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Verity – Dunkle Geheimnisse",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 118,
-   "fsk": "12",
-   "genres": [
-    "Thriller & Krimi"
-   ],
-   "genres_raw": [
-    "Thriller"
-   ],
-   "badges": [],
-   "week": 3,
-   "shows": [
-    {
-     "time": "17:15",
-     "room": "Kino 3",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:30",
-     "room": "Kino 6",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:30",
-     "room": "F&G 4",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": true,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
+   "note": "Ein Filmklassiker (Titel nicht angekündigt) mit anschließendem Gespräch.",
+   "url": "https://region-bayreuth.de/veranstaltung/film-diskussionsabend-bayreuth-95444-8r8b7u",
+   "source": "LKG Bayreuth (nur Stadt, Land, Leben)"
   }
  ]
 }

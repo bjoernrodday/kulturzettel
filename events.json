@@ -455,9 +455,17 @@
 {
 "name": "Kino ist Programm (Startseite)",
 "url": "https://kino-ist-programm.de/"
+},
+{
+"name": "Evangelisches Bildungswerk Oberfranken-Mitte – Programmheft Herbst/Winter 2026/27 (Vorträge, Filmgespräche im Cineplex)",
+"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf"
+},
+{
+"name": "Africa Multiple (Uni Bayreuth) – News & Termine (Screenings, Vorträge)",
+"url": "https://www.africamultiple.uni-bayreuth.de/en/1_3-News_-Views-and-Media/News/index.html"
 }
 ],
-"updated": "2026-10-21T06:25+02:00",
+"updated": "2026-10-22T06:23+02:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -1713,29 +1721,6 @@
 "id": "abd2014e70"
 },
 {
-"title": "Games Industry Talk: Von Community zu Game Design",
-"subtitle": "Ein Karriereweg in der Spielebranche – mit Dorothea Drobbe",
-"date": "2026-10-21",
-"end_date": null,
-"time": "14:15",
-"venue": "Universität Bayreuth – Zapf, Gebäude 4, Seminarraum, Nürnberger Straße 38",
-"organizer": "Game Innovation Lab der Universität Bayreuth",
-"category": "Games",
-"tags": [
-"Game Design",
-"Vortrag",
-"Spielebranche"
-],
-"description": "Dorothea Drobbe, Lead Game Designer bei Studio Deloryan, erzählt von ihrem Weg aus der Spieler-Community in die Spieleentwicklung. Teilnahme vor Ort oder per Zoom, kostenlos.",
-"price": "frei",
-"url": "https://events.games-bavaria.com/event/%f0%9f%8e%ae%f0%9f%92%ac-games-industry-talk-von-community-zu-game-design-ein-karriereweg-in-der-spielebranche/",
-"sources": [
-"Game Innovation Lab (Universität Bayreuth) via Games/Bavaria"
-],
-"house": "Universität",
-"id": "2969d48e6f"
-},
-{
 "title": "5. Bayreuther Tastenlöwen-Festival – Pianomarathon",
 "subtitle": "Pianomarathon von Les Amateurs virtuoses",
 "date": "2026-10-21",
@@ -1787,129 +1772,6 @@
 ],
 "house": "RW21",
 "id": "a5bcd19121"
-},
-{
-"title": "Dorf-Mittwoch mit DJ SO.INK",
-"subtitle": null,
-"date": "2026-10-21",
-"end_date": null,
-"time": "18:00",
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Club & Party",
-"tags": [
-"DJ",
-"House",
-"Charts"
-],
-"description": "DJ-Abend mit House, Dance und aktuellen Hits, 18–23 Uhr.",
-"price": "Eintritt frei",
-"url": "https://winterdorf-bayreuth.de/events/dj-so-ink-931/",
-"sources": [
-"Bayreuther Winterdorf"
-],
-"house": "Winterdorf",
-"id": "a52f43d558"
-},
-{
-"title": "Kino mit Vision: Cycling Cities",
-"subtitle": "Film mit Podiumsgespräch",
-"date": "2026-10-21",
-"end_date": null,
-"time": "19:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kunst- und Kulturhaus Neuneinhalb",
-"category": "Film",
-"tags": [
-"Dokumentarfilm",
-"Mobilität",
-"Radverkehr",
-"Fahrrad",
-"Podium"
-],
-"description": "Dokumentarfilm über Radverkehr in Städten mit anschließendem Gespräch.",
-"price": "frei",
-"url": "https://www.neuneinhalb.org/veranstaltungen/kino-mit-vision-cycling-cities/edate/2026-10-21",
-"sources": [
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V."
-],
-"house": "Neuneinhalb",
-"id": "4375d5d5e9"
-},
-{
-"title": "Öffentliche Sternwartenführung",
-"subtitle": null,
-"date": "2026-10-21",
-"end_date": null,
-"time": "19:30",
-"venue": "Sternwarte der Alexander-von-Humboldt-Realschule, An der Bürgerreuth 14",
-"organizer": "vhs Bayreuth mit Astronomieverein Humboldt Bayreuth e.V.",
-"category": "Führung",
-"tags": [
-"Astronomie",
-"Sternwarte",
-"Himmelsbeobachtung"
-],
-"description": "Führung durch die Schulsternwarte, bei klarem Himmel mit Beobachtung. Treffpunkt am Haupteingang der Schule; Anmeldung über die vhs nötig, maximal 15 Personen.",
-"price": "5 €",
-"url": "https://www.vhs-bayreuth.de/ueber-uns/sternwarte",
-"sources": [
-"vhs Bayreuth / Astronomieverein Humboldt Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "c52b7b73b1"
-},
-{
-"title": "Sepp Maier live",
-"subtitle": "Porträtshow mit Tobias Bücklein",
-"date": "2026-10-21",
-"end_date": null,
-"time": "19:30",
-"venue": "Evangelisches Zentrum Bayreuth",
-"organizer": null,
-"category": "Vortrag & Diskurs",
-"tags": [
-"Fußball",
-"Porträt",
-"Gespräch",
-"Anekdoten"
-],
-"description": "Der frühere Nationaltorwart Sepp Maier erzählt im Gespräch mit Tobias Bücklein aus seinem Leben, begleitet von Bildern und Anekdoten. Einlass ab 18:30 Uhr.",
-"price": null,
-"url": "https://www.ez-bayreuth.de/veranstaltungskalender",
-"sources": [
-"Evangelisches Zentrum Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "9b5e6208e7"
-},
-{
-"title": "Tastenlöwen: Eröffnungskonzert in Haus Wahnfried",
-"subtitle": "Dale Backus und Deirbhile Brennan, Klavier",
-"date": "2026-10-21",
-"end_date": null,
-"time": "19:30",
-"venue": "Haus Wahnfried – Saal, Richard Wagner Museum",
-"organizer": "Les Amateurs Virtuoses / Richard Wagner Museum",
-"category": "Klassik",
-"tags": [
-"Klavier",
-"Chopin",
-"Liszt",
-"Festivalauftakt",
-"Amateure"
-],
-"description": "Auftakt des Tastenlöwen-Festivals mit Chopins Préludes op. 28 sowie Werken von Bach, Mozart, Schubert und Liszt.",
-"price": null,
-"url": "https://www.wagnermuseum.de/events/auftakt-des-klavierfestivals-les-amateurs-virtuoses-in-haus-wahnfried/",
-"sources": [
-"Richard Wagner Museum"
-],
-"house": "Richard Wagner Museum",
-"id": "59204c2db3"
 },
 {
 "title": "Digitale Souveränität – Wirtschaftliche, politische und gesellschaftliche Implikationen",
@@ -3999,29 +3861,6 @@
 "id": "b4a8a6a7ee"
 },
 {
-"title": "VR-Treff in der Game-o-thek",
-"subtitle": null,
-"date": "2026-10-30",
-"end_date": null,
-"time": "16:00",
-"venue": "RW21 Stadtbibliothek – freestyle (UG), Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Games",
-"tags": [
-"Virtual Reality",
-"Gaming",
-"Bibliothek"
-],
-"description": "Offener Treff zum Ausprobieren von Virtual-Reality-Spielen in der Game-o-thek der Stadtbibliothek.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/vr-treff-game-o-thek-bayreuth-95444-tw0rg7",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "a2d3862289"
-},
-{
 "title": "Eine Einladung zur Oper: Reise in die Geschichte der italienischen Oper",
 "subtitle": "vhs-Reihe mit Aureliano Zattoni (4 Abende)",
 "date": "2026-10-30",
@@ -4119,6 +3958,29 @@
 ],
 "house": "RW21",
 "id": "dba960c5b1"
+},
+{
+"title": "Ökumene des Herzens – Christliches Zeugnis in einer gespaltenen Welt",
+"subtitle": "Vortrag mit Landesbischof a. D. Heinrich Bedford-Strohm",
+"date": "2026-10-30",
+"end_date": null,
+"time": "19:00",
+"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte mit KG Stadtkirche und ACK Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Theologie",
+"Ökumene",
+"Gesellschaft"
+],
+"description": "Der Theologe Heinrich Bedford-Strohm spricht über Ökumene und christliches Zeugnis in Zeiten von Polarisierung und globalen Krisen; anschließend Fragerunde.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
+"sources": [
+"Evangelisches Bildungswerk Oberfranken-Mitte"
+],
+"house": "Kirchen",
+"id": "e9cf755b05"
 },
 {
 "title": "Games Night im Zapf",
@@ -4596,6 +4458,31 @@
 "id": "49bc94d53b"
 },
 {
+"title": "Wurzelzeit: Apotheke unter der Erde",
+"subtitle": "Sonntagsführung",
+"date": "2026-11-01",
+"end_date": null,
+"time": "10:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Führung",
+"tags": [
+"Heilpflanzen",
+"Wurzeln",
+"Gartenführung",
+"Botanik"
+],
+"description": "Sonntagsführung zu Wurzeln und ihrer Nutzung als Heilmittel.",
+"price": null,
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261101-Wurzelzeit-SoFueh/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten Bayreuth",
+"Ökologisch-Botanischer Garten"
+],
+"house": "Botanischer Garten",
+"id": "7017c7f4fe"
+},
+{
 "title": "Der Welt eine Bühne",
 "subtitle": "Ausstellung von Karin E. Pollak",
 "date": "2026-11-01",
@@ -4643,31 +4530,6 @@
 ],
 "house": "Schlösser & Eremitage",
 "id": "b0df0211d8"
-},
-{
-"title": "Wurzelzeit: Apotheke unter der Erde",
-"subtitle": "Sonntagsführung",
-"date": "2026-11-01",
-"end_date": null,
-"time": "14:00",
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
-"category": "Führung",
-"tags": [
-"Heilpflanzen",
-"Wurzeln",
-"Gartenführung",
-"Botanik"
-],
-"description": "Sonntagsführung zu Wurzeln und ihrer Nutzung als Heilmittel.",
-"price": null,
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261101-Wurzelzeit-SoFueh/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Bayreuth",
-"Ökologisch-Botanischer Garten"
-],
-"house": "Botanischer Garten",
-"id": "7017c7f4fe"
 },
 {
 "title": "Zeitreise: Winter und Wärme",
@@ -4914,6 +4776,29 @@
 "id": "6200fdc225"
 },
 {
+"title": "Bayreuth entdecken: Zu Gast in der ältesten noch genutzten Synagoge Deutschlands",
+"subtitle": "Discover Bayreuth: Exploring Germany's Oldest Continuously Used Synagogue",
+"date": "2026-11-03",
+"end_date": null,
+"time": "19:00",
+"venue": "Synagoge Bayreuth (Treffpunkt laut ESG)",
+"organizer": "Evangelische Studierendengemeinde Bayreuth",
+"category": "Führung",
+"tags": [
+"Synagoge",
+"Jüdisches Leben",
+"Stadtgeschichte"
+],
+"description": "Besuch der Bayreuther Synagoge neben dem Markgräflichen Opernhaus in der Reihe „Bayreuth entdecken“ der Evangelischen Studierendengemeinde, auch für internationale Studierende.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/bayreuth-entdecken-gast-aeltesten-noch-genutzten-synagoge-deutschlands-95444-4mx3h6",
+"sources": [
+"Evangelische Studierendengemeinde Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Stadtführungen",
+"id": "0afa725a15"
+},
+{
 "title": "Biodiversität und Nachhaltigkeit in Costa Rica",
 "subtitle": "Bildvortrag mit Dr. Andreas von Lindeiner",
 "date": "2026-11-03",
@@ -4942,7 +4827,7 @@
 "title": "Best of Cinema: Rocky",
 "subtitle": "Filmklassiker auf der großen Leinwand",
 "date": "2026-11-03",
-"end_date": "2026-11-05",
+"end_date": null,
 "time": "20:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Cineplex Bayreuth",
@@ -4954,7 +4839,7 @@
 "Boxen",
 "Wiederaufführung"
 ],
-"description": "Wiederaufführung des Boxerfilms von 1976 in der Reihe Best of Cinema, am 3.11. um 20 Uhr und am 5.11. um 17:30 Uhr.",
+"description": "Wiederaufführung des Boxerfilms von 1976 in der Reihe Best of Cinema am 3.11. um 20 Uhr.",
 "price": null,
 "url": "https://www.cineplex.de/bayreuth/previews-und-events",
 "sources": [
@@ -5034,6 +4919,32 @@
 ],
 "house": "Botanischer Garten",
 "id": "9520247a69"
+},
+{
+"title": "Screening: OVERBURDEN",
+"subtitle": "Dokumentarfilm von Gregg Mitman mit Diskussion",
+"date": "2026-11-04",
+"end_date": null,
+"time": "17:00",
+"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Konferenzraum",
+"organizer": "Exzellenzcluster Africa Multiple, Research Section Ecologies",
+"category": "Film",
+"tags": [
+"Dokumentarfilm",
+"Afrika",
+"Naturschutz",
+"englisch",
+"Wissenschaft"
+],
+"description": "Der Dokumentarfilm über Naturschutz, Bergbau und Gemeinden in den Nimba-Bergen an der Grenze von Liberia und Guinea; danach Gespräch mit Regisseur Gregg Mitman und weiteren Gästen. In englischer Sprache, auch hybrid.",
+"price": null,
+"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/2026-11-04-Overburden_Screening/index.html",
+"sources": [
+"Africa Multiple Cluster of Excellence",
+"Africa Multiple (Universität Bayreuth)"
+],
+"house": "Universität",
+"id": "83d67266be"
 },
 {
 "title": "Kunst im Herbst 2026",
@@ -6178,6 +6089,29 @@
 ],
 "house": "RW21",
 "id": "726b059695"
+},
+{
+"title": "Leben und Überleben",
+"subtitle": "Zwei jüdische Lebensgeschichten zwischen Verfolgung, Mut und Erinnerung",
+"date": "2026-11-10",
+"end_date": null,
+"time": "18:30",
+"venue": "Evangelisches Zentrum Bayreuth – Seminarraum im Hof, Richard-Wagner-Straße 24",
+"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte mit Stadtkirche Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Zeitzeugin",
+"Erinnerungskultur",
+"NS-Zeit"
+],
+"description": "Dorothea Woiczechowski-Fried erzählt von ihrem Überleben als Kind einer sogenannten Mischehe und von der Lebensgeschichte ihres Mannes, der drei Konzentrationslager überlebte.",
+"price": "Eintritt frei, Spenden erwünscht",
+"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
+"sources": [
+"Evangelisches Bildungswerk Oberfranken-Mitte"
+],
+"house": "Kirchen",
+"id": "64d2490104"
 },
 {
 "title": "Workshop: Musikproduktion mit Logic Pro – Basics",
@@ -8392,7 +8326,7 @@
 "end_date": null,
 "time": "16:00",
 "venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": null,
+"organizer": "Bilderbuchtheater Christian Sperlich",
 "category": "Kinder & Familie",
 "tags": [
 "Figurentheater",
@@ -8403,7 +8337,7 @@
 "price": "11 €",
 "url": "https://www.das-zentrum.de/veranstaltung/die-kleine-eule-feiert-weihnachten/",
 "sources": [
-"Hinweis: Kurier-Kalender"
+"Das Zentrum"
 ],
 "house": "Das Zentrum",
 "id": "37eda38f4c"
@@ -8837,6 +8771,29 @@
 ],
 "house": "Weitere Orte",
 "id": "18350df308"
+},
+{
+"title": "VR-Treff in der Game-o-thek",
+"subtitle": null,
+"date": "2026-11-27",
+"end_date": null,
+"time": "16:00",
+"venue": "RW21 Stadtbibliothek – freestyle (UG)",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Games",
+"tags": [
+"VR",
+"Gaming",
+"Jugend"
+],
+"description": "Offener Treff zum Ausprobieren von Virtual-Reality-Spielen mit VR-Brillen in der Game-o-thek der Stadtbibliothek.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/vr-treff-game-o-thek-bayreuth-95444-foom5e",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "ec1dd2e6f4"
 },
 {
 "title": "Jüdisches Breslau",
@@ -9604,6 +9561,29 @@
 "id": "354aa43a48"
 },
 {
+"title": "„Zwei Monate in Frankreich“ – Erfahrungsbericht vom Schüleraustausch",
+"subtitle": null,
+"date": "2026-11-29",
+"end_date": null,
+"time": "17:00",
+"venue": "Internationaler Zirkel, Schulstraße 5",
+"organizer": "Deutsch-Französische Gesellschaft Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Frankreich",
+"Austausch",
+"Jugend"
+],
+"description": "Eva Lindner berichtet von ihrem Aufenthalt in Lunéville über das BJR-Austauschprogramm; außerdem Informationen zu weiteren Programmen wie Brigitte Sauzay. Geeignet für Schülerinnen und Schüler der 8. bis 10. Klasse; Anmeldung bis 27.11. erbeten.",
+"price": null,
+"url": "https://www.dfg-bayreuth.de/details-registrierung/zwei-monate-in-frankreich-erfahrungsbericht-vom-individuellen-schuleraustausch",
+"sources": [
+"Deutsch-Französische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "a6ed7c3298"
+},
+{
 "title": "Wort und Musik zum 1. Advent",
 "subtitle": null,
 "date": "2026-11-29",
@@ -9965,6 +9945,29 @@
 ],
 "house": "Iwalewahaus",
 "id": "d6a4036a02"
+},
+{
+"title": "Filmgespräch: Vaterland",
+"subtitle": null,
+"date": "2026-12-02",
+"end_date": null,
+"time": "19:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte",
+"category": "Film",
+"tags": [
+"Filmgespräch",
+"Gesellschaft",
+"Diskussion"
+],
+"description": "Vorführung des Films „Vaterland“ mit anschließendem Gespräch über gesellschaftliche Fragen in der Reihe Filmgespräche. Karten zum regulären Kinopreis an der Kinokasse.",
+"price": "regulärer Kinoeintritt",
+"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
+"sources": [
+"Evangelisches Bildungswerk Oberfranken-Mitte"
+],
+"house": "Kino",
+"id": "3663428aeb"
 },
 {
 "title": "Wagner! Oksana Lyniv und das MDR-Sinfonieorchester",
@@ -12031,6 +12034,29 @@
 ],
 "house": "Friedrichsforum",
 "id": "8064a8796c"
+},
+{
+"title": "Soulounge – Keep the Funk alive!",
+"subtitle": null,
+"date": "2026-12-22",
+"end_date": null,
+"time": "20:00",
+"venue": "Friedrichsforum – Balkonsaal",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Soul",
+"Funk",
+"Konzert"
+],
+"description": "Die Soul- und Funkband Soulounge spielt im Balkonsaal Stücke aus ihrem Programm „Keep the Funk alive“.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261222-soulounge",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "0c86008cee"
 }
 ]
 }
