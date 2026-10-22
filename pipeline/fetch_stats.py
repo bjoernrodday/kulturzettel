@@ -20,8 +20,11 @@ def api(path, **q):
                 time.sleep(0.4)
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            if e.code == 429: time.sleep(3); continue
-            print("FEHLER", path, e.code, e.read()[:200], file=sys.stderr); return None
+            body = e.read()[:200]
+            if e.code in (429, 404, 500, 502, 503) and i < 2:
+                # 404 kam am 22.10.2026 einmalig bei stats/total (gestern) – kurz warten und erneut versuchen
+                print("WIEDERHOLE", path, e.code, body, file=sys.stderr); time.sleep(3); continue
+            print("FEHLER", path, e.code, body, file=sys.stderr); return None
         except Exception as e:
             print("FEHLER", path, e, file=sys.stderr); time.sleep(2)
     return None
@@ -58,6 +61,11 @@ monat, tot90 = block(28, details=True)
 verlauf_raw = api("stats/total", **rng(90)) or {}
 heute = api("stats/total", start=f"{today.isoformat()}T00:00:00Z", end=f"{today.isoformat()}T23:59:59Z") or {}
 verlauf = [{"tag": s.get("day"), "besucher": s.get("daily")} for s in verlauf_raw.get("stats", [])]
+if gestern.get("besucher") is None:
+    # Ersatz, falls die Tagesabfrage scheitert: Wert für gestern aus dem 90-Tage-Verlauf
+    v = next((x["besucher"] for x in verlauf if x["tag"] == yday.isoformat()), None)
+    if v is not None:
+        gestern["besucher"] = v; gestern["hinweis"] = "besucher aus verlauf_90_tage übernommen (Tagesabfrage fehlgeschlagen)"
 
 data = {"quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
         "abgerufen": datetime.datetime.now(tz).isoformat(timespec="minutes"),
