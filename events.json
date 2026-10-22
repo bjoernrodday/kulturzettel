@@ -2245,11 +2245,10 @@
 "Komödie",
 "Erbschaft",
 "Gegenwartsdramatik",
-"Probe",
 "Studiobühne"
 ],
-"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie; zahlreiche Vorstellungen bis Ende Dezember (meist 20 Uhr, sonntags 17 Uhr).",
-"price": "frei",
+"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
+"price": null,
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
 "sources": [
 "Studiobühne Bayreuth",
@@ -2257,7 +2256,79 @@
 "Bayreuther Tagblatt / bayreuth4U"
 ],
 "house": "Studiobühne",
-"id": "5f78b0fa62"
+"id": "5f78b0fa62",
+"termine": [
+{
+"date": "2026-10-23",
+"time": "20:00",
+"hinweis": "Premiere"
+},
+{
+"date": "2026-10-29",
+"time": "20:00"
+},
+{
+"date": "2026-11-05",
+"time": "20:00"
+},
+{
+"date": "2026-11-07",
+"time": "20:00"
+},
+{
+"date": "2026-11-08",
+"time": "17:00"
+},
+{
+"date": "2026-11-11",
+"time": "20:00"
+},
+{
+"date": "2026-11-14",
+"time": "20:00"
+},
+{
+"date": "2026-11-15",
+"time": "17:00"
+},
+{
+"date": "2026-11-17",
+"time": "20:00"
+},
+{
+"date": "2026-11-20",
+"time": "20:00"
+},
+{
+"date": "2026-11-21",
+"time": "20:00"
+},
+{
+"date": "2026-11-27",
+"time": "20:00"
+},
+{
+"date": "2026-11-29",
+"time": "17:00"
+},
+{
+"date": "2026-12-11",
+"time": "20:00"
+},
+{
+"date": "2026-12-16",
+"time": "20:00"
+},
+{
+"date": "2026-12-22",
+"time": "20:00"
+},
+{
+"date": "2026-12-28",
+"time": "20:00",
+"hinweis": "Letzte Vorstellung"
+}
+]
 },
 {
 "title": "Comedyflash Bayreuth",

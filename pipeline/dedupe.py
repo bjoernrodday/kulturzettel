@@ -7,7 +7,8 @@ def ismulti(e): return bool(e.get('end_date')) and e['end_date']>e['date']
 def absorb(k,d):
     k['sources']=list(dict.fromkeys(k['sources']+d['sources']))
     k['end_date']=max(k.get('end_date') or k['date'],d.get('end_date') or d['date'])
-    for f in ['time','subtitle','price','organizer']:
+    # Uhrzeit und Preis nie von einem anderen Termin übernehmen (Probe/Premiere/Vorstellung unterscheiden sich)
+    for f in ['subtitle','organizer']:
         if not k.get(f) and d.get(f): k[f]=d[f]
     drop.add(d['id'])
 byid={e['id']:e for e in ev}
@@ -20,11 +21,21 @@ for i,a in enumerate(M):
         if b['id'] in drop: continue
         if a['date']<=b['end_date'] and b['date']<=a['end_date'] and difflib.SequenceMatcher(None,n(a['title']),n(b['title'])).ratio()>=0.88:
             absorb(a,b)
+PROBE=re.compile(r'probe|vorpremiere|einführung|werkstatt',re.I)
 for a in M:
     if a['id'] in drop: continue
     for b in ev:
         if b['id'] in drop or ismulti(b) or b is a or 'Masken' in b['title']: continue
+        if PROBE.search(b['title']+' '+(b.get('subtitle') or '')+' '+' '.join(b.get('tags') or [])): continue  # Proben u. Ä. bleiben eigene Termine
         if a['date']<=b['date']<=a['end_date'] and difflib.SequenceMatcher(None,n(a['title']),n(b['title'])).ratio()>0.8:
+            if a.get('termine'):
+                # Produktion mit bekannten Vorstellungen: Einzeltermin dort eintragen
+                ts=a['termine']
+                if b['date'] not in {t.get('date') for t in ts}:
+                    ts.append({'date':b['date'],'time':b.get('time'),'hinweis':b.get('hinweis')})
+                a['termine']=sorted(ts,key=lambda t:(t['date'],t.get('time') or '99'))
+            elif a.get('category')!='Ausstellung':
+                continue  # Vorstellung ohne Terminliste der Serie: als eigener Tagestermin stehen lassen
             a['sources']=list(dict.fromkeys(a['sources']+b['sources'])); drop.add(b['id'])
 D['events']=[e for e in ev if e['id'] not in drop]
 json.dump(D,open('events.json','w'),ensure_ascii=False,indent=0)

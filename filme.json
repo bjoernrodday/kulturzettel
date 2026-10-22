@@ -358,6 +358,30 @@
    "source": "Cineplex Bayreuth"
   },
   {
+   "title": "Street Fighter",
+   "venue": "Cineplex Bayreuth",
+   "runtime": null,
+   "fsk": null,
+   "genres": [
+    "Action & Abenteuer"
+   ],
+   "genres_raw": [],
+   "badges": [],
+   "week": null,
+   "shows": [
+    {
+     "time": "20:45",
+     "room": "Kino 2",
+     "site": "Haupthaus",
+     "flags": []
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
    "title": "Whalefall",
    "venue": "Cineplex Bayreuth",
    "runtime": 107,
