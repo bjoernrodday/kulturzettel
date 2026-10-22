@@ -1,66 +1,54 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-21T05:55+02:00",
+ "abgerufen": "2026-10-22T05:57+02:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-20",
-  "bis": "2026-10-20",
-  "besucher": 20,
+  "von": "2026-10-21",
+  "bis": "2026-10-21",
+  "besucher": null,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 15
+    "besucher": 7
    },
    {
-    "pfad": "/ueber.html",
-    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 2
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
+    "besucher": 1
    },
    {
     "pfad": "/quellen.html",
     "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 2
-   },
-   {
-    "pfad": "/?test=goatcounter",
-    "titel": "Kulturzettel Bayreuth",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 14
-   },
-   {
-    "name": "l.instagram.com",
-    "besucher": 3
+    "besucher": 7
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/ueber.html",
-    "besucher": 1
-   },
-   {
-    "name": "www.kulturzettel-bayreuth.de",
-    "besucher": 1
+    "besucher": 2
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-14",
-  "bis": "2026-10-20",
-  "besucher": 20,
+  "von": "2026-10-15",
+  "bis": "2026-10-21",
+  "besucher": 29,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 15
+    "besucher": 22
+   },
+   {
+    "pfad": "/quellen.html",
+    "titel": "Quellen – Kulturzettel Bayreuth",
+    "besucher": 3
    },
    {
     "pfad": "/ueber.html",
@@ -68,9 +56,9 @@
     "besucher": 2
    },
    {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 2
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
+    "besucher": 1
    },
    {
     "pfad": "/?test=goatcounter",
@@ -81,7 +69,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 14
+    "besucher": 21
    },
    {
     "name": "l.instagram.com",
@@ -89,7 +77,7 @@
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 1
+    "besucher": 3
    },
    {
     "name": "kulturzettel-bayreuth.de/ueber.html",
@@ -102,14 +90,19 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-23",
-  "bis": "2026-10-20",
-  "besucher": 20,
+  "von": "2026-09-24",
+  "bis": "2026-10-21",
+  "besucher": 29,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 15
+    "besucher": 22
+   },
+   {
+    "pfad": "/quellen.html",
+    "titel": "Quellen – Kulturzettel Bayreuth",
+    "besucher": 3
    },
    {
     "pfad": "/ueber.html",
@@ -117,9 +110,9 @@
     "besucher": 2
    },
    {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 2
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
+    "besucher": 1
    },
    {
     "pfad": "/?test=goatcounter",
@@ -130,7 +123,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 14
+    "besucher": 21
    },
    {
     "name": "l.instagram.com",
@@ -138,7 +131,7 @@
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 1
+    "besucher": 3
    },
    {
     "name": "kulturzettel-bayreuth.de/ueber.html",
@@ -152,17 +145,21 @@
   "browser": [
    {
     "name": "Safari",
-    "besucher": 11
+    "besucher": 18
    },
    {
     "name": "Chrome",
     "besucher": 9
+   },
+   {
+    "name": "Firefox",
+    "besucher": 2
    }
   ],
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 10
+    "besucher": 16
    },
    {
     "name": "Android",
@@ -170,13 +167,17 @@
    },
    {
     "name": "macOS",
-    "besucher": 4
+    "besucher": 5
+   },
+   {
+    "name": "Windows",
+    "besucher": 2
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 17
+    "besucher": 23
    },
    {
     "name": "",
@@ -184,11 +185,11 @@
    },
    {
     "name": "",
-    "besucher": 3
+    "besucher": 5
    },
    {
     "name": "",
-    "besucher": 0
+    "besucher": 1
    },
    {
     "name": "",
@@ -198,7 +199,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 19
+    "besucher": 28
    },
    {
     "name": "France",
@@ -207,10 +208,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-23",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-24",
    "besucher": 0
@@ -569,6 +566,10 @@
   },
   {
    "tag": "2026-10-21",
+   "besucher": 9
+  },
+  {
+   "tag": "2026-10-22",
    "besucher": 1
   }
  ]
