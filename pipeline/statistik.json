@@ -1,21 +1,26 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-22T06:55+02:00",
+ "abgerufen": "2026-10-23T05:56+02:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
- "heute_bis_abruf": 0,
+ "heute_bis_abruf": 1,
  "gestern": {
-  "von": "2026-10-21",
-  "bis": "2026-10-21",
-  "besucher": 9,
+  "von": "2026-10-22",
+  "bis": "2026-10-22",
+  "besucher": 6,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 7
+    "besucher": 3
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
     "besucher": 1
    },
    {
@@ -27,38 +32,46 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 7
+    "besucher": 2
    },
    {
     "name": "kulturzettel-bayreuth.de",
     "besucher": 2
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/kino.html",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/quellen.html",
+    "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-15",
-  "bis": "2026-10-21",
-  "besucher": 29,
+  "von": "2026-10-16",
+  "bis": "2026-10-22",
+  "besucher": 35,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 22
+    "besucher": 25
    },
    {
     "pfad": "/quellen.html",
     "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 3
+    "besucher": 4
    },
    {
     "pfad": "/ueber.html",
     "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 2
+    "besucher": 3
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 1
+    "besucher": 2
    },
    {
     "pfad": "/?test=goatcounter",
@@ -69,14 +82,14 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 21
-   },
-   {
-    "name": "l.instagram.com",
-    "besucher": 3
+    "besucher": 23
    },
    {
     "name": "kulturzettel-bayreuth.de",
+    "besucher": 5
+   },
+   {
+    "name": "l.instagram.com",
     "besucher": 3
    },
    {
@@ -85,34 +98,42 @@
    },
    {
     "name": "www.kulturzettel-bayreuth.de",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/kino.html",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/quellen.html",
     "besucher": 1
    }
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-24",
-  "bis": "2026-10-21",
-  "besucher": 29,
+  "von": "2026-09-25",
+  "bis": "2026-10-22",
+  "besucher": 35,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 22
+    "besucher": 25
    },
    {
     "pfad": "/quellen.html",
     "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 3
+    "besucher": 4
    },
    {
     "pfad": "/ueber.html",
     "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 2
+    "besucher": 3
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 1
+    "besucher": 2
    },
    {
     "pfad": "/?test=goatcounter",
@@ -123,14 +144,14 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 21
-   },
-   {
-    "name": "l.instagram.com",
-    "besucher": 3
+    "besucher": 23
    },
    {
     "name": "kulturzettel-bayreuth.de",
+    "besucher": 5
+   },
+   {
+    "name": "l.instagram.com",
     "besucher": 3
    },
    {
@@ -139,17 +160,25 @@
    },
    {
     "name": "www.kulturzettel-bayreuth.de",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/kino.html",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/quellen.html",
     "besucher": 1
    }
   ],
   "browser": [
    {
     "name": "Safari",
-    "besucher": 18
+    "besucher": 20
    },
    {
     "name": "Chrome",
-    "besucher": 9
+    "besucher": 14
    },
    {
     "name": "Firefox",
@@ -159,11 +188,15 @@
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 16
+    "besucher": 18
    },
    {
     "name": "Android",
     "besucher": 6
+   },
+   {
+    "name": "Linux",
+    "besucher": 5
    },
    {
     "name": "macOS",
@@ -177,7 +210,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 23
+    "besucher": 25
    },
    {
     "name": "",
@@ -185,7 +218,7 @@
    },
    {
     "name": "",
-    "besucher": 5
+    "besucher": 10
    },
    {
     "name": "",
@@ -199,7 +232,11 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 28
+    "besucher": 30
+   },
+   {
+    "name": "United Kingdom",
+    "besucher": 5
    },
    {
     "name": "France",
@@ -208,10 +245,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-24",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-25",
    "besucher": 0
@@ -570,7 +603,11 @@
   },
   {
    "tag": "2026-10-22",
-   "besucher": 1
+   "besucher": 7
+  },
+  {
+   "tag": "2026-10-23",
+   "besucher": 0
   }
  ]
 }
