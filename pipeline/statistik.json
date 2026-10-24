@@ -1,62 +1,35 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-23T05:56+02:00",
+ "abgerufen": "2026-10-24T05:54+02:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
- "heute_bis_abruf": 1,
+ "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-22",
-  "bis": "2026-10-22",
-  "besucher": 6,
+  "von": "2026-10-23",
+  "bis": "2026-10-23",
+  "besucher": 2,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 3
-   },
-   {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ueber.html",
-    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 1
-   },
-   {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 1
+    "besucher": 2
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
     "besucher": 2
-   },
-   {
-    "name": "kulturzettel-bayreuth.de",
-    "besucher": 2
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/kino.html",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/quellen.html",
-    "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-16",
-  "bis": "2026-10-22",
-  "besucher": 35,
+  "von": "2026-10-17",
+  "bis": "2026-10-23",
+  "besucher": 37,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 25
+    "besucher": 27
    },
    {
     "pfad": "/quellen.html",
@@ -82,7 +55,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 23
+    "besucher": 25
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -111,14 +84,14 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-25",
-  "bis": "2026-10-22",
-  "besucher": 35,
+  "von": "2026-09-26",
+  "bis": "2026-10-23",
+  "besucher": 37,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 25
+    "besucher": 27
    },
    {
     "pfad": "/quellen.html",
@@ -144,7 +117,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 23
+    "besucher": 25
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -174,7 +147,7 @@
   "browser": [
    {
     "name": "Safari",
-    "besucher": 20
+    "besucher": 21
    },
    {
     "name": "Chrome",
@@ -188,18 +161,18 @@
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 18
+    "besucher": 19
    },
    {
     "name": "Android",
     "besucher": 6
    },
    {
-    "name": "Linux",
+    "name": "macOS",
     "besucher": 5
    },
    {
-    "name": "macOS",
+    "name": "Linux",
     "besucher": 5
    },
    {
@@ -210,7 +183,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 25
+    "besucher": 26
    },
    {
     "name": "",
@@ -232,7 +205,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 30
+    "besucher": 31
    },
    {
     "name": "United Kingdom",
@@ -245,10 +218,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-25",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-26",
    "besucher": 0
@@ -607,6 +576,10 @@
   },
   {
    "tag": "2026-10-23",
+   "besucher": 2
+  },
+  {
+   "tag": "2026-10-24",
    "besucher": 0
   }
  ]
