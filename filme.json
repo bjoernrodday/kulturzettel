@@ -1,6 +1,6 @@
 {
- "date": "2026-10-23",
- "updated": "2026-10-23T06:38+02:00",
+ "date": "2026-10-24",
+ "updated": "2026-10-24T06:00+02:00",
  "films": [
   {
    "title": "Clayface",
@@ -29,17 +29,7 @@
      ]
     },
     {
-     "time": "18:30",
-     "room": "F&G 2",
-     "site": "Franz & Gloria",
-     "flags": [
-      "OV Englisch",
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "18:45",
+     "time": "20:15",
      "room": "4DX",
      "site": "Haupthaus",
      "flags": [
@@ -86,7 +76,7 @@
    "week": 1,
    "shows": [
     {
-     "time": "17:30",
+     "time": "14:45",
      "room": "ULTIMATE. Studio 7",
      "site": "Haupthaus",
      "flags": [
@@ -96,11 +86,21 @@
      ]
     },
     {
-     "time": "18:00",
-     "room": "F&G 4",
+     "time": "17:00",
+     "room": "F&G 5",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "17:30",
+     "room": "ULTIMATE. Studio 7",
+     "site": "Haupthaus",
+     "flags": [
+      "Dolby Atmos",
+      "D-BOX",
       "Barrierefrei"
      ]
     },
@@ -112,20 +112,30 @@
       "Dolby Atmos",
       "Barrierefrei"
      ]
-    },
+    }
+   ],
+   "more": true,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "The Social Reckoning",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 114,
+   "fsk": 12,
+   "genres": [
+    "Drama"
+   ],
+   "genres_raw": [
+    "Drama"
+   ],
+   "badges": [],
+   "week": 3,
+   "shows": [
     {
-     "time": "20:15",
-     "room": "ULTIMATE. Studio 7",
-     "site": "Haupthaus",
-     "flags": [
-      "Dolby Atmos",
-      "D-BOX",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:45",
-     "room": "F&G 4",
+     "time": "16:30",
+     "room": "F&G 3",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
@@ -133,7 +143,7 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -157,6 +167,14 @@
    "week": 2,
    "shows": [
     {
+     "time": "14:00",
+     "room": "Kino 1",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
+    {
      "time": "16:00",
      "room": "Kino 1",
      "site": "Haupthaus",
@@ -165,69 +183,7 @@
      ]
     }
    ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Alte Liebe",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 111,
-   "fsk": 6,
-   "genres": [
-    "Komödie",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Komödie",
-    "Drama"
-   ],
-   "badges": [
-    "CineArt"
-   ],
-   "week": 3,
-   "shows": [
-    {
-     "time": "16:30",
-     "room": "Kino 3",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Corpus Delicti",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 104,
-   "fsk": 12,
-   "genres": [
-    "Thriller & Krimi",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Thriller",
-    "Drama"
-   ],
-   "badges": [],
-   "week": 4,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": "F&G 2",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -249,8 +205,16 @@
    "week": 6,
    "shows": [
     {
-     "time": "16:30",
-     "room": "F&G 3",
+     "time": "18:15",
+     "room": "Kino 1",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "18:15",
+     "room": "F&G 4",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
@@ -263,14 +227,6 @@
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
-     ]
-    },
-    {
-     "time": "21:15",
-     "room": "4DX",
-     "site": "Haupthaus",
-     "flags": [
-      "4DX"
      ]
     }
    ],
@@ -303,7 +259,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -332,8 +288,8 @@
      ]
     },
     {
-     "time": "17:00",
-     "room": "F&G 5",
+     "time": "17:30",
+     "room": "F&G 1",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
@@ -359,7 +315,7 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -378,6 +334,14 @@
    "badges": [],
    "week": 11,
    "shows": [
+    {
+     "time": "14:40",
+     "room": "F&G 1",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
     {
      "time": "18:15",
      "room": "Kino 2",
@@ -415,6 +379,32 @@
    "week": 2,
    "shows": [
     {
+     "time": "14:45",
+     "room": "4DX",
+     "site": "Haupthaus",
+     "flags": [
+      "4DX"
+     ]
+    },
+    {
+     "time": "16:00",
+     "room": "F&G 2",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Dolby Atmos",
+      "Barrierefrei"
+     ]
+    },
+    {
+     "time": "17:30",
+     "room": "4DX",
+     "site": "Haupthaus",
+     "flags": [
+      "OV Englisch",
+      "4DX"
+     ]
+    },
+    {
      "time": "20:45",
      "room": "Kino 2",
      "site": "Haupthaus",
@@ -423,8 +413,8 @@
      ]
     }
    ],
-   "more": false,
-   "note": null,
+   "more": true,
+   "note": "Vorstellung 17:30 im 4DX auf Englisch (English Showtimes)",
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
@@ -446,14 +436,14 @@
    "shows": [
     {
      "time": "16:15",
-     "room": "4DX",
+     "room": "Kino 3",
      "site": "Haupthaus",
      "flags": [
-      "4DX"
+      "Barrierefrei"
      ]
     },
     {
-     "time": "21:00",
+     "time": "20:30",
      "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
@@ -485,6 +475,14 @@
    "week": 4,
    "shows": [
     {
+     "time": "14:15",
+     "room": "Kino 6",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
+    {
      "time": "16:15",
      "room": "Kino 6",
      "site": "Haupthaus",
@@ -493,7 +491,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -517,6 +515,15 @@
    "week": 5,
    "shows": [
     {
+     "time": "14:00",
+     "room": "Kino 8",
+     "site": "Haupthaus",
+     "flags": [
+      "VPT Intense",
+      "Barrierefrei"
+     ]
+    },
+    {
      "time": "16:45",
      "room": "Kino 5",
      "site": "Haupthaus",
@@ -525,7 +532,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -547,8 +554,8 @@
    "week": 5,
    "shows": [
     {
-     "time": "17:30",
-     "room": "F&G 1",
+     "time": "18:45",
+     "room": "F&G 2",
      "site": "Franz & Gloria",
      "flags": [
       "Barrierefrei"
@@ -583,6 +590,14 @@
    "week": 5,
    "shows": [
     {
+     "time": "13:45",
+     "room": "Kino 2",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    },
+    {
      "time": "16:00",
      "room": "Kino 2",
      "site": "Haupthaus",
@@ -591,7 +606,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -613,10 +628,69 @@
    "week": 3,
    "shows": [
     {
-     "time": "18:15",
-     "room": "Kino 1",
+     "time": "13:45",
+     "room": "Kino 3",
      "site": "Haupthaus",
      "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": true,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Paw Patrol: Der Dino Film",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 84,
+   "fsk": 0,
+   "genres": [
+    "Kinder & Familie",
+    "Animation"
+   ],
+   "genres_raw": [
+    "Familienfilm",
+    "Animation"
+   ],
+   "badges": [],
+   "week": 12,
+   "shows": [
+    {
+     "time": "14:30",
+     "room": "Kino 5",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
+   "more": false,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Spider-Man: Brand New Day",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 146,
+   "fsk": 12,
+   "genres": [
+    "Action & Abenteuer"
+   ],
+   "genres_raw": [
+    "Action"
+   ],
+   "badges": [],
+   "week": 13,
+   "shows": [
+    {
+     "time": "15:00",
+     "room": "F&G 4",
+     "site": "Franz & Gloria",
+     "flags": [
+      "Dolby Atmos",
       "Barrierefrei"
      ]
     }

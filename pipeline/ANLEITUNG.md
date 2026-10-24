@@ -64,6 +64,8 @@ WebFetch nur auf Adressen, die wörtlich irgendwo stehen: in der Anleitung, in d
 
 - Weitere Filmquellen (seit 23.10.2026): Filmgesprächsabende der Evangelisch-reformierten Gemeinde (Reformierte Kirche, Erlanger Str. 29, unregelmäßig) https://reformiert-bayreuth.de/category/veranstaltungen/film/; Deutsch-Tschechische Gesellschaft Bayreuth (gelegentlich tschechische Filme im Cineplex) https://dtgbayreuth.de/programm.html; Africa-Multiple-Kalender (Cinema Africa, Screenings) https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/index.html. Cineplex-Filmseiten mit vollständigen Sneak-Terminen: https://www.cineplex.de/bayreuth/film/kultsneak-3F041000012FWBXJYB und https://www.cineplex.de/bayreuth/film/sneak-preview-fsk-18-CEF50000012FWBXJYB (verlässlicher als previews-und-events).
 
+- Weitere Filmquellen (seit 24.10.2026): kontrast Filmfest Bayreuth https://www.kontrast-filmfest.de/filmfest-programm/ (Festival 2026 vorbei, auf Folgetermine achten); Kino Jenseits (Neuneinhalb) https://www.neuneinhalb.org/eventer-organizer/kino-jenseits/. Abrufbare Ersatzadressen: UniKino https://fsmpi.uni-bayreuth.de/unikino (statt /en/uniCinema), Glashaus https://www.glashaus.org/programm (?filter=kino gesperrt).
+
 
 ## Datenqualität (seit 22.10.2026, nach Nutzertest)
 - Preis, Uhrzeit und Schlagworte nur übernehmen, wenn sie eindeutig zu genau diesem Termin gehören. Eine öffentliche Probe, Vorpremiere, Einführung oder Werkstatt ist ein eigener Termin; ihr „Eintritt frei“ gilt nicht für Premiere oder Vorstellungen. Im Zweifel price = null – lieber keine Preisangabe als „frei“.
