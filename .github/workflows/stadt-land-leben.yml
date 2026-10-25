@@ -1,7 +1,7 @@
 name: Termine Stadt, Land, Leben holen
 on:
   schedule:
-    - cron: "17 2 * * *"   # täglich ca. 03:17/04:17 Uhr, vor dem Kulturzettel-Lauf um 05:47
+    - cron: "37 0 * * *"   # täglich 01:37 (Winter) / 02:37 (Sommer), vor dem Kulturzettel-Lauf um 03:37
   workflow_dispatch:
   push:
     branches: [main]
