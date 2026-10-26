@@ -103,9 +103,9 @@ def main():
     inhalte = []
     inhalte.append(
         f"<div class='meta'><span>Bayreuth · Ausgabe {ausgabe}</span><span>{datum_lang}</span></div>"
-        "<div class='wort' style='margin-top:110px;font-size:212px'>Kultur<br><span>zettel</span></div>"
-        "<p class='lead' style='margin-top:60px;max-width:23ch'>Kulturtermine in Bayreuth für die kommenden zwei Monate – auf Bühnen, in Sälen, Museen und Clubs.</p>"
-        f"<div class='zahlen' style='margin-top:64px'><div><b>{len(evs)}</b><small>Termine</small></div>"
+        "<div class='wort' style='margin-top:150px;font-size:170px'>Kultur<span>zettel</span></div>"
+        "<p class='lead' style='margin-top:70px;max-width:23ch'>Kulturtermine in Bayreuth für die kommenden zwei Monate – auf Bühnen, in Sälen, Museen und Clubs.</p>"
+        f"<div class='zahlen' style='margin-top:90px'><div><b>{len(evs)}</b><small>Termine</small></div>"
         f"<div><b>{len(woche)}</b><small>in 7 Tagen</small></div><div><b>{len(orte)}</b><small>Spielorte</small></div></div>"
         "<p class='klein' style='margin-top:40px'>Zum Durchblättern wischen</p>")
     zeilen = [f"<div class='sp'><span>{html.escape(c)}</span><i>{n}</i></div>" for c, n in sparten]
