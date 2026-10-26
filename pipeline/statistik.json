@@ -1,16 +1,16 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-25T07:07+01:00",
+ "abgerufen": "2026-10-26T04:58+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-24",
-  "bis": "2026-10-24",
+  "von": "2026-10-25",
+  "bis": "2026-10-25",
   "besucher": 1,
   "seiten": [
    {
-    "pfad": "/",
-    "titel": "Kulturzettel Bayreuth",
+    "pfad": "/zaehltest",
+    "titel": "Zähltest Claude",
     "besucher": 1
    }
   ],
@@ -22,9 +22,9 @@
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-18",
-  "bis": "2026-10-24",
-  "besucher": 38,
+  "von": "2026-10-19",
+  "bis": "2026-10-25",
+  "besucher": 39,
   "seiten": [
    {
     "pfad": "/",
@@ -47,6 +47,11 @@
     "besucher": 2
    },
    {
+    "pfad": "/zaehltest",
+    "titel": "Zähltest Claude",
+    "besucher": 1
+   },
+   {
     "pfad": "/?test=goatcounter",
     "titel": "Kulturzettel Bayreuth",
     "besucher": 1
@@ -55,7 +60,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 26
+    "besucher": 27
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -84,9 +89,9 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-27",
-  "bis": "2026-10-24",
-  "besucher": 38,
+  "von": "2026-09-28",
+  "bis": "2026-10-25",
+  "besucher": 39,
   "seiten": [
    {
     "pfad": "/",
@@ -109,6 +114,11 @@
     "besucher": 2
    },
    {
+    "pfad": "/zaehltest",
+    "titel": "Zähltest Claude",
+    "besucher": 1
+   },
+   {
     "pfad": "/?test=goatcounter",
     "titel": "Kulturzettel Bayreuth",
     "besucher": 1
@@ -117,7 +127,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 26
+    "besucher": 27
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -151,7 +161,7 @@
    },
    {
     "name": "Chrome",
-    "besucher": 14
+    "besucher": 15
    },
    {
     "name": "Firefox",
@@ -169,7 +179,7 @@
    },
    {
     "name": "macOS",
-    "besucher": 5
+    "besucher": 6
    },
    {
     "name": "Linux",
@@ -191,7 +201,7 @@
    },
    {
     "name": "",
-    "besucher": 10
+    "besucher": 11
    },
    {
     "name": "",
@@ -205,7 +215,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 32
+    "besucher": 33
    },
    {
     "name": "United Kingdom",
@@ -218,10 +228,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-27",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-28",
    "besucher": 0
@@ -580,6 +586,10 @@
   },
   {
    "tag": "2026-10-25",
+   "besucher": 1
+  },
+  {
+   "tag": "2026-10-26",
    "besucher": 0
   }
  ]
