@@ -83,6 +83,40 @@ def iso_start(d, t):
     return dt.datetime(y, m, dd, hh, mm, tzinfo=TZ).isoformat()
 
 
+FREI = re.compile(r"^\s*(eintritt\s+)?(frei|kostenfrei|kostenlos)\b(?!\s+bis)", re.I)
+TICKET_HOSTS = ("reservix", "eventim", "okticket", "tickets4arts", "region-bayreuth", "online-ticket", "ticket", "eventfinder", "bayreuth4u", "kurier.de", "regioactive")
+
+
+def ld_offer(e):
+    """Angebot nur, wenn der Preis eindeutig ist; nie etwas erfinden."""
+    pr = (e.get("price") or "").strip()
+    if not pr:
+        return None
+    off = {"@type": "Offer", "url": e.get("url"), "priceCurrency": "EUR"}
+    if re.search(r"ausverkauft", pr, re.I):
+        off["availability"] = "https://schema.org/SoldOut"
+        return off
+    if FREI.search(pr):
+        off["price"] = 0
+        return off
+    if re.search(r"zzgl|spende|unkosten|anmeldung|semester", pr, re.I):
+        return None
+    zahlen = [float(z.replace(".", "").replace(",", ".")) for z in re.findall(r"\d+(?:[.,]\d+)?", pr)]
+    if not zahlen or "€" not in pr:
+        return None
+    off["price"] = 0 if re.match(r"\s*frei\s+bis", pr, re.I) else round(zahlen[0], 2)  # erste Zahl = regulärer bzw. niedrigster Bereichspreis
+    return off
+
+
+def ld_veranstalter_url(e):
+    from urllib.parse import urlsplit
+    u = e.get("url") or ""
+    host = urlsplit(u).netloc.lower()
+    if not host or any(t in host for t in TICKET_HOSTS):
+        return None
+    return f"https://{host}/"
+
+
 def ld_event(e):
     multi = e.get("end_date") and e["end_date"] > e["date"]
     venue = e.get("venue") or "Bayreuth"
@@ -102,12 +136,21 @@ def ld_event(e):
     }
     if multi:
         ev["endDate"] = e["end_date"]
+    elif e.get("category") != "Club & Party":
+        ev["endDate"] = e["date"]  # endet am selben Tag; Partys laufen oft über Mitternacht, daher dort ohne
+    ev["image"] = [OG_IMAGE]
+    off = ld_offer(e)
+    if off:
+        ev["offers"] = off
     if e.get("description"):
         ev["description"] = e["description"]
     if e.get("organizer") or e.get("source"):
         name = e.get("organizer") or re.sub(r"\s*\(.*\)$", "", e.get("source", ""))
         if name and not name.startswith("Hinweis"):
             ev["organizer"] = {"@type": "Organization", "name": name}
+            vu = ld_veranstalter_url(e)
+            if vu:
+                ev["organizer"]["url"] = vu
     return ev
 
 
