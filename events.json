@@ -571,9 +571,25 @@
 {
 "name": "Cineplex Bayreuth – Startseite (Events bis Jahresende)",
 "url": "https://www.cineplex.de/bayreuth"
+},
+{
+"name": "Steingraeber – Führungen",
+"url": "https://www.steingraeber.de/veranstaltungen/kategorien/fuehrung/"
+},
+{
+"name": "Kulturfreunde Bayreuth – Saisonheft 2026/27",
+"url": "https://www.kulturfreunde-bayreuth.de/wp-content/uploads/2026/05/Kulturfreunde_Saisonheft_26-27_digital.pdf"
+},
+{
+"name": "Schlösserverwaltung – Familientermine Bayreuth",
+"url": "https://schloesser.bayern.de/deutsch/kinder/termine/ergebnis.asp?PN=3&optMonat=999999&optOrt=14&optRubrik=1&optSuchfeld="
+},
+{
+"name": "Motion Kommunikation – Events",
+"url": "https://www.motion-kommunikation.de/events/"
 }
 ],
-"updated": "2026-10-25T06:37+01:00",
+"updated": "2026-10-26T04:07+01:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -624,54 +640,28 @@
 "id": "53c6237526"
 },
 {
-"title": "gegenklang – Malerei und Objekte",
-"subtitle": "Ausstellung von Harriet Schmid",
-"date": "2026-08-02",
-"end_date": "2026-10-25",
-"time": null,
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth – Ausstellungsraum",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"title": "Vladimir Kiseljov: Die Mysterien – Richard Wagner in Bildern",
+"subtitle": null,
+"date": "2026-08-01",
+"end_date": "2026-12-31",
+"time": "11:00",
+"venue": "Jean Paul Art Space, Friedrichstraße 5",
+"organizer": "Jean-Paul-Kulturverein Bayreuth",
 "category": "Ausstellung",
 "tags": [
 "Malerei",
-"Objektkunst",
-"Botanischer Garten",
-"Kunst im Garten"
+"Richard Wagner",
+"Eintritt frei"
 ],
-"description": "Im Ausstellungsraum des Botanischen Gartens sind Malereien und Objekte von Harriet Schmid zu sehen.",
-"price": "frei",
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20260802-Vernissage-HarrietSchmid/index.html",
+"description": "Der Künstler Vladimir Kiseljov zeigt Bilder zu Motiven aus Richard Wagners Werken. Die Ausstellung ist täglich ab 11 Uhr geöffnet.",
+"price": "Eintritt frei",
+"url": "https://www.bayreuth-news.de/veranstaltungen/ausstellungen/vladimir-kiseljov-die-mysterien-richard-wagner-in-bildern-26072708014423",
+"termine": null,
 "sources": [
-"Ökologisch-Botanischer Garten"
+"Hinweis: bayreuth-news"
 ],
-"house": "Botanischer Garten",
-"id": "7da50d6338"
-},
-{
-"title": "Linda Männel – Endless Summer",
-"subtitle": "Ein Sommer, der nie endet",
-"date": "2026-09-25",
-"end_date": "2026-10-25",
-"time": "10:00",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Malerei",
-"Installation",
-"Gegenwartskunst",
-"Textilkunst",
-"Reisen"
-],
-"description": "Malerei, Tuschezeichnungen auf Leinwand und eine Installation aus gestreiften Stoffzelten. Geöffnet Di–So 10–17 Uhr.",
-"price": null,
-"url": "https://www.kunstmuseum-bayreuth.de/aktuelles/aktuelle-ausstellung",
-"sources": [
-"Kunstmuseum Bayreuth",
-"Stadt Bayreuth / Kunstmuseum Bayreuth"
-],
-"house": "Kunstmuseum",
-"id": "f0e8e85979"
+"house": "Weitere Orte",
+"id": "e4721e2d23"
 },
 {
 "title": "Linda Männel – Transition",
@@ -712,7 +702,7 @@
 "Wagner",
 "regelmäßig"
 ],
-"description": "45-minütige Führung durch Richard Wagners Festspielhaus. Bis 31.10. täglich um 11, 12, 14 und 15 Uhr (samstags zusätzlich 13 Uhr auf Englisch); vom 1.11. bis 21.12. täglich 14 Uhr, samstags und sonntags zusätzlich 11 Uhr. Anmeldung über die Tourist-Information.",
+"description": "45-minütige Führung durch Richard Wagners Festspielhaus. Bis 31.10. täglich um 11, 12, 14 und 15 Uhr (samstags zusätzlich 13 Uhr auf Englisch); vom 1.11. bis 31.12. täglich 14 Uhr, samstags und sonntags zusätzlich 11 Uhr. Anmeldung über die Tourist-Information.",
 "price": "10 €, ermäßigt 5 €",
 "url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
 "sources": [
@@ -770,32 +760,6 @@
 ],
 "house": "Richard Wagner Museum",
 "id": "c0797003a1"
-},
-{
-"title": "Themen- und Sonderführungen im Markgräflichen Opernhaus",
-"subtitle": "u. a. „Zutritt verboten“ (4.10., 6.12.), „Opernhaus zum Anfassen“ für Sehbehinderte (8.10.), „Ein Opernhaus für eine Hochzeit“ (11.10.), „Vom Alten Fritz bis Checker Tobi“ (28.12.)",
-"date": "2026-10-04",
-"end_date": "2026-11-29",
-"time": "14:30",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Barock",
-"Opernhaus",
-"Welterbe",
-"Inklusion",
-"UNESCO-Welterbe"
-],
-"description": "Führungen u. a. hinter die Kulissen und in den Dachstuhl („Zutritt verboten“: 4. 10. 14:30, 25. 10. 9:30, 22. 11. 14:30), zur Hochzeit von 1748 (11. 10.), zu Technik (14. 11.) und Restaurierung (15. 11.), Überblick (25. 10. 11 Uhr, 29. 11. 14:30) sowie inklusiv für Sehbehinderte (8. 10.) und in Gebärdensprache (29. 11.; der Termin am 24. 10. entfällt). Anmeldung unter 0921 75969-22.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999&optSuchfeld=&B1=Suchanfrage+starten",
-"sources": [
-"Bayerische Schlösserverwaltung",
-"Bayerische Schlösserverwaltung – Markgräfliches Opernhaus"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "d04c19d534"
 },
 {
 "title": "Elfie Weber-Krenner: Naturmalerei auf Schiefer",
@@ -1040,32 +1004,6 @@
 "id": "67c014b2d7"
 },
 {
-"title": "Themenführungen im Neuen Schloss und in der Eremitage",
-"subtitle": "„Entdeckungsreise ins Bayreuther Rokoko“ (10.10.), „Wilhelmine und ihre Familie“ (11.10.), „Geschichte des Markgrafentums“ (11.12.), „Verborgene Schätze des Italienischen Schlösschens“ (29.12.)",
-"date": "2026-10-10",
-"end_date": "2026-11-21",
-"time": "11:00",
-"venue": "Neues Schloss Bayreuth / Eremitage",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Markgräfin Wilhelmine",
-"Barock",
-"Schloss",
-"Wilhelmine",
-"Rokoko"
-],
-"description": "Themenführungen zu Friedrich und Wilhelmine (10. und 11. 10.), verborgenen Räumen und Tapetentüren (24. 10.), Bayreuther Fayence (8. 11.), dem Italienischen Schlösschen (15. 11.) und Markgraf Friedrich III. (21. 11.) im Neuen Schloss; in der Eremitage zu den Drehorten einer Netflix-Serie (11. 10.) und den Wasserspielen (17. 10.). Anmeldung unter 0921 75969-21.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999&optSuchfeld=&B1=Suchanfrage+starten",
-"sources": [
-"Bayerische Schlösserverwaltung",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth"
-],
-"house": "Schlösser & Eremitage",
-"id": "fe3cbb26f1"
-},
-{
 "title": "Miniaturen bemalen – Workshop",
 "subtitle": null,
 "date": "2026-10-11",
@@ -1212,29 +1150,6 @@
 "id": "ee1818c342"
 },
 {
-"title": "Familienführungen in Opernhaus und Neuem Schloss",
-"subtitle": null,
-"date": "2026-10-17",
-"end_date": "2026-11-06",
-"time": "15:00",
-"venue": "Markgräfliches Opernhaus / Neues Schloss Bayreuth",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderführung",
-"Barock",
-"Basteln"
-],
-"description": "Familienangebote für Kinder von 5 bis 12 Jahren: Prinz und Prinzessin im Neuen Schloss (17. 10., 15 Uhr), „Großes Theater!“ im Opernhaus (18. 10. 14:30, 6. 11. 10:30), „Abenteuer Opernhaus“ (25. 10. 10:30), Opernhaus-Highlights mit Bastelworkshop (2. 11. 14:30) und Mode und Hygiene im Barock im Neuen Schloss (5. 11. 10:30). Anmeldung erforderlich.",
-"price": "3 € pro Person zzgl. Eintritt Erwachsene",
-"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999&optSuchfeld=&B1=Suchanfrage+starten",
-"sources": [
-"Bayerische Schlösserverwaltung"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "6fc03ec122"
-},
-{
 "title": "Fotowettbewerb „Ordentlich schlampig“ – Ausstellung",
 "subtitle": null,
 "date": "2026-10-21",
@@ -1283,98 +1198,6 @@
 "id": "af22c372bd"
 },
 {
-"title": "FrankenLAN",
-"subtitle": "Drei Tage Gaming, Gemeinschaft und E-Sport",
-"date": "2026-10-23",
-"end_date": "2026-10-25",
-"time": "18:00",
-"venue": "Friedrichsforum – Hofgartensaal",
-"organizer": "E-Sport UBT e.V.",
-"category": "Games",
-"tags": [
-"LAN-Party",
-"E-Sport",
-"Turniere",
-"Gaming",
-"Retro"
-],
-"description": "LAN-Party mit Turnieren und Freeplay im Hofgartensaal: Fr ab 15 Uhr Check-in, 18 Uhr Eröffnung; Sa ganztägig; So bis 18 Uhr. Eigener Rechner oder Leihhardware (Premium).",
-"price": "45–120 € (3 Tage, je nach Ticket)",
-"url": "https://frankenlan.de/",
-"sources": [
-"FrankenLAN / E-Sport UBT e.V.",
-"Friedrichsforum",
-"FrankenLAN",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "db74f2329a"
-},
-{
-"title": "bayreuther dialoge 2026: EUphorie! – zurück in unsere Zukunft",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "09:00",
-"venue": "Universität Bayreuth",
-"organizer": "bayreuther dialoge (Studierende Philosophy & Economics)",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Europa",
-"Symposium",
-"Debatte"
-],
-"description": "Das studentisch organisierte Symposium widmet sich zwei Tage lang der Zukunft Europas aus wirtschaftlicher, politischer und gesellschaftlicher Sicht, mit Vorträgen, Workshops und Streitgesprächen.",
-"price": null,
-"url": "https://www.bayreuther-dialoge.uni-bayreuth.de/de/programm/index.html",
-"sources": [
-"bayreuther dialoge (Universität Bayreuth)"
-],
-"house": "Universität",
-"id": "237ec2086e"
-},
-{
-"title": "Zutritt verboten – ein Blick hinter die Kulissen",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": "2026-12-06",
-"time": "09:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Opernhaus",
-"Welterbe",
-"Bühnentechnik",
-"Hinter den Kulissen"
-],
-"description": "Führung durch sonst verschlossene Bereiche des Opernhauses wie Kulissen, Haustechnik und Dachstuhl; Trittsicherheit nötig. Termine am 25. Oktober (9:30 Uhr), 22. November (14:30 Uhr) und 6. Dezember (10:30 Uhr), Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "fa655e0948",
-"termine": [
-{
-"date": "2026-10-25",
-"time": "09:30",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "14:30",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "10:30",
-"hinweis": null
-}
-]
-},
-{
 "title": "A. D. Trantenroth – Objekte und Gedanken aus dem Künstlernachlass",
 "subtitle": "Begleitprogramm im Kunstmuseum",
 "date": "2026-10-25",
@@ -1400,158 +1223,11 @@
 "id": "d9613e6864"
 },
 {
-"title": "Guided City Tour (English)",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": "2026-10-31",
-"time": "10:30",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus GmbH",
-"category": "Führung",
-"tags": [
-"Stadtführung",
-"Englisch",
-"Altstadt"
-],
-"description": "Historischer Stadtrundgang in englischer Sprache, rund zwei Stunden. Termine: 17., 18., 24., 25. und 31. Oktober, jeweils 10:30 Uhr; Buchung bis 12 Uhr am Vortag.",
-"price": "12 €, ermäßigt 6 €",
-"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
-"sources": [
-"Bayreuth Marketing & Tourismus"
-],
-"house": "Stadtführungen",
-"id": "c016d7bcf9",
-"termine": [
-{
-"date": "2026-10-25",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-10-31",
-"time": "10:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Abenteuer Opernhaus – Führung hinter die Kulissen",
-"subtitle": "Familienführung für Kinder von 6–12 Jahren",
-"date": "2026-10-25",
-"end_date": "2026-12-20",
-"time": "10:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Kinder & Familie",
-"tags": [
-"Kinder",
-"Opernhaus",
-"hinter den Kulissen",
-"Kinderführung",
-"Familienführung"
-],
-"description": "Familienführung für Kinder von 6 bis 12 Jahren hinter die Kulissen des Opernhauses.",
-"price": "3 € zzgl. Eintritt Erwachsene",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=4&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – bayreuth-wilhelmine.de (Themenführungen)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "556f5b3c40"
-},
-{
-"title": "Stadtrundgang entlang der Stadtmauer",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "10:30",
-"venue": "Historisches Museum Bayreuth, Kirchplatz 4",
-"organizer": "Familien-Bildungsstätte Bayreuth / Historisches Museum Bayreuth",
-"category": "Führung",
-"tags": [
-"Stadtmauer",
-"Stadtgeschichte",
-"Familie",
-"Kinderführung"
-],
-"description": "Museumspädagogischer Spaziergang für Kinder und Familien entlang der Reste der mittelalterlichen Stadtbefestigung, geleitet von Museumspädagogin Heike Schulte; Anmeldung über die Familien-Bildungsstätte.",
-"price": "1 € pro Kind (Anmeldung erforderlich)",
-"url": "https://region-bayreuth.de/veranstaltung/stadtrundgang-entlang-stadtmauer-bayreuth-95444-6x93nd",
-"sources": [
-"Familien-Bildungsstätte Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Historisches Museum",
-"id": "0504a0de5c"
-},
-{
-"title": "CineArt: Frau Winkler verlässt das Haus",
-"subtitle": "Arthouse-Reihe im Cineplex",
-"date": "2026-10-25",
-"end_date": "2026-10-27",
-"time": "10:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Kino",
-"Filmkunst"
-],
-"description": "CineArt-Vorstellungen am 22.10. (17:30), 25.10. (10:45) und 27.10. (20:00).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/frau-winkler-verlaesst-das-haus-7C041000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "16b108e5aa",
-"termine": [
-{
-"date": "2026-10-25",
-"time": "10:45",
-"hinweis": null
-},
-{
-"date": "2026-10-27",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Spaziergang durch die Ausstellung A. D. Trantenroth",
-"subtitle": "Zur Eröffnung",
-"date": "2026-10-25",
-"end_date": null,
-"time": "13:15",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Führung",
-"tags": [
-"Kunstmuseum",
-"Ausstellung",
-"Führung"
-],
-"description": "Gemeinsamer Rundgang durch die neue Ausstellung zum Nachlass von A. D. Trantenroth mit Anja Eichler, Felix Lorenz und Alexandra Kuhnke am Eröffnungstag.",
-"price": null,
-"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
-"sources": [
-"Kunstmuseum Bayreuth"
-],
-"house": "Kunstmuseum",
-"id": "f435b1ed07"
-},
-{
 "title": "Historischer Stadtrundgang",
 "subtitle": null,
-"date": "2026-10-25",
+"date": "2026-10-26",
 "end_date": "2026-11-21",
-"time": "14:00",
+"time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22",
 "organizer": "Bayreuth Marketing & Tourismus",
 "category": "Führung",
@@ -1568,13 +1244,8 @@
 "Bayreuth Tourismus"
 ],
 "house": "Stadtführungen",
-"id": "73e4e861f0",
+"id": "03a66217cd",
 "termine": [
-{
-"date": "2026-10-25",
-"time": "14:00",
-"hinweis": null
-},
 {
 "date": "2026-10-26",
 "time": "10:30",
@@ -1621,503 +1292,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Industriegeschichte in Bayreuth",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "14:00",
-"venue": "Historisches Museum Bayreuth, Kirchplatz 4 (Treffpunkt)",
-"organizer": "Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Industriegeschichte",
-"Stadtgeschichte",
-"Historisches Museum",
-"Industrie",
-"Museumsführung"
-],
-"description": "Führung zur Entwicklung von Industrie und Gewerbe in Bayreuth.",
-"price": null,
-"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
-"sources": [
-"Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus (Führungsprogramm 2026)"
-],
-"house": "Historisches Museum",
-"id": "54fcef112f"
-},
-{
-"title": "Kinder-Halloween-Party „Süßes oder Saures“",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "14:00",
-"venue": "Tanzbar Bayreuth, Bernecker Straße 79",
-"organizer": "Tanzbar Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderdisco",
-"Halloween"
-],
-"description": "Halloween-Disco für Kinder am Sonntagnachmittag.",
-"price": null,
-"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
-"sources": [
-"Tanzbar Bayreuth",
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "f0578b989b"
-},
-{
-"title": "Französischer Spielenachmittag: Taboo",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "14:30",
-"venue": "Internationaler Zirkel, Schulstraße 5",
-"organizer": "Deutsch-Französische Gesellschaft Bayreuth",
-"category": "Games",
-"tags": [
-"Spielenachmittag",
-"Französisch",
-"Sprache"
-],
-"description": "Begriffe-Ratespiel auf Französisch, bei dem kooperativ statt gegeneinander gespielt wird; Ziel ist, möglichst viel Französisch zu sprechen. 14.30 bis 18.30 Uhr, Anmeldung über die Website.",
-"price": null,
-"url": "https://www.dfg-bayreuth.de/details-registrierung/franzosischer-spielenachmittag-taboo",
-"sources": [
-"Deutsch-Französische Gesellschaft Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "a9f2f6bb28"
-},
-{
-"title": "Konzertfilm: BTS Tour ARIRANG in Buenos Aires – Live Viewing",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "14:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Konzertfilm",
-"K-Pop",
-"Live",
-"BTS",
-"Concerts in Cinema"
-],
-"description": "Live-Übertragung eines BTS-Konzerts aus Buenos Aires.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/bts-tour-arirang-in-buenos-aires-live-viewing-D6341000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "5d7394f3b9"
-},
-{
-"title": "Wie der Kaschber dem Richard half, seine Harmonie zu finden",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "15:00",
-"venue": "Jean Paul Art Space, Friedrichstraße 5",
-"organizer": "Die fröhliche Kinderbühne",
-"category": "Kinder & Familie",
-"tags": [
-"Puppentheater",
-"Wagner"
-],
-"description": "Puppentheater, in dem Kasper Richard Wagner aus einer Schaffenskrise hilft.",
-"price": null,
-"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
-"sources": [
-"Die fröhliche Kinderbühne"
-],
-"house": "Weitere Orte",
-"id": "6b42ed65f5"
-},
-{
-"title": "Mendelssohn: Elias",
-"subtitle": "Junges Vokalensemble",
-"date": "2026-10-25",
-"end_date": null,
-"time": "15:00",
-"venue": "Schlosskirche Bayreuth, Schlossberglein",
-"organizer": "Schlosskirchenmusik Bayreuth",
-"category": "Klassik",
-"tags": [
-"Oratorium",
-"Chor",
-"Mendelssohn"
-],
-"description": "Zweite Aufführung von Mendelssohn Bartholdys Oratorium „Elias“ mit dem Jungen Vokalensemble, diesmal am Nachmittag.",
-"price": null,
-"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/veranstaltung/Felix-Mendelssohn-Bartholdy-Elias-2026.10.25/?instancedate=1792936800000",
-"sources": [
-"Schlosskirchenmusik Bayreuth"
-],
-"house": "Kirchen",
-"id": "63120b4474"
-},
-{
-"title": "Führung: Auf den Spuren Franz Liszts",
-"subtitle": "Themenführung",
-"date": "2026-10-25",
-"end_date": null,
-"time": "15:00",
-"venue": "Franz-Liszt-Museum, Wahnfriedstraße 9 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Liszt",
-"Musikgeschichte",
-"Stadtführung",
-"Museum",
-"Franz Liszt"
-],
-"description": "Themenführung zu den Bayreuther Orten des Komponisten Franz Liszt, der hier 1886 starb.",
-"price": "12 € zzgl. Museumseintritt",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/auf-den-spuren-franz-liszts/",
-"sources": [
-"Bayreuth Tourismus (Führungsprogramm 2026)",
-"Bayreuth Marketing & Tourismus",
-"Bayreuth Tourismus",
-"Bayreuth Tourismus, Führungsprogramm 2026",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Richard Wagner Museum",
-"id": "3d7422da55"
-},
-{
-"title": "Sonntag im Museum – Kunst macht Spaß",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": "2026-12-20",
-"time": "16:00",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Workshop",
-"Malen",
-"Kunstvermittlung"
-],
-"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 25.10., 8.11., 22.11., 6.12. und 20.12.; Anmeldung unter 0921/7645310.",
-"price": "15 € pro Termin zzgl. Material",
-"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
-"sources": [
-"Kunstmuseum Bayreuth"
-],
-"house": "Kunstmuseum",
-"id": "d5f714b86a",
-"termine": [
-{
-"date": "2026-10-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-20",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Vis-à-vis: Frankreich im Fokus – Oktober",
-"subtitle": "Filmreihe zu 60 Jahren Städtepartnerschaft Bayreuth–Annecy",
-"date": "2026-10-25",
-"end_date": null,
-"time": "16:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm",
-"category": "Film",
-"tags": [
-"Französischer Film",
-"Filmreihe",
-"Französisches Kino",
-"OmU",
-"Städtepartnerschaft"
-],
-"description": "Französische Filmreihe: „Die jüngste Tochter“ um 16 Uhr und „Die einfachen Dinge“ um 19 Uhr.",
-"price": "7 €, Kinder 4 €",
-"url": "https://kino-ist-programm.de/die-juengste-tochter-la-petite-derniere/",
-"sources": [
-"Kino ist Programm",
-"Kino ist Programm – Sonderveranstaltungen",
-"Kino ist Programm e.V.",
-"Kino ist Programm e. V.",
-"Neuneinhalb e.V.",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Neuneinhalb",
-"id": "43bf6cb2e6"
-},
-{
-"title": "Herbstkonzert der Städtischen Musikschule",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "16:00",
-"venue": "Städtische Musikschule – Richard-Wagner-Saal",
-"organizer": "Städtische Musikschule Bayreuth",
-"category": "Klassik",
-"tags": [
-"Musikschule",
-"Konzert"
-],
-"description": "Herbstliches Konzert mit Ensembles und Solistinnen und Solisten der Städtischen Musikschule.",
-"price": null,
-"url": "https://musikschule.bayreuth.de/veranstaltung/herbstkonzert-2026/",
-"sources": [
-"Städtische Musikschule Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "b9635cb056"
-},
-{
-"title": "Stimmen gegen das Vergessen",
-"subtitle": "Konzertlesung mit der Klezmer-Band PASSAGE",
-"date": "2026-10-25",
-"end_date": null,
-"time": "17:00",
-"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
-"organizer": "Evang.-Luth. Kirchengemeinde Stadtkirche Bayreuth (Pfarrer Dr. Carsten Brall)",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Klezmer",
-"Lesung",
-"Erinnerung",
-"Kirche"
-],
-"description": "Die Nürnberger Band PASSAGE spielt Klezmer, dazu lesen Stefan Brandenburger und Nasim Konietzny Texte; Moderation Pfarrer Dr. Carsten Brall. Anschließend Ausstellungsmidissage mit Rundgang durch die Ausstellung in der Kirche.",
-"price": null,
-"url": "https://www.stadtkirche-bayreuth.de/xml/xmlscript.php?etID=8254267",
-"sources": [
-"Stadtkirche Bayreuth"
-],
-"house": "Kirchen",
-"id": "b4ab09e0aa"
-},
-{
-"title": "Notte Italiana – Pino Barone live",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "18:00",
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Italienisch",
-"Livemusik",
-"Live-Musik",
-"Italien",
-"Winterdorf"
-],
-"description": "Italienischer Abend mit Livemusik von Pino Barone.",
-"price": "frei",
-"url": "https://winterdorf-bayreuth.de/events/pino-barone-664/",
-"sources": [
-"Bayreuther Winterdorf",
-"Winterdorf"
-],
-"house": "Winterdorf",
-"id": "87d3bbabd1"
-},
-{
-"title": "Die große Johann Strauss Revue",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "18:30",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "stagediver event GmbH",
-"category": "Klassik",
-"tags": [
-"Operette",
-"Walzer",
-"Strauss",
-"Ballett",
-"Revue"
-],
-"description": "Revue mit Walzern und Operettenmelodien von Johann Strauss.",
-"price": null,
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/veranst.asp",
-"sources": [
-"Bayerische Schlösserverwaltung",
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Markgräfliches Opernhaus"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "ab3258c04c"
-},
-{
-"title": "RING! RING! – Bus 304 hält nicht am Festspielhaus",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "19:00",
-"venue": "Jean Paul Art Space",
-"organizer": "Jean Paul Kulturverein",
-"category": "Theater",
-"tags": [
-"Performance",
-"Wagner",
-"Freie Szene"
-],
-"description": "Abschlussinszenierung des festspiel|artlab im Rahmen von Festival150: Über 25 freie Künstlerinnen und Künstler zeigen eine eigene Ring-Interpretation mit Schauspiel, Gesang und Orchester auf selbstgebauter Bühne. Aufführungen Sa 24.10. um 19 und 21 Uhr, So 25.10. um 17 und 19 Uhr; davor jeweils das Kinder-Vorspiel „Wie der Kaschber dem Richard half, die Harmonie zu finden“ (Sa 17 Uhr, So 15 Uhr). Eintritt frei.",
-"price": null,
-"url": "https://jean-paul-kulturverein.de/portfolio-items/zum-abschluss-von-festival150-ring-ring-6-auffuehrungen-an-2-abenden/",
-"sources": [
-"Jean Paul Kulturverein"
-],
-"house": "Weitere Orte",
-"id": "feceb19e9e"
-},
-{
-"title": "Lichtspielhaus",
-"subtitle": "Filmabend im Glashaus",
-"date": "2026-10-25",
-"end_date": null,
-"time": "19:00",
-"venue": "Glashaus",
-"organizer": "Glashaus",
-"category": "Film",
-"tags": [
-"Kino",
-"Filmreihe",
-"Horror"
-],
-"description": "Filmabend im Glashaus, Eintritt frei (11., 19. und 25.10.).",
-"price": "frei (Vereinsmitgliedschaft ab 1 €)",
-"url": "https://www.glashaus.org/programm/lichtspielhaus-260308-2-2-2-2-4-2-2",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "53829f3258"
-},
-{
-"title": "Vis-à-vis: Die einfachen Dinge (OmU)",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": "19:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm e.V.",
-"category": "Film",
-"tags": [
-"Programmkino",
-"Frankreich",
-"OmU"
-],
-"description": "Abendvorstellung der Reihe „Vis-à-vis: Frankreich im Fokus“: Éric Besnards Komödie (F 2023) über einen gestressten Unternehmer, der auf einem abgelegenen Bergbauernhof strandet. Französisch mit Untertiteln.",
-"price": "7 €",
-"url": "https://kino-ist-programm.de/die-einfachen-dinge-les-choses-simples/",
-"sources": [
-"Kino ist Programm e.V."
-],
-"house": "Neuneinhalb",
-"id": "4e9e82c62a"
-},
-{
-"title": "zweioderdrei – Lobpreiskonzert",
-"subtitle": "Evangelische Allianz Bayreuth",
-"date": "2026-10-25",
-"end_date": null,
-"time": "19:30",
-"venue": "Friedrichsforum – Kleiner Saal",
-"organizer": "Evangelische Allianz Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Lobpreis",
-"Christliche Popmusik",
-"christliche Popmusik"
-],
-"description": "Konzert der Band zweioderdrei mit modernem Lobpreis, veranstaltet von der Evangelischen Allianz Bayreuth.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/261025-evangelische-allianz-bt-zweioderdrei",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "c0f75bc980"
-},
-{
-"title": "Themenführung: Das Archiv des Lebens – Fossilien als Zeugen der Vergangenheit",
-"subtitle": null,
-"date": "2026-10-25",
-"end_date": null,
-"time": null,
-"venue": "Urwelt-Museum Oberfranken, Kanzleistraße 1",
-"organizer": "Urwelt-Museum Oberfranken (SNSB)",
-"category": "Führung",
-"tags": [
-"Fossilien",
-"Erdgeschichte",
-"Museum"
-],
-"description": "Themenführung durch das Urwelt-Museum über Fossilien als Zeugnisse früherer Erdzeitalter; das Museum bietet solche Führungen am letzten Sonntag des Monats an. Die Teilnehmerzahl ist auf 15 begrenzt.",
-"price": "im Museumseintritt enthalten",
-"url": "https://urwelt-museum.snsb.de/",
-"termine": null,
-"sources": [
-"Urwelt-Museum Oberfranken"
-],
-"house": "Urwelt-Museum",
-"id": "b88439ce33"
-},
-{
-"title": "Barocke Theaterillusion und moderne Formensprache",
-"subtitle": "Überblicksführung",
-"date": "2026-10-25",
-"end_date": "2026-12-30",
-"time": null,
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Opernhaus",
-"Welterbe",
-"Überblicksführung",
-"Barock",
-"Museum"
-],
-"description": "Überblicksführung durch das historische Opernhaus und die Ausstellung im Museum.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=4&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "4da7b7724a"
 },
 {
 "title": "Führung im Stadtarchiv Bayreuth",
@@ -2400,6 +1574,31 @@
 ],
 "house": "Kirchen",
 "id": "97f11dd5b3"
+},
+{
+"title": "CineArt: Frau Winkler verlässt das Haus",
+"subtitle": "Arthouse-Reihe im Cineplex",
+"date": "2026-10-27",
+"end_date": null,
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Arthouse",
+"Kino",
+"Filmkunst"
+],
+"description": "CineArt-Vorstellungen am 22.10. (17:30), 25.10. (10:45) und 27.10. (20:00).",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/frau-winkler-verlaesst-das-haus-7C041000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "3484211400"
 },
 {
 "title": "Royal Ballet live im Kino: Manon",
@@ -3733,6 +2932,29 @@
 "id": "75be66e718"
 },
 {
+"title": "Guided City Tour (English)",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "10:30",
+"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
+"organizer": "Bayreuth Marketing & Tourismus GmbH",
+"category": "Führung",
+"tags": [
+"Stadtführung",
+"Englisch",
+"Altstadt"
+],
+"description": "Historischer Stadtrundgang in englischer Sprache, rund zwei Stunden. Termine: 17., 18., 24., 25. und 31. Oktober, jeweils 10:30 Uhr; Buchung bis 12 Uhr am Vortag.",
+"price": "12 €, ermäßigt 6 €",
+"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
+"sources": [
+"Bayreuth Marketing & Tourismus"
+],
+"house": "Stadtführungen",
+"id": "cf4487e56c"
+},
+{
 "title": "Konzertfilm: BTS Tour ARIRANG in São Paulo – Live Viewing",
 "subtitle": null,
 "date": "2026-10-31",
@@ -4162,7 +3384,7 @@
 "title": "Opernhaus-Highlights mit Bastel-Workshop",
 "subtitle": "für Kinder von 6–12 Jahren",
 "date": "2026-11-02",
-"end_date": "2026-12-05",
+"end_date": null,
 "time": "14:30",
 "venue": "Markgräfliches Opernhaus, Opernstraße 14",
 "organizer": "Bayerische Schlösserverwaltung",
@@ -4629,7 +3851,19 @@
 "Stadt, Land, Leben (region-bayreuth.de)"
 ],
 "house": "RW21",
-"id": "1e611fa1ee"
+"id": "1e611fa1ee",
+"termine": [
+{
+"date": "2026-11-04",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2026-12-02",
+"time": "14:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Plauderrunde: Tee und Kaffee",
@@ -4859,7 +4093,19 @@
 "Stadt, Land, Leben (region-bayreuth.de)"
 ],
 "house": "Steingraeber Haus",
-"id": "7ab13341b5"
+"id": "7ab13341b5",
+"termine": [
+{
+"date": "2026-11-05",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-03",
+"time": "16:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "CineArt: Alte Liebe",
@@ -5829,6 +5075,51 @@
 "id": "d9b6f75634"
 },
 {
+"title": "Sonntag im Museum – Kunst macht Spaß",
+"subtitle": null,
+"date": "2026-11-08",
+"end_date": "2026-12-20",
+"time": "16:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Workshop",
+"Malen",
+"Kunstvermittlung"
+],
+"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 25.10., 8.11., 22.11., 6.12. und 20.12.; Anmeldung unter 0921/7645310.",
+"price": "15 € pro Termin zzgl. Material",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "b6eb6db255",
+"termine": [
+{
+"date": "2026-11-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "16:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Wie der Kaschber dem Richard half, seine Harmonie zu finden",
 "subtitle": "Puppentheater der Fröhlichen Kinderbühne",
 "date": "2026-11-08",
@@ -6181,7 +5472,7 @@
 "date": "2026-11-10",
 "end_date": null,
 "time": "20:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"venue": "Sübkültür im Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
 "organizer": "Kunst- und Kulturhaus Neuneinhalb",
 "category": "Pop, Rock & Jazz",
 "tags": [
@@ -6191,10 +5482,10 @@
 "Kontrabass"
 ],
 "description": "Das Duo Maleen Schulz-Kallenbach (Gesang) und Oliver Zoglauer (Kontrabass) spielt reduzierte Songs zwischen Lo-Fi-Jazz und Pop Noir, darunter Stücke ihres neuen Albums. Einlass 20 Uhr.",
-"price": "2 € plus Spenden",
-"url": "https://www.neuneinhalb.org",
+"price": "2 € zzgl. Spenden",
+"url": "https://www.suebklueb.de/",
 "sources": [
-"Kunst- und Kulturhaus Neuneinhalb"
+"Sübkültür e.V."
 ],
 "house": "Neuneinhalb",
 "id": "46aa640170"
@@ -6878,32 +6169,6 @@
 "id": "df8392a26f"
 },
 {
-"title": "Wagner-Wochenende: Leben und Werk",
-"subtitle": "Leben und Werk in acht Vorträgen mit Dr. Sven Friedrich",
-"date": "2026-11-14",
-"end_date": "2026-11-15",
-"time": "10:00",
-"venue": "Richard Wagner Museum – Saal, Richard-Wagner-Straße 48",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wagner",
-"Biografie",
-"Vortragsreihe",
-"Festspieljubiläum",
-"Richard Wagner"
-],
-"description": "Acht einzeln buchbare Vorträge zu Wagners Lebensstationen von 1813 bis 1883, Sa und So jeweils 10, 12, 15 und 17 Uhr.",
-"price": "frei",
-"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Wagner-Wochenende-Gesamtdarstellung-von-Leben-und-Werk/I6009A",
-"sources": [
-"vhs Bayreuth",
-"Volkshochschule Bayreuth"
-],
-"house": "Richard Wagner Museum",
-"id": "d088a3a99e"
-},
-{
 "title": "Alles unter Dach und Fach(werk)",
 "subtitle": "Technikführung",
 "date": "2026-11-14",
@@ -7009,6 +6274,44 @@
 {
 "date": "2026-11-22",
 "time": "13:45",
+"hinweis": null
+}
+]
+},
+{
+"title": "Wagner-Wochenende: Leben und Werk",
+"subtitle": "Leben und Werk in acht Vorträgen mit Dr. Sven Friedrich",
+"date": "2026-11-14",
+"end_date": "2026-11-15",
+"time": "17:00",
+"venue": "Richard Wagner Museum – Saal, Richard-Wagner-Straße 48",
+"organizer": "vhs Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Wagner",
+"Biografie",
+"Vortragsreihe",
+"Festspieljubiläum",
+"Richard Wagner"
+],
+"description": "Acht einzeln buchbare Vorträge zu Wagners Lebensstationen von 1813 bis 1883, Sa und So jeweils 10, 12, 15 und 17 Uhr.",
+"price": "frei",
+"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Wagner-Wochenende-Gesamtdarstellung-von-Leben-und-Werk/I6009A",
+"sources": [
+"vhs Bayreuth",
+"Volkshochschule Bayreuth"
+],
+"house": "Richard Wagner Museum",
+"id": "d088a3a99e",
+"termine": [
+{
+"date": "2026-11-14",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -7202,26 +6505,26 @@
 "id": "19c1d67528"
 },
 {
-"title": "Apache Live on Stage",
+"title": "Apache Double Live on Stage",
 "subtitle": null,
 "date": "2026-11-14",
 "end_date": null,
 "time": "22:00",
-"venue": "Club Frisco",
+"venue": "Club Frisco, Bamberger Straße 27",
 "organizer": null,
 "category": "Club & Party",
 "tags": [
 "Deutschrap",
 "Double-Show"
 ],
-"description": "Ein Apache-207-Double bringt die Hits des Rappers auf die Bühne des Frisco.",
-"price": null,
+"description": "Tribute- und Double-Show mit Songs von Apache 207, kein Auftritt des Originalkünstlers. Einlass ab 16 Jahren mit Erziehungsbeauftragung.",
+"price": "12 €",
 "url": "https://www.eventfinder.de/veranstaltung/3310477/apache-live-on-stage-in-bayreuth-am-2026-11-14-um-22-00-uhr/",
 "sources": [
-"Hinweis: eventfinder"
+"Hinweis: regioactive"
 ],
 "house": "Clubs",
-"id": "dce226cca8"
+"id": "27424532a2"
 },
 {
 "title": "Sangeslust 2026: SingSing mit StimmGold",
@@ -7303,9 +6606,9 @@
 "title": "Verborgene Schätze des Italienischen Schlösschens",
 "subtitle": null,
 "date": "2026-11-15",
-"end_date": "2026-12-29",
+"end_date": null,
 "time": "14:15",
-"venue": "Neues Schloss",
+"venue": "Neues Schloss Bayreuth",
 "organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
 "category": "Führung",
 "tags": [
@@ -7314,7 +6617,7 @@
 "Italienisches Schlösschen"
 ],
 "description": "Führung durch das ab 1759 für Markgraf Friedrichs zweite Frau errichtete Italienische Schlösschen. Weiterer Termin am 29.12.",
-"price": "3–10 €",
+"price": "3 € zzgl. Eintritt",
 "url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp",
 "sources": [
 "Schlösserverwaltung Bayreuth",
@@ -7541,29 +6844,6 @@
 "id": "38a0170339"
 },
 {
-"title": "Führung: Stadtgeschichte für Kinder",
-"subtitle": null,
-"date": "2026-11-18",
-"end_date": null,
-"time": "14:30",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus GmbH",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderführung",
-"Stadtgeschichte",
-"Familie"
-],
-"description": "Stadtrundgang, der Kindern die Geschichte Bayreuths anschaulich näherbringt.",
-"price": "4–10 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen",
-"sources": [
-"Bayreuth Tourismus"
-],
-"house": "Stadtführungen",
-"id": "2824f87f18"
-},
-{
 "title": "Drei Nüsse für Aschenbrödel",
 "subtitle": null,
 "date": "2026-11-18",
@@ -7623,6 +6903,31 @@
 "hinweis": null
 }
 ]
+},
+{
+"title": "Bayreuther Stadtgespräche: Jens Zinn – Risiken verstehen heißt nicht, alle Antworten zu haben",
+"subtitle": null,
+"date": "2026-11-18",
+"end_date": null,
+"time": "18:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "DAS ZENTRUM Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Soziologie",
+"Risiko",
+"Stadtgespräch",
+"Eintritt frei"
+],
+"description": "Der Soziologe Jens Zinn von der University of Melbourne spricht über den Umgang mit Risiken, über Vertrauen in Experten und über Entscheidungen unter Unsicherheit.",
+"price": "Eintritt frei",
+"url": "https://www.das-zentrum.de/veranstaltung/jens-zinn-risiken-verstehen-heisst-nicht-alle-antworten-zu-haben/",
+"termine": null,
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "9ce10a90a5"
 },
 {
 "title": "Die Jahreszeiten von Tschaikowski – Tatiana Kozlova",
@@ -8411,6 +7716,42 @@
 "id": "3948256b5e"
 },
 {
+"title": "Zutritt verboten – ein Blick hinter die Kulissen",
+"subtitle": null,
+"date": "2026-11-22",
+"end_date": "2026-12-06",
+"time": "14:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Führung",
+"tags": [
+"Opernhaus",
+"Welterbe",
+"Bühnentechnik",
+"Hinter den Kulissen"
+],
+"description": "Führung durch sonst verschlossene Bereiche des Opernhauses wie Kulissen, Haustechnik und Dachstuhl; Trittsicherheit nötig. Termine am 25. Oktober (9:30 Uhr), 22. November (14:30 Uhr) und 6. Dezember (10:30 Uhr), Anmeldung erforderlich.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=10",
+"sources": [
+"Schlösserverwaltung Bayreuth"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "e5b9059809",
+"termine": [
+{
+"date": "2026-11-22",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "10:30",
+"hinweis": null
+}
+]
+},
+{
 "title": "Vis-à-vis: Frankreich im Fokus – November",
 "subtitle": "Filmreihe zu 60 Jahren Städtepartnerschaft Bayreuth–Annecy",
 "date": "2026-11-22",
@@ -8578,7 +7919,7 @@
 "Stadtrundgang"
 ],
 "description": "Täglicher Rundgang zu den Sehenswürdigkeiten der Innenstadt in der Adventszeit; weitere Termine vom 26.12. bis 6.1. Tickets vorab bei der Tourist-Information oder online.",
-"price": "6–12 €",
+"price": null,
 "url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/weihnachtlicher-stadtrundgang/",
 "sources": [
 "Bayreuth Tourismus",
@@ -8744,7 +8085,7 @@
 ],
 "description": "Öffentliche Probe zur Bühnenfassung von Andrea Maria Schenkels Roman über einen Mehrfachmord auf einem abgelegenen Hof, vor der Premiere am 5. Dezember. Der Eintritt ist frei.",
 "price": "Eintritt frei",
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166&collection_code=produktionen",
 "sources": [
 "Studiobühne Bayreuth"
 ],
@@ -9278,7 +8619,29 @@
 "Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
 ],
 "house": "Weitere Orte",
-"id": "be8a5a9166"
+"id": "be8a5a9166",
+"termine": [
+{
+"date": "2026-11-27",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "18:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Vereinsabend: Von den Pyrenäen zur Brücke der Königin – Jakobsweg in Spanien",
@@ -9943,6 +9306,33 @@
 ],
 "house": "Weitere Orte",
 "id": "38fd8437d9"
+},
+{
+"title": "Barocke Theaterillusion und moderne Formensprache",
+"subtitle": "Überblicksführung",
+"date": "2026-11-29",
+"end_date": null,
+"time": "14:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Führung",
+"tags": [
+"Opernhaus",
+"UNESCO-Welterbe",
+"Barock",
+"Überblicksführung"
+],
+"description": "Überblicksführung durch das historische Opernhaus und die Ausstellung im Museum.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=4&optArt=999999&optOrt=14&optMonat=10",
+"sources": [
+"Schlösserverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
+"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "13cfd09337"
 },
 {
 "title": "Kinderzauberflöte",
@@ -11111,7 +10501,7 @@
 ],
 "description": "Bühnenfassung des Kriminalromans von Andrea Maria Schenkel.",
 "price": null,
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166&collection_code=produktionen",
 "sources": [
 "Studiobühne Bayreuth",
 "Studiobühne (tickets4arts)"
@@ -12557,6 +11947,32 @@
 ],
 "house": "Friedrichsforum",
 "id": "5b5a13eea7"
+},
+{
+"title": "Abenteuer Opernhaus – Führung hinter die Kulissen",
+"subtitle": "Familienführung für Kinder von 6–12 Jahren",
+"date": "2026-12-20",
+"end_date": null,
+"time": "10:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Kinder & Familie",
+"tags": [
+"Kinderführung",
+"Opernhaus",
+"Hinter den Kulissen"
+],
+"description": "Familienführung für Kinder von 6 bis 12 Jahren hinter die Kulissen des Opernhauses.",
+"price": "3 € zzgl. Eintritt Erwachsene",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=4&optArt=999999&optOrt=14&optMonat=10",
+"sources": [
+"Schlösserverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
+"Bayerische Schlösserverwaltung – bayreuth-wilhelmine.de (Themenführungen)"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "cf6ee90f98"
 },
 {
 "title": "Royal Ballet live im Kino: Der Nussknacker",

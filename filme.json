@@ -1,41 +1,7 @@
 {
- "date": "2026-10-25",
- "updated": "2026-10-25T05:58+01:00",
+ "date": "2026-10-26",
+ "updated": "2026-10-26T05:00+01:00",
  "films": [
-  {
-   "title": "BTS Tour Arirang in Buenos Aires: Live Viewing",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 195,
-   "fsk": null,
-   "genres": [
-    "Musik",
-    "Events & Live"
-   ],
-   "genres_raw": [
-    "Musik"
-   ],
-   "badges": [
-    "NEU",
-    "Event",
-    "Concerts in Cinema"
-   ],
-   "week": 1,
-   "shows": [
-    {
-     "time": "14:45",
-     "room": "Kino 8",
-     "site": "Haupthaus",
-     "flags": [
-      "VPT Intense",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/bts-tour-arirang-in-buenos-aires-live-viewing-D6341000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
   {
    "title": "Clayface",
    "venue": "Cineplex Bayreuth",
@@ -55,41 +21,41 @@
    "week": 1,
    "shows": [
     {
-     "time": "17:45",
-     "room": "4DX",
-     "site": "Haupthaus",
-     "flags": [
-      "OV Englisch",
-      "4DX"
-     ]
-    },
-    {
      "time": "18:30",
      "room": "Kino 6",
      "site": "Haupthaus",
      "flags": [
+      "OV Englisch",
       "Barrierefrei"
      ]
     },
     {
-     "time": "21:00",
-     "room": "Kino 6",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "21:00",
+     "time": "19:40",
      "room": "F&G 2",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
       "Barrierefrei"
      ]
+    },
+    {
+     "time": "20:00",
+     "room": "4DX",
+     "site": "Haupthaus",
+     "flags": [
+      "4DX"
+     ]
+    },
+    {
+     "time": "21:00",
+     "room": "Kino 6",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/film/clayface-E1041000012FWBXJYB",
    "source": "Cineplex Bayreuth"
@@ -97,7 +63,7 @@
   {
    "title": "Der perfekte Urlaub",
    "venue": "Cineplex Bayreuth",
-   "runtime": 117,
+   "runtime": 125,
    "fsk": 12,
    "genres": [
     "Komödie"
@@ -111,60 +77,12 @@
    "week": 1,
    "shows": [
     {
-     "time": "10:30",
-     "room": "F&G 4",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Matinee",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "12:00",
-     "room": "ULTIMATE. Studio 7",
-     "site": "Haupthaus",
-     "flags": [
-      "Dolby Atmos",
-      "D-BOX",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "14:45",
-     "room": "ULTIMATE. Studio 7",
-     "site": "Haupthaus",
-     "flags": [
-      "Dolby Atmos",
-      "D-BOX",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "16:45",
-     "room": "F&G 5",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    },
-    {
      "time": "17:30",
      "room": "ULTIMATE. Studio 7",
      "site": "Haupthaus",
      "flags": [
       "Dolby Atmos",
       "D-BOX",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "17:45",
-     "room": "F&G 4",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
       "Barrierefrei"
      ]
     },
@@ -203,95 +121,6 @@
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "Frau Winkler verlässt das Haus",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 112,
-   "fsk": 12,
-   "genres": [
-    "Komödie",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Komödie",
-    "Drama"
-   ],
-   "badges": [
-    "CineArt"
-   ],
-   "week": 4,
-   "shows": [
-    {
-     "time": "10:45",
-     "room": "F&G 1",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Matinee",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Matinee; CineArt-Film (weitere CineArt-Vorstellung Di 27.10. 20:00)",
-   "url": "https://www.cineplex.de/bayreuth/film/frau-winkler-verlaesst-das-haus-7C041000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "The Social Reckoning",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 114,
-   "fsk": 12,
-   "genres": [
-    "Drama"
-   ],
-   "genres_raw": [
-    "Drama"
-   ],
-   "badges": [],
-   "week": 3,
-   "shows": [
-    {
-     "time": "18:45",
-     "room": "Kino 1",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Vaterland",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 82,
-   "fsk": 0,
-   "genres": [
-    "Drama"
-   ],
-   "genres_raw": [
-    "Drama"
-   ],
-   "badges": [],
-   "week": 8,
-   "shows": [
-    {
-     "time": "18:45",
-     "room": "Kino 5",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
    "title": "Monster Mia",
    "venue": "Cineplex Bayreuth",
    "runtime": 81,
@@ -310,7 +139,7 @@
    "week": 2,
    "shows": [
     {
-     "time": "14:15",
+     "time": "16:00",
      "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
@@ -318,39 +147,7 @@
      ]
     }
    ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Coyote vs. Acme",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 104,
-   "fsk": 6,
-   "genres": [
-    "Animation",
-    "Komödie",
-    "Kinder & Familie"
-   ],
-   "genres_raw": [
-    "Animation",
-    "Komödie",
-    "Familienfilm"
-   ],
-   "badges": [],
-   "week": 6,
-   "shows": [
-    {
-     "time": "12:00",
-     "room": "Kino 6",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -372,8 +169,8 @@
    "week": 3,
    "shows": [
     {
-     "time": "11:30",
-     "room": "Kino 5",
+     "time": "16:15",
+     "room": "Kino 3",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
@@ -383,102 +180,6 @@
    "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/film/alte-liebe-6A141000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Corpus Delicti",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 104,
-   "fsk": 12,
-   "genres": [
-    "Thriller & Krimi",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Thriller",
-    "Drama"
-   ],
-   "badges": [],
-   "week": 4,
-   "shows": [
-    {
-     "time": "11:30",
-     "room": "Kino 2",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "16:15",
-     "room": "F&G 3",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Digger",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 130,
-   "fsk": 12,
-   "genres": [
-    "Komödie",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Komödie",
-    "Drama"
-   ],
-   "badges": [],
-   "week": 4,
-   "shows": [
-    {
-     "time": "11:30",
-     "room": "Kino 1",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Spa Weekend",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 99,
-   "fsk": 12,
-   "genres": [
-    "Komödie"
-   ],
-   "genres_raw": [
-    "Komödie"
-   ],
-   "badges": [],
-   "week": 5,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": "Kino 2",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
@@ -506,37 +207,7 @@
      ]
     }
    ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Die Odyssee",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 173,
-   "fsk": 12,
-   "genres": [
-    "Action & Abenteuer"
-   ],
-   "genres_raw": [
-    "Abenteuer",
-    "Action"
-   ],
-   "badges": [],
-   "week": 15,
-   "shows": [
-    {
-     "time": "19:00",
-     "room": "Kino 8",
-     "site": "Haupthaus",
-     "flags": [
-      "VPT Intense",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -556,44 +227,28 @@
    "week": 4,
    "shows": [
     {
-     "time": "15:00",
-     "room": "4DX",
+     "time": "16:45",
+     "room": "Kino 8",
      "site": "Haupthaus",
      "flags": [
-      "4DX"
+      "VPT Intense",
+      "Barrierefrei"
      ]
     },
     {
-     "time": "16:15",
-     "room": "Kino 3",
+     "time": "19:15",
+     "room": "Kino 5",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
      ]
     },
     {
-     "time": "18:15",
-     "room": "F&G 2",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "19:30",
+     "time": "20:00",
      "room": "F&G 5",
      "site": "Franz & Gloria",
      "flags": [
       "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:45",
-     "room": "Kino 5",
-     "site": "Haupthaus",
-     "flags": [
       "Barrierefrei"
      ]
     }
@@ -618,15 +273,7 @@
    "week": 11,
    "shows": [
     {
-     "time": "15:20",
-     "room": "F&G 4",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "18:30",
+     "time": "18:15",
      "room": "Kino 2",
      "site": "Haupthaus",
      "flags": [
@@ -634,7 +281,7 @@
      ]
     },
     {
-     "time": "20:00",
+     "time": "19:20",
      "room": "F&G 1",
      "site": "Franz & Gloria",
      "flags": [
@@ -662,16 +309,7 @@
    "week": 2,
    "shows": [
     {
-     "time": "17:15",
-     "room": "F&G 1",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:15",
+     "time": "17:00",
      "room": "4DX",
      "site": "Haupthaus",
      "flags": [
@@ -679,7 +317,7 @@
      ]
     },
     {
-     "time": "21:00",
+     "time": "20:45",
      "room": "Kino 2",
      "site": "Haupthaus",
      "flags": [
@@ -711,15 +349,7 @@
    "week": 5,
    "shows": [
     {
-     "time": "14:00",
-     "room": "Kino 3",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "16:15",
+     "time": "16:45",
      "room": "Kino 5",
      "site": "Haupthaus",
      "flags": [
@@ -727,7 +357,7 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -751,15 +381,7 @@
    "week": 4,
    "shows": [
     {
-     "time": "14:30",
-     "room": "Kino 6",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "16:30",
+     "time": "16:15",
      "room": "Kino 6",
      "site": "Haupthaus",
      "flags": [
@@ -767,7 +389,7 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -789,15 +411,7 @@
    "week": 2,
    "shows": [
     {
-     "time": "16:15",
-     "room": "Kino 1",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "21:15",
+     "time": "21:00",
      "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
@@ -805,7 +419,7 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -827,15 +441,6 @@
    "week": 5,
    "shows": [
     {
-     "time": "11:15",
-     "room": "F&G 2",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Matinee",
-      "Barrierefrei"
-     ]
-    },
-    {
      "time": "21:15",
      "room": "Kino 3",
      "site": "Haupthaus",
@@ -844,7 +449,7 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/film/eiserne-wildnis-heart-of-the-beast-C3241000012FWBXJYB",
    "source": "Cineplex Bayreuth"
@@ -866,15 +471,15 @@
    "week": 3,
    "shows": [
     {
-     "time": "12:15",
-     "room": "4DX",
+     "time": "18:15",
+     "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
-      "4DX"
+      "Barrierefrei"
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -894,7 +499,7 @@
    "week": 5,
    "shows": [
     {
-     "time": "13:45",
+     "time": "16:00",
      "room": "Kino 2",
      "site": "Haupthaus",
      "flags": [
@@ -902,261 +507,42 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "Das gewisse Etwas",
+   "title": "Soumsoum, la nuit des astres",
    "venue": "Cineplex Bayreuth",
-   "runtime": 105,
-   "fsk": 6,
-   "genres": [
-    "Komödie"
-   ],
-   "genres_raw": [
-    "Komödie"
-   ],
-   "badges": [],
-   "week": 8,
-   "shows": [
-    {
-     "time": "11:15",
-     "room": "F&G 3",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Matinee",
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "11:45",
-     "room": "Kino 3",
-     "site": "Haupthaus",
-     "flags": [
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/das-gewisse-etwas-01041000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Traces of Justice",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 141,
+   "runtime": 101,
    "fsk": null,
    "genres": [
-    "Drama",
-    "Thriller & Krimi"
+    "Drama"
    ],
    "genres_raw": [
-    "Drama",
-    "Krimi"
+    "Drama"
    ],
-   "badges": [],
-   "week": 2,
+   "badges": [
+    "Cinema Africa"
+   ],
+   "week": null,
    "shows": [
     {
-     "time": "11:00",
-     "room": "F&G 5",
-     "site": "Franz & Gloria",
-     "flags": [
-      "OmU Chinesisch",
-      "Matinee",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/traces-of-justice-04441000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Paw Patrol: Der Dino Film",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 84,
-   "fsk": 0,
-   "genres": [
-    "Kinder & Familie",
-    "Animation"
-   ],
-   "genres_raw": [
-    "Familienfilm",
-    "Animation"
-   ],
-   "badges": [],
-   "week": 12,
-   "shows": [
-    {
-     "time": "11:45",
+     "time": "20:00",
      "room": "Kino 8",
      "site": "Haupthaus",
      "flags": [
+      "OmU",
       "VPT Intense",
       "Barrierefrei"
      ]
     }
    ],
    "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
+   "note": "Cinema Africa – Afrikanische Filmreihe der Universität Bayreuth",
+   "url": "https://www.cineplex.de/bayreuth/film/soumsoum-la-nuit-des-astres-98441000012FWBXJYB",
    "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Das Geheimnis der gestohlenen Maske",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 100,
-   "fsk": 6,
-   "genres": [
-    "Kinder & Familie",
-    "Action & Abenteuer"
-   ],
-   "genres_raw": [
-    "Familienfilm",
-    "Abenteuer"
-   ],
-   "badges": [
-    "Family Preview"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "14:00",
-     "room": "Kino 5",
-     "site": "Haupthaus",
-     "flags": [
-      "Family",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Vorpremiere, regulärer Filmstart 29.10.2026",
-   "url": "https://www.cineplex.de/bayreuth/film/das-geheimnis-der-gestohlenen-maske-20241000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Spider-Man: Brand New Day",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 146,
-   "fsk": 12,
-   "genres": [
-    "Action & Abenteuer"
-   ],
-   "genres_raw": [
-    "Action"
-   ],
-   "badges": [],
-   "week": 13,
-   "shows": [
-    {
-     "time": "15:00",
-     "room": "F&G 2",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Dolby Atmos",
-      "Barrierefrei"
-     ]
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Die jüngste Tochter – La Petite Dernière",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 107,
-   "fsk": 12,
-   "genres": [
-    "Drama"
-   ],
-   "genres_raw": [
-    "Coming-of-Age-Drama"
-   ],
-   "badges": [
-    "Vis-à-vis: Frankreich im Fokus"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": null,
-     "site": null,
-     "flags": [
-      "OmU"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Kino ist Programm; Regie Hafsia Herzi, F/D 2025; Eintritt 7 €, Kinder 4 €, kein Vorverkauf",
-   "url": "https://kino-ist-programm.de/die-juengste-tochter-la-petite-derniere/",
-   "source": "Kino ist Programm"
-  },
-  {
-   "title": "Die einfachen Dinge – Les Choses Simples",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 95,
-   "fsk": 0,
-   "genres": [
-    "Komödie",
-    "Drama"
-   ],
-   "genres_raw": [
-    "Drama-Komödie"
-   ],
-   "badges": [
-    "Vis-à-vis: Frankreich im Fokus"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:00",
-     "room": null,
-     "site": null,
-     "flags": [
-      "OmU"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Kino ist Programm; Regie Éric Besnard, F 2023; Eintritt 7 €, Kinder 4 €, kein Vorverkauf",
-   "url": "https://kino-ist-programm.de/die-einfachen-dinge-les-choses-simples/",
-   "source": "Kino ist Programm"
-  },
-  {
-   "title": "Lichtspielhaus",
-   "venue": "Glashaus",
-   "runtime": null,
-   "fsk": null,
-   "genres": [
-    "Horror"
-   ],
-   "genres_raw": [
-    "Horror"
-   ],
-   "badges": [
-    "Horror-Oktober"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:00",
-     "room": null,
-     "site": null,
-     "flags": []
-    }
-   ],
-   "more": false,
-   "note": "Horrorfilm-Abend (vier Filme aus vier Ländern und Jahrzehnten, zum Schluss ein japanischer Film aus den 90ern; Titel nicht genannt), wenn möglich Original mit engl. Untertiteln; Einlass 18:30, ab 18, Eintritt frei mit Vereinsmitgliedschaft (1 €/Monat, an der Abendkasse)",
-   "url": "https://www.glashaus.org/programm/lichtspielhaus-260308-2-2-2-2-4-2-2-2-2",
-   "source": "Glashaus e.V."
   }
  ]
 }
