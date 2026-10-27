@@ -94,7 +94,12 @@ def ld_offer(e):
         return None
     off = {"@type": "Offer", "url": e.get("url"), "priceCurrency": "EUR"}
     if re.search(r"ausverkauft", pr, re.I):
+        # Google erwartet zu jedem Angebot einen Preis; ohne Preisangabe lieber kein Angebot (Search Console 27.10.2026)
+        zahlen = re.findall(r"\d+(?:[.,]\d+)?", pr)
+        if not zahlen or "€" not in pr:
+            return None
         off["availability"] = "https://schema.org/SoldOut"
+        off["price"] = round(float(zahlen[0].replace(".", "").replace(",", ".")), 2)
         return off
     if FREI.search(pr):
         off["price"] = 0
