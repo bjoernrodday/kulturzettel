@@ -1,40 +1,82 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-26T04:58+01:00",
+ "abgerufen": "2026-10-27T04:56+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-25",
-  "bis": "2026-10-25",
-  "besucher": 1,
+  "von": "2026-10-26",
+  "bis": "2026-10-26",
+  "besucher": 15,
   "seiten": [
    {
-    "pfad": "/zaehltest",
-    "titel": "Zähltest Claude",
+    "pfad": "/",
+    "titel": "Kulturzettel Bayreuth",
+    "besucher": 8
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 3
+   },
+   {
+    "pfad": "/sparte/klassik.html",
+    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/steingraeber-haus.html",
+    "titel": "Steingraeber Haus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/stadtfuehrungen.html",
+    "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
+    "name": "chatgpt.com",
+    "besucher": 6
+   },
+   {
+    "name": "kulturtoepfe.de",
+    "besucher": 4
+   },
+   {
+    "name": "Google",
+    "besucher": 3
+   },
+   {
     "name": "(direkt)",
-    "besucher": 1
+    "besucher": 2
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-19",
-  "bis": "2026-10-25",
-  "besucher": 39,
+  "von": "2026-10-20",
+  "bis": "2026-10-26",
+  "besucher": 54,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 28
+    "besucher": 36
    },
    {
     "pfad": "/quellen.html",
     "titel": "Quellen – Kulturzettel Bayreuth",
     "besucher": 4
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 3
    },
    {
     "pfad": "/ueber.html",
@@ -45,6 +87,26 @@
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
     "besucher": 2
+   },
+   {
+    "pfad": "/sparte/klassik.html",
+    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/steingraeber-haus.html",
+    "titel": "Steingraeber Haus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/stadtfuehrungen.html",
+    "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/zaehltest",
@@ -60,11 +122,23 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 27
+    "besucher": 29
+   },
+   {
+    "name": "chatgpt.com",
+    "besucher": 6
    },
    {
     "name": "kulturzettel-bayreuth.de",
     "besucher": 5
+   },
+   {
+    "name": "kulturtoepfe.de",
+    "besucher": 4
+   },
+   {
+    "name": "Google",
+    "besucher": 3
    },
    {
     "name": "l.instagram.com",
@@ -89,19 +163,24 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-28",
-  "bis": "2026-10-25",
-  "besucher": 39,
+  "von": "2026-09-29",
+  "bis": "2026-10-26",
+  "besucher": 54,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 28
+    "besucher": 36
    },
    {
     "pfad": "/quellen.html",
     "titel": "Quellen – Kulturzettel Bayreuth",
     "besucher": 4
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 3
    },
    {
     "pfad": "/ueber.html",
@@ -112,6 +191,26 @@
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
     "besucher": 2
+   },
+   {
+    "pfad": "/sparte/klassik.html",
+    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/steingraeber-haus.html",
+    "titel": "Steingraeber Haus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/stadtfuehrungen.html",
+    "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/zaehltest",
@@ -127,11 +226,23 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 27
+    "besucher": 29
+   },
+   {
+    "name": "chatgpt.com",
+    "besucher": 6
    },
    {
     "name": "kulturzettel-bayreuth.de",
     "besucher": 5
+   },
+   {
+    "name": "kulturtoepfe.de",
+    "besucher": 4
+   },
+   {
+    "name": "Google",
+    "besucher": 3
    },
    {
     "name": "l.instagram.com",
@@ -157,51 +268,51 @@
   "browser": [
    {
     "name": "Safari",
-    "besucher": 22
+    "besucher": 28
    },
    {
     "name": "Chrome",
-    "besucher": 15
+    "besucher": 22
    },
    {
     "name": "Firefox",
-    "besucher": 2
+    "besucher": 4
    }
   ],
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 20
+    "besucher": 26
    },
    {
     "name": "Android",
-    "besucher": 6
+    "besucher": 11
    },
    {
     "name": "macOS",
     "besucher": 6
    },
    {
-    "name": "Linux",
-    "besucher": 5
+    "name": "Windows",
+    "besucher": 6
    },
    {
-    "name": "Windows",
-    "besucher": 2
+    "name": "Linux",
+    "besucher": 5
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 27
+    "besucher": 37
    },
    {
     "name": "",
-    "besucher": 0
+    "besucher": 1
    },
    {
     "name": "",
-    "besucher": 11
+    "besucher": 15
    },
    {
     "name": "",
@@ -215,7 +326,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 33
+    "besucher": 48
    },
    {
     "name": "United Kingdom",
@@ -228,10 +339,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-28",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-29",
    "besucher": 0
@@ -590,6 +697,10 @@
   },
   {
    "tag": "2026-10-26",
+   "besucher": 15
+  },
+  {
+   "tag": "2026-10-27",
    "besucher": 0
   }
  ]
