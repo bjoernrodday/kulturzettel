@@ -35,7 +35,7 @@ Grundsätze:
 
 6. Plausibilitätscheck: events.json ist gültiges JSON und enthält mindestens 70 % der Terminzahl des Altbestands für den gleichen Zeitraum; sonst NICHT pushen und Björn den Grund melden.
 
-7. Veröffentlichen: `cp <Arbeitsordner>/events.json <repo>/events.json`, dann `git add events.json && git commit -m "Kulturzettel: Update JJJJ-MM-TT" && git push origin main`. Nur events.json committen. Neue Erkenntnisse zu Quellen (Abruf-Tipps, neue Quellen, Korrekturen) kurz in `pipeline/NOTIZEN.md` ergänzen und mitcommitten.
+7. Veröffentlichen: `cp <Arbeitsordner>/events.json <repo>/events.json`, dann `git add events.json && git commit -m "Kulturzettel: Update JJJJ-MM-TT" && git push origin main`. Nur events.json, filme.json und `pipeline/NOTIZEN.md` committen (bei neuen Filmquellen auch diese Anleitung). PFLICHT in jedem Lauf: unten an `pipeline/NOTIZEN.md` einen Abschnitt „## JJJJ-MM-TT“ anhängen – neue oder entfallene Quellen mit Adresse, ausgefallene Quellen mit Grund, Abruf-Tipps, Korrekturen am Altbestand, Auffälligkeiten beim Kino; ohne Neues die Zeile „- keine neuen Erkenntnisse“.
 
 ## Abruf-Tipps (Stand 05.10.2026)
 - Stadt, Land, Leben: kommt seit 13.10.2026 fertig aus pipeline/sll.json (GitHub Action). Keine API-Adressen mehr selbst zusammenbauen – jede selbst gebaute Adresse löst im geplanten Lauf eine Freigabe-Rückfrage bei Björn aus.
