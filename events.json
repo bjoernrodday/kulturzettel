@@ -619,9 +619,61 @@
 {
 "name": "BayCEER Forum Waldkontroversen",
 "url": "https://www.bayceer.uni-bayreuth.de/waldkontroversen/de/prog/gru/html.php?id_obj=17761"
+},
+{
+"name": "Musica Bayreuth – Spielplan",
+"url": "https://musica-bayreuth.de/spielplan"
+},
+{
+"name": "Marionettentheater Operla – Ticketshop",
+"url": "https://www.operla.de/shop/"
+},
+{
+"name": "SilberFILM Bayreuth",
+"url": "https://www.silberfilm.info/bayreuth/"
+},
+{
+"name": "Schlösserverwaltung – Führungsliste Bayreuth",
+"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?PN=7&optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999"
+},
+{
+"name": "Schlösserverwaltung – Familientermine Bayreuth",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp"
+},
+{
+"name": "Studiobühne Bayreuth – Kalender",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/kalender/"
+},
+{
+"name": "Die Naturbühne – Cabaret im Reichshof Bayreuth",
+"url": "https://dienaturbuehne.de/portfolio-items/cabaret/"
+},
+{
+"name": "Iwalewahaus – Programm „Beyond the Sweet and Obvious“ (PDF)",
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/PRINT-Inner-pages-A5_V3.pdf"
+},
+{
+"name": "Kunstmuseum Bayreuth – Veranstaltungskalender November",
+"url": "https://www.kunstmuseum-bayreuth.de/aktuelles/vermittlung/veranstaltungskalender/2026/november"
+},
+{
+"name": "Neuneinhalb – Veranstalterseite (Seite 2)",
+"url": "https://www.neuneinhalb.org/eventer-organizer/neuneinhalb/pagin/2"
+},
+{
+"name": "Haus des Spiels – Montags-Spieleabend",
+"url": "https://wundersam-anders.de/2026/06/30/montags-spieleabend/"
+},
+{
+"name": "Maisel & Friends – Bayreuther Katakomben",
+"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/"
+},
+{
+"name": "Kino ist Programm – Watching People Watching Birds",
+"url": "https://kino-ist-programm.de/watching-people-watching-birds-omu/"
 }
 ],
-"updated": "2026-10-27T04:20+01:00",
+"updated": "2026-10-28T04:13+01:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -694,31 +746,6 @@
 ],
 "house": "Weitere Orte",
 "id": "e4721e2d23"
-},
-{
-"title": "Linda Männel – Transition",
-"subtitle": "127. Kabinettausstellung des Kunstvereins",
-"date": "2026-09-25",
-"end_date": "2026-10-27",
-"time": "10:00",
-"venue": "Kunstkabinett im Kunstmuseum Bayreuth, Maximilianstraße 33",
-"organizer": "Kunstverein Bayreuth e.V.",
-"category": "Ausstellung",
-"tags": [
-"Kunstverein",
-"Kabinettausstellung",
-"Gegenwartskunst",
-"Kabinett"
-],
-"description": "127. Kabinettausstellung des Kunstvereins im ersten Obergeschoss des Alten Barockrathauses (Eingang Brautgasse).",
-"price": "frei",
-"url": "https://kunstverein-bayreuth.de/linda-maennel/",
-"sources": [
-"Kunstverein Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Kunstmuseum",
-"id": "6eefdca90e"
 },
 {
 "title": "Festspielhaus-Führung",
@@ -802,7 +829,6 @@
 "tags": [
 "Escape Room",
 "Rätsel",
-"Selbermachen",
 "Spieldesign",
 "Werkstatt"
 ],
@@ -840,29 +866,6 @@
 "id": "6a3e12f28c"
 },
 {
-"title": "Miniaturen bemalen",
-"subtitle": null,
-"date": "2026-10-05",
-"end_date": "2026-12-07",
-"time": "18:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Tabletop",
-"Miniaturen",
-"Malen"
-],
-"description": "Spielfiguren bemalen ohne Vorkenntnisse, Material ist vorhanden: offener Treff montags um 18 Uhr (5. Oktober bis 30. November), dazu Sonntags-Workshops um 15 Uhr, u. a. am 11. und 25. Oktober sowie 8. und 22. November.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "ff27999cf9"
-},
-{
 "title": "Brettspielabend 2.0 im Haus des Spiels",
 "subtitle": null,
 "date": "2026-10-05",
@@ -875,7 +878,6 @@
 "Brettspiele",
 "Spieleabend",
 "wöchentlich",
-"Brettspiel",
 "offener Treff"
 ],
 "description": "Offener Spieleabend jeden Montag ab 19 Uhr mit über 1.500 Spielen und monatlich ausgewählten „Spielen des Monats“; am 1. und 3. Montag bringt der Verlag Frosted Games Prototypen zum Testen mit, am 2. und 4. Montag gestaltet wundersam anders den Abend. Eintritt frei.",
@@ -888,29 +890,6 @@
 ],
 "house": "Weitere Orte",
 "id": "663a4bbda8"
-},
-{
-"title": "Spieleabend: Neue Leute kennenlernen",
-"subtitle": null,
-"date": "2026-10-06",
-"end_date": "2026-12-01",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Kennenlernen",
-"offener Abend"
-],
-"description": "Spieleabend für alle, die bei Brettspielen neue Kontakte knüpfen möchten. Termine im Zeitraum u. a. am 6. Oktober, 3. November und 1. Dezember, jeweils 19 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "ec67165fb7"
 },
 {
 "title": "Blood Bowl im Haus des Spiels",
@@ -1021,8 +1000,7 @@
 "Hüttendorf",
 "Live-Musik",
 "Innenstadt",
-"Winterdorf",
-"Livemusik"
+"Winterdorf"
 ],
 "description": "Das Hüttendorf in der Innenstadt hat Mo–Sa 11–23 Uhr und So 12–23 Uhr geöffnet und bietet ein wechselndes Programm mit Live-Musik und DJ-Abenden; das Programm für November und Dezember ist noch in Vorbereitung.",
 "price": "frei",
@@ -1133,10 +1111,34 @@
 "id": "d9613e6864"
 },
 {
+"title": "Beyond the Sweet and Obvious: African Feminisms Refracted",
+"subtitle": "Ausstellung, kuratiert von Natasha A. Kelly",
+"date": "2026-10-27",
+"end_date": "2027-02-15",
+"time": "12:00",
+"venue": "Iwalewahaus, Wölfelstraße 2",
+"organizer": "Iwalewahaus, Universität Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Afrika",
+"Feminismus",
+"Gegenwartskunst",
+"Universität"
+],
+"description": "Ausstellung zu afrikanischen Feminismen nach dem Umbau des Ausstellungsbereichs; eröffnet im Rahmen des African Feminism Gathering. Geöffnet Di–Do 12–16 Uhr, Eintritt frei; Führungen nach Vereinbarung.",
+"price": "Eintritt frei",
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/besuch/",
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "36f742ccbb"
+},
+{
 "title": "Historischer Stadtrundgang",
 "subtitle": null,
-"date": "2026-10-27",
-"end_date": "2026-11-21",
+"date": "2026-10-28",
+"end_date": "2026-12-28",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22",
 "organizer": "Bayreuth Marketing & Tourismus",
@@ -1154,13 +1156,8 @@
 "Bayreuth Tourismus"
 ],
 "house": "Stadtführungen",
-"id": "c59fad05e8",
+"id": "093d71d5e3",
 "termine": [
-{
-"date": "2026-10-27",
-"time": "10:30",
-"hinweis": null
-},
 {
 "date": "2026-10-28",
 "time": "10:30",
@@ -1195,408 +1192,23 @@
 "date": "2026-11-21",
 "time": "10:30",
 "hinweis": null
-}
-]
 },
 {
-"title": "Beyond the Sweet and Obvious: African Feminisms Refracted",
-"subtitle": "Ausstellung, kuratiert von Natasha A. Kelly",
-"date": "2026-10-27",
-"end_date": "2027-02-15",
-"time": "12:00",
-"venue": "Iwalewahaus, Wölfelstraße 2",
-"organizer": "Iwalewahaus, Universität Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Afrika",
-"Feminismus",
-"Gegenwartskunst",
-"Universität"
-],
-"description": "Ausstellung zu afrikanischen Feminismen nach dem Umbau des Ausstellungsbereichs; eröffnet im Rahmen des African Feminism Gathering. Geöffnet Di–Do 12–16 Uhr, Eintritt frei; Führungen nach Vereinbarung.",
-"price": "Eintritt frei",
-"url": "https://www.iwalewahaus.uni-bayreuth.de/de/besuch/",
-"sources": [
-"Iwalewahaus"
-],
-"house": "Iwalewahaus",
-"id": "36f742ccbb"
-},
-{
-"title": "Kuratorenführung im Richard Wagner Museum",
-"subtitle": "dienstags 14 Uhr",
-"date": "2026-10-27",
-"end_date": "2026-12-22",
-"time": "14:00",
-"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
-"organizer": "Richard Wagner Museum",
-"category": "Führung",
-"tags": [
-"Wagner",
-"Kuratoren",
-"Museum",
-"Kurator",
-"dienstags"
-],
-"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
-"sources": [
-"Richard Wagner Museum"
-],
-"house": "Richard Wagner Museum",
-"id": "90c96c40f7",
-"termine": [
-{
-"date": "2026-10-27",
-"time": "14:00",
+"date": "2026-12-26",
+"time": "10:30",
 "hinweis": null
 },
 {
-"date": "2026-11-03",
-"time": "14:00",
+"date": "2026-12-27",
+"time": "10:30",
 "hinweis": null
 },
 {
-"date": "2026-11-10",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "14:00",
+"date": "2026-12-28",
+"time": "10:30",
 "hinweis": null
 }
 ]
-},
-{
-"title": "Allgemeine Führung durch das Friedrichsforum",
-"subtitle": null,
-"date": "2026-10-27",
-"end_date": null,
-"time": "15:00",
-"venue": "Friedrichsforum – Jean-Paul-Platz",
-"organizer": "Friedrichsforum",
-"category": "Führung",
-"tags": [
-"Architektur",
-"Haus",
-"Stadthalle",
-"Hausführung"
-],
-"description": "Rundgang durch das sanierte Veranstaltungshaus mit Informationen zu Geschichte und Räumen.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/allgemeine-fuehrung",
-"sources": [
-"Friedrichsforum"
-],
-"house": "Friedrichsforum",
-"id": "f7ba2bc4a8"
-},
-{
-"title": "Pub&Go Spieleabend",
-"subtitle": null,
-"date": "2026-10-27",
-"end_date": "2026-12-15",
-"time": "17:00",
-"venue": "Pub&Go Bayreuth, Sophienstraße 4",
-"organizer": "Pub&Go Bayreuth",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"wöchentlich",
-"dienstags"
-],
-"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
-"price": null,
-"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
-"sources": [
-"Pub&Go",
-"Pub&Go Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "a9085fe14b",
-"termine": [
-{
-"date": "2026-10-27",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-03",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-10",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "„Disruption“ – Launch Event des C³ Research Center",
-"subtitle": "Podiumsdiskussion zur Eröffnung des Forschungszentrums Conflict, Crisis, and Change",
-"date": "2026-10-27",
-"end_date": null,
-"time": "18:00",
-"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Kongresshalle, Universitätsstraße 30",
-"organizer": "Universität Bayreuth – C³ Research Center",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Universität",
-"Konfliktforschung",
-"Podium",
-"englisch"
-],
-"description": "Nach einer Begrüßung durch Unipräsident Stefan Leible diskutieren Nina Nestler, Cindy Wittke-Hohlfeld und Joschka Philipps unter Moderation von Jana Hönke, was Disruption für Krisen und Konflikte bedeutet; danach Empfang. Ankündigung auf Englisch, Teilnahme ohne Anmeldung.",
-"price": "Eintritt frei",
-"url": "https://www.peaceandconflict.uni-bayreuth.de/en/news/2026/07_24_c3-launch-event-disruption/index.html",
-"sources": [
-"Universität Bayreuth – C³ Peace and Conflict Research"
-],
-"house": "Universität",
-"id": "899c935c1b"
-},
-{
-"title": "Anime: Rascal Does Not Dream Of A Dear Friend",
-"subtitle": null,
-"date": "2026-10-27",
-"end_date": null,
-"time": "18:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Anime",
-"Sondervorstellung",
-"Japan",
-"Filmreihe"
-],
-"description": "Sondervorstellung des japanischen Anime-Films.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/rascal-does-not-dream-of-a-dear-friend-79341000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "f6bc5bb89b"
-},
-{
-"title": "Gedankenspiele",
-"subtitle": null,
-"date": "2026-10-27",
-"end_date": "2026-11-24",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Denkspiele",
-"Austausch",
-"Spieleabend"
-],
-"description": "Gesprächsabend im Haus des Spiels, bei dem zu „Was wäre, wenn …?“-Fragen frei philosophiert wird; Zuhören und Mitreden sind gleichermaßen möglich.",
-"price": "Eintritt frei",
-"url": "https://wundersam-anders.de/gedankenspiele/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "b96452431c",
-"termine": [
-{
-"date": "2026-10-27",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "235. Akademiekonzert: Terzo Brass",
-"subtitle": "Leitung: Prof. Michael Wessel",
-"date": "2026-10-27",
-"end_date": null,
-"time": "19:30",
-"venue": "Hochschule für evangelische Kirchenmusik",
-"organizer": "Hochschule für evangelische Kirchenmusik Bayreuth",
-"category": "Klassik",
-"tags": [
-"Blechbläser",
-"Akademiekonzert",
-"Quintett",
-"Orgel",
-"Hochschule"
-],
-"description": "Das Blechbläserquintett Terzo Brass um Michael Wessel spielt im Akademiekonzert.",
-"price": "15 €, Senioren 10 €, Studierende 2 €",
-"url": "https://www.hfk-bayreuth.de/veranstaltungen?etID=8147961&until=yes",
-"sources": [
-"Hochschule für evangelische Kirchenmusik Bayreuth",
-"Hochschule für ev. Kirchenmusik"
-],
-"house": "Kirchen",
-"id": "97f11dd5b3"
-},
-{
-"title": "CineArt: Frau Winkler verlässt das Haus",
-"subtitle": "Arthouse-Reihe im Cineplex",
-"date": "2026-10-27",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Kino",
-"Filmkunst"
-],
-"description": "CineArt-Vorstellungen am 22.10. (17:30), 25.10. (10:45) und 27.10. (20:00).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/frau-winkler-verlaesst-das-haus-7C041000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "3484211400"
-},
-{
-"title": "kontrast zu Gast in der Sübkültür",
-"subtitle": "Kurzfilm-Sichtung",
-"date": "2026-10-27",
-"end_date": null,
-"time": "20:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "kontrast Kurzfilmfestival / Neuneinhalb e. V.",
-"category": "Film",
-"tags": [
-"Kurzfilm",
-"Festival",
-"Publikumsjury",
-"Sichtung",
-"Mitbestimmen"
-],
-"description": "Das Bayreuther Kurzfilmfestival kontrast lässt das Publikum aus rund 660 Einreichungen mitsichten, abstimmen und diskutieren; Motto 2026 ist „Hoppala“.",
-"price": "2 € + Spende",
-"url": "https://www.neuneinhalb.org/veranstaltungen/kontrast-zu-gast-2026/edate/2026-10-27",
-"sources": [
-"Neuneinhalb",
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb e.V.",
-"Neuneinhalb e. V."
-],
-"house": "Neuneinhalb",
-"id": "1d7ca846f3"
-},
-{
-"title": "Ukrainischer Kulturabend",
-"subtitle": null,
-"date": "2026-10-27",
-"end_date": null,
-"time": "20:00",
-"venue": "Katholische Hochschulgemeinde – Roncalli-Saal",
-"organizer": "KHG Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Ukraine",
-"Krimtataren",
-"Kulturabend",
-"Interkulturell"
-],
-"description": "Abend über Kultur der Krimtataren und anderer indigener Völker der Ukraine.",
-"price": "frei",
-"url": "https://www.khg-in-bayreuth.de/event/ukrainian-cultural-evening-crimean-tatars-other-indignious-peoples-of-ukraine/",
-"sources": [
-"Katholische Hochschulgemeinde Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "21846695f8"
-},
-{
-"title": "Royal Ballet live im Kino: Manon",
-"subtitle": "Übertragung aus dem Royal Opera House London",
-"date": "2026-10-27",
-"end_date": null,
-"time": "20:15",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Tanz",
-"tags": [
-"Royal Ballet",
-"Ballett",
-"Live-Übertragung",
-"Live im Kino",
-"Klassik & Co."
-],
-"description": "Übertragung des Balletts „Manon“ des Royal Ballet aus dem Royal Opera House London, Laufzeit 190 Minuten. Zwei Säle: 20:00 im Franz & Gloria (F&G 5) und 20:15 im Haupthaus (Kino 8).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/rbo-2627-manon-royal-ballet-41241000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "a555d0ac89"
 },
 {
 "title": "Kaffee, Klatsch & Kino: Auf zwei Rädern",
@@ -1764,7 +1376,7 @@
 "title": "Labortheater",
 "subtitle": null,
 "date": "2026-10-28",
-"end_date": "2026-12-16",
+"end_date": "2026-12-09",
 "time": "19:30",
 "venue": "Haus des Spiels, Bernecker Straße 15",
 "organizer": "wundersam anders e.V.",
@@ -1775,7 +1387,7 @@
 "offen"
 ],
 "description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
-"price": null,
+"price": "frei",
 "url": "https://wundersam-anders.de/2026/04/02/labortheater-bayreuth/",
 "sources": [
 "wundersam anders e.V.",
@@ -1790,22 +1402,17 @@
 "hinweis": null
 },
 {
-"date": "2026-11-04",
+"date": "2026-11-11",
 "time": "19:30",
 "hinweis": null
 },
 {
-"date": "2026-11-18",
+"date": "2026-11-25",
 "time": "19:30",
 "hinweis": null
 },
 {
-"date": "2026-12-02",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
+"date": "2026-12-09",
 "time": "19:30",
 "hinweis": null
 }
@@ -2276,7 +1883,7 @@
 "title": "Jeeps",
 "subtitle": "Komödie von Nora Abdel-Maksoud",
 "date": "2026-10-29",
-"end_date": "2026-12-22",
+"end_date": "2026-12-28",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
 "organizer": "Studiobühne Bayreuth",
@@ -2372,6 +1979,11 @@
 "date": "2026-12-22",
 "time": "20:00",
 "hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "20:00",
+"hinweis": "Letzte Vorstellung"
 }
 ]
 },
@@ -2459,7 +2071,7 @@
 "Experimentell"
 ],
 "description": "Konzert des Duos IKAN HYU.",
-"price": "ab 9,27 €",
+"price": "VVK 13 € (erm. 8 €) zzgl. Gebühr, AK 16 € (erm. 12 €)",
 "url": "https://www.neuneinhalb.org/veranstaltungen/ikan-hyu/edate/2026-10-29",
 "sources": [
 "Kunst- und Kulturhaus Neuneinhalb",
@@ -2488,7 +2100,7 @@
 "Brettspiele",
 "Thema Horror"
 ],
-"description": "Rund 42 Stunden lang wird im Haus des Spiels durchgehend gespielt; die Herbstausgabe dreht sich um das rätselhafte Buch WORAGOTH und das „Amt für Ätherangelegenheiten“. Ende am 1. November gegen 4 Uhr.",
+"description": "Rund 42 Stunden lang wird im Haus des Spiels durchgehend gespielt; die Herbstausgabe dreht sich um das rätselhafte Buch WORAGOTH und das „Amt für Ätherangelegenheiten“. Ende am 1. November gegen 3 Uhr.",
 "price": null,
 "url": "https://wundersam-anders.de/2026/10/07/spooky-spielemarathon/",
 "sources": [
@@ -2533,6 +2145,192 @@
 "hinweis": null
 }
 ]
+},
+{
+"title": "Bayreuther Katakomben – Führung",
+"subtitle": "Die Stadt unter der Stadt",
+"date": "2026-10-30",
+"end_date": "2026-12-27",
+"time": "16:00",
+"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
+"organizer": "Maisel & Friends",
+"category": "Führung",
+"tags": [
+"Felsenkeller",
+"Stadtgeschichte",
+"Biergeschichte",
+"Untergrund"
+],
+"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
+"price": null,
+"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
+"termine": [
+{
+"date": "2026-10-30",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-10-31",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-01",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-07",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-19",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-26",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-27",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Maisel & Friends"
+],
+"house": "Liebesbier",
+"id": "3ae4937bec"
+},
+{
+"title": "Der liebevolle Blick auf eine verwundete Welt",
+"subtitle": "„Gesang der Fledermäuse“ und Olga Tokarczuks Nobelpreisrede",
+"date": "2026-10-30",
+"end_date": null,
+"time": "17:00",
+"venue": "Internationaler Zirkel, Schulstraße 5",
+"organizer": "Deutsch-Polnische Gesellschaft Bayreuth e.V.",
+"category": "Literatur",
+"tags": [
+"Olga Tokarczuk",
+"Polen",
+"Nobelpreis",
+"Literaturabend"
+],
+"description": "Ein Abend über die polnische Literaturnobelpreisträgerin Olga Tokarczuk: Im Mittelpunkt stehen ihr Roman „Gesang der Fledermäuse“ und ihre Nobelpreisvorlesung, in der sie für einen achtsamen Umgang mit der Natur und eine neue, zugewandte Erzählweise wirbt.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/liebevolle-blick-verwundete-welt-gesang-fledermaeuse-olga-tokarczuks-visionaere-nobelpreisrede-bayreuth-vo4g3x",
+"termine": null,
+"sources": [
+"Deutsch-Polnische Gesellschaft Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "0155d150e8"
 },
 {
 "title": "Führung durch das Festspielhaus „intensiv“",
@@ -3510,6 +3308,100 @@
 "id": "62e3dc95f4"
 },
 {
+"title": "Kuratierter Montags-Spieleabend",
+"subtitle": null,
+"date": "2026-11-02",
+"end_date": "2026-12-28",
+"time": "19:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Prototypen",
+"Spieleabend"
+],
+"description": "Offener Brettspielabend mit einer Bibliothek von über 1.500 Spielen. Am ersten und dritten Montag im Monat bringt der Verlag Frosted Games Prototypen zum Testen mit, an den übrigen Montagen gestaltet wundersam anders das Programm mit wechselnden Spielen des Monats.",
+"price": "frei",
+"url": "https://wundersam-anders.de/2026/06/30/montags-spieleabend/",
+"termine": [
+{
+"date": "2026-11-02",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-09",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-07",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-14",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-21",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "19:00",
+"hinweis": null
+}
+],
+"sources": [
+"wundersam anders e.V. (Haus des Spiels)"
+],
+"house": "Weitere Orte",
+"id": "7511ed2baf"
+},
+{
+"title": "Kunstnische November: Templar Wales – „Reconnecting …“",
+"subtitle": "Ausstellungseröffnung",
+"date": "2026-11-02",
+"end_date": null,
+"time": "19:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb – Kunstnische, Gerberplatz 1",
+"organizer": "Neuneinhalb e. V.",
+"category": "Ausstellung",
+"tags": [
+"Fotografie",
+"Vernissage",
+"Kunstnische"
+],
+"description": "Der in Bayreuth lebende, aus Südafrika stammende Templar Wales zeigt Fotografien, die er auf Reisen durch Zug- und Autofenster aufgenommen hat. Thema sind Verbindungen über Entfernungen hinweg; Unschärfen und Bildfehler bleiben bewusst sichtbar.",
+"price": "frei, Spenden erbeten",
+"url": "https://www.neuneinhalb.org/veranstaltungen/kunstnische-november-reconnecting/edate/2026-11-02",
+"termine": null,
+"sources": [
+"Neuneinhalb e. V."
+],
+"house": "Neuneinhalb",
+"id": "5c688f1213"
+},
+{
 "title": "Pat Todd & The Rankoutsiders",
 "subtitle": "Support: The Weak Willies",
 "date": "2026-11-02",
@@ -3626,7 +3518,96 @@
 "Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte (nur Stadt, Land, Leben)"
 ],
 "house": "Weitere Orte",
-"id": "7586bb49f5"
+"id": "7586bb49f5",
+"termine": [
+{
+"date": "2026-11-03",
+"time": "13:00",
+"hinweis": null
+},
+{
+"date": "2026-11-04",
+"time": "13:00",
+"hinweis": null
+},
+{
+"date": "2026-11-05",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-06",
+"time": "10:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Kuratorenführung im Richard Wagner Museum",
+"subtitle": "dienstags 14 Uhr",
+"date": "2026-11-03",
+"end_date": "2026-12-22",
+"time": "14:00",
+"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
+"organizer": "Richard Wagner Museum",
+"category": "Führung",
+"tags": [
+"Wagner",
+"Kuratoren",
+"Museum",
+"Kurator",
+"dienstags"
+],
+"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
+"sources": [
+"Richard Wagner Museum"
+],
+"house": "Richard Wagner Museum",
+"id": "1af27cb00b",
+"termine": [
+{
+"date": "2026-11-03",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-10",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "14:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Kinderführung",
@@ -3661,6 +3642,68 @@
 {
 "date": "2026-11-18",
 "time": "14:30",
+"hinweis": null
+}
+]
+},
+{
+"title": "Pub&Go Spieleabend",
+"subtitle": null,
+"date": "2026-11-03",
+"end_date": "2026-12-15",
+"time": "17:00",
+"venue": "Pub&Go Bayreuth, Sophienstraße 4",
+"organizer": "Pub&Go Bayreuth",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"wöchentlich",
+"dienstags"
+],
+"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
+"price": null,
+"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
+"sources": [
+"Pub&Go",
+"Pub&Go Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "c50750c94e",
+"termine": [
+{
+"date": "2026-11-03",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-10",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -3705,7 +3748,7 @@
 ],
 "description": "Lesekreis zu feministischer Literatur mit gemeinsamen Lese- und Diskussionsterminen am 6.10., 20.10. und 3.11., jeweils 18:15 Uhr.",
 "price": "Eintritt frei",
-"url": "https://www.glashaus.org/programm/intersectional-feminist-bookclub-5-2-4-2-2-2-2-2-2-10",
+"url": "https://www.glashaus.org/programm/intersectional-feminist-bookclub-5-2-4-2-2-2-2-2-2-3-2-3-2-2-6",
 "sources": [
 "Glashaus",
 "Glashaus e.V."
@@ -4326,6 +4369,30 @@
 "id": "14c2f0629d"
 },
 {
+"title": "Alzire’s Afterlife: Archives, Absence, and Artistic Imagination",
+"subtitle": "Gespräch zur Ausstellung „Beyond the Sweet and Obvious“",
+"date": "2026-11-05",
+"end_date": null,
+"time": "19:00",
+"venue": "Iwalewahaus, Wölfelstraße 2 – Foyer",
+"organizer": "Iwalewahaus, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Gespräch",
+"Archiv",
+"Kunst"
+],
+"description": "Die Künstlerin Kitso Lynn Lelliott und Katharina Fink sprechen über Archive, Leerstellen und künstlerische Imagination; Moderation Natasha A. Kelly.",
+"price": null,
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/index.html",
+"termine": null,
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "e1b99af512"
+},
+{
 "title": "Jedermann",
 "subtitle": null,
 "date": "2026-11-05",
@@ -4501,6 +4568,29 @@
 "id": "7bdbee1aae"
 },
 {
+"title": "Mach (K)ein Theater! – Werkschau",
+"subtitle": null,
+"date": "2026-11-06",
+"end_date": null,
+"time": "17:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb",
+"organizer": "Neuneinhalb e.V.",
+"category": "Theater",
+"tags": [
+"Jugendtheater",
+"Werkschau",
+"Workshop"
+],
+"description": "Jugendliche zwischen 12 und 16 Jahren zeigen, was sie im Theaterworkshop der Herbstferien unter Anleitung gemeinsam entwickelt haben. Eintritt frei.",
+"price": "Eintritt frei",
+"url": "https://www.neuneinhalb.org/veranstaltungen/mach-kein-theater-2/edate/2026-11-02",
+"sources": [
+"Neuneinhalb e.V. (nur Stadt, Land, Leben)"
+],
+"house": "Neuneinhalb",
+"id": "f18dca4537"
+},
+{
 "title": "LOVEBEATZ im Liebesbier",
 "subtitle": "Bar-DJing",
 "date": "2026-11-06",
@@ -4546,29 +4636,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Mach (K)ein Theater! – Werkschau",
-"subtitle": null,
-"date": "2026-11-06",
-"end_date": null,
-"time": "18:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb",
-"organizer": "Neuneinhalb e.V.",
-"category": "Theater",
-"tags": [
-"Jugendtheater",
-"Werkschau",
-"Workshop"
-],
-"description": "Jugendliche zwischen 12 und 16 Jahren zeigen, was sie im Theaterworkshop der Herbstferien unter Anleitung gemeinsam entwickelt haben. Eintritt frei.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/mach-k-ein-theater-werkschau-bayreuth-95445-tsdnbz",
-"sources": [
-"Neuneinhalb e.V. (nur Stadt, Land, Leben)"
-],
-"house": "Neuneinhalb",
-"id": "f18dca4537"
 },
 {
 "title": "Liebe, Macht und Untergang – Szenen aus Wagners „Ring“",
@@ -5127,30 +5194,6 @@
 "id": "9d20126e41"
 },
 {
-"title": "Mal-Workshop: Insektenmuster",
-"subtitle": "Von Insekten inspiriert – mit Die Summer e. V.",
-"date": "2026-11-08",
-"end_date": null,
-"time": "13:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V. mit Die Summer e. V.",
-"category": "Ausstellung",
-"tags": [
-"Workshop",
-"Malen",
-"Insekten"
-],
-"description": "Angeleiteter Malworkshop zu Mustern und Strukturen von Insektenkörpern; die Teilnehmenden gestalten ein eigenes Bild. Begrenzt auf 20 Plätze, Anmeldung bis 4. November.",
-"price": "5 €, Mitglieder frei",
-"url": "https://www.neuneinhalb.org/veranstaltungen/von-insekten-inspiriert/edate/2026-11-08",
-"sources": [
-"Neuneinhalb e. V.",
-"Die Summer e.V."
-],
-"house": "Neuneinhalb",
-"id": "46b7743d6f"
-},
-{
 "title": "Strickkino: Verity – Dunkle Geheimnisse",
 "subtitle": null,
 "date": "2026-11-08",
@@ -5550,6 +5593,30 @@
 "id": "b53fb40b69"
 },
 {
+"title": "Familiengeschichtsforschung: „Aufbruch in die neue Welt“",
+"subtitle": null,
+"date": "2026-11-10",
+"end_date": null,
+"time": "17:30",
+"venue": "Evangelisches Zentrum Bayreuth – Seminarraum im Hof, Richard-Wagner-Straße 24",
+"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Genealogie",
+"Auswanderung",
+"Geschichte"
+],
+"description": "Reinhard Stelzer gibt in einem einstündigen Vortrag Einblicke in die Familienforschung zu Auswanderern in die Neue Welt.",
+"price": "frei, Spenden erbeten",
+"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
+"termine": null,
+"sources": [
+"Evangelisches Bildungswerk Oberfranken-Mitte"
+],
+"house": "Weitere Orte",
+"id": "f28d39a33a"
+},
+{
 "title": "Islamische Kunst – Bedeutung, Entwicklung, Besonderheiten",
 "subtitle": "vhs-Kurs mit Angela Lodes (6 Abende)",
 "date": "2026-11-10",
@@ -5787,7 +5854,19 @@
 "Neuneinhalb e.V. (nur Stadt, Land, Leben)"
 ],
 "house": "Neuneinhalb",
-"id": "91be9ced60"
+"id": "91be9ced60",
+"termine": [
+{
+"date": "2026-11-11",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "18:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Ulla Suspekt",
@@ -6574,7 +6653,7 @@
 ],
 "description": "Acht einzeln buchbare Vorträge zu Wagners Lebensstationen von 1813 bis 1883, Sa und So jeweils 10, 12, 15 und 17 Uhr.",
 "price": "Eintritt frei",
-"url": "https://www.wagnermuseum.de/informationen/aktuelles/wagner-wochenende-gesamtdarstellung-von-leben-und-werk-im-haus-wahnfried-am-14-15-11-2026/",
+"url": "https://www.wagnermuseum.de/events/wagner-wochenende-gesamtdarstellung-von-leben-und-werk-im-haus-wahnfried-am-14-und-15-11-2026/",
 "sources": [
 "vhs Bayreuth",
 "Volkshochschule Bayreuth"
@@ -6645,12 +6724,12 @@
 {
 "date": "2026-11-14",
 "time": "19:00",
-"hinweis": null
+"hinweis": "Call Me Queen (OmU)"
 },
 {
 "date": "2026-11-15",
 "time": "18:30",
-"hinweis": null
+"hinweis": "Hirten (OmU)"
 }
 ]
 },
@@ -6746,7 +6825,7 @@
 ],
 "description": "Stand-up-Mixed-Show mit mehreren Comedians.",
 "price": "32,50 €",
-"url": "https://www.agentur-streckenbach.de/event_info.cfm?id=2921",
+"url": "https://www.das-zentrum.de/veranstaltung/nightwash-comedy-at-its-best/",
 "sources": [
 "Agentur Streckenbach",
 "NightWash"
@@ -7724,31 +7803,6 @@
 "id": "7de3ae1848"
 },
 {
-"title": "Jahreskonzert des Ersten Harmonika-Clubs Bayreuth",
-"subtitle": "Zwei Vorstellungen: 14:00 und 19:00 Uhr",
-"date": "2026-11-21",
-"end_date": null,
-"time": "14:00",
-"venue": "DAS ZENTRUM – Europasaal",
-"organizer": "1. Harmonika-Club Bayreuth",
-"category": "Klassik",
-"tags": [
-"Akkordeon",
-"Orchester",
-"Jahreskonzert",
-"Jahr des Akkordeons"
-],
-"description": "Der Erste Harmonika-Club Bayreuth und das Akkordeonorchester Neustadt bei Coburg spielen gemeinsam zum „Jahr des Akkordeons“. Zwei Aufführungen: 14 und 19 Uhr.",
-"price": "18 €",
-"url": "https://www.harmonika-club-bayreuth.de",
-"sources": [
-"Erster Harmonika-Club Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Das Zentrum",
-"id": "a80fa4c328"
-},
-{
 "title": "„In meinem Land sollen alle glücklich sein“ – Markgraf Friedrich",
 "subtitle": null,
 "date": "2026-11-21",
@@ -7797,7 +7851,7 @@
 {
 "date": "2026-11-21",
 "time": "15:00",
-"hinweis": null
+"hinweis": "Premiere"
 },
 {
 "date": "2026-11-22",
@@ -7914,27 +7968,29 @@
 "id": "8d4046280b"
 },
 {
-"title": "Erster Harmonika-Club Bayreuth – Abendkonzert",
+"title": "Jahreskonzert des Ersten Harmonika-Clubs Bayreuth",
 "subtitle": null,
 "date": "2026-11-21",
 "end_date": null,
 "time": "19:00",
 "venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": "Erster Harmonika-Club Bayreuth",
+"organizer": "1. Harmonika-Club Bayreuth",
 "category": "Klassik",
 "tags": [
 "Akkordeon",
 "Orchester",
-"Laienmusik"
+"Jahreskonzert",
+"Jahr des Akkordeons"
 ],
-"description": "Zweite Aufführung des Jahreskonzerts im „Jahr des Akkordeons“, gemeinsam mit dem Akkordeonorchester Neustadt bei Coburg.",
+"description": "Der Erste Harmonika-Club Bayreuth und das Akkordeonorchester Neustadt bei Coburg spielen gemeinsam zum „Jahr des Akkordeons“. Zwei Aufführungen: 14 und 19 Uhr.",
 "price": "18 €",
-"url": "https://www.harmonika-club-bayreuth.de",
+"url": "https://www.das-zentrum.de/veranstaltung/jahreskonzert-erster-harmonika-club-bayreuth/",
 "sources": [
-"Erster Harmonika-Club Bayreuth"
+"Erster Harmonika-Club Bayreuth",
+"Stadt, Land, Leben (region-bayreuth.de)"
 ],
 "house": "Das Zentrum",
-"id": "f51c8b5998"
+"id": "a80fa4c328"
 },
 {
 "title": "Mirage – Visions of Fleetwood Mac",
@@ -8204,7 +8260,7 @@
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
 "date": "2026-11-23",
-"end_date": "2026-12-27",
+"end_date": "2026-12-28",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus GmbH",
@@ -8392,6 +8448,11 @@
 "date": "2026-12-27",
 "time": "10:30",
 "hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "10:30",
+"hinweis": null
 }
 ]
 },
@@ -8511,6 +8572,29 @@
 "id": "1d57fca671"
 },
 {
+"title": "Gedankenspiele",
+"subtitle": null,
+"date": "2026-11-24",
+"end_date": null,
+"time": "19:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Denkspiele",
+"Austausch",
+"Spieleabend"
+],
+"description": "Gesprächsabend im Haus des Spiels, bei dem zu „Was wäre, wenn …?“-Fragen frei philosophiert wird; Zuhören und Mitreden sind gleichermaßen möglich.",
+"price": "Eintritt frei",
+"url": "https://wundersam-anders.de/gedankenspiele/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "05c564f821"
+},
+{
 "title": "Cel Ray",
 "subtitle": null,
 "date": "2026-11-24",
@@ -8624,7 +8708,7 @@
 "Mitmachen"
 ],
 "description": "Das Labortheater Bayreuth zeigt eine Probe seines neuen Stücks, das nach den Methoden des Forumtheaters entsteht. Das Publikum kann zusehen, Vorschläge einbringen oder selbst mitspielen; Vorkenntnisse sind nicht nötig.",
-"price": "Eintritt frei",
+"price": null,
 "url": "https://www.neuneinhalb.org",
 "sources": [
 "Kunst- und Kulturhaus Neuneinhalb"
@@ -8743,7 +8827,7 @@
 ],
 "description": "Der Comedian liest und kommentiert Texte von Björn Höcke.",
 "price": "36,65–39 €",
-"url": "https://www.agentur-streckenbach.de/event_info.cfm?id=3059",
+"url": "https://www.das-zentrum.de/veranstaltung/ingmar-stadelmann-liest-hoecke/",
 "sources": [
 "Agentur Streckenbach",
 "Agentur Streckenbach (Veranstalter)",
@@ -8929,7 +9013,7 @@
 ],
 "description": "Kneipenabend, bei dem Gäste eigene Platten auflegen (22.10. und 26.11.).",
 "price": "frei",
-"url": "https://www.glashaus.org/programm/bring-your-vinyl-kneipenabend-2-2-2-2",
+"url": "https://www.glashaus.org/programm/bring-your-vinyl-kneipenabend-2-2-2-2-2",
 "sources": [
 "Glashaus",
 "Glashaus e.V."
@@ -9003,7 +9087,7 @@
 "title": "Kiddy's Bastelspaß",
 "subtitle": null,
 "date": "2026-11-27",
-"end_date": null,
+"end_date": "2026-12-23",
 "time": "14:30",
 "venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
 "organizer": "Stadt Bayreuth",
@@ -9020,7 +9104,19 @@
 "Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
 ],
 "house": "Weitere Orte",
-"id": "18350df308"
+"id": "18350df308",
+"termine": [
+{
+"date": "2026-11-27",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2026-12-23",
+"time": "12:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "VR-Treff in der Game-o-thek",
@@ -9189,6 +9285,42 @@
 ],
 "house": "Kirchen",
 "id": "f492287345"
+},
+{
+"title": "November Pain",
+"subtitle": null,
+"date": "2026-11-27",
+"end_date": "2026-11-28",
+"time": "19:00",
+"venue": "BSV-Saal (BSV-Sportheim), Äußere Badstraße 7",
+"organizer": "BayRock Oberfranken e.V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Rock",
+"Punk",
+"Metal",
+"regionale Bands"
+],
+"description": "Zweitägiges Herbstfestival mit regionalen Bands: am Freitag Skillful Seven, Pantsdown und Drainbugs, am Samstag Jumpin Juice, die Judas-Priest-Tributeband Just for Priest und Mon Coeur.",
+"price": null,
+"url": "https://bayrock.de/novemberpain26",
+"sources": [
+"BayRock Oberfranken e.V."
+],
+"house": "Weitere Orte",
+"id": "77490c75c9",
+"termine": [
+{
+"date": "2026-11-27",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Vortrag: „Blut ist ein besonderer Saft“",
@@ -9410,42 +9542,6 @@
 ],
 "house": "Neuneinhalb",
 "id": "aa47570367"
-},
-{
-"title": "November Pain",
-"subtitle": null,
-"date": "2026-11-27",
-"end_date": "2026-11-28",
-"time": null,
-"venue": "BSV-Saal (BSV-Sportheim), Äußere Badstraße 7",
-"organizer": "BayRock Oberfranken e.V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Rock",
-"Punk",
-"Metal",
-"regionale Bands"
-],
-"description": "Zweitägiges Herbstfestival mit regionalen Bands: am Freitag Skillful Seven, Pantsdown und Drainbugs, am Samstag Jumpin Juice, die Judas-Priest-Tributeband Just for Priest und Mon Coeur.",
-"price": null,
-"url": "https://bayrock.de/novemberpain26",
-"sources": [
-"BayRock Oberfranken e.V."
-],
-"house": "Weitere Orte",
-"id": "77490c75c9",
-"termine": [
-{
-"date": "2026-11-27",
-"time": null,
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": null,
-"hinweis": null
-}
-]
 },
 {
 "title": "Musikalische Vorlesestunde: Geraldine und die Mauseflöte",
@@ -9743,6 +9839,30 @@
 ],
 "house": "Markgräfliches Opernhaus",
 "id": "e91a10250d"
+},
+{
+"title": "Music as Worldmaking: Improvised Connections",
+"subtitle": "Live-Konzert mit Gespräch",
+"date": "2026-11-29",
+"end_date": null,
+"time": "11:00",
+"venue": "Iwalewahaus, Wölfelstraße 2 – Foyer",
+"organizer": "Iwalewahaus, Universität Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Improvisation",
+"Jazz",
+"Gespräch"
+],
+"description": "Improvisationskonzert mit Kesivan Naidoo, Joan Codina, Fabio Gouvêa, Charley Rose, Wes Georgiev und Gündalein, anschließend Gespräch mit Joschka Philipps und Julia Büchele.",
+"price": null,
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/PRINT-Inner-pages-A5_V3.pdf",
+"termine": null,
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "aeadcb4c35"
 },
 {
 "title": "Öffentliche Führungen durch die Ausstellung A. D. Trantenroth",
@@ -10493,7 +10613,7 @@
 ],
 "description": "Notarzt Lüder Warnken erzählt humorvoll aus dem Rettungsdienstalltag.",
 "price": "ab 36,90 €",
-"url": "https://www.reservix.de/tickets-dr-lueder-warnken-scheisse-ein-notfall-in-bayreuth-das-zentrum-bayreuth-am-2-12-2026/e2485194",
+"url": "https://www.das-zentrum.de/veranstaltung/dr-lueder-warnken-scheisse-ein-notfall/",
 "sources": [
 "Das Zentrum (reservix)",
 "Das Zentrum (Ticketing reservix)",
@@ -10551,6 +10671,11 @@
 "termine": [
 {
 "date": "2026-12-03",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-12-10",
 "time": "18:00",
 "hinweis": null
 },
@@ -10636,6 +10761,30 @@
 "id": "38f39aaf1b"
 },
 {
+"title": "Skandal_los: Ein langes Schweigen wird gebrochen",
+"subtitle": "Lecture-Performance",
+"date": "2026-12-04",
+"end_date": null,
+"time": "18:00",
+"venue": "Iwalewahaus, Wölfelstraße 2 – Foyer",
+"organizer": "Iwalewahaus, Universität Bayreuth, in Kooperation mit Joliba e. V.",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Performance",
+"Erinnerung",
+"Schwarze Geschichte"
+],
+"description": "Lecture-Performance mit Lorena Richter, Maxwell Richter und Philipp Khabo Koepsell im Begleitprogramm der Ausstellung „Beyond the Sweet and Obvious“; Moderation Natasha A. Kelly.",
+"price": null,
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/PRINT-Inner-pages-A5_V3.pdf",
+"termine": null,
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "64e8003d61"
+},
+{
 "title": "Pavlenko & Kowollik",
 "subtitle": "Liebesfreud & Liebesleid",
 "date": "2026-12-04",
@@ -10688,29 +10837,6 @@
 "id": "c7a1d18f59"
 },
 {
-"title": "Adventsprogramm in der Lernwerkstatt: Weihnachtsbasteln",
-"subtitle": null,
-"date": "2026-12-05",
-"end_date": null,
-"time": "10:00",
-"venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
-"organizer": "Bezirk Oberfranken",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Museum",
-"Advent"
-],
-"description": "Kinder im Grundschulalter (10–12 Uhr) und Jugendliche (12:30–14:30 Uhr) basteln Anhänger, Karten und kleine Weihnachtsdekoration; kostenlos, Anmeldung bei der Kulturservicestelle des Bezirks erforderlich.",
-"price": "kostenfrei (Anmeldung erforderlich)",
-"url": "https://www.bezirk-oberfranken.de/lettenhof",
-"sources": [
-"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte"
-],
-"house": "Weitere Orte",
-"id": "57bfd1b22d"
-},
-{
 "title": "Weihnachtliches Basteln mit dem Stadtjugendring Bayreuth",
 "subtitle": null,
 "date": "2026-12-05",
@@ -10732,6 +10858,30 @@
 ],
 "house": "Weitere Orte",
 "id": "403dc7cc0c"
+},
+{
+"title": "Adventsprogramm in der Lernwerkstatt: Weihnachtsbasteln",
+"subtitle": null,
+"date": "2026-12-05",
+"end_date": null,
+"time": "12:30",
+"venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
+"organizer": "Bezirk Oberfranken",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Museum",
+"Advent"
+],
+"description": "Kinder im Grundschulalter (10–12 Uhr) und Jugendliche (12:30–14:30 Uhr) basteln Anhänger, Karten und kleine Weihnachtsdekoration; kostenlos, Anmeldung bei der Kulturservicestelle des Bezirks erforderlich.",
+"price": "kostenfrei (Anmeldung erforderlich)",
+"url": "https://www.bezirk-oberfranken.de/lettenhof",
+"sources": [
+"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte"
+],
+"house": "Weitere Orte",
+"id": "57bfd1b22d",
+"hinweis": "für Jugendliche ab der 5. Klasse"
 },
 {
 "title": "Iranische Kunst und Kultur erleben",
@@ -10867,6 +11017,30 @@
 "id": "07597c5ea4"
 },
 {
+"title": "Skandal_los – Workshop",
+"subtitle": null,
+"date": "2026-12-05",
+"end_date": null,
+"time": "18:00",
+"venue": "Iwalewahaus, Wölfelstraße 2 – Seminarraum",
+"organizer": "Iwalewahaus, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Workshop",
+"Erinnerung",
+"Anmeldung"
+],
+"description": "Workshop mit Lorena Richter, Phyllis Quartey und Zola Wiegand-M’Pembele zum Thema der Lecture-Performance vom Vorabend; höchstens 35 Teilnehmende, Anmeldung erbeten.",
+"price": null,
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/PRINT-Inner-pages-A5_V3.pdf",
+"termine": null,
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "5a54c55e82"
+},
+{
 "title": "MET Opera live: Samson et Dalila",
 "subtitle": "Live-Übertragung aus der Metropolitan Opera New York",
 "date": "2026-12-05",
@@ -10955,7 +11129,7 @@
 "Konzertreihe"
 ],
 "description": "Achte Ausgabe der Hardcore-Konzertreihe im Zentrum: Dagger Threat spielen als Hauptact, dazu Drøver, Brotherfight und Without A Word.",
-"price": "ca. 25 €",
+"price": "23 €",
 "url": "https://www.das-zentrum.de/veranstaltung/save-your-tears-vol-8/",
 "sources": [
 "Das Zentrum (eventim-light)"
@@ -11421,6 +11595,30 @@
 "id": "e736c90fdc"
 },
 {
+"title": "Not Here to Justify: Resourcing African Feminist & Queer Futures",
+"subtitle": "Podiumsgespräch",
+"date": "2026-12-09",
+"end_date": null,
+"time": "19:00",
+"venue": "Iwalewahaus, Wölfelstraße 2 – Foyer",
+"organizer": "Iwalewahaus, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Podium",
+"Feminismus",
+"Queer"
+],
+"description": "Podium mit Rutendo Madzikanda, Sue Nyamnjoh und Samah Khalaf Allah über Förderung und Zukunft afrikanischer feministischer und queerer Bewegungen; Moderation Serawit Debele, auch online.",
+"price": null,
+"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/PRINT-Inner-pages-A5_V3.pdf",
+"termine": null,
+"sources": [
+"Iwalewahaus"
+],
+"house": "Iwalewahaus",
+"id": "fd0ed2b764"
+},
+{
 "title": "Perchta, Holle, Frigg – wer war sie wirklich?",
 "subtitle": "Märchenabend mit Fiona Ahlborn",
 "date": "2026-12-09",
@@ -11482,8 +11680,8 @@
 "Tournee"
 ],
 "description": "Der Kölner Comedian und Schauspieler erzählt in seinem dritten Stand-up-Programm vom Chaos des Familienalltags zwischen Bühne, Fernsehen und Elternabend.",
-"price": "ca. 32–35 €",
-"url": "https://www.agentur-streckenbach.de/event_info.cfm?id=2878",
+"price": "31,90 €",
+"url": "https://www.das-zentrum.de/veranstaltung/jan-van-weyde-immer-weyder/",
 "sources": [
 "Agentur Streckenbach",
 "Jan van Weyde (Tourdaten) / Agentur Streckenbach"
@@ -12753,7 +12951,7 @@
 "title": "Lichterglanz und Sternenklang",
 "subtitle": "Klanginstallation von Michael Lippert",
 "date": "2026-12-25",
-"end_date": "2026-12-27",
+"end_date": "2026-12-28",
 "time": "16:00",
 "venue": "Ordenskirche St. Georgen, St. Georgen 50",
 "organizer": "Kirchenmusik an der Ordenskirche St. Georgen",
@@ -12780,6 +12978,11 @@
 },
 {
 "date": "2026-12-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
 "time": "16:00",
 "hinweis": null
 }
@@ -12885,6 +13088,55 @@
 "hinweis": "Premiere",
 "house": "Brandenburger Kulturstadl",
 "id": "0505161a3e"
+},
+{
+"title": "Vom Alten Fritz bis Checker Tobi – Berühmte Gäste im Opernhaus",
+"subtitle": null,
+"date": "2026-12-28",
+"end_date": null,
+"time": "14:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
+"category": "Führung",
+"tags": [
+"Welterbe",
+"Opernhaus",
+"Anekdoten",
+"Barock"
+],
+"description": "Die Kastellanin führt von der Fürstenloge bis zur Orchestergarderobe durch das Markgräfliche Opernhaus und erzählt Anekdoten über prominente Gäste, die das Haus seit 1748 besucht haben.",
+"price": "3 € pro Person zzgl. Eintritt",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp",
+"termine": null,
+"sources": [
+"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "f4967b8738"
+},
+{
+"title": "Tom Gaebel & His Orchestra: A Swinging Christmas",
+"subtitle": null,
+"date": "2026-12-28",
+"end_date": null,
+"time": "20:00",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Swing",
+"Big Band",
+"Weihnachten"
+],
+"description": "Der Sänger Tom Gaebel und sein Orchester spielen amerikanische Weihnachtsklassiker im Swing-Gewand.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261228-tom-gaebel",
+"termine": null,
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "07a03ab0cc"
 }
 ]
 }

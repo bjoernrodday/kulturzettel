@@ -1,28 +1,26 @@
 {
- "date": "2026-10-27",
- "updated": "2026-10-27T04:22+01:00",
+ "date": "2026-10-28",
+ "updated": "2026-10-28T04:14+01:00",
  "films": [
   {
-   "title": "Frau Winkler verlässt das Haus",
+   "title": "Hope",
    "venue": "Cineplex Bayreuth",
-   "runtime": 112,
-   "fsk": 12,
+   "runtime": 157,
+   "fsk": 16,
    "genres": [
-    "Komödie",
-    "Drama"
+    "Action & Abenteuer",
+    "Thriller & Krimi"
    ],
    "genres_raw": [
-    "Komödie",
-    "Drama"
+    "Action",
+    "Thriller"
    ],
-   "badges": [
-    "CineArt"
-   ],
-   "week": 4,
+   "badges": [],
+   "week": 3,
    "shows": [
     {
-     "time": "20:00",
-     "room": "Kino 3",
+     "time": "19:45",
+     "room": "Kino 6",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
@@ -53,7 +51,7 @@
    "week": 2,
    "shows": [
     {
-     "time": "16:15",
+     "time": "16:00",
      "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
@@ -61,7 +59,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -83,7 +81,7 @@
    "week": 3,
    "shows": [
     {
-     "time": "17:15",
+     "time": "16:15",
      "room": "Kino 3",
      "site": "Haupthaus",
      "flags": [
@@ -91,9 +89,9 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/alte-liebe-6A141000012FWBXJYB",
+   "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
@@ -113,15 +111,15 @@
    "week": 6,
    "shows": [
     {
-     "time": "21:15",
-     "room": "4DX",
+     "time": "19:00",
+     "room": "Kino 3",
      "site": "Haupthaus",
      "flags": [
-      "4DX"
+      "Barrierefrei"
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -181,9 +179,9 @@
      ]
     }
    ],
-   "more": true,
+   "more": false,
    "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/der-perfekte-urlaub-F0041000012FWBXJYB",
+   "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
@@ -201,7 +199,7 @@
    "week": 4,
    "shows": [
     {
-     "time": "16:30",
+     "time": "16:45",
      "room": "Kino 8",
      "site": "Haupthaus",
      "flags": [
@@ -210,7 +208,7 @@
      ]
     },
     {
-     "time": "19:20",
+     "time": "19:00",
      "room": "F&G 2",
      "site": "Franz & Gloria",
      "flags": [
@@ -219,17 +217,18 @@
      ]
     },
     {
-     "time": "20:45",
-     "room": "Kino 5",
+     "time": "19:30",
+     "room": "Kino 8",
      "site": "Haupthaus",
      "flags": [
+      "VPT Intense",
       "Barrierefrei"
      ]
     }
    ],
    "more": true,
    "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/verity-dunkle-geheimnisse-43041000012FWBXJYB",
+   "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
@@ -252,25 +251,23 @@
    "shows": [
     {
      "time": "18:30",
-     "room": "Kino 6",
+     "room": "Kino 5",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
      ]
     },
     {
-     "time": "18:45",
+     "time": "20:15",
      "room": "4DX",
      "site": "Haupthaus",
      "flags": [
-      "OV Englisch",
-      "4DX",
-      "Barrierefrei"
+      "4DX"
      ]
     },
     {
      "time": "21:00",
-     "room": "Kino 6",
+     "room": "Kino 5",
      "site": "Haupthaus",
      "flags": [
       "Barrierefrei"
@@ -279,7 +276,7 @@
    ],
    "more": true,
    "note": null,
-   "url": "https://www.cineplex.de/bayreuth/film/clayface-E1041000012FWBXJYB",
+   "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
@@ -305,7 +302,7 @@
      ]
     },
     {
-     "time": "19:40",
+     "time": "19:20",
      "room": "F&G 1",
      "site": "Franz & Gloria",
      "flags": [
@@ -341,7 +338,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -365,7 +362,7 @@
    "week": 4,
    "shows": [
     {
-     "time": "16:00",
+     "time": "16:15",
      "room": "Kino 5",
      "site": "Haupthaus",
      "flags": [
@@ -373,7 +370,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -393,7 +390,7 @@
    "week": 2,
    "shows": [
     {
-     "time": "16:00",
+     "time": "17:30",
      "room": "4DX",
      "site": "Haupthaus",
      "flags": [
@@ -433,7 +430,7 @@
    "week": 5,
    "shows": [
     {
-     "time": "16:15",
+     "time": "17:15",
      "room": "Kino 6",
      "site": "Haupthaus",
      "flags": [
@@ -441,7 +438,7 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
@@ -471,6 +468,36 @@
      ]
     }
    ],
+   "more": true,
+   "note": null,
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
+  },
+  {
+   "title": "Eiserne Wildnis - Heart of the Beast",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 102,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Action & Abenteuer"
+   ],
+   "genres_raw": [
+    "Drama",
+    "Action"
+   ],
+   "badges": [],
+   "week": 5,
+   "shows": [
+    {
+     "time": "21:15",
+     "room": "Kino 3",
+     "site": "Haupthaus",
+     "flags": [
+      "Barrierefrei"
+     ]
+    }
+   ],
    "more": false,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
@@ -493,7 +520,7 @@
    "week": 3,
    "shows": [
     {
-     "time": "18:30",
+     "time": "18:15",
      "room": "Kino 1",
      "site": "Haupthaus",
      "flags": [
@@ -501,109 +528,83 @@
      ]
     }
    ],
-   "more": false,
+   "more": true,
    "note": null,
    "url": "https://www.cineplex.de/bayreuth/programm",
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "RBO 26/27: Manon (Royal Ballet)",
+   "title": "Auf zwei Rädern",
    "venue": "Cineplex Bayreuth",
-   "runtime": 190,
-   "fsk": null,
+   "runtime": 89,
+   "fsk": 6,
    "genres": [
-    "Events & Live"
+    "Drama",
+    "Komödie"
    ],
-   "genres_raw": [],
+   "genres_raw": [
+    "Drama",
+    "Komödie"
+   ],
    "badges": [
-    "NEU",
-    "Klassik & Co.",
-    "Royal Ballet"
+    "Kaffee, Klatsch & Kino"
    ],
-   "week": 1,
+   "week": 16,
    "shows": [
     {
-     "time": "20:00",
-     "room": "F&G 5",
-     "site": "Franz & Gloria",
-     "flags": [
-      "Barrierefrei"
-     ]
-    },
-    {
-     "time": "20:15",
+     "time": "14:30",
      "room": "Kino 8",
      "site": "Haupthaus",
      "flags": [
       "VPT Intense",
       "Barrierefrei"
      ]
-    }
-   ],
-   "more": false,
-   "note": "Ballettübertragung",
-   "url": "https://www.cineplex.de/bayreuth/programm",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Rascal Does Not Dream of a Dear Friend",
-   "venue": "Cineplex Bayreuth",
-   "runtime": 118,
-   "fsk": 12,
-   "genres": [
-    "Animation"
-   ],
-   "genres_raw": [
-    "Anime"
-   ],
-   "badges": [
-    "NEU",
-    "Anime-Reihe"
-   ],
-   "week": 1,
-   "shows": [
+    },
     {
-     "time": "18:00",
-     "room": "Kino 5",
+     "time": "15:00",
+     "room": "Kino 6",
      "site": "Haupthaus",
      "flags": [
-      "OmU Japanisch",
       "Barrierefrei"
      ]
     }
    ],
    "more": false,
-   "note": null,
-   "url": "https://www.cineplex.de/bayreuth/programm",
+   "note": "Seniorenkino „Kaffee, Klatsch & Kino“",
+   "url": "https://www.cineplex.de/bayreuth/film/auf-zwei-raedern-66141000012FWBXJYB",
    "source": "Cineplex Bayreuth"
   },
   {
-   "title": "kontrast zu Gast in der Sübkültür – Kurzfilm-Sichtung",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": null,
-   "fsk": null,
+   "title": "Ozzy & Black Sabbath - Back to the Beginning",
+   "venue": "Cineplex Bayreuth",
+   "runtime": 153,
+   "fsk": 6,
    "genres": [
+    "Musik",
     "Events & Live"
    ],
    "genres_raw": [
-    "Kurzfilm"
+    "Musik"
    ],
    "badges": [
-    "Kurzfilmfestival kontrast"
+    "Concerts in Cinema"
    ],
    "week": null,
    "shows": [
     {
      "time": "20:00",
-     "room": null,
-     "site": null,
-     "flags": []
+     "room": "F&G 5",
+     "site": "Franz & Gloria",
+     "flags": [
+      "OmU Englisch",
+      "Barrierefrei"
+     ]
     }
    ],
    "more": false,
-   "note": "Publikum sichtet Einreichungen für das Kurzfilmfestival kontrast und stimmt ab; 2 € + Spende.",
-   "url": "https://www.neuneinhalb.org/veranstaltungen/kontrast-zu-gast-2026/edate/2026-10-27",
-   "source": "Neuneinhalb"
+   "note": "Konzertfilm (Concerts in Cinema), Englisch mit Untertiteln",
+   "url": "https://www.cineplex.de/bayreuth/programm",
+   "source": "Cineplex Bayreuth"
   }
  ]
 }

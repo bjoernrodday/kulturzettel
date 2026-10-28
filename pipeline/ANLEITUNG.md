@@ -68,6 +68,8 @@ WebFetch nur auf Adressen, die wörtlich irgendwo stehen: in der Anleitung, in d
 - Weitere Filmquellen (seit 24.10.2026): kontrast Filmfest Bayreuth https://www.kontrast-filmfest.de/filmfest-programm/ (Festival 2026 vorbei, auf Folgetermine achten); Kino Jenseits (Neuneinhalb) https://www.neuneinhalb.org/eventer-organizer/kino-jenseits/. Abrufbare Ersatzadressen: UniKino https://fsmpi.uni-bayreuth.de/unikino (statt /en/uniCinema), Glashaus https://www.glashaus.org/programm (?filter=kino gesperrt).
 
 
+- Weitere Filmquellen (seit 28.10.2026): SilberFILM Bayreuth (Seniorenkino im Cineplex) https://www.silberfilm.info/bayreuth/. Hinweis: Früh morgens zeigen die „HEUTE“-Zeilen beim Cineplex teils noch den Vortag – dann die Zeilen mit dem Präfix des heutigen Datums (z. B. „MI 28.10.“) nehmen.
+
 ## Datenqualität (seit 22.10.2026, nach Nutzertest)
 - Preis, Uhrzeit und Schlagworte nur übernehmen, wenn sie eindeutig zu genau diesem Termin gehören. Eine öffentliche Probe, Vorpremiere, Einführung oder Werkstatt ist ein eigener Termin; ihr „Eintritt frei“ gilt nicht für Premiere oder Vorstellungen. Im Zweifel price = null – lieber keine Preisangabe als „frei“.
 - merge.py übernimmt Preise nur noch zwischen Einträgen desselben Tages, die keine Serien sind; dedupe.py übernimmt beim Zusammenführen weder Preis noch Uhrzeit und lässt Proben als eigene Termine stehen.
