@@ -1,31 +1,41 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-27T04:56+01:00",
+ "abgerufen": "2026-10-28T05:05+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-26",
-  "bis": "2026-10-26",
-  "besucher": 15,
+  "von": "2026-10-27",
+  "bis": "2026-10-27",
+  "besucher": 17,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 8
+    "besucher": 9
    },
    {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 3
+    "pfad": "/ort/iwalewahaus.html",
+    "titel": "Iwalewahaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/das-zentrum.html",
+    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/glashaus.html",
+    "titel": "Glashaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/tanz.html",
+    "titel": "Tanz in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/sparte/klassik.html",
     "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/steingraeber-haus.html",
-    "titel": "Steingraeber Haus: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
@@ -34,73 +44,101 @@
     "besucher": 1
    },
    {
-    "pfad": "/ort/stadtfuehrungen.html",
-    "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "chatgpt.com",
-    "besucher": 6
+    "besucher": 5
    },
    {
-    "name": "kulturtoepfe.de",
-    "besucher": 4
+    "name": "(direkt)",
+    "besucher": 3
    },
    {
     "name": "Google",
     "besucher": 3
    },
    {
-    "name": "(direkt)",
+    "name": "www.facebook.com",
+    "besucher": 3
+   },
+   {
+    "name": "kulturtoepfe.de",
     "besucher": 2
+   },
+   {
+    "name": "kulturzettel-bayreuth.de",
+    "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-20",
-  "bis": "2026-10-26",
-  "besucher": 54,
+  "von": "2026-10-21",
+  "bis": "2026-10-27",
+  "besucher": 51,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 36
-   },
-   {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 4
+    "besucher": 30
    },
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 3
-   },
-   {
-    "pfad": "/ueber.html",
-    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 3
+    "besucher": 4
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 2
+    "besucher": 3
    },
    {
     "pfad": "/sparte/klassik.html",
     "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
+    "pfad": "/quellen.html",
+    "titel": "Quellen – Kulturzettel Bayreuth",
+    "besucher": 2
+   },
+   {
+    "pfad": "/ort/iwalewahaus.html",
+    "titel": "Iwalewahaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/das-zentrum.html",
+    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/glashaus.html",
+    "titel": "Glashaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/tanz.html",
+    "titel": "Tanz in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
     "pfad": "/ort/steingraeber-haus.html",
     "titel": "Steingraeber Haus: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
@@ -114,18 +152,26 @@
     "besucher": 1
    },
    {
-    "pfad": "/?test=goatcounter",
-    "titel": "Kulturzettel Bayreuth",
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 29
+    "besucher": 18
    },
    {
     "name": "chatgpt.com",
+    "besucher": 11
+   },
+   {
+    "name": "Google",
+    "besucher": 6
+   },
+   {
+    "name": "kulturtoepfe.de",
     "besucher": 6
    },
    {
@@ -133,24 +179,8 @@
     "besucher": 5
    },
    {
-    "name": "kulturtoepfe.de",
-    "besucher": 4
-   },
-   {
-    "name": "Google",
+    "name": "www.facebook.com",
     "besucher": 3
-   },
-   {
-    "name": "l.instagram.com",
-    "besucher": 3
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/ueber.html",
-    "besucher": 1
-   },
-   {
-    "name": "www.kulturzettel-bayreuth.de",
-    "besucher": 1
    },
    {
     "name": "kulturzettel-bayreuth.de/kino.html",
@@ -163,14 +193,19 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-29",
-  "bis": "2026-10-26",
-  "besucher": 54,
+  "von": "2026-09-30",
+  "bis": "2026-10-27",
+  "besucher": 71,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 36
+    "besucher": 45
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 4
    },
    {
     "pfad": "/quellen.html",
@@ -178,8 +213,8 @@
     "besucher": 4
    },
    {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
     "besucher": 3
    },
    {
@@ -188,23 +223,38 @@
     "besucher": 3
    },
    {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
+    "pfad": "/sparte/klassik.html",
+    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
     "besucher": 2
    },
    {
-    "pfad": "/sparte/klassik.html",
-    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
+    "pfad": "/ort/iwalewahaus.html",
+    "titel": "Iwalewahaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/das-zentrum.html",
+    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/glashaus.html",
+    "titel": "Glashaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/tanz.html",
+    "titel": "Tanz in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
     "pfad": "/ort/steingraeber-haus.html",
     "titel": "Steingraeber Haus: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
@@ -226,26 +276,30 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 29
+    "besucher": 32
    },
    {
     "name": "chatgpt.com",
+    "besucher": 11
+   },
+   {
+    "name": "Google",
     "besucher": 6
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 5
+    "besucher": 6
    },
    {
     "name": "kulturtoepfe.de",
-    "besucher": 4
-   },
-   {
-    "name": "Google",
-    "besucher": 3
+    "besucher": 6
    },
    {
     "name": "l.instagram.com",
+    "besucher": 3
+   },
+   {
+    "name": "www.facebook.com",
     "besucher": 3
    },
    {
@@ -259,42 +313,38 @@
    {
     "name": "kulturzettel-bayreuth.de/kino.html",
     "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/quellen.html",
-    "besucher": 1
    }
   ],
   "browser": [
    {
     "name": "Safari",
-    "besucher": 28
+    "besucher": 33
    },
    {
     "name": "Chrome",
-    "besucher": 22
+    "besucher": 33
    },
    {
     "name": "Firefox",
-    "besucher": 4
+    "besucher": 5
    }
   ],
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 26
+    "besucher": 31
    },
    {
     "name": "Android",
-    "besucher": 11
-   },
-   {
-    "name": "macOS",
-    "besucher": 6
+    "besucher": 19
    },
    {
     "name": "Windows",
-    "besucher": 6
+    "besucher": 9
+   },
+   {
+    "name": "macOS",
+    "besucher": 7
    },
    {
     "name": "Linux",
@@ -304,7 +354,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 37
+    "besucher": 49
    },
    {
     "name": "",
@@ -312,11 +362,11 @@
    },
    {
     "name": "",
-    "besucher": 15
+    "besucher": 19
    },
    {
     "name": "",
-    "besucher": 1
+    "besucher": 2
    },
    {
     "name": "",
@@ -326,11 +376,15 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 48
+    "besucher": 62
    },
    {
     "name": "United Kingdom",
     "besucher": 5
+   },
+   {
+    "name": "United States",
+    "besucher": 3
    },
    {
     "name": "France",
@@ -339,10 +393,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-29",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-30",
    "besucher": 0
@@ -701,6 +751,10 @@
   },
   {
    "tag": "2026-10-27",
+   "besucher": 17
+  },
+  {
+   "tag": "2026-10-28",
    "besucher": 0
   }
  ]
