@@ -1,51 +1,31 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-10-28T05:05+01:00",
+ "abgerufen": "2026-10-29T05:07+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-27",
-  "bis": "2026-10-27",
-  "besucher": 17,
+  "von": "2026-10-28",
+  "bis": "2026-10-28",
+  "besucher": 12,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 9
-   },
-   {
-    "pfad": "/ort/iwalewahaus.html",
-    "titel": "Iwalewahaus: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/das-zentrum.html",
-    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/glashaus.html",
-    "titel": "Glashaus: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/tanz.html",
-    "titel": "Tanz in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/klassik.html",
-    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 1
+    "besucher": 5
    },
    {
     "pfad": "/sparte/club-party.html",
     "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 4
+   },
+   {
+    "pfad": "/ort/brandenburger-kulturstadl.html",
+    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/film.html",
+    "titel": "Filmvorführungen und Filmreihen in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
@@ -61,35 +41,36 @@
    },
    {
     "name": "(direkt)",
-    "besucher": 3
+    "besucher": 4
    },
    {
     "name": "Google",
-    "besucher": 3
-   },
-   {
-    "name": "www.facebook.com",
-    "besucher": 3
-   },
-   {
-    "name": "kulturtoepfe.de",
-    "besucher": 2
+    "besucher": 1
    },
    {
     "name": "kulturzettel-bayreuth.de",
+    "besucher": 1
+   },
+   {
+    "name": "kulturtoepfe.de",
     "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-21",
-  "bis": "2026-10-27",
-  "besucher": 51,
+  "von": "2026-10-22",
+  "bis": "2026-10-28",
+  "besucher": 54,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 30
+    "besucher": 28
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 6
    },
    {
     "pfad": "/sparte/kinder-familie.html",
@@ -107,14 +88,14 @@
     "besucher": 2
    },
    {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
-    "besucher": 2
+    "pfad": "/ort/brandenburger-kulturstadl.html",
+    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 2
+    "pfad": "/sparte/film.html",
+    "titel": "Filmvorführungen und Filmreihen in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/ort/iwalewahaus.html",
@@ -159,24 +140,24 @@
   ],
   "herkunft": [
    {
-    "name": "(direkt)",
-    "besucher": 18
+    "name": "chatgpt.com",
+    "besucher": 16
    },
    {
-    "name": "chatgpt.com",
-    "besucher": 11
+    "name": "(direkt)",
+    "besucher": 15
    },
    {
     "name": "Google",
-    "besucher": 6
+    "besucher": 7
    },
    {
     "name": "kulturtoepfe.de",
-    "besucher": 6
+    "besucher": 7
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 5
+    "besucher": 4
    },
    {
     "name": "www.facebook.com",
@@ -193,14 +174,19 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-09-30",
-  "bis": "2026-10-27",
-  "besucher": 71,
+  "von": "2026-10-01",
+  "bis": "2026-10-28",
+  "besucher": 83,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth",
-    "besucher": 45
+    "besucher": 50
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 6
    },
    {
     "pfad": "/sparte/kinder-familie.html",
@@ -208,14 +194,14 @@
     "besucher": 4
    },
    {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
     "besucher": 4
    },
    {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
-    "besucher": 3
+    "pfad": "/quellen.html",
+    "titel": "Quellen – Kulturzettel Bayreuth",
+    "besucher": 4
    },
    {
     "pfad": "/ueber.html",
@@ -228,9 +214,14 @@
     "besucher": 2
    },
    {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
-    "besucher": 2
+    "pfad": "/ort/brandenburger-kulturstadl.html",
+    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/film.html",
+    "titel": "Filmvorführungen und Filmreihen in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/ort/iwalewahaus.html",
@@ -261,38 +252,28 @@
     "pfad": "/ort/stadtfuehrungen.html",
     "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
-   },
-   {
-    "pfad": "/zaehltest",
-    "titel": "Zähltest Claude",
-    "besucher": 1
-   },
-   {
-    "pfad": "/?test=goatcounter",
-    "titel": "Kulturzettel Bayreuth",
-    "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 32
+    "besucher": 36
    },
    {
     "name": "chatgpt.com",
-    "besucher": 11
+    "besucher": 16
    },
    {
     "name": "Google",
-    "besucher": 6
+    "besucher": 7
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 6
+    "besucher": 7
    },
    {
     "name": "kulturtoepfe.de",
-    "besucher": 6
+    "besucher": 7
    },
    {
     "name": "l.instagram.com",
@@ -317,12 +298,12 @@
   ],
   "browser": [
    {
-    "name": "Safari",
-    "besucher": 33
+    "name": "Chrome",
+    "besucher": 42
    },
    {
-    "name": "Chrome",
-    "besucher": 33
+    "name": "Safari",
+    "besucher": 36
    },
    {
     "name": "Firefox",
@@ -332,19 +313,19 @@
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 31
+    "besucher": 34
    },
    {
     "name": "Android",
-    "besucher": 19
+    "besucher": 25
    },
    {
     "name": "Windows",
-    "besucher": 9
+    "besucher": 11
    },
    {
     "name": "macOS",
-    "besucher": 7
+    "besucher": 8
    },
    {
     "name": "Linux",
@@ -354,7 +335,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 49
+    "besucher": 58
    },
    {
     "name": "",
@@ -362,7 +343,7 @@
    },
    {
     "name": "",
-    "besucher": 19
+    "besucher": 22
    },
    {
     "name": "",
@@ -376,7 +357,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 62
+    "besucher": 72
    },
    {
     "name": "United Kingdom",
@@ -387,16 +368,20 @@
     "besucher": 3
    },
    {
+    "name": "Austria",
+    "besucher": 1
+   },
+   {
+    "name": "Spain",
+    "besucher": 1
+   },
+   {
     "name": "France",
     "besucher": 1
    }
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-07-30",
-   "besucher": 0
-  },
   {
    "tag": "2026-07-31",
    "besucher": 0
@@ -755,6 +740,10 @@
   },
   {
    "tag": "2026-10-28",
+   "besucher": 12
+  },
+  {
+   "tag": "2026-10-29",
    "besucher": 0
   }
  ]
