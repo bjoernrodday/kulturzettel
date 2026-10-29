@@ -671,9 +671,33 @@
 {
 "name": "Kino ist Programm – Watching People Watching Birds",
 "url": "https://kino-ist-programm.de/watching-people-watching-birds-omu/"
+},
+{
+"name": "Urwelt-Museum Oberfranken – Veranstaltungen",
+"url": "https://urwelt-museum.snsb.de/veranstaltungen/"
+},
+{
+"name": "Kunstverein Bayreuth",
+"url": "https://kunstverein-bayreuth.de/"
+},
+{
+"name": "Operla – Startseite (Wanderbühne)",
+"url": "https://www.operla.de/"
+},
+{
+"name": "Bayreuth-Wilhelmine – Führungsliste",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp"
+},
+{
+"name": "Amnesty International Gruppe Bayreuth – Termine",
+"url": "https://amnesty-bayreuth.de/termine/alle/"
+},
+{
+"name": "Bayreuth aktuell (Veranstaltungsmagazin)",
+"url": "https://www.bayreuth-tourismus.de/ueber-uns/bayreuth-aktuell/"
 }
 ],
-"updated": "2026-10-28T04:13+01:00",
+"updated": "2026-10-29T04:02+01:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -748,30 +772,6 @@
 "id": "e4721e2d23"
 },
 {
-"title": "Festspielhaus-Führung",
-"subtitle": null,
-"date": "2026-10-04",
-"end_date": "2026-12-31",
-"time": "11:00",
-"venue": "Bayreuther Festspielhaus, Westeingang, Festspielhügel 1–2 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Festspielhaus",
-"Wagner",
-"regelmäßig"
-],
-"description": "45-minütige Führung durch Richard Wagners Festspielhaus. Bis 31.10. täglich um 11, 12, 14 und 15 Uhr (samstags zusätzlich 13 Uhr auf Englisch); vom 1.11. bis 31.12. täglich 14 Uhr, samstags und sonntags zusätzlich 11 Uhr. Anmeldung über die Tourist-Information.",
-"price": "10 €, ermäßigt 5 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
-"sources": [
-"Bayreuth Tourismus",
-"Bayreuth Marketing & Tourismus"
-],
-"house": "Stadtführungen",
-"id": "7149bef9f5"
-},
-{
 "title": "Schichtwechsel",
 "subtitle": null,
 "date": "2026-10-04",
@@ -793,6 +793,30 @@
 ],
 "house": "Clubs",
 "id": "d02040f281"
+},
+{
+"title": "Festspielhaus-Führung",
+"subtitle": null,
+"date": "2026-10-04",
+"end_date": "2026-12-31",
+"time": "14:00",
+"venue": "Bayreuther Festspielhaus, Westeingang, Festspielhügel 1–2 (Treffpunkt)",
+"organizer": "Bayreuth Marketing & Tourismus",
+"category": "Führung",
+"tags": [
+"Festspielhaus",
+"Wagner",
+"regelmäßig"
+],
+"description": "45-minütige Führung durch das Richard-Wagner-Festspielhaus; im November und Dezember täglich um 14 Uhr, samstags und sonntags zusätzlich um 11 Uhr. Kurzfristige Ausfälle wegen Proben oder Bauarbeiten sind möglich.",
+"price": "10 €, ermäßigt 5 €",
+"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
+"sources": [
+"Bayreuth Tourismus",
+"Bayreuth Marketing & Tourismus – Stadt- und Erlebnisführungen 2026 (PDF)"
+],
+"house": "Stadtführungen",
+"id": "7149bef9f5"
 },
 {
 "title": "Elfie Weber-Krenner: Naturmalerei auf Schiefer",
@@ -1061,31 +1085,6 @@
 "id": "a5bcd19121"
 },
 {
-"title": "BAYREUTH KREATIV 2026",
-"subtitle": null,
-"date": "2026-10-22",
-"end_date": "2026-10-28",
-"time": "18:00",
-"venue": "Staatsinstitut für die Ausbildung von Fachlehrern, Bayreuth",
-"organizer": "Bayreuth Kreativ",
-"category": "Ausstellung",
-"tags": [
-"Kunsthandwerk",
-"Vernissage",
-"regional",
-"Laienkunst"
-],
-"description": "Ausstellung regionaler Kreativer; Vernissage am 22. Oktober um 18 Uhr, danach täglich 9–16 Uhr geöffnet.",
-"price": "frei",
-"url": "http://www.bayreuth-kreativ.de",
-"sources": [
-"Bayreuth Kreativ",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Weitere Orte",
-"id": "af22c372bd"
-},
-{
 "title": "A. D. Trantenroth – Objekte und Gedanken aus dem Künstlernachlass",
 "subtitle": "Begleitprogramm im Kunstmuseum",
 "date": "2026-10-25",
@@ -1135,9 +1134,33 @@
 "id": "36f742ccbb"
 },
 {
+"title": "The Creative Life of Research: Encounters with African Worlds",
+"subtitle": "Ausstellung der Graduiertenschule BIGSAS",
+"date": "2026-10-28",
+"end_date": "2026-12-18",
+"time": null,
+"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Iwalewa Gallery",
+"organizer": "BIGSAS / Exzellenzcluster Africa Multiple, Universität Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Afrika",
+"Wissenschaft",
+"Universität"
+],
+"description": "Ausstellung der Bayreuth International Graduate School of African Studies, die Forschung zu afrikanischen Lebenswelten in kreativer Form zeigt. Öffnungszeiten sind nicht veröffentlicht.",
+"price": null,
+"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/2026-10-28_BIGSAS-Exhibition/index.html",
+"termine": null,
+"sources": [
+"Exzellenzcluster Africa Multiple, Universität Bayreuth"
+],
+"house": "Iwalewahaus",
+"id": "dd10136ae0"
+},
+{
 "title": "Historischer Stadtrundgang",
 "subtitle": null,
-"date": "2026-10-28",
+"date": "2026-10-29",
 "end_date": "2026-12-28",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22",
@@ -1156,13 +1179,8 @@
 "Bayreuth Tourismus"
 ],
 "house": "Stadtführungen",
-"id": "093d71d5e3",
+"id": "0f34cb8154",
 "termine": [
-{
-"date": "2026-10-28",
-"time": "10:30",
-"hinweis": null
-},
 {
 "date": "2026-10-29",
 "time": "10:30",
@@ -1209,400 +1227,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Kaffee, Klatsch & Kino: Auf zwei Rädern",
-"subtitle": "Seniorenkino",
-"date": "2026-10-28",
-"end_date": null,
-"time": "15:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Seniorenkino",
-"Nachmittag",
-"Kaffee, Klatsch & Kino"
-],
-"description": "Seniorenkino der Reihe „Kaffee, Klatsch & Kino“ mit dem Film „Auf zwei Rädern“ (89 Min., FSK 6); Kaffee oder Tee ab 14 Uhr, Film um 14:30 (Kino 8) und 15:00 (Kino 6).",
-"price": "7,50 € inkl. Kaffee oder Tee",
-"url": "https://www.cineplex.de/bayreuth/film/auf-zwei-raedern-66141000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "5a8037dff1"
-},
-{
-"title": "Vorlesestunden für Kinder ab 4 Jahren",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": "2026-11-28",
-"time": "16:00",
-"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Kinder & Familie",
-"tags": [
-"Vorlesen",
-"Kinder ab 4",
-"Bibliothek"
-],
-"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "956b21d294",
-"termine": [
-{
-"date": "2026-10-28",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-10-31",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-04",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-11",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "11:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Dorf-Mittwoch mit Jonas Taubmann",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": null,
-"time": "18:00",
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Club & Party",
-"tags": [
-"Winterdorf",
-"Musik",
-"Eintritt frei"
-],
-"description": "Jonas Taubmann sorgt von 18 bis 23 Uhr für Musik von aktuellen Hits bis zu Klassikern zwischen den Hütten.",
-"price": "Eintritt frei",
-"url": "https://winterdorf-bayreuth.de/events/jonas-taubmann-824/",
-"sources": [
-"Bayreuther Winterdorf"
-],
-"house": "Winterdorf",
-"id": "7e44049503"
-},
-{
-"title": "Schreibkreis „Thoughts to Page“",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": "2026-11-16",
-"time": "19:15",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V.",
-"category": "Literatur",
-"tags": [
-"Schreiben",
-"Schreibgruppe",
-"offen",
-"Schreibwerkstatt",
-"Workshop"
-],
-"description": "Offener Schreibkreis für alle Erfahrungsstufen, die sich einen Abend Zeit für eigene Texte nehmen möchten; Einlass 19 Uhr, Beginn 19:15 Uhr. Termine: Mi 28.10. und Mo 16.11. Eintritt frei.",
-"price": "frei",
-"url": "https://www.neuneinhalb.org/veranstaltungen/schreibkreis-thoughts-to-page-7/edate/2026-10-28",
-"sources": [
-"Neuneinhalb",
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V."
-],
-"house": "Neuneinhalb",
-"id": "2cedca32ad",
-"termine": [
-{
-"date": "2026-10-28",
-"time": "19:15",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "19:15",
-"hinweis": null
-}
-]
-},
-{
-"title": "Labortheater",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": "2026-12-09",
-"time": "19:30",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Theater",
-"tags": [
-"Theatergruppe",
-"Mitmachen",
-"offen"
-],
-"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
-"price": "frei",
-"url": "https://wundersam-anders.de/2026/04/02/labortheater-bayreuth/",
-"sources": [
-"wundersam anders e.V.",
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "cad8010947",
-"termine": [
-{
-"date": "2026-10-28",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-11-11",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "19:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Tanzhaus im ZENTRUM",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": "2026-12-09",
-"time": "20:00",
-"venue": "DAS ZENTRUM – Seminarraum 6, Äußere Badstraße 7a",
-"organizer": "Tanzhaus im ZENTRUM (Leitung Dr. Wolfgang Richter)",
-"category": "Tanz",
-"tags": [
-"Folkloretanz",
-"Mitmachen",
-"international"
-],
-"description": "Offener Abend mit einfachen Kreis- und Gruppentänzen aus internationaler Folklore zu Originalmusik; ohne Partner und Vorkenntnisse. Mittwochs außerhalb der Schulferien (14.10., 21.10., 28.10., 11.11., 18.11., 2.12., 9.12.).",
-"price": "3 € pro Abend (Semesterbeitrag 25 €)",
-"url": "https://www.richter-bayreuth.de/Tanzhaus-im-Zentrum/",
-"sources": [
-"Tanzhaus im ZENTRUM"
-],
-"house": "Das Zentrum",
-"id": "f2d3be97fc",
-"termine": [
-{
-"date": "2026-10-28",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-02",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Claus von Wagner: Projekt Equilibrium",
-"subtitle": "Projekt Equilibrium",
-"date": "2026-10-28",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": "motion kommunikation",
-"category": "Kabarett & Comedy",
-"tags": [
-"Kabarett",
-"Politik",
-"politisch",
-"ausverkauft",
-"Wirtschaft"
-],
-"description": "Politisches Kabarett (ausverkauft).",
-"price": "ausverkauft",
-"url": "https://www.motion-kommunikation.de/event/claus-von-wagner-projekt-equilibrium/",
-"sources": [
-"motion kommunikation",
-"motion Kommunikation",
-"Motion Kommunikation",
-"okticket (Das Zentrum)",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Das Zentrum",
-"id": "72968a4d46"
-},
-{
-"title": "Konzertfilm: Ozzy & Black Sabbath – Back to the Beginning",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": "2026-10-29",
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Konzertfilm",
-"Metal",
-"Black Sabbath",
-"Concerts in Cinema"
-],
-"description": "Film zum Abschiedskonzert von Black Sabbath und Ozzy Osbourne.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/ozzy-black-sabbath-back-to-the-beginning-CD141000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "5c651d926d",
-"termine": [
-{
-"date": "2026-10-28",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-10-29",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Olaf Schubert & seine Freunde – Jetzt oder now!",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": null,
-"time": "20:00",
-"venue": "Oberfrankenhalle",
-"organizer": null,
-"category": "Kabarett & Comedy",
-"tags": [
-"Comedy",
-"Arena"
-],
-"description": "Der Mann im Pullunder mit neuem Programm und seinen Bühnenfreunden.",
-"price": null,
-"url": "https://www.olaf-schubert.de/live",
-"sources": [
-"Olaf Schubert (Künstlerseite)"
-],
-"house": "Oberfrankenhalle",
-"id": "1355153824"
-},
-{
-"title": "Salsa-Abend",
-"subtitle": null,
-"date": "2026-10-28",
-"end_date": null,
-"time": "21:15",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Club & Party",
-"tags": [
-"Salsa",
-"Tanzen",
-"Tanz"
-],
-"description": "Offener Salsa-Tanzabend am 14. und 28.10.",
-"price": "Eintritt frei",
-"url": "https://www.glashaus.org/programm/salsa-abend-28-10-2026",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "bd211b70fd"
-},
-{
-"title": "The Creative Life of Research: Encounters with African Worlds",
-"subtitle": "Ausstellung der Graduiertenschule BIGSAS",
-"date": "2026-10-28",
-"end_date": "2026-12-18",
-"time": null,
-"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Iwalewa Gallery",
-"organizer": "BIGSAS / Exzellenzcluster Africa Multiple, Universität Bayreuth",
-"category": "Ausstellung",
-"tags": [
-"Afrika",
-"Wissenschaft",
-"Universität"
-],
-"description": "Ausstellung der Bayreuth International Graduate School of African Studies, die Forschung zu afrikanischen Lebenswelten in kreativer Form zeigt. Öffnungszeiten sind nicht veröffentlicht.",
-"price": null,
-"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/2026-10-28_BIGSAS-Exhibition/index.html",
-"termine": null,
-"sources": [
-"Exzellenzcluster Africa Multiple, Universität Bayreuth"
-],
-"house": "Iwalewahaus",
-"id": "dd10136ae0"
 },
 {
 "title": "Spieletreff",
@@ -1837,6 +1461,31 @@
 "hinweis": "Marathon (alle drei Teile)"
 }
 ]
+},
+{
+"title": "Konzertfilm: Ozzy & Black Sabbath – Back to the Beginning",
+"subtitle": null,
+"date": "2026-10-29",
+"end_date": null,
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Konzertfilm",
+"Metal",
+"Black Sabbath",
+"Concerts in Cinema"
+],
+"description": "Film zum Abschiedskonzert von Black Sabbath und Ozzy Osbourne.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/ozzy-black-sabbath-back-to-the-beginning-CD141000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "7a24ccddea"
 },
 {
 "title": "Miss Sophies Erbe",
@@ -2334,7 +1983,7 @@
 },
 {
 "title": "Führung durch das Festspielhaus „intensiv“",
-"subtitle": "Termine 16.10., 30.10., 13.11., 11.12.",
+"subtitle": null,
 "date": "2026-10-30",
 "end_date": "2026-12-11",
 "time": "17:00",
@@ -2400,32 +2049,6 @@
 ],
 "house": "RW21",
 "id": "8c7f2d444e"
-},
-{
-"title": "Spuk und Zauber: Pflanzen zu Halloween",
-"subtitle": "Familienführung, Kinder ab 5 Jahren",
-"date": "2026-10-30",
-"end_date": null,
-"time": "17:30",
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Familienführung",
-"Halloween",
-"Pflanzen",
-"Familie",
-"Botanik"
-],
-"description": "Familienführung zu Pflanzen mit gruseligem Ruf; zwei Durchgänge um 17:30 und 19 Uhr.",
-"price": "frei",
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261030-Fuehrung-Halloween/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Bayreuth",
-"Ökologisch-Botanischer Garten"
-],
-"house": "Botanischer Garten",
-"id": "3b7d65e953"
 },
 {
 "title": "Offenes Magic Spielen",
@@ -2499,6 +2122,32 @@
 ],
 "house": "RW21",
 "id": "dba960c5b1"
+},
+{
+"title": "Spuk und Zauber: Pflanzen zu Halloween",
+"subtitle": "Familienführung, Kinder ab 5 Jahren",
+"date": "2026-10-30",
+"end_date": null,
+"time": "19:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Familienführung",
+"Halloween",
+"Pflanzen",
+"Familie",
+"Botanik"
+],
+"description": "Familienführung zu Pflanzen mit gruseligem Ruf; zwei Durchgänge um 17:30 und 19 Uhr.",
+"price": "frei",
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261030-Fuehrung-Halloween/index.html",
+"sources": [
+"Ökologisch-Botanischer Garten Bayreuth",
+"Ökologisch-Botanischer Garten"
+],
+"house": "Botanischer Garten",
+"id": "3b7d65e953"
 },
 {
 "title": "Ökumene des Herzens – Christliches Zeugnis in einer gespaltenen Welt",
@@ -2768,6 +2417,76 @@
 ],
 "house": "Stadtführungen",
 "id": "cf4487e56c"
+},
+{
+"title": "Vorlesestunden für Kinder ab 4 Jahren",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": "2026-11-28",
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Kinder ab 4",
+"Bibliothek"
+],
+"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "05be5234d2",
+"termine": [
+{
+"date": "2026-10-31",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-04",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-07",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-11",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "11:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Konzertfilm: BTS Tour ARIRANG in São Paulo – Live Viewing",
@@ -3546,7 +3265,7 @@
 "title": "Kuratorenführung im Richard Wagner Museum",
 "subtitle": "dienstags 14 Uhr",
 "date": "2026-11-03",
-"end_date": "2026-12-22",
+"end_date": "2026-12-29",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -3606,6 +3325,11 @@
 "date": "2026-12-22",
 "time": "14:00",
 "hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "14:00",
+"hinweis": null
 }
 ]
 },
@@ -3613,7 +3337,7 @@
 "title": "Kinderführung",
 "subtitle": "Stadtgeschichte für Kinder",
 "date": "2026-11-03",
-"end_date": "2026-11-18",
+"end_date": "2026-12-29",
 "time": "14:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus",
@@ -3641,6 +3365,11 @@
 },
 {
 "date": "2026-11-18",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2026-12-29",
 "time": "14:30",
 "hinweis": null
 }
@@ -4152,7 +3881,7 @@
 ],
 "description": "Der Heimatforscher Adrian Roßner über Pestzüge und ihre Spuren in der Region.",
 "price": "7,50 €",
-"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Totentanz-im-Fichtelgebirge-Eine-Kulturgeschichte-der-Pest/I6005",
+"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Ausverkauft-Totentanz-im-Fichtelgebirge-Eine-Kulturgeschichte-der-Pest/I6005",
 "sources": [
 "vhs Bayreuth",
 "Volkshochschule Bayreuth",
@@ -4160,6 +3889,52 @@
 ],
 "house": "Kunstmuseum",
 "id": "6a87f12018"
+},
+{
+"title": "Labortheater",
+"subtitle": null,
+"date": "2026-11-04",
+"end_date": "2026-12-16",
+"time": "19:30",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Theater",
+"tags": [
+"Theatergruppe",
+"Mitmachen",
+"offen"
+],
+"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
+"price": "frei",
+"url": "https://wundersam-anders.de/2026/04/02/labortheater-bayreuth/",
+"sources": [
+"wundersam anders e.V.",
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "320ff7991e",
+"termine": [
+{
+"date": "2026-11-04",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2026-12-02",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "19:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Junge Meisterpianist:innen aus Krakau",
@@ -4569,22 +4344,25 @@
 },
 {
 "title": "Mach (K)ein Theater! – Werkschau",
-"subtitle": null,
+"subtitle": "Abschluss des Herbstferien-Theaterworkshops für Jugendliche",
 "date": "2026-11-06",
 "end_date": null,
 "time": "17:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb",
-"organizer": "Neuneinhalb e.V.",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e. V.",
 "category": "Theater",
 "tags": [
 "Jugendtheater",
 "Werkschau",
+"Herbstferien",
 "Workshop"
 ],
-"description": "Jugendliche zwischen 12 und 16 Jahren zeigen, was sie im Theaterworkshop der Herbstferien unter Anleitung gemeinsam entwickelt haben. Eintritt frei.",
+"description": "Jugendliche zwischen 12 und 16 Jahren zeigen das Theaterstück, das sie in einer Workshopwoche unter Leitung von Natalie Brandl und Lucie Cerveny selbst entwickelt haben.",
 "price": "Eintritt frei",
 "url": "https://www.neuneinhalb.org/veranstaltungen/mach-kein-theater-2/edate/2026-11-02",
+"termine": null,
 "sources": [
+"Neuneinhalb e. V.",
 "Neuneinhalb e.V. (nur Stadt, Land, Leben)"
 ],
 "house": "Neuneinhalb",
@@ -4762,7 +4540,7 @@
 "title": "Cabaret",
 "subtitle": null,
 "date": "2026-11-06",
-"end_date": "2026-12-13",
+"end_date": "2026-12-29",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -4816,6 +4594,11 @@
 "date": "2026-12-13",
 "time": "17:00",
 "hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "20:00",
+"hinweis": null
 }
 ]
 },
@@ -4835,7 +4618,7 @@
 ],
 "description": "Clubnacht mit Electro, Booty Bass und Electro Funk; an den Decks MAD IGEL, Cufme, 1905 und YEN bis in den Morgen. Ab 18 Jahren.",
 "price": null,
-"url": "https://region-bayreuth.de/veranstaltung/planet-ritmo-vol-3-bayreuth-95445-ftr90k",
+"url": "https://www.neuneinhalb.org/veranstaltungen/planet-ritmo/edate/2026-11-06",
 "sources": [
 "Neuneinhalb e.V. (nur Stadt, Land, Leben)"
 ],
@@ -5139,6 +4922,30 @@
 ],
 "house": "Weitere Orte",
 "id": "55ca96d633"
+},
+{
+"title": "SPICEY 2 Year Anniversary",
+"subtitle": "mit ILLEGAL (Prag), Denny Huncho, Robin Stöhr, Izzy",
+"date": "2026-11-07",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Party",
+"DJ",
+"Clubnacht"
+],
+"description": "Clubnacht zum zweijährigen Bestehen der Partyreihe Spicey mit Gast-DJ aus Prag.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "f93f60a2ce"
 },
 {
 "title": "Pauline Viardot: Shooting-Star, It-Girl, Ikone",
@@ -5547,7 +5354,7 @@
 ],
 "description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Soumsoum, la nuit des astres“ (26.10., 20 Uhr, mit Regisseur Mahamat-Saleh Haroun), „Dao“ (9.11., 20 Uhr) und „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln). Weitere Filme folgen 2027.",
 "price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/index.html",
 "sources": [
 "Cineplex Bayreuth"
 ],
@@ -5562,7 +5369,7 @@
 {
 "date": "2026-11-23",
 "time": "20:00",
-"hinweis": "Hanami"
+"hinweis": "Hanami (OmU engl.)"
 }
 ]
 },
@@ -5583,8 +5390,8 @@
 "SilberFILM"
 ],
 "description": "Filmklassiker in der Seniorenreihe SilberFILM.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"price": "6 €",
+"url": "https://www.silberfilm.info/bayreuth/",
 "sources": [
 "Cineplex Bayreuth",
 "Cineplex Bayreuth – Reihen & Events"
@@ -5914,6 +5721,75 @@
 ],
 "house": "Kirchen",
 "id": "41769bd756"
+},
+{
+"title": "Tanzhaus im ZENTRUM",
+"subtitle": null,
+"date": "2026-11-11",
+"end_date": "2026-12-09",
+"time": "20:00",
+"venue": "DAS ZENTRUM – Seminarraum 6, Äußere Badstraße 7a",
+"organizer": "Tanzhaus im ZENTRUM (Leitung Dr. Wolfgang Richter)",
+"category": "Tanz",
+"tags": [
+"Folkloretanz",
+"Mitmachen",
+"international"
+],
+"description": "Offener Abend mit einfachen Kreis- und Gruppentänzen aus internationaler Folklore zu Originalmusik; ohne Partner und Vorkenntnisse. Mittwochs außerhalb der Schulferien (14.10., 21.10., 28.10., 11.11., 18.11., 2.12., 9.12.).",
+"price": "3 € pro Abend (Semesterbeitrag 25 €)",
+"url": "https://www.richter-bayreuth.de/Tanzhaus-im-Zentrum/",
+"sources": [
+"Tanzhaus im ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "91bf0b4c63",
+"termine": [
+{
+"date": "2026-11-11",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-02",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "20:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Salsa-Abend",
+"subtitle": null,
+"date": "2026-11-11",
+"end_date": null,
+"time": "21:15",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Club & Party",
+"tags": [
+"Salsa",
+"Tanz",
+"Campus"
+],
+"description": "Offener Salsa-Tanzabend im studentischen Kulturcafé Glashaus am Campus.",
+"price": "Eintritt frei",
+"url": "https://www.glashaus.org/programm/salsa-abend-11-11-2026",
+"termine": null,
+"sources": [
+"Glashaus e.V."
+],
+"house": "Glashaus",
+"id": "f7363da8a0"
 },
 {
 "title": "CineArt: Lügen über meine Mutter",
@@ -6246,7 +6122,7 @@
 "subtitle": "Festival des Jazzforums",
 "date": "2026-11-12",
 "end_date": "2026-11-15",
-"time": null,
+"time": "22:30",
 "venue": "Bechersaal, Neuneinhalb, Das Zentrum, Glashaus",
 "organizer": "Jazzforum Bayreuth",
 "category": "Festival",
@@ -6262,7 +6138,29 @@
 "Jazzforum Bayreuth"
 ],
 "house": "Das Zentrum",
-"id": "2d5f851bbd"
+"id": "2d5f851bbd",
+"termine": [
+{
+"date": "2026-11-12",
+"time": "22:30",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "22:30",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "21:30",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "19:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "BarriereFREI – A. D. Trantenroth – inklusiv",
@@ -6711,7 +6609,7 @@
 "Arthouse",
 "Filmverein"
 ],
-"description": "Programmkino-Wochenende mit „Lügen über meine Mutter“, „Call Me Queen“ (OmU), „Watching People Watching Birds“ (OmU) und „Hirten – mit 827 Schafen in der Provence“ (OmU), jeweils mit Vorfilm.",
+"description": "Programmkino-Wochenende von Kino ist Programm mit vier Filmen, jeweils mit Vorfilm: „Lügen über meine Mutter“ (Sa 16:30), „Call Me Queen“ (OmU, Sa 19:00), „Watching People Watching Birds“ (OmU, So 16:00) und „Hirten – mit 827 Schafen in der Provence“ (OmU, So 18:30).",
 "price": "7 €, Kinder 4 €",
 "url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
 "sources": [
@@ -6724,12 +6622,12 @@
 {
 "date": "2026-11-14",
 "time": "19:00",
-"hinweis": "Call Me Queen (OmU)"
+"hinweis": null
 },
 {
 "date": "2026-11-15",
 "time": "18:30",
-"hinweis": "Hirten (OmU)"
+"hinweis": null
 }
 ]
 },
@@ -6963,7 +6861,7 @@
 "title": "Verborgene Schätze des Italienischen Schlösschens",
 "subtitle": null,
 "date": "2026-11-15",
-"end_date": null,
+"end_date": "2026-12-29",
 "time": "14:15",
 "venue": "Neues Schloss Bayreuth",
 "organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
@@ -6982,7 +6880,19 @@
 "Bayerische Schlösserverwaltung (Bayreuth-Eremitage)"
 ],
 "house": "Schlösser & Eremitage",
-"id": "b2e2ff8fb1"
+"id": "b2e2ff8fb1",
+"termine": [
+{
+"date": "2026-11-15",
+"time": "14:15",
+"hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "14:15",
+"hinweis": null
+}
+]
 },
 {
 "title": "Mit dem Restaurator im Logenhaus unterwegs",
@@ -7120,6 +7030,35 @@
 "id": "e124332cd6"
 },
 {
+"title": "Schreibkreis „Thoughts to Page“",
+"subtitle": null,
+"date": "2026-11-16",
+"end_date": null,
+"time": "19:15",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e. V.",
+"category": "Literatur",
+"tags": [
+"Schreiben",
+"Schreibgruppe",
+"offen",
+"Schreibwerkstatt",
+"Workshop"
+],
+"description": "Offener Schreibkreis für alle Erfahrungsstufen, die sich einen Abend Zeit für eigene Texte nehmen möchten; Einlass 19 Uhr, Beginn 19:15 Uhr. Termine: Mi 28.10. und Mo 16.11. Eintritt frei.",
+"price": "frei",
+"url": "https://www.neuneinhalb.org/veranstaltungen/schreibkreis-thoughts-to-page-8/edate/2026-11-16",
+"sources": [
+"Neuneinhalb",
+"Kunst- und Kulturhaus Neuneinhalb",
+"Neuneinhalb e. V.",
+"Neuneinhalb e.V."
+],
+"house": "Neuneinhalb",
+"id": "6bbee28570",
+"termine": null
+},
+{
 "title": "Bildbetrachtungen",
 "subtitle": "In der Ausstellung A. D. Trantenroth",
 "date": "2026-11-17",
@@ -7194,7 +7133,7 @@
 "ausverkauft"
 ],
 "description": "Hannes Ringlstetter und Stephan Zinner mit gemeinsamem Programm aus Musik und Kabarett (ausverkauft).",
-"price": "44,70 €",
+"price": "ausverkauft",
 "url": "https://www.friedrichsforum.de/programm/motion-ringlstetter-zinner-kueche",
 "sources": [
 "Friedrichsforum",
@@ -8260,7 +8199,7 @@
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
 "date": "2026-11-23",
-"end_date": "2026-12-28",
+"end_date": "2026-12-29",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus GmbH",
@@ -8453,6 +8392,11 @@
 "date": "2026-12-28",
 "time": "10:30",
 "hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "10:30",
+"hinweis": null
 }
 ]
 },
@@ -8575,7 +8519,7 @@
 "title": "Gedankenspiele",
 "subtitle": null,
 "date": "2026-11-24",
-"end_date": null,
+"end_date": "2026-12-29",
 "time": "19:00",
 "venue": "Haus des Spiels, Bernecker Straße 15",
 "organizer": "wundersam anders e.V.",
@@ -8592,7 +8536,19 @@
 "Haus des Spiels (wundersam anders e.V.)"
 ],
 "house": "Weitere Orte",
-"id": "05c564f821"
+"id": "05c564f821",
+"termine": [
+{
+"date": "2026-11-24",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Cel Ray",
@@ -10715,6 +10671,42 @@
 "id": "43bbf48c2c"
 },
 {
+"title": "Theater Hof: Frau Holle",
+"subtitle": "Schauspiel nach dem Märchen der Brüder Grimm",
+"date": "2026-12-04",
+"end_date": "2026-12-15",
+"time": "10:30",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": "Friedrichsforum",
+"category": "Kinder & Familie",
+"tags": [
+"Märchen",
+"Kindertheater",
+"Theater Hof",
+"Schulvorstellung"
+],
+"description": "Das Theater Hof spielt das Grimm-Märchen von der fleißigen Marie und Frau Holle für Kinder ab 4 Jahren; die Vorstellungen sind für Schulen und Kindergärten gedacht.",
+"price": null,
+"url": "https://www.friedrichsforum.de/programm/261204-theater-hof-frau-holle",
+"termine": [
+{
+"date": "2026-12-04",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "10:30",
+"hinweis": null
+}
+],
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "b3f313a270"
+},
+{
 "title": "Weihnachtslieder mit Nikolai Denisov",
 "subtitle": null,
 "date": "2026-12-04",
@@ -10835,6 +10827,31 @@
 ],
 "house": "Kirchen",
 "id": "c7a1d18f59"
+},
+{
+"title": "Weihnachten im Stall",
+"subtitle": "Musikalische Bilderbuchgeschichte mit den Kinderchören",
+"date": "2026-12-05",
+"end_date": null,
+"time": "10:30",
+"venue": "Richard-Wagner-Saal, Brandenburger Straße 15",
+"organizer": "Städtische Musikschule Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Kinderchor",
+"Weihnachten",
+"Astrid Lindgren",
+"Familie"
+],
+"description": "Die Kinderchöre der Musikschule umrahmen Astrid Lindgrens Weihnachtsgeschichte mit Liedern; die etwa halbstündige Aufführung richtet sich an Familien mit kleinen Kindern.",
+"price": null,
+"url": "https://musikschule.bayreuth.de/veranstaltung/weihnachten-im-stall/",
+"termine": null,
+"sources": [
+"Städtische Musikschule Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "bb2a3ce8b7"
 },
 {
 "title": "Weihnachtliches Basteln mit dem Stadtjugendring Bayreuth",
@@ -11670,7 +11687,7 @@
 "date": "2026-12-09",
 "end_date": null,
 "time": "20:00",
-"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
 "organizer": "Agentur Streckenbach",
 "category": "Kabarett & Comedy",
 "tags": [
@@ -12202,7 +12219,7 @@
 "subtitle": null,
 "date": "2026-12-15",
 "end_date": null,
-"time": "19:00",
+"time": "19:30",
 "venue": "Stadtkirche Heilig Dreifaltigkeit, Kirchplatz 1",
 "organizer": "Orchesterverein Bayreuth",
 "category": "Klassik",
@@ -12618,6 +12635,30 @@
 "id": "410d63a855"
 },
 {
+"title": "Öffentliche Führung in Ukrainisch/Deutsch",
+"subtitle": "mit Dr. Nataliya Yadzhak und Dr. Beatrice Trost",
+"date": "2026-12-19",
+"end_date": null,
+"time": "11:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Ukrainisch",
+"Zweisprachig"
+],
+"description": "Zweisprachige Führung auf Ukrainisch und Deutsch durch das Kunstmuseum.",
+"price": "Eintritt und Führung frei",
+"url": "https://region-bayreuth.de/veranstaltung/oeffentliche-fuehrung-ukrainisch-deutsch-bayreuth-95444-d8w0fk",
+"termine": null,
+"sources": [
+"Kunstmuseum Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Kunstmuseum",
+"id": "7e32edc847"
+},
+{
 "subtitle": null,
 "end_date": null,
 "venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
@@ -12760,6 +12801,31 @@
 ],
 "house": "Markgräfliches Opernhaus",
 "id": "cf6ee90f98"
+},
+{
+"title": "Öffentliche Führung in Französisch/Deutsch",
+"subtitle": "A. D. Trantenroth – Objekte und Gedanken aus dem Künstlernachlass",
+"date": "2026-12-20",
+"end_date": null,
+"time": "11:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus – Ausstellungsraum H (1. Stock), Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Französisch",
+"Zweisprachig",
+"Skulptur"
+],
+"description": "Führung auf Französisch und Deutsch durch die Trantenroth-Ausstellung mit Mathilde Müller-Bulabois und Dr. Beatrice Trost.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/oeffentliche-fuehrung-franzoesisch-deutsch-bayreuth-95444-vftqgz",
+"termine": null,
+"sources": [
+"Kunstmuseum Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Kunstmuseum",
+"id": "22c2a93e38"
 },
 {
 "title": "Royal Ballet live im Kino: Der Nussknacker",
@@ -12951,7 +13017,7 @@
 "title": "Lichterglanz und Sternenklang",
 "subtitle": "Klanginstallation von Michael Lippert",
 "date": "2026-12-25",
-"end_date": "2026-12-28",
+"end_date": "2026-12-29",
 "time": "16:00",
 "venue": "Ordenskirche St. Georgen, St. Georgen 50",
 "organizer": "Kirchenmusik an der Ordenskirche St. Georgen",
@@ -12983,6 +13049,11 @@
 },
 {
 "date": "2026-12-28",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-29",
 "time": "16:00",
 "hinweis": null
 }
@@ -13137,6 +13208,31 @@
 ],
 "house": "Friedrichsforum",
 "id": "07a03ab0cc"
+},
+{
+"title": "So wunderweiße Nächte",
+"subtitle": "Lesung mit Texten von Rainer Maria Rilke zum 100. Todestag",
+"date": "2026-12-29",
+"end_date": null,
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
+"organizer": "Studiobühne Bayreuth e.V.",
+"category": "Literatur",
+"tags": [
+"Lesung",
+"Rilke",
+"Lyrik"
+],
+"description": "Ein Ensemble der Studiobühne liest am 100. Todestag Rainer Maria Rilkes aus seinen Gedichten, Briefen und Aufsätzen; der Abend dauert rund eine Stunde unter der Leitung von Marieluise Müller.",
+"price": "frei (Platzreservierung erforderlich)",
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2163&collection_code=produktionen",
+"termine": null,
+"sources": [
+"Studiobühne Bayreuth",
+"Studiobühne Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Studiobühne",
+"id": "1e9a399268"
 }
 ]
 }
