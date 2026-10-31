@@ -719,9 +719,29 @@
 {
 "name": "KEB St. Benedikt – Termine",
 "url": "https://st-benedikt-bayreuth.de/aktuelles/termine-und-veranstaltungen"
+},
+{
+"name": "Das Zentrum – Liste Seite 3",
+"url": "https://www.das-zentrum.de/veranstaltungen/liste/seite/3/"
+},
+{
+"name": "motion – Konzerte",
+"url": "https://www.motion-kommunikation.de/events/kategorie/konzerte/liste/"
+},
+{
+"name": "Schlosskirchenmusik – alle Termine",
+"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/"
+},
+{
+"name": "Buchhandlung im KirchenEck – Veranstaltungen",
+"url": "https://kircheneck.buchkatalog.de/Veranstaltungenaktuell"
+},
+{
+"name": "vhs Bayreuth – Kultur (mit Ausfall-Kennzeichnung)",
+"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege?Fsize=1"
 }
 ],
-"updated": "2026-10-30T04:22+01:00",
+"updated": "2026-10-31T01:07+01:00",
 "events": [
 {
 "title": "Ordentlich schlampig: Rundparcours der Lebensräume",
@@ -795,29 +815,6 @@
 ],
 "house": "Weitere Orte",
 "id": "e4721e2d23"
-},
-{
-"title": "Schichtwechsel",
-"subtitle": null,
-"date": "2026-10-04",
-"end_date": "2026-10-30",
-"time": "13:00",
-"venue": "Schlossgalerie Bayreuth, Kanalstraße 3",
-"organizer": "Kunstclub Bayreuth / Markgräfin-Wilhelmine-Gymnasium",
-"category": "Ausstellung",
-"tags": [
-"Kunstlehrer",
-"Ehemalige",
-"Gemeinschaftsausstellung"
-],
-"description": "Ausstellung in zwei Etappen: Zuerst zeigen Kunstlehrkräfte des Markgräfin-Wilhelmine-Gymnasiums eigene Arbeiten, ab der zweiten Vernissage am 13.10. (17 Uhr) folgen Werke von Schülern, Ehemaligen und Vereinsmitgliedern. Geöffnet Di–So 13–18 Uhr.",
-"price": null,
-"url": "https://kunstclub-bayreuth.de/projects/schichtwechsel-ausstellung/",
-"sources": [
-"Kunstclub Bayreuth"
-],
-"house": "Clubs",
-"id": "d02040f281"
 },
 {
 "title": "Festspielhaus-Führung",
@@ -986,31 +983,6 @@
 ],
 "house": "Weitere Orte",
 "id": "d2da703eb0"
-},
-{
-"title": "Gegenüberstellung: Christin Breuil – Manfred Leirer",
-"subtitle": "Ausstellung der Kulturpartnerschaft Burgenland–Bayreuth",
-"date": "2026-10-08",
-"end_date": "2026-10-30",
-"time": "18:00",
-"venue": "Neues Rathaus – Ausstellungshalle, Luitpoldplatz 13",
-"organizer": "Stadt Bayreuth – Hauptamt",
-"category": "Ausstellung",
-"tags": [
-"Burgenland",
-"Malerei",
-"Kulturpartnerschaft",
-"Vernissage",
-"Kulturpartnerschaft Burgenland"
-],
-"description": "Arbeiten von Christin Breuil und Manfred Leirer aus dem Burgenland; zur Vernissage am 8. Oktober um 18 Uhr spricht Prof. Harro Pirch. Eintritt frei.",
-"price": "frei",
-"url": "https://www.bayreuth.de/gegenueberstellung-im-rathaus/",
-"sources": [
-"Stadt Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "67c014b2d7"
 },
 {
 "title": "Die Krim dokumentieren: Kulturerbe durch Freies Wissen",
@@ -1209,9 +1181,32 @@
 "id": "66df454352"
 },
 {
+"title": "Eine Einladung zur Oper: Reise in die Geschichte der italienischen Oper",
+"subtitle": "vhs-Reihe mit Aureliano Zattoni (4 Abende)",
+"date": "2026-10-30",
+"end_date": "2027-01-29",
+"time": "17:00",
+"venue": "RW21 Volkshochschule – Seminarraum 4, Richard-Wagner-Straße 21",
+"organizer": "vhs Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Oper",
+"Musikgeschichte",
+"Italien"
+],
+"description": "Mehrteilige Vortragsreihe zur Entwicklung der italienischen Oper.",
+"price": "41,60 €",
+"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Eine-Einladung-zur-Oper-Reise-in-die-Geschichte-der-italienischen-Oper/I5601",
+"sources": [
+"vhs Bayreuth"
+],
+"house": "RW21",
+"id": "8c7f2d444e"
+},
+{
 "title": "Historischer Stadtrundgang",
 "subtitle": null,
-"date": "2026-10-30",
+"date": "2026-10-31",
 "end_date": "2026-12-28",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22",
@@ -1230,18 +1225,8 @@
 "Bayreuth Tourismus"
 ],
 "house": "Stadtführungen",
-"id": "4e44b41691",
+"id": "72be1db460",
 "termine": [
-{
-"date": "2026-10-30",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-10-30",
-"time": "14:00",
-"hinweis": null
-},
 {
 "date": "2026-10-31",
 "time": "10:30",
@@ -1285,45 +1270,186 @@
 ]
 },
 {
-"title": "Musikalischer Mitsingnachmittag: Evergreens mit Duo Nostalgie",
+"title": "Guided City Tour (English)",
 "subtitle": null,
-"date": "2026-10-30",
-"end_date": "2026-12-04",
-"time": "15:00",
-"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Pop, Rock & Jazz",
+"date": "2026-10-31",
+"end_date": null,
+"time": "10:30",
+"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
+"organizer": "Bayreuth Marketing & Tourismus GmbH",
+"category": "Führung",
 "tags": [
-"Mitsingen",
-"Evergreens",
-"Senioren"
+"Stadtführung",
+"Englisch",
+"Altstadt"
 ],
-"description": "Demenzfreundliches Mitsingangebot für ältere Menschen und Angehörige in Kooperation mit dem Seniorenamt: Das Duo Nostalgie begleitet Schlager, Volkslieder und Filmmusik der 1930er bis 60er Jahre.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/musikalischer-mitsingnachmittag-evergreens-duo-nostalgie-bayreuth-95444-rikqyx",
+"description": "Historischer Stadtrundgang in englischer Sprache, rund zwei Stunden. Termine: 17., 18., 24., 25. und 31. Oktober, jeweils 10:30 Uhr; Buchung bis 12 Uhr am Vortag.",
+"price": "12 €, ermäßigt 6 €",
+"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
 "sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)",
-"RW21 Stadtbibliothek"
+"Bayreuth Marketing & Tourismus"
+],
+"house": "Stadtführungen",
+"id": "cf4487e56c"
+},
+{
+"title": "Vorlesestunden für Kinder ab 4 Jahren",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": "2026-11-28",
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Kinder ab 4",
+"Bibliothek"
+],
+"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
 ],
 "house": "RW21",
-"id": "b4a8a6a7ee",
+"id": "05be5234d2",
 "termine": [
 {
-"date": "2026-10-30",
-"time": "15:00",
+"date": "2026-10-31",
+"time": "11:00",
 "hinweis": null
 },
 {
-"date": "2026-12-04",
-"time": "15:00",
+"date": "2026-11-04",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-07",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-11",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "11:00",
 "hinweis": null
 }
 ]
 },
 {
+"title": "Konzertfilm: BTS Tour ARIRANG in São Paulo – Live Viewing",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": "2026-10-31",
+"time": "14:45",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Konzertfilm",
+"K-Pop",
+"Live",
+"BTS",
+"Concerts in Cinema"
+],
+"description": "Live-Übertragung eines BTS-Konzerts aus São Paulo, am 31.10. um 14:45 und 18:30 Uhr.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/bts-tour-arirang-in-sao-paulo-live-viewing-E6341000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "c480807ea2",
+"termine": [
+{
+"date": "2026-10-31",
+"time": "14:45",
+"hinweis": null
+},
+{
+"date": "2026-10-31",
+"time": "18:30",
+"hinweis": null
+}
+]
+},
+{
+"title": "Kinder-Halloweenparty im Bayreuth Feiert",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "15:00",
+"venue": "Bayreuth Feiert (ehem. Breakout)",
+"organizer": "Bayreuth Feiert",
+"category": "Kinder & Familie",
+"tags": [
+"Halloween",
+"Kinder",
+"Party"
+],
+"description": "Halloween-Nachmittagsparty für Kinder bis 13 Jahre in Begleitung der Eltern, von 15 bis 18 Uhr.",
+"price": "ab 5 €",
+"url": "https://bayreuthfeiert.ticket.io/Ax7YGTRd/",
+"sources": [
+"Bayreuth Feiert (ticket.io)"
+],
+"house": "Weitere Orte",
+"id": "8ddc8437e8"
+},
+{
+"title": "Halloween für Kids",
+"subtitle": null,
+"date": "2026-10-31",
+"end_date": null,
+"time": "15:00",
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Halloween",
+"Kinderparty",
+"Familie"
+],
+"description": "Nachmittagsparty für jüngere Halloween-Gäste von 15 bis 18 Uhr.",
+"price": "5 €, Familienticket 15 €",
+"url": "https://www.bayreuther-tagblatt.de/nachrichten-meldungen-news/halloween-wo-die-partys-in-bayreuth-steigen/",
+"sources": [
+"Hinweis: Bayreuther Tagblatt"
+],
+"house": "Clubs",
+"id": "deb9e83384"
+},
+{
 "title": "Der Herr der Ringe – Extended Editions",
 "subtitle": "Trilogie in der Langfassung",
-"date": "2026-10-30",
+"date": "2026-10-31",
 "end_date": "2026-11-08",
 "time": "16:00",
 "venue": "Cineplex Bayreuth",
@@ -1342,13 +1468,8 @@
 "Cineplex Bayreuth – Reihen & Events"
 ],
 "house": "Kino",
-"id": "9765b700f8",
+"id": "d3d32237e7",
 "termine": [
-{
-"date": "2026-10-30",
-"time": "16:00",
-"hinweis": null
-},
 {
 "date": "2026-10-31",
 "time": "16:00",
@@ -1369,7 +1490,7 @@
 {
 "title": "Bayreuther Katakomben – Führung",
 "subtitle": "Die Stadt unter der Stadt",
-"date": "2026-10-30",
+"date": "2026-10-31",
 "end_date": "2026-12-27",
 "time": "16:00",
 "venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
@@ -1385,11 +1506,6 @@
 "price": null,
 "url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
 "termine": [
-{
-"date": "2026-10-30",
-"time": "16:00",
-"hinweis": null
-},
 {
 "date": "2026-10-31",
 "time": "16:00",
@@ -1525,707 +1641,7 @@
 "Maisel & Friends"
 ],
 "house": "Liebesbier",
-"id": "3ae4937bec"
-},
-{
-"title": "Popcornkino für Kinder",
-"subtitle": null,
-"date": "2026-10-30",
-"end_date": null,
-"time": "16:30",
-"venue": "Jugendtreff „WOP“ (World of Paradise), Hinter der Kirche 1b, St. Georgen",
-"organizer": "Ev.-Luth. Kirchengemeinde Bayreuth-St. Georgen",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderkino",
-"Film",
-"Jugendtreff"
-],
-"description": "Filmnachmittag mit Popcorn für Kinder im offenen Jugendtreff der Kirchengemeinde St. Georgen, 16:30 bis 18:30 Uhr.",
-"price": null,
-"url": "https://ebw-oberfranken-mitte.de/evangelische-termine/?etID=8146857&until=yes",
-"termine": null,
-"sources": [
-"Kirchengemeinde Bayreuth-St. Georgen (Evangelische Termine)"
-],
-"house": "Kirchen",
-"id": "3b06562d32"
-},
-{
-"title": "Der liebevolle Blick auf eine verwundete Welt",
-"subtitle": "„Gesang der Fledermäuse“ und Olga Tokarczuks Nobelpreisrede",
-"date": "2026-10-30",
-"end_date": null,
-"time": "17:00",
-"venue": "Internationaler Zirkel, Schulstraße 5",
-"organizer": "Deutsch-Polnische Gesellschaft Bayreuth e.V.",
-"category": "Literatur",
-"tags": [
-"Olga Tokarczuk",
-"Polen",
-"Nobelpreis",
-"Literaturabend"
-],
-"description": "Ein Abend über die polnische Literaturnobelpreisträgerin Olga Tokarczuk: Im Mittelpunkt stehen ihr Roman „Gesang der Fledermäuse“ und ihre Nobelpreisvorlesung, in der sie für einen achtsamen Umgang mit der Natur und eine neue, zugewandte Erzählweise wirbt.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/liebevolle-blick-verwundete-welt-gesang-fledermaeuse-olga-tokarczuks-visionaere-nobelpreisrede-bayreuth-vo4g3x",
-"termine": null,
-"sources": [
-"Deutsch-Polnische Gesellschaft Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "0155d150e8"
-},
-{
-"title": "Führung durch das Festspielhaus „intensiv“",
-"subtitle": null,
-"date": "2026-10-30",
-"end_date": "2026-12-11",
-"time": "17:00",
-"venue": "Richard-Wagner-Festspielhaus (Buchung über Tourist-Information)",
-"organizer": "Bayreuth Marketing & Tourismus GmbH",
-"category": "Führung",
-"tags": [
-"Festspielhaus",
-"Wagner",
-"Bühnentechnik",
-"Sonderführung",
-"Richard Wagner"
-],
-"description": "Ausführliche Führung (ca. 90 Minuten) auf Deutsch durch das Festspielhaus; Termine im Zeitraum am 30. Oktober, 13. November und 11. Dezember, jeweils 17 Uhr.",
-"price": "30 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
-"sources": [
-"Bayreuth Marketing & Tourismus",
-"Bayreuth Tourismus",
-"Bayreuth Tourismus, Führungsprogramm 2026",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"Bayreuth Tourismus (Führungsprogramm 2026)"
-],
-"house": "Stadtführungen",
-"id": "e6bb54f9d4",
-"termine": [
-{
-"date": "2026-10-30",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-13",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Eine Einladung zur Oper: Reise in die Geschichte der italienischen Oper",
-"subtitle": "vhs-Reihe mit Aureliano Zattoni (4 Abende)",
-"date": "2026-10-30",
-"end_date": "2027-01-29",
-"time": "17:00",
-"venue": "RW21 Volkshochschule – Seminarraum 4, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Oper",
-"Musikgeschichte",
-"Italien"
-],
-"description": "Mehrteilige Vortragsreihe zur Entwicklung der italienischen Oper.",
-"price": "41,60 €",
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Eine-Einladung-zur-Oper-Reise-in-die-Geschichte-der-italienischen-Oper/I5601",
-"sources": [
-"vhs Bayreuth"
-],
-"house": "RW21",
-"id": "8c7f2d444e"
-},
-{
-"title": "Spuk und Zauber: Pflanzen zu Halloween",
-"subtitle": "Familienführung, Kinder ab 5 Jahren",
-"date": "2026-10-30",
-"end_date": "2026-10-30",
-"time": "17:30",
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Familienführung",
-"Halloween",
-"Pflanzen",
-"Familie",
-"Botanik"
-],
-"description": "Familienführung zu Pflanzen mit gruseligem Ruf; zwei Durchgänge um 17:30 und 19 Uhr.",
-"price": "frei",
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261030-Fuehrung-Halloween/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Bayreuth",
-"Ökologisch-Botanischer Garten"
-],
-"house": "Botanischer Garten",
-"id": "3b7d65e953",
-"termine": [
-{
-"date": "2026-10-30",
-"time": "17:30",
-"hinweis": null
-},
-{
-"date": "2026-10-30",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Offenes Magic Spielen",
-"subtitle": null,
-"date": "2026-10-30",
-"end_date": null,
-"time": "18:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Magic: The Gathering",
-"Kartenspiel",
-"Spieletreff"
-],
-"description": "Offene Runde für das Sammelkartenspiel Magic: The Gathering von 18 bis 23 Uhr; im Kalender steht ab 24.10. bislang nur der 30.10.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "62f267bf14"
-},
-{
-"title": "Rock im Winterdorf",
-"subtitle": "mit Dr. Michael Hohl und Prof. Dr. Stefan Leible",
-"date": "2026-10-30",
-"end_date": null,
-"time": "18:00",
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Club & Party",
-"tags": [
-"Rock",
-"Winterdorf",
-"DJ",
-"Eintritt frei"
-],
-"description": "Altoberbürgermeister Michael Hohl und Universitätspräsident Stefan Leible legen von 18 bis 23 Uhr gemeinsam Rockklassiker auf.",
-"price": "Eintritt frei",
-"url": "https://winterdorf-bayreuth.de/events/rock-im-winterdorf-234/",
-"sources": [
-"Bayreuther Winterdorf"
-],
-"house": "Winterdorf",
-"id": "d26816aeb2"
-},
-{
-"title": "Märchenhaftes Frankreich – 60 Jahre Freundschaft Annecy-Bayreuth",
-"subtitle": "60 Jahre Freundschaft Annecy–Bayreuth",
-"date": "2026-10-30",
-"end_date": null,
-"time": "18:30",
-"venue": "RW21 Volkshochschule – Seminarraum 3, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Literatur",
-"tags": [
-"Märchen",
-"Frankreich",
-"Städtepartnerschaft",
-"Erzählabend",
-"60 Jahre Jumelage Annecy"
-],
-"description": "Französische Märchen anlässlich des Jubiläums der Städtepartnerschaft mit Annecy.",
-"price": "7,80 € zzgl. 3 € Kostproben",
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Maerchenhaftes-Frankreich-60-Jahre-Freundschaft-Annecy-Bayreuth/I5200",
-"sources": [
-"vhs Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "RW21",
-"id": "dba960c5b1"
-},
-{
-"title": "Das Kriminal Dinner: Der Polterabendkiller",
-"subtitle": null,
-"date": "2026-10-30",
-"end_date": null,
-"time": "19:00",
-"venue": "Hotel & Restaurant Lohmühle, Badstraße 37",
-"organizer": "Das Kriminal Dinner",
-"category": "Theater",
-"tags": [
-"Krimidinner",
-"Krimikomödie",
-"Menü"
-],
-"description": "Krimikomödie mit Menü am 29. und 30.10.; für den 30.10. ist der Vorverkauf geschlossen.",
-"price": "89,90–94,90 €",
-"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/hotel-restaurant-lohmuehle",
-"sources": [
-"Das Kriminal Dinner",
-"Das Kriminal Dinner (Lohmühle)"
-],
-"house": "Weitere Orte",
-"id": "249e66a1e1"
-},
-{
-"title": "Ökumene des Herzens – Christliches Zeugnis in einer gespaltenen Welt",
-"subtitle": "Vortrag mit Landesbischof a. D. Heinrich Bedford-Strohm",
-"date": "2026-10-30",
-"end_date": null,
-"time": "19:00",
-"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
-"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte mit KG Stadtkirche und ACK Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Theologie",
-"Ökumene",
-"Gesellschaft"
-],
-"description": "Der Theologe Heinrich Bedford-Strohm spricht über Ökumene und christliches Zeugnis in Zeiten von Polarisierung und globalen Krisen; anschließend Fragerunde.",
-"price": "Eintritt frei, Spenden erbeten",
-"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
-"sources": [
-"Evangelisches Bildungswerk Oberfranken-Mitte"
-],
-"house": "Kirchen",
-"id": "e9cf755b05"
-},
-{
-"title": "Lesung mit Birgit Gruber",
-"subtitle": "Krimi trifft Romantik",
-"date": "2026-10-30",
-"end_date": null,
-"time": "19:30",
-"venue": "Café Antons, Bayreuth",
-"organizer": null,
-"category": "Literatur",
-"tags": [
-"Lesung",
-"Krimi",
-"Bayreuth-Krimi"
-],
-"description": "Die Autorin liest aus ihrer Bayreuther Krimireihe, die Spannung, Romantik und Humor verbindet. Einlass ab 18 Uhr; Karten im Vorverkauf in der Buchhandlung im Kircheneck und im Café Antons.",
-"price": "14 €",
-"url": "https://www.bayreuther-tagblatt.de/nachrichten-meldungen-news/krimi-trifft-romantik-lesung-mit-birgit-gruber-in-bayreuth/",
-"sources": [
-"Hinweis: Bayreuther Tagblatt"
-],
-"house": "Weitere Orte",
-"id": "fa2417665f"
-},
-{
-"title": "Bamberger Symphoniker",
-"subtitle": "Dirigentin Mirga Gražinytė-Tyla, Klavier Onutė Gražinytė",
-"date": "2026-10-30",
-"end_date": null,
-"time": "19:30",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Kulturfreunde Bayreuth",
-"category": "Klassik",
-"tags": [
-"Orchester",
-"Kulturfreunde",
-"Schumann",
-"Sinfoniekonzert",
-"Čiurlionis"
-],
-"description": "Konzert unter Mirga Gražinytė-Tyla mit Werken von Serksnytė, Schumann und Čiurlionis; am Klavier Onutė Gražinytė.",
-"price": "25–75 €",
-"url": "https://www.friedrichsforum.de/programm/261030-kulturfreunde-bamberger-symphoniker",
-"sources": [
-"Friedrichsforum",
-"Kulturfreunde Bayreuth",
-"Friedrichsforum Bayreuth",
-"Kulturfreunde Bayreuth / Friedrichsforum",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Friedrichsforum",
-"id": "6d3ebeb64d"
-},
-{
-"title": "Miss Sophies Erbe",
-"subtitle": "Komödie von Andreas Wening",
-"date": "2026-10-30",
-"end_date": "2026-10-31",
-"time": "20:00",
-"venue": "Brandenburger Kulturstadl, Brandenburger Straße 35",
-"organizer": "Brandenburger Kulturstadl",
-"category": "Theater",
-"tags": [
-"Komödie",
-"Dinner for One",
-"Amateurtheater"
-],
-"description": "Komödie von Andreas Wening, die die Geschichte von „Dinner for One“ weiterspinnt; letzte Vorstellungen bis 31.10. (sonntags 17 Uhr).",
-"price": null,
-"url": "https://www.kulturstadl.de/de/theater-stuecke/aktuell/Miss-Sophies-Erben.php",
-"sources": [
-"Brandenburger Kulturstadl",
-"Brandenburger Kulturstadl / bayreuth4U"
-],
-"house": "Brandenburger Kulturstadl",
-"id": "1ed59d9d58",
-"termine": [
-{
-"date": "2026-10-30",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-10-31",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Stadt.Land.Mord. – Ein Fall. Drei Perspektiven.",
-"subtitle": "True-Crime-Abend",
-"date": "2026-10-30",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": "NOFX Comms",
-"category": "Vortrag & Diskurs",
-"tags": [
-"True Crime",
-"Live-Show",
-"Justiz"
-],
-"description": "Die Journalistin Janina Kirsch und der Strafverteidiger Philip Müller rollen anhand von Urteilen und Recherchen einen realen Mordfall aus der Region Bayreuth auf; das Publikum kann Fragen stellen und abstimmen.",
-"price": "45 €",
-"url": "https://www.das-zentrum.de/veranstaltung/stadt-land-mord-ein-fall-drei-perspektiven/",
-"sources": [
-"DAS ZENTRUM"
-],
-"house": "Das Zentrum",
-"id": "7093d9e959"
-},
-{
-"title": "„Wollen Sie wippen?“ – Hart auf Hart",
-"subtitle": "Hart auf Hart – Elisabeth Hart & Rhaban Straumann",
-"date": "2026-10-30",
-"end_date": null,
-"time": "20:00",
-"venue": "Friedrichsforum – Kleiner Saal",
-"organizer": "Friedrichsforum",
-"category": "Kabarett & Comedy",
-"tags": [
-"Satire",
-"Schauspiel",
-"Duo",
-"Schweiz",
-"Bühne"
-],
-"description": "Satirisches Zwei-Personen-Stück mit Elisabeth Hart und Rhaban Straumann.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/261030-wollen-sie-wippen",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth",
-"bayreuth4U Terminkalender"
-],
-"house": "Friedrichsforum",
-"id": "3ca080db9e"
-},
-{
-"title": "Grand Classic Ballet – Schwanensee",
-"subtitle": "Grand Classic Ballet",
-"date": "2026-10-30",
-"end_date": "2026-10-31",
-"time": "20:00",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "BE.entertained",
-"category": "Tanz",
-"tags": [
-"Ballett",
-"Tschaikowski",
-"Tschaikowsky",
-"Gastspiel",
-"Klassiker"
-],
-"description": "Klassisches Ballett nach Tschaikowsky (30. und 31.10.).",
-"price": "72,95–112,95 €",
-"url": "https://be-entertained.com/aktuelle-veranstaltungen/#schwanensee-tickets-winter",
-"sources": [
-"BE.entertained",
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Markgräfliches Opernhaus",
-"Bayerische Schlösserverwaltung",
-"Grand Classic Ballet / BE.entertained",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "0a13a4c525",
-"termine": [
-{
-"date": "2026-10-30",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-10-31",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Mina Richman & Band",
-"subtitle": "Different Flavours Of Being Happy",
-"date": "2026-10-30",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
-"organizer": "Das Zentrum",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Singer-Songwriter",
-"Pop",
-"Indie-Pop",
-"Tour",
-"Singer-Songwriterin"
-],
-"description": "Die Songwriterin tritt mit Band im Zentrum auf und stellt ihre aktuelle Tour vor.",
-"price": "ab 16,52 €",
-"url": "https://www.das-zentrum.de/veranstaltung/mina-richman-band-different-flavours-of-being-happy-tour/",
-"sources": [
-"Das Zentrum (Ticketshop)",
-"Das Zentrum (eigener Ticketshop eventim-light)",
-"Das Zentrum (Ticketing eventim-light)",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"eventfinder.de"
-],
-"house": "Das Zentrum",
-"id": "33e76bc9e8"
-},
-{
-"title": "Halloween Bayreuth Pt. 1 (ab 16)",
-"subtitle": null,
-"date": "2026-10-30",
-"end_date": null,
-"time": "21:00",
-"venue": "Bayreuth Feiert (ehem. Breakout)",
-"organizer": "Bayreuth Feiert",
-"category": "Club & Party",
-"tags": [
-"Halloween",
-"Party",
-"ab 16"
-],
-"description": "Erster Abend der Halloween-Party im Bayreuth Feiert, Einlass ab 16 Jahren.",
-"price": "ab 10 €",
-"url": "https://bayreuthfeiert.ticket.io/Kykeq5kI/",
-"sources": [
-"Bayreuth Feiert (ticket.io)"
-],
-"house": "Weitere Orte",
-"id": "ebc164009d"
-},
-{
-"title": "Fliegende Haie – „Alle gehen dumm“-Tour",
-"subtitle": "Support: Esther Babl, Aftershow: DJ Goldene Müllabfuhr",
-"date": "2026-10-30",
-"end_date": null,
-"time": "21:00",
-"venue": "Glashaus",
-"organizer": "Glashaus",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Punk",
-"Konzert",
-"Elektropop",
-"Hyperpop",
-"Rap"
-],
-"description": "Konzert mit Support Esther Babl und anschließender Aftershow mit DJ.",
-"price": "10 €, Soli 15 €",
-"url": "https://www.glashaus.org/programm/fliegende-haie-alle-gehen-dumm-tour-support-esther-babl-aftershow-dj-goldene-muellabfuhr",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "75be66e718"
-},
-{
-"title": "Guided City Tour (English)",
-"subtitle": null,
-"date": "2026-10-31",
-"end_date": null,
-"time": "10:30",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus GmbH",
-"category": "Führung",
-"tags": [
-"Stadtführung",
-"Englisch",
-"Altstadt"
-],
-"description": "Historischer Stadtrundgang in englischer Sprache, rund zwei Stunden. Termine: 17., 18., 24., 25. und 31. Oktober, jeweils 10:30 Uhr; Buchung bis 12 Uhr am Vortag.",
-"price": "12 €, ermäßigt 6 €",
-"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2025/12/Bayreuth_Stadt-und-Erlebnisfuehrungen_2026.pdf",
-"sources": [
-"Bayreuth Marketing & Tourismus"
-],
-"house": "Stadtführungen",
-"id": "cf4487e56c"
-},
-{
-"title": "Vorlesestunden für Kinder ab 4 Jahren",
-"subtitle": null,
-"date": "2026-10-31",
-"end_date": "2026-11-28",
-"time": "11:00",
-"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Kinder & Familie",
-"tags": [
-"Vorlesen",
-"Kinder ab 4",
-"Bibliothek"
-],
-"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "05be5234d2",
-"termine": [
-{
-"date": "2026-10-31",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-04",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-11",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "11:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Konzertfilm: BTS Tour ARIRANG in São Paulo – Live Viewing",
-"subtitle": null,
-"date": "2026-10-31",
-"end_date": null,
-"time": "14:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Konzertfilm",
-"K-Pop",
-"Live",
-"BTS",
-"Concerts in Cinema"
-],
-"description": "Live-Übertragung eines BTS-Konzerts aus São Paulo.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/bts-tour-arirang-in-sao-paulo-live-viewing-E6341000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "c480807ea2"
-},
-{
-"title": "Kinder-Halloweenparty im Bayreuth Feiert",
-"subtitle": null,
-"date": "2026-10-31",
-"end_date": null,
-"time": "15:00",
-"venue": "Bayreuth Feiert (ehem. Breakout)",
-"organizer": "Bayreuth Feiert",
-"category": "Kinder & Familie",
-"tags": [
-"Halloween",
-"Kinder",
-"Party"
-],
-"description": "Halloween-Nachmittagsparty für Kinder bis 13 Jahre in Begleitung der Eltern, von 15 bis 18 Uhr.",
-"price": "ab 5 €",
-"url": "https://bayreuthfeiert.ticket.io/Ax7YGTRd/",
-"sources": [
-"Bayreuth Feiert (ticket.io)"
-],
-"house": "Weitere Orte",
-"id": "8ddc8437e8"
-},
-{
-"title": "Halloween für Kids",
-"subtitle": null,
-"date": "2026-10-31",
-"end_date": null,
-"time": "15:00",
-"venue": "FABRIK Bayreuth",
-"organizer": "FABRIK Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Halloween",
-"Kinderparty",
-"Familie"
-],
-"description": "Nachmittagsparty für jüngere Halloween-Gäste von 15 bis 18 Uhr.",
-"price": "5 €, Familienticket 15 €",
-"url": "https://www.bayreuther-tagblatt.de/nachrichten-meldungen-news/halloween-wo-die-partys-in-bayreuth-steigen/",
-"sources": [
-"Hinweis: Bayreuther Tagblatt"
-],
-"house": "Clubs",
-"id": "deb9e83384"
+"id": "944f99c3fe"
 },
 {
 "title": "Halloween-Party im KOMM",
@@ -2290,7 +1706,7 @@
 ],
 "description": "Der RBS Europa Choir und die Vogtland Philharmonie führen Brahms' Requiem auf.",
 "price": "25–35 €",
-"url": "https://www.friedrichsforum.de/programm/261031-ein-deutsches-requiem",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261031-ein-deutsches-requiem",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -2298,6 +1714,61 @@
 ],
 "house": "Friedrichsforum",
 "id": "643300e7d2"
+},
+{
+"title": "Miss Sophies Erbe",
+"subtitle": "Komödie von Andreas Wening",
+"date": "2026-10-31",
+"end_date": null,
+"time": "20:00",
+"venue": "Brandenburger Kulturstadl, Brandenburger Straße 35",
+"organizer": "Brandenburger Kulturstadl",
+"category": "Theater",
+"tags": [
+"Komödie",
+"Dinner for One",
+"Amateurtheater"
+],
+"description": "Komödie von Andreas Wening, die die Geschichte von „Dinner for One“ weiterspinnt; letzte Vorstellungen bis 31.10. (sonntags 17 Uhr).",
+"price": null,
+"url": "https://www.kulturstadl.de/de/theater-stuecke/aktuell/Miss-Sophies-Erben.php",
+"sources": [
+"Brandenburger Kulturstadl",
+"Brandenburger Kulturstadl / bayreuth4U"
+],
+"house": "Brandenburger Kulturstadl",
+"id": "f3ee5ae6d2"
+},
+{
+"title": "Grand Classic Ballet – Schwanensee",
+"subtitle": "Grand Classic Ballet",
+"date": "2026-10-31",
+"end_date": null,
+"time": "20:00",
+"venue": "Markgräfliches Opernhaus",
+"organizer": "BE.entertained",
+"category": "Tanz",
+"tags": [
+"Ballett",
+"Tschaikowski",
+"Tschaikowsky",
+"Gastspiel",
+"Klassiker"
+],
+"description": "Klassisches Ballett nach Tschaikowsky (30. und 31.10.).",
+"price": "72,95–112,95 €",
+"url": "https://be-entertained.com/aktuelle-veranstaltungen/#schwanensee-tickets-winter",
+"sources": [
+"BE.entertained",
+"Schlösserverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
+"Bayerische Schlösserverwaltung – Markgräfliches Opernhaus",
+"Bayerische Schlösserverwaltung",
+"Grand Classic Ballet / BE.entertained",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "4bc54a7ff0"
 },
 {
 "title": "Halloween Party – 80s & 90s",
@@ -2339,7 +1810,7 @@
 ],
 "description": "Musikkabarett am Flügel.",
 "price": "33,70 €",
-"url": "https://www.motion-kommunikation.de/event/matthias-walz-der-boese-mann-am-klavier-2/",
+"url": "https://www.das-zentrum.de/veranstaltung/matthias-walz-der-boese-mann-am-klavier/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -2395,6 +1866,30 @@
 ],
 "house": "Clubs",
 "id": "49bc94d53b"
+},
+{
+"title": "Lichterglanz und Farbentanz",
+"subtitle": "Ausstellung im Gemeindesaal",
+"date": "2026-10-31",
+"end_date": "2026-11-21",
+"time": null,
+"venue": "Gemeindehaus St. Georgen – Saal, Hinter der Kirche 1b",
+"organizer": "Ev.-Luth. Kirchengemeinde Bayreuth-St. Georgen",
+"category": "Ausstellung",
+"tags": [
+"Ausstellung",
+"St. Georgen",
+"Gemeindesaal"
+],
+"description": "Ausstellung im Saal des Gemeindehauses der Kirchengemeinde St. Georgen; Öffnungszeiten nennt die Ankündigung nicht.",
+"price": null,
+"url": "https://ebw-oberfranken-mitte.de/evangelische-termine/?etID=7735700&until=yes",
+"termine": null,
+"sources": [
+"Evangelische Termine (EBW Oberfranken-Mitte)"
+],
+"house": "Kirchen",
+"id": "d5ac003ce5"
 },
 {
 "title": "Wurzelzeit: Apotheke unter der Erde",
@@ -2670,7 +2165,7 @@
 ],
 "description": "Evgeni Koroliov spielt Bachs Goldberg-Variationen.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261101-goldberg-variationen",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261101-j-s-bach-goldberg-variationen",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -2707,7 +2202,7 @@
 "title": "Opernhaus-Highlights mit Bastel-Workshop",
 "subtitle": "für Kinder von 6–12 Jahren",
 "date": "2026-11-02",
-"end_date": null,
+"end_date": "2026-12-05",
 "time": "14:30",
 "venue": "Markgräfliches Opernhaus, Opernstraße 14",
 "organizer": "Bayerische Schlösserverwaltung",
@@ -2720,7 +2215,7 @@
 ],
 "description": "Kurze Familienführung durch das Opernhaus für Kinder von 6 bis 12 Jahren mit anschließendem Basteln.",
 "price": "3 € zzgl. Eintritt Erwachsene",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=4&optArt=999999&optOrt=14&optMonat=10",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp",
 "sources": [
 "Schlösserverwaltung Bayreuth",
 "Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
@@ -2728,7 +2223,19 @@
 "Bayerische Schlösserverwaltung (Bayreuth-Eremitage)"
 ],
 "house": "Markgräfliches Opernhaus",
-"id": "62e3dc95f4"
+"id": "62e3dc95f4",
+"termine": [
+{
+"date": "2026-11-02",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "14:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Miniaturen bemalen – offener Treff",
@@ -3348,6 +2855,30 @@
 "id": "6200fdc225"
 },
 {
+"title": "Salon Jean: Mit Tieren reden",
+"subtitle": "Vortrag und Gespräch mit Katrin Weigel",
+"date": "2026-11-03",
+"end_date": null,
+"time": "19:00",
+"venue": "Jean Paul Art Space, Friedrichstraße 5",
+"organizer": "Jean Paul Kulturverein Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Vortrag",
+"Salon Jean",
+"Tiere"
+],
+"description": "Die Tierkommunikatorin Katrin Weigel spricht in Jean Pauls ehemaligem Wohnhaus über Möglichkeiten und Grenzen der Verständigung zwischen Mensch und Tier; anschließend ist Zeit für ein Gespräch.",
+"price": "Eintritt frei, Spende erbeten",
+"url": "https://jean-paul-kulturverein.de/portfolio-items/katrin-weigel-tierkommunikation-ein-vortrag-im-jean-paul-artspace/",
+"termine": null,
+"sources": [
+"Jean Paul Kulturverein Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "41736a1598"
+},
+{
 "title": "Spieleabend: Neue Leute kennenlernen",
 "subtitle": null,
 "date": "2026-11-03",
@@ -3710,7 +3241,7 @@
 "title": "Labortheater",
 "subtitle": null,
 "date": "2026-11-04",
-"end_date": "2026-12-16",
+"end_date": "2026-12-30",
 "time": "19:30",
 "venue": "Haus des Spiels, Bernecker Straße 15",
 "organizer": "wundersam anders e.V.",
@@ -3749,6 +3280,11 @@
 "date": "2026-12-16",
 "time": "19:30",
 "hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "19:30",
+"hinweis": null
 }
 ]
 },
@@ -3781,10 +3317,10 @@
 },
 {
 "title": "Kino Jenseits",
-"subtitle": "Thema: Kulinarik",
+"subtitle": "Kulinarisches Kino",
 "date": "2026-11-04",
 "end_date": null,
-"time": "20:15",
+"time": "20:00",
 "venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
 "organizer": "Kunst- und Kulturhaus Neuneinhalb",
 "category": "Film",
@@ -3793,11 +3329,10 @@
 "Kino",
 "Kulinarik"
 ],
-"description": "Arthouse-Filmabend im Neuneinhalb, diesmal zum Thema Kulinarik; der Eintritt ist frei.",
+"description": "Filmabend der Reihe Kino Jenseits zum Thema Kulinarik, moderiert von Lorenz Goger; der Hauptfilm läuft japanisch mit englischen Untertiteln, Eintritt frei.",
 "price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/kino-jenseits-bayreuth-95445-1tjep8",
+"url": "https://www.neuneinhalb.org/veranstaltungen/kino-jenseits-kulinarisches-kino/edate/2026-11-04",
 "sources": [
-"Kunst- und Kulturhaus Neuneinhalb (nur Stadt, Land, Leben)",
 "Kino Jenseits / Neuneinhalb"
 ],
 "house": "Neuneinhalb",
@@ -4096,7 +3631,7 @@
 ],
 "description": "Musikalische Neuinszenierung von Hofmannsthals Spiel vom Sterben des reichen Mannes (Regie Nicolai Tegeler); 5.11. 19:30 Uhr Premiere, 6. und 7.11. jeweils 19 Uhr.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261105-tegeler-jedermann",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261105-jedermann",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -4467,31 +4002,6 @@
 ]
 },
 {
-"title": "Liebe, Macht und Untergang – Szenen aus Wagners „Ring“",
-"subtitle": "Szenen aus Richard Wagners „Der Ring des Nibelungen“ (vhs-Kurs I5203, 5 Abende)",
-"date": "2026-11-06",
-"end_date": "2026-12-04",
-"time": "18:15",
-"venue": "RW21 Volkshochschule – Seminarraum 2, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wagner",
-"Ring",
-"Oper",
-"Lesekurs",
-"Festival150"
-],
-"description": "Mehrteilige Einführung in ausgewählte Szenen aus „Der Ring des Nibelungen“.",
-"price": "58,50 €",
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Liebe-Macht-und-Untergang-Szenen-aus-Richard-Wagners-Der-Ring-des-Nibelungen/I5203",
-"sources": [
-"vhs Bayreuth"
-],
-"house": "RW21",
-"id": "ba18c249c8"
-},
-{
 "title": "Nachtwächterführung in St. Georgen",
 "subtitle": "6.11. um 19 Uhr, 4.12. um 18 Uhr",
 "date": "2026-11-06",
@@ -4699,6 +4209,30 @@
 ],
 "house": "Neuneinhalb",
 "id": "bac266d100"
+},
+{
+"title": "Black Friday",
+"subtitle": "Hip-Hop & Black Music",
+"date": "2026-11-06",
+"end_date": null,
+"time": "23:00",
+"venue": "Club Frisco, Bamberger Straße 27",
+"organizer": "Club Frisco",
+"category": "Club & Party",
+"tags": [
+"Hip-Hop",
+"Black Music",
+"Party"
+],
+"description": "Clubnacht im Frisco mit Hip-Hop und Black Music.",
+"price": null,
+"url": "https://www.bayreuth4u.de/event/black-friday-4/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Clubs",
+"id": "599febaa65"
 },
 {
 "title": "Führung: Köstliches Bayreuth",
@@ -4953,7 +4487,7 @@
 ],
 "description": "Tribute-Konzert mit Liedern von Herbert Grönemeyer.",
 "price": "29,85 €",
-"url": "https://www.motion-kommunikation.de/event/bochum-a-tribute-to-herbert-groenemeyer/",
+"url": "https://www.das-zentrum.de/veranstaltung/bochum-a-tribute-to-herbert-groenemeyer/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -4966,26 +4500,28 @@
 "id": "284dc59a65"
 },
 {
-"title": "Mamma Mia – Die größte ABBA-Party",
+"title": "Soul Dance Night",
 "subtitle": null,
 "date": "2026-11-07",
 "end_date": null,
-"time": "20:00",
-"venue": "FABRIK",
-"organizer": null,
+"time": "21:00",
+"venue": "Club Frisco, Bamberger Straße 27",
+"organizer": "Club Frisco",
 "category": "Club & Party",
 "tags": [
-"ABBA",
-"Party"
+"Soul",
+"Funk",
+"R&B"
 ],
-"description": "ABBA-Partyshow in der Diskothek FABRIK.",
+"description": "Tanzabend im Frisco: bis 1 Uhr Soul und Funk, danach Black Music und R&B bis 4 Uhr.",
 "price": null,
-"url": "https://www.eventbrite.de/e/bayreuth-abba-party-tour-mamma-mia-tickets-1986676189964",
+"url": "https://www.bayreuth4u.de/event/soul-dance-night-7/",
+"termine": null,
 "sources": [
-"ABBA Party Tour / iParty People (eigener Ticketshop Eventbrite)"
+"Hinweis: bayreuth4U"
 ],
 "house": "Clubs",
-"id": "a95921bcb9"
+"id": "480cb1abae"
 },
 {
 "title": "Paul van Dyk @ Bayreuth Feiert",
@@ -5052,7 +4588,7 @@
 ],
 "description": "Moderiertes Konzert über die Sängerin und Komponistin Pauline Viardot mit Talia Or (Sopran) und Maharani Chakrabarti (Klavier).",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261108-viardot-or",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261108-pauline-viardot-shooting-star-it-girl-ikone",
 "sources": [
 "Friedrichsforum"
 ],
@@ -5370,7 +4906,7 @@
 ],
 "description": "Tribute-Show mit Stücken aus dem Werk von Pink Floyd.",
 "price": "31,30–58,85 €",
-"url": "https://www.friedrichsforum.de/programm/echoes-best-of-pink-floyd",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261108-echoes-performing-the-music-of-pink-floyd",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -5515,6 +5051,30 @@
 ],
 "house": "Kino",
 "id": "b53fb40b69"
+},
+{
+"title": "Planetare Grenzen – was uns die Natur für die Zukunft lehrt",
+"subtitle": "Vortrag von Dirk Steffens zum Jahrestag der Universität Bayreuth",
+"date": "2026-11-10",
+"end_date": null,
+"time": "17:00",
+"venue": "Universität Bayreuth – Audimax, Universitätsstraße 30",
+"organizer": "Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Wissenschaft",
+"Natur",
+"Universität"
+],
+"description": "Der Wissenschaftsjournalist und Fernsehmoderator Dirk Steffens spricht beim öffentlichen Jahrestag der Universität über planetare Grenzen und was sich daraus für die Zukunft ableiten lässt. Um Anmeldung wird gebeten.",
+"price": null,
+"url": "https://www.bayreuth.de/dirk-steffens-referiert-an-der-uni-bayreuth/",
+"termine": null,
+"sources": [
+"Stadt Bayreuth (Meldung der Universität Bayreuth)"
+],
+"house": "Universität",
+"id": "e06dd621bf"
 },
 {
 "title": "Familiengeschichtsforschung: „Aufbruch in die neue Welt“",
@@ -5966,7 +5526,7 @@
 ],
 "description": "Komödie von Carsten Lögering, gespielt vom Heimat- und Volkstrachtenverein Alt-Bayreuth; Vorstellungen 12.11. 18 Uhr, 13.11. 19 Uhr, 14.11. 14:30 und 19 Uhr, 15.11. 10 und 17 Uhr.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261112-alt-bayreuther",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261112-kreuzfahrt-im-schweinestall",
 "sources": [
 "Friedrichsforum"
 ],
@@ -6159,7 +5719,7 @@
 ],
 "description": "Das österreichische Blechbläserseptett feiert 30-jähriges Bestehen.",
 "price": "33,35–66,90 €",
-"url": "https://www.friedrichsforum.de/programm/motion-mnozil-brass-jubelei",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261112-mnozil-brass-jubelei",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -6187,7 +5747,7 @@
 ],
 "description": "Konzert des Wiener Liedermachers mit Band.",
 "price": "33,80 €",
-"url": "https://www.motion-kommunikation.de/event/voodoo-juergens-und-die-ansa-panier/",
+"url": "https://www.das-zentrum.de/veranstaltung/voodoo-juergens-und-die-ansa-panier-live-2026/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -6431,6 +5991,47 @@
 "id": "d7657f3004"
 },
 {
+"title": "Führung durch das Festspielhaus „intensiv“",
+"subtitle": null,
+"date": "2026-11-13",
+"end_date": "2026-12-11",
+"time": "17:00",
+"venue": "Richard-Wagner-Festspielhaus (Buchung über Tourist-Information)",
+"organizer": "Bayreuth Marketing & Tourismus GmbH",
+"category": "Führung",
+"tags": [
+"Festspielhaus",
+"Wagner",
+"Bühnentechnik",
+"Sonderführung",
+"Richard Wagner"
+],
+"description": "Ausführliche Führung (ca. 90 Minuten) auf Deutsch durch das Festspielhaus; Termine im Zeitraum am 30. Oktober, 13. November und 11. Dezember, jeweils 17 Uhr.",
+"price": "30 €",
+"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
+"sources": [
+"Bayreuth Marketing & Tourismus",
+"Bayreuth Tourismus",
+"Bayreuth Tourismus, Führungsprogramm 2026",
+"Stadt, Land, Leben (region-bayreuth.de)",
+"Bayreuth Tourismus (Führungsprogramm 2026)"
+],
+"house": "Stadtführungen",
+"id": "7daa05dd93",
+"termine": [
+{
+"date": "2026-11-13",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "17:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Das impressionistische Netzwerk: Künstler – Käufer – Galeristen",
 "subtitle": "Vortrag von Angela Lodes",
 "date": "2026-11-13",
@@ -6528,7 +6129,7 @@
 ],
 "description": "Das Vokalquartett tritt nur mit vier Stimmen und Mikrofonen auf.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261113-maybebop",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261113-sangeslust-2026-maybebop-vier-typen-vier-mikrofone-sonst-nichts",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -6552,7 +6153,7 @@
 ],
 "description": "Kabarett von Manuel Rubey und Simon Schwarz.",
 "price": "31,50–35,90 €",
-"url": "https://www.motion-kommunikation.de/event/rubey-schwarz-das-restaurant/",
+"url": "https://www.das-zentrum.de/veranstaltung/rubey-schwarz-das-restaurant/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -6823,7 +6424,7 @@
 {
 "date": "2026-11-14",
 "time": "19:00",
-"hinweis": null
+"hinweis": "Call Me Queen (OmU)"
 },
 {
 "date": "2026-11-15",
@@ -6833,7 +6434,7 @@
 {
 "date": "2026-11-15",
 "time": "18:30",
-"hinweis": null
+"hinweis": "Hirten – mit 827 Schafen in der Provence (OmU)"
 }
 ]
 },
@@ -6854,7 +6455,7 @@
 ],
 "description": "Lateinamerikanischer Tanzabend: um 18 Uhr ein Einsteiger-Tanzkurs, ab 20 Uhr freies Tanzen und ab 22 Uhr Party mit DJs (Salsa, Bachata, Merengue, Reggaeton). Vorkenntnisse sind nicht nötig.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261114-fuego-latin-night",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261114-fuego-latin-night",
 "sources": [
 "Friedrichsforum"
 ],
@@ -6928,7 +6529,7 @@
 ],
 "description": "Programm des Wortkünstlers Quichotte.",
 "price": "27,80 €",
-"url": "https://www.motion-kommunikation.de/event/quichotte-guter-dinge/",
+"url": "https://www.das-zentrum.de/veranstaltung/quichotte-guter-dinge/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -7029,7 +6630,7 @@
 ],
 "description": "Traditionskonzert der Reihe Sangeslust mit dem preisgekrönten Vokalsextett StimmGold.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261115-sangeslust-singsing-stimmgold",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261115-sangeslust-2026-singsing-mit-stimmgold",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -7225,7 +6826,7 @@
 ],
 "description": "Der Philharmonische Chor Bayreuth führt Haydns Oratorium auf.",
 "price": "31–39 €",
-"url": "https://www.friedrichsforum.de/programm/261115-philharmonischer-chor-bayreuth",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261115-die-jahreszeiten",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -7288,6 +6889,41 @@
 "house": "Neuneinhalb",
 "id": "6bbee28570",
 "termine": null
+},
+{
+"title": "Buch und Plausch – Weihnachts-Special",
+"subtitle": "Der literarische Kaffeeklatsch der Buchhandlung im KirchenEck",
+"date": "2026-11-17",
+"end_date": "2026-11-17",
+"time": "14:00",
+"venue": "Café SIMone, Sophienstraße 32",
+"organizer": "Buchhandlung im KirchenEck",
+"category": "Literatur",
+"tags": [
+"Buchtipps",
+"Weihnachten",
+"Gespräch"
+],
+"description": "Das Team der Buchhandlung im KirchenEck stellt bei Kaffee im Café SIMone Bücher für die Weihnachtszeit vor; die Runde findet zweimal statt, Plätze nur mit Anmeldung, Verzehr auf eigene Kosten.",
+"price": null,
+"url": "https://kircheneck.buchkatalog.de/Veranstaltungenaktuell",
+"termine": [
+{
+"date": "2026-11-17",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "17:00",
+"hinweis": null
+}
+],
+"sources": [
+"Buchhandlung im KirchenEck"
+],
+"house": "Kirchen",
+"id": "c84b0aa051"
 },
 {
 "title": "Bildbetrachtungen",
@@ -7365,7 +7001,7 @@
 ],
 "description": "Hannes Ringlstetter und Stephan Zinner mit gemeinsamem Programm aus Musik und Kabarett (ausverkauft).",
 "price": "ausverkauft",
-"url": "https://www.friedrichsforum.de/programm/motion-ringlstetter-zinner-kueche",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261117-ringlstetter-zinner",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -7379,7 +7015,7 @@
 "title": "Drei Nüsse für Aschenbrödel",
 "subtitle": null,
 "date": "2026-11-18",
-"end_date": "2026-12-27",
+"end_date": "2026-12-30",
 "time": "15:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -7437,6 +7073,11 @@
 {
 "date": "2026-12-27",
 "time": "10:00",
+"hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "15:00",
 "hinweis": null
 }
 ]
@@ -7562,7 +7203,7 @@
 ],
 "description": "Multimedia-Vortrag über eine Weltumrundung zugunsten der Initiative FLY & HELP.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261118-abenteuer-weltumrundung",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261118-live-show-abenteuer-weltumrundung",
 "sources": [
 "Friedrichsforum"
 ],
@@ -7654,6 +7295,30 @@
 "hinweis": null
 }
 ]
+},
+{
+"title": "WeinLeseabend",
+"subtitle": null,
+"date": "2026-11-19",
+"end_date": null,
+"time": "20:00",
+"venue": "Buchhandlung Rupprecht, Maximilianstraße",
+"organizer": "Buchhandlung Rupprecht",
+"category": "Literatur",
+"tags": [
+"Neuerscheinungen",
+"Buchvorstellung",
+"Wein"
+],
+"description": "Abend mit Vorstellungen neuer Bücher, dazu Wein und Gespräche in der Bayreuther Filiale der Buchhandlung Rupprecht.",
+"price": null,
+"url": "https://www.rupprecht.de/shop/magazine/96527/veranstaltungen.html",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Weitere Orte",
+"id": "e9cfb5e8ba"
 },
 {
 "title": "Bilderbuchkino: Uhuwe liest vor",
@@ -7768,7 +7433,7 @@
 ],
 "description": "Kammerkonzert der Kulturfreunde mit Werken von Puccini, Boulez, Safaian und Verdi.",
 "price": "25–75 €",
-"url": "https://www.friedrichsforum.de/programm/261120-kulturfreunde-niels-gade-quartet-1",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261120-niels-gade-quartet",
 "sources": [
 "Friedrichsforum",
 "Kulturfreunde Bayreuth",
@@ -7797,7 +7462,7 @@
 ],
 "description": "Bühnenprogramm des Comedians Nils Brunschede.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261120-nils-brunschede",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261120-nils-brunschede",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -8237,7 +7902,7 @@
 ],
 "description": "Tribute-Band mit den Songs von Fleetwood Mac.",
 "price": "47,90–74,90 €",
-"url": "https://www.friedrichsforum.de/programm/reset-prod-mirage-visions-of-fleetwood-mac",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261121-mirage-visions-of-fleetwood-mac",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -8263,7 +7928,7 @@
 ],
 "description": "Die Sängerin stellt mit Band ihr Neo-Soul-Programm „LUNA“ vor.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261121-debby-smith-3",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261121-debby-smith-band",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -8296,6 +7961,30 @@
 ],
 "house": "Glashaus",
 "id": "3948256b5e"
+},
+{
+"title": "Classic Rock Nacht",
+"subtitle": "mit DJ Lui und Micha Angerer",
+"date": "2026-11-21",
+"end_date": null,
+"time": "21:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Classic Rock",
+"DJ",
+"Party"
+],
+"description": "Partyabend mit Rockklassikern, aufgelegt von DJ Lui und Micha Angerer.",
+"price": null,
+"url": "https://www.bayreuth4u.de/event/classic-rock-nacht/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Neuneinhalb",
+"id": "2ec2fd70f2"
 },
 {
 "title": "Zutritt verboten – ein Blick hinter die Kulissen",
@@ -8454,7 +8143,7 @@
 ],
 "description": "Liederabend zur Ausstellung „Die Winterreise II“.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261122-winterreise",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261122-franz-schubert-die-winterreise",
 "sources": [
 "Friedrichsforum"
 ],
@@ -8756,7 +8445,7 @@
 ],
 "description": "Dokumentarfilm über die Folgen des Anschlags von Hanau, über Trauer und Erinnerung.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261123-das-deutsche-volk",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261123-dokufilmreihe-wirklichkeiten-das-deutsche-volk",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -8787,28 +8476,6 @@
 ],
 "house": "Das Zentrum",
 "id": "fd7fe214e7"
-},
-{
-"title": "Bayreuther Christkindlesmarkt",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": "2026-12-23",
-"time": null,
-"venue": "Innenstadt (Maximilianstraße/Marktplatz)",
-"organizer": "Stadt Bayreuth",
-"category": "Festival",
-"tags": [
-"Weihnachtsmarkt",
-"Advent"
-],
-"description": "Weihnachtsmarkt der Stadt Bayreuth in der Innenstadt mit Buden und Programm auf der Aktionsbühne am Stadtparkett; Eröffnung am 23.11. um 17 Uhr.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/eroeffnung-christkindlesmarktes-bayreuth-95444-n3plem",
-"sources": [
-"Stadt Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "d0d55d0039"
 },
 {
 "title": "Die »Schönsten Deutschen Bücher« 2026",
@@ -9038,29 +8705,6 @@
 "id": "7e053e1950"
 },
 {
-"title": "Trefft den Weihnachtsmann",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2026-12-21",
-"time": "15:00",
-"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
-"organizer": "Stadt Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Christkindlesmarkt",
-"Kinder",
-"Advent"
-],
-"description": "Kinder und Familien können auf der Aktionsbühne des Christkindlesmarkts dem Weihnachtsmann begegnen. Weitere Termine: 1., 15. und 21. Dezember.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/trefft-weihnachtsmann-bayreuth-95444-2nju7k",
-"sources": [
-"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "ff23684c16"
-},
-{
 "title": "Orange Day – Gemeinsam gegen Gewalt an Frauen",
 "subtitle": "Podiumsdiskussion",
 "date": "2026-11-25",
@@ -9090,7 +8734,7 @@
 "date": "2026-11-25",
 "end_date": null,
 "time": "19:33",
-"venue": "DAS ZENTRUM – Europasaal",
+"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
 "organizer": "Agentur Streckenbach",
 "category": "Kabarett & Comedy",
 "tags": [
@@ -9638,7 +9282,7 @@
 ],
 "description": "Die Jazzsängerin präsentiert mit Trio ihr Programm „Two Whole Summers, Half A Life“.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261127-lisa-bassenge",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261127-lisa-bassenge-trio",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -9664,7 +9308,7 @@
 ],
 "description": "Fränkisches Kabarett von Ines Procter.",
 "price": "31,50 €",
-"url": "https://www.motion-kommunikation.de/event/ines-procter-i-dont-kehr-3/",
+"url": "https://www.das-zentrum.de/veranstaltung/ines-procter-i-dont-kehr/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -10035,7 +9679,7 @@
 ],
 "description": "Tanzshow mit irischem Stepptanz und Livemusik.",
 "price": "45,90–72,90 €",
-"url": "https://www.friedrichsforum.de/programm/reset-prod-dance-masters",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261128-dance-masters-best-of-irish-dance",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth",
@@ -10376,7 +10020,7 @@
 ],
 "description": "Familienmusical um den kleinen Drachen Tabaluga.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261129-wwhy-not-events-tabaluga",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261129-tabaluga-und-lilli",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -10481,6 +10125,30 @@
 "id": "3470b7142b"
 },
 {
+"title": "Themenführung: Gesteine – Zeugen der Erdgeschichte Oberfrankens",
+"subtitle": null,
+"date": "2026-11-29",
+"end_date": null,
+"time": null,
+"venue": "Urwelt-Museum Oberfranken, Kanzleistraße 1",
+"organizer": "Urwelt-Museum Oberfranken (SNSB)",
+"category": "Führung",
+"tags": [
+"Geologie",
+"Museum",
+"Erdgeschichte"
+],
+"description": "Themenführung durch das Urwelt-Museum zu den Gesteinen Oberfrankens als Zeugnissen der Erdgeschichte; für Museumsbesucher frei, höchstens 15 Personen.",
+"price": null,
+"url": "https://urwelt-museum.snsb.de/",
+"termine": null,
+"sources": [
+"Urwelt-Museum Oberfranken"
+],
+"house": "Urwelt-Museum",
+"id": "c7fab9c2a6"
+},
+{
 "title": "Frankreich und Franken – Berührungspunkte vom Mittelalter bis ins 20. Jahrhundert",
 "subtitle": "Vortrag von Prof. Dr. Günter Dippold",
 "date": "2026-11-30",
@@ -10522,7 +10190,7 @@
 ],
 "description": "Fünf Frauen schildern Erfahrungen mit Sexismus und Humor im deutschen Fernsehen.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261130-was-haben-wir-gelacht",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261130-dokufilmreihe-wirklichkeiten-was-haben-wir-gelacht",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -10834,7 +10502,7 @@
 ],
 "description": "Orchesterkonzert mit Auszügen aus dem „Ring des Nibelungen“ unter Oksana Lyniv.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261202-oksana-lyniv-mdr-sinfonie",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261202-wagner-oksana-lyniv-und-das-mdr-sinfonierorchester",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -10992,42 +10660,6 @@
 "id": "43bbf48c2c"
 },
 {
-"title": "Theater Hof: Frau Holle",
-"subtitle": "Schauspiel nach dem Märchen der Brüder Grimm",
-"date": "2026-12-04",
-"end_date": "2026-12-15",
-"time": "10:30",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Friedrichsforum",
-"category": "Kinder & Familie",
-"tags": [
-"Märchen",
-"Kindertheater",
-"Theater Hof",
-"Schulvorstellung"
-],
-"description": "Das Theater Hof spielt das Grimm-Märchen von der fleißigen Marie und Frau Holle für Kinder ab 4 Jahren; die Vorstellungen sind für Schulen und Kindergärten gedacht.",
-"price": null,
-"url": "https://www.friedrichsforum.de/programm/261204-theater-hof-frau-holle",
-"termine": [
-{
-"date": "2026-12-04",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "10:30",
-"hinweis": null
-}
-],
-"sources": [
-"Friedrichsforum"
-],
-"house": "Friedrichsforum",
-"id": "b3f313a270"
-},
-{
 "title": "Weihnachtslieder mit Nikolai Denisov",
 "subtitle": null,
 "date": "2026-12-04",
@@ -11049,6 +10681,30 @@
 ],
 "house": "Weitere Orte",
 "id": "86322d4cac"
+},
+{
+"title": "Musikalischer Mitsingnachmittag: Evergreens mit Duo Nostalgie",
+"subtitle": null,
+"date": "2026-12-04",
+"end_date": null,
+"time": "15:00",
+"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Mitsingen",
+"Evergreens",
+"Senioren"
+],
+"description": "Demenzfreundliches Mitsingangebot für ältere Menschen und Angehörige in Kooperation mit dem Seniorenamt: Das Duo Nostalgie begleitet Schlager, Volkslieder und Filmmusik der 1930er bis 60er Jahre.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/musikalischer-mitsingnachmittag-evergreens-duo-nostalgie-bayreuth-95444-rikqyx",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)",
+"RW21 Stadtbibliothek"
+],
+"house": "RW21",
+"id": "5b8a08c673"
 },
 {
 "title": "Posaunenchor Warmensteinach",
@@ -11115,7 +10771,7 @@
 ],
 "description": "Duoabend mit Jakow Pavlenko (Violine) und Sonja Kowollik (Klavier): Kreisler, Schumann, Schubert, Elgar, Franck.",
 "price": "25–75 €",
-"url": "https://www.friedrichsforum.de/programm/261204-kulturfreunde-pavlenko-kowollik",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261204-pavlenko-kowollik",
 "sources": [
 "Friedrichsforum",
 "Kulturfreunde Bayreuth",
@@ -11481,7 +11137,7 @@
 ],
 "description": "Abend mit mehreren Vokalensembles im Rahmen der Reihe Sangeslust.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261205-a-cappella-nacht",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261205-sangeslust-2026-bayreuther-a-capella-nacht",
 "sources": [
 "Friedrichsforum"
 ],
@@ -11528,7 +11184,7 @@
 ],
 "description": "Konzert des sizilianischen Liedermachers mit Akustikquartett.",
 "price": "46,20 €",
-"url": "https://www.motion-kommunikation.de/event/pippo-pollina-quartetto-acustico/",
+"url": "https://www.das-zentrum.de/veranstaltung/pippo-pollina-quartetto-acustico-la-vita-e-bella-cosi-come/",
 "sources": [
 "motion kommunikation",
 "motion Kommunikation",
@@ -11542,7 +11198,7 @@
 "title": "Tannöd – Ein Kriminalfall",
 "subtitle": "nach dem Roman von Andrea Maria Schenkel",
 "date": "2026-12-05",
-"end_date": "2026-12-30",
+"end_date": "2026-12-31",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Hauptbühne, Röntgenstraße",
 "organizer": "Studiobühne Bayreuth",
@@ -11554,7 +11210,7 @@
 "Dorfgemeinschaft"
 ],
 "description": "Bühnenfassung des Kriminalromans von Andrea Maria Schenkel.",
-"price": null,
+"price": "20 €, ermäßigt 13 € (Silvester 22/15 € inkl. Sekt)",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166&collection_code=produktionen",
 "sources": [
 "Studiobühne Bayreuth",
@@ -11586,6 +11242,11 @@
 {
 "date": "2026-12-30",
 "time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-31",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -11729,7 +11390,7 @@
 ],
 "description": "Der junge Musiker Konstantin Kölmel spielt mit Band und dem Trompeter Randy Brecker.",
 "price": "18–53 €",
-"url": "https://www.friedrichsforum.de/programm/261206-konstantin-koelmel-randy-brecker",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261206-konstantin-koelmel-project-feat-randy-brecker",
 "sources": [
 "Friedrichsforum"
 ],
@@ -11797,7 +11458,7 @@
 ],
 "description": "Dokumentarfilm über sieben Kunstschaffende in einem gemeinsamen Atelier.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261207-zeppelin-oben-rechts",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261207-dokufilmreihe-wirklichkeiten-zeppelin-oben-rechts",
 "sources": [
 "Friedrichsforum"
 ],
@@ -11888,7 +11549,7 @@
 "tags": [
 "Öffentliche Probe",
 "Musil",
-"Uraufführung"
+"Schauspiel"
 ],
 "description": "Offene Probe zur Bühnenfassung nach Robert Musils Roman; Besucher können der Probenarbeit vor der Premiere zusehen.",
 "price": "frei",
@@ -12134,7 +11795,7 @@
 ],
 "description": "Gastspiel des Theaters Hof: Holmes und Watson jagen in Ken Ludwigs Komödie mit Verkleidungen und falschen Fährten den Professor Moriarty. Regie führt Ralf Hocke.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261210-theater-hof-sherlock-holmes",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261210-theater-hof-sherlock-holmes-der-fall-moriarty",
 "sources": [
 "Friedrichsforum"
 ],
@@ -12272,7 +11933,7 @@
 ],
 "description": "Das Bundespolizeiorchester München unter Leitung von Philipp Armbruster spielt ein Benefizkonzert, dessen Erlös der Stammzellspenderdatei DKMS zugutekommt. Das Repertoire des Orchesters reicht von sinfonischer Blasmusik bis zu Unterhaltungsmusik.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261211-bundespolizeiorchester",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261211-bundespolizeiorchester-muenchen",
 "sources": [
 "Friedrichsforum"
 ],
@@ -12362,7 +12023,7 @@
 ],
 "description": "Der Jazztrompeter spielt mit Klavier, Bass und Schlagzeug ein Weihnachtsprogramm aus deutschen Weihnachtsliedern, Popstücken und amerikanischen Standards in Jazzbearbeitung.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261212-till-broenner",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261212-till-broenner-trio-christmas-live-2026",
 "sources": [
 "Friedrichsforum Bayreuth"
 ],
@@ -12454,7 +12115,7 @@
 ],
 "description": "Emmanuel Peterfalvi alias Reporter Alfons erzählt in seinem Programm Anekdoten über Deutschland und seine großen Themen.",
 "price": "33,70 €",
-"url": "https://www.motion-kommunikation.de/event/alfons-klasse/",
+"url": "https://www.das-zentrum.de/veranstaltung/alfons-klasse/",
 "sources": [
 "motion kommunikation"
 ],
@@ -12546,7 +12207,7 @@
 ],
 "description": "Dokumentarfilm von Michael Schwarz (D 2025) über den Bestatter Eric Wrede und sein Team, die Verstorbene und Angehörige auf ungewöhnliche Weise begleiten.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261214-der-tod-ist-ein-arschloch",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261214-dokufilmreihe-wirklichkeiten-der-tod-ist-ein-arschloch",
 "sources": [
 "Friedrichsforum"
 ],
@@ -12730,7 +12391,7 @@
 ],
 "description": "Der argentinische Schlagersänger Semino Rossi gastiert mit seinem weihnachtlichen Tourprogramm im Großen Saal des Friedrichsforums.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/161217-semino-rossi-feliz-navidad",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261217-semino-rossi-feliz-navidad-tour-2026",
 "sources": [
 "Friedrichsforum"
 ],
@@ -12906,7 +12567,7 @@
 "title": "Die Verwirrungen des Zöglings Törless",
 "subtitle": null,
 "date": "2026-12-18",
-"end_date": "2026-12-27",
+"end_date": "2026-12-31",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
 "organizer": "Studiobühne Bayreuth e.V.",
@@ -12917,7 +12578,7 @@
 "Romanadaption"
 ],
 "description": "Uraufführung von Uwe Hoppes Bühnenfassung nach Robert Musils Roman über Demütigung und Gewalt unter Internatsschülern.",
-"price": null,
+"price": "20 €, ermäßigt 13 €",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2164&collection_code=produktionen",
 "sources": [
 "Studiobühne Bayreuth"
@@ -12934,6 +12595,11 @@
 {
 "date": "2026-12-27",
 "time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-31",
+"time": "20:00",
 "hinweis": null
 }
 ]
@@ -13106,7 +12772,7 @@
 ],
 "description": "Der isländische Liedermacher Svavar Knútur kommt mit seinem weihnachtlichen Tourprogramm in den Kleinen Saal.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261219-svavar-knutur",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261219-svavar-knutur",
 "sources": [
 "Friedrichsforum"
 ],
@@ -13131,7 +12797,7 @@
 ],
 "description": "Der Windsbacher Knabenchor führt Bachs Weihnachtsoratorium im Großen Saal auf.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261219-windsbacher",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261219-windsbacher-knabenchor-j-s-bach-weihnachtsoratorium",
 "sources": [
 "Friedrichsforum"
 ],
@@ -13252,7 +12918,7 @@
 ],
 "description": "Das Vokalensemble magpie alley gibt im Rahmen des A-cappella-Festivals Sangeslust ein Weihnachtskonzert im Balkonsaal.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261220-magpie-alley",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261220-sangeslust-2026-weihnachtskonzert-mit-magpie-alley",
 "sources": [
 "Friedrichsforum"
 ],
@@ -13321,7 +12987,7 @@
 ],
 "description": "Der Dokumentarfilm begleitet ein Jahr lang eine Wohngruppe mit fünf Kindern und ihren Betreuerinnen und Betreuern und zeigt den Alltag der Kinder- und Jugendhilfe.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261221-im-prinzip-familie",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261221-dokufilmreihe-wirklichkeiten-im-prinzip-familie",
 "sources": [
 "Friedrichsforum"
 ],
@@ -13344,7 +13010,7 @@
 ],
 "description": "Die Soul- und Funkband Soulounge spielt im Balkonsaal Stücke aus ihrem Programm „Keep the Funk alive“.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261222-soulounge",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261222-soulounge-keep-the-funk-alive",
 "sources": [
 "Friedrichsforum"
 ],
@@ -13379,7 +13045,7 @@
 "title": "Lichterglanz und Sternenklang",
 "subtitle": "Klanginstallation von Michael Lippert",
 "date": "2026-12-25",
-"end_date": "2026-12-29",
+"end_date": "2026-12-31",
 "time": "16:00",
 "venue": "Ordenskirche St. Georgen, St. Georgen 50",
 "organizer": "Kirchenmusik an der Ordenskirche St. Georgen",
@@ -13418,6 +13084,16 @@
 "date": "2026-12-29",
 "time": "16:00",
 "hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-31",
+"time": "19:00",
+"hinweis": null
 }
 ],
 "sources": [
@@ -13442,7 +13118,7 @@
 ],
 "description": "Weihnachtliche Gala, die bekannte Musicalnummern mit klassischen Weihnachtsliedern verbindet; ein Ensemble singt live in Kostüm und Bühnenbild.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/reset-prod-a-musical-christmas",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261225-a-musical-christmas",
 "termine": null,
 "sources": [
 "Friedrichsforum"
@@ -13466,7 +13142,7 @@
 ],
 "description": "Eisshow mit Musik aus Disney-Filmen wie Aladdin, Mulan, Vaiana, Der König der Löwen und Arielle.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261227-agenda-production-disney-hits-on-ice",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261227-disney-hits-in-musical-dreams-on-ice",
 "termine": null,
 "sources": [
 "Friedrichsforum"
@@ -13490,7 +13166,7 @@
 ],
 "description": "Eisshow mit Liedern aus den Filmen „Die Eiskönigin“ 1 und 2.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261227-agenda-production-eiskoenigin",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261227-eiskoenigin-12-musik-show-auf-eis",
 "termine": null,
 "sources": [
 "Friedrichsforum"
@@ -13575,7 +13251,7 @@
 ],
 "description": "Der Sänger Tom Gaebel und sein Orchester spielen amerikanische Weihnachtsklassiker im Swing-Gewand.",
 "price": null,
-"url": "https://www.friedrichsforum.de/programm/261228-tom-gaebel",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261228-tom-gaebel-swinging-christmas",
 "termine": null,
 "sources": [
 "Friedrichsforum"
