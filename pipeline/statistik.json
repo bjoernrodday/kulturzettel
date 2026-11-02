@@ -1,26 +1,46 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-11-01T05:13+01:00",
+ "abgerufen": "2026-11-02T05:20+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-10-31",
-  "bis": "2026-10-31",
-  "besucher": 7,
+  "von": "2026-11-01",
+  "bis": "2026-11-01",
+  "besucher": 33,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
+    "besucher": 21
+   },
+   {
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
     "besucher": 4
    },
    {
-    "pfad": "/ort/markgraefliches-opernhaus.html",
-    "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/impressum.html",
+    "titel": "Impressum – Kulturzettel Bayreuth",
+    "besucher": 3
+   },
+   {
+    "pfad": "/sparte/ausstellungen.html",
+    "titel": "Ausstellungen in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/games.html",
+    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/schloesser-eremitage.html",
+    "titel": "Schlösser & Eremitage: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
@@ -32,31 +52,39 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 2
-   },
-   {
-    "name": "Google",
-    "besucher": 2
+    "besucher": 17
    },
    {
     "name": "chatgpt.com",
-    "besucher": 2
+    "besucher": 7
    },
    {
-    "name": "kulturzettel-bayreuth.de/ort/markgraefliches-opernhaus.html",
+    "name": "kulturzettel-bayreuth.de",
+    "besucher": 6
+   },
+   {
+    "name": "Google",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/ueber.html",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/index.html",
     "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-25",
-  "bis": "2026-10-31",
-  "besucher": 103,
+  "von": "2026-10-26",
+  "bis": "2026-11-01",
+  "besucher": 135,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 62
+    "besucher": 83
    },
    {
     "pfad": "/sparte/club-party.html",
@@ -66,7 +94,12 @@
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 7
+    "besucher": 8
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 5
    },
    {
     "pfad": "/sparte/klassik.html",
@@ -74,9 +107,14 @@
     "besucher": 4
    },
    {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
     "besucher": 4
+   },
+   {
+    "pfad": "/impressum.html",
+    "titel": "Impressum – Kulturzettel Bayreuth",
+    "besucher": 3
    },
    {
     "pfad": "/ort/markgraefliches-opernhaus.html",
@@ -87,6 +125,21 @@
     "pfad": "/ort/stadtfuehrungen.html",
     "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 2
+   },
+   {
+    "pfad": "/sparte/ausstellungen.html",
+    "titel": "Ausstellungen in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/games.html",
+    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/schloesser-eremitage.html",
+    "titel": "Schlösser & Eremitage: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/datenschutz.html",
@@ -102,45 +155,24 @@
     "pfad": "/ort/universitaet.html",
     "titel": "Universität: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
-   },
-   {
-    "pfad": "/ort/liebesbier.html",
-    "titel": "Liebesbier: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/brandenburger-kulturstadl.html",
-    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/film.html",
-    "titel": "Filmvorführungen und Filmreihen in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/iwalewahaus.html",
-    "titel": "Iwalewahaus: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/das-zentrum.html",
-    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
    }
   ],
   "herkunft": [
    {
-    "name": "chatgpt.com",
-    "besucher": 31
+    "name": "(direkt)",
+    "besucher": 46
    },
    {
-    "name": "(direkt)",
-    "besucher": 30
+    "name": "chatgpt.com",
+    "besucher": 38
    },
    {
     "name": "Google",
-    "besucher": 19
+    "besucher": 20
+   },
+   {
+    "name": "kulturzettel-bayreuth.de",
+    "besucher": 11
    },
    {
     "name": "kulturtoepfe.de",
@@ -151,15 +183,15 @@
     "besucher": 6
    },
    {
-    "name": "kulturzettel-bayreuth.de",
-    "besucher": 5
-   },
-   {
     "name": "www.facebook.com",
     "besucher": 3
    },
    {
     "name": "kulturzettel-bayreuth.de/index.html",
+    "besucher": 2
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/ueber.html",
     "besucher": 1
    },
    {
@@ -169,14 +201,14 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-10-04",
-  "bis": "2026-10-31",
-  "besucher": 141,
+  "von": "2026-10-05",
+  "bis": "2026-11-01",
+  "besucher": 174,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 90
+    "besucher": 111
    },
    {
     "pfad": "/sparte/club-party.html",
@@ -186,16 +218,21 @@
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 9
+    "besucher": 10
    },
    {
-    "pfad": "/sparte/klassik.html",
-    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 4
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
+    "besucher": 7
    },
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 5
+   },
+   {
+    "pfad": "/sparte/klassik.html",
+    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
     "besucher": 4
    },
    {
@@ -204,8 +241,8 @@
     "besucher": 4
    },
    {
-    "pfad": "/ueber.html",
-    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
+    "pfad": "/impressum.html",
+    "titel": "Impressum – Kulturzettel Bayreuth",
     "besucher": 3
    },
    {
@@ -219,6 +256,21 @@
     "besucher": 2
    },
    {
+    "pfad": "/sparte/ausstellungen.html",
+    "titel": "Ausstellungen in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/games.html",
+    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/schloesser-eremitage.html",
+    "titel": "Schlösser & Eremitage: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
     "pfad": "/datenschutz.html",
     "titel": "Datenschutz – Kulturzettel Bayreuth",
     "besucher": 1
@@ -227,44 +279,24 @@
     "pfad": "/sparte/kabarett-comedy.html",
     "titel": "Kabarett und Comedy in Bayreuth – Kulturzettel",
     "besucher": 1
-   },
-   {
-    "pfad": "/ort/universitaet.html",
-    "titel": "Universität: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/liebesbier.html",
-    "titel": "Liebesbier: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/brandenburger-kulturstadl.html",
-    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/film.html",
-    "titel": "Filmvorführungen und Filmreihen in Bayreuth – Kulturzettel",
-    "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 56
+    "besucher": 73
    },
    {
     "name": "chatgpt.com",
-    "besucher": 31
+    "besucher": 38
    },
    {
     "name": "Google",
-    "besucher": 19
+    "besucher": 20
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 10
+    "besucher": 16
    },
    {
     "name": "l.instagram.com",
@@ -280,57 +312,57 @@
    },
    {
     "name": "kulturzettel-bayreuth.de/ueber.html",
-    "besucher": 1
+    "besucher": 2
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/index.html",
+    "besucher": 2
    },
    {
     "name": "www.kulturzettel-bayreuth.de",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/kino.html",
     "besucher": 1
    }
   ],
   "browser": [
    {
     "name": "Chrome",
-    "besucher": 78
+    "besucher": 94
    },
    {
     "name": "Safari",
-    "besucher": 58
+    "besucher": 74
    },
    {
     "name": "Firefox",
-    "besucher": 5
+    "besucher": 6
    }
   ],
   "systeme": [
    {
-    "name": "Android",
-    "besucher": 56
+    "name": "iOS",
+    "besucher": 70
    },
    {
-    "name": "iOS",
-    "besucher": 56
+    "name": "Android",
+    "besucher": 69
    },
    {
     "name": "Windows",
-    "besucher": 16
+    "besucher": 17
    },
    {
     "name": "macOS",
-    "besucher": 8
+    "besucher": 10
    },
    {
     "name": "Linux",
-    "besucher": 5
+    "besucher": 8
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 111
+    "besucher": 141
    },
    {
     "name": "",
@@ -338,7 +370,7 @@
    },
    {
     "name": "",
-    "besucher": 27
+    "besucher": 30
    },
    {
     "name": "",
@@ -352,7 +384,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 124
+    "besucher": 156
    },
    {
     "name": "United Kingdom",
@@ -375,20 +407,16 @@
     "besucher": 2
    },
    {
-    "name": "Spain",
+    "name": "Czechia",
     "besucher": 1
    },
    {
-    "name": "Ethiopia",
+    "name": "Spain",
     "besucher": 1
    }
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-08-03",
-   "besucher": 0
-  },
   {
    "tag": "2026-08-04",
    "besucher": 0
@@ -747,6 +775,10 @@
   },
   {
    "tag": "2026-11-01",
+   "besucher": 33
+  },
+  {
+   "tag": "2026-11-02",
    "besucher": 0
   }
  ]
