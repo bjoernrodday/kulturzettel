@@ -2421,8 +2421,11 @@ document.querySelectorAll(".scroller").forEach(sc=>{
 $("#f-house").addEventListener("change",e=>{st.house=e.target.value;render()});
 let tq;$("#f-q").addEventListener("input",e=>{clearTimeout(tq);tq=setTimeout(()=>{st.q=e.target.value.trim();render()},160)});
 
-fetch("filme.json",{cache:"no-store"}).then(r=>r.json()).then(k=>{
-  if(!k||k.date!==TODAY||!k.films||!k.films.length)return;
+Promise.all(["kinopuffer.json","filme.json"].map(u=>fetch(u,{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null))).then(([p,f])=>{
+  const day=p&&p.tage&&p.tage[TODAY];
+  const other=(f&&f.date===TODAY&&Array.isArray(f.films)?f.films:[]).filter(x=>x.source!=="Cineplex Bayreuth");
+  const k={date:TODAY,films:[...(day&&day.vollstaendig?day.films:[]),...(day&&day.vollstaendig?other:[])]};
+  if(!k.films.length)return;
   const upd=()=>{
   if(new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Berlin"})!==k.date){$("#kino-t").textContent="Was heute in Bayreuth im Kino läuft";$("#kino-s").textContent="Tagesprogramm mit Vorstellungen, Sälen und Genres";return}
   const now=new Date().toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"});
