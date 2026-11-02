@@ -188,7 +188,7 @@ a.show:hover{background:var(--ink);color:var(--paper)}
 </header>
 
 <div class="wrap"><a class="kino" href="index.html">
-  <span class="kino-l"><span class="kino-k">← Zurück zum Kulturzettel</span><span class="kino-t">Alle Kulturtermine in Bayreuth</span><span class="kino-s">Bühnen, Konzerte, Ausstellungen, Führungen und Film-Sonderveranstaltungen der nächsten zwei Monate</span></span>
+  <span class="kino-l"><span class="kino-k">← Zurück zum Kulturzettel</span><span class="kino-t">Kulturtermine in Bayreuth</span><span class="kino-s">Bühnen, Konzerte, Ausstellungen, Führungen und Film-Sonderveranstaltungen der nächsten zwei Monate</span></span>
   <span class="kino-go">← Zum Kulturzettel</span>
 </a></div>
 
@@ -383,7 +383,7 @@ a.show:hover{background:var(--ink);color:var(--paper)}
     </div>
     <a class="link" href="https://www.cineplex.de/bayreuth/programm" target="_blank" rel="noopener">Tickets &amp; Zeiten ↗</a>
   </article></main>
-<footer class="wrap" id="foot"><p>Der Kinozettel liest jeden Morgen das veröffentlichte Tagesprogramm der Bayreuther Kinos und Filmveranstalter aus. Maßgeblich sind ausschließlich die Angaben der Kinos, auf deren Seiten jeder Film verlinkt – Zeiten können sich kurzfristig ändern. Für Richtigkeit und Vollständigkeit wird keine Gewähr übernommen.</p>
+<footer class="wrap" id="foot"><p>Der Kinozettel liest regelmäßig das veröffentlichte Programm der Bayreuther Kinos und Filmveranstalter aus. Maßgeblich sind ausschließlich die Angaben der Kinos, auf deren Seiten jeder Film verlinkt – Zeiten können sich kurzfristig ändern. Für Richtigkeit und Vollständigkeit wird keine Gewähr übernommen.</p>
   <p class="legal"><a href="index.html">Kulturzettel</a> · <a href="ueber.html">Über den Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Projekt von <a href="ueber.html" class="nb">Björn Rodday</a>.</p></footer>
 
 <script>
@@ -396,13 +396,14 @@ const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&g
 const TODAY=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Berlin"});
 const NOW=()=>new Date().toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"});
 const st={gen:new Set(),site:"",q:"",now:true,ov:false,kids:false};
+const CINE="https://www.cineplex.de/bayreuth/programm";
 let D=null;
 function siteOf(f,s){return f.venue+(s.site&&s.site!=="Haupthaus"?" – "+s.site:"")}
 function isOV(s){return (s.flags||[]).some(x=>/^(OV|OmU|OmdU)/.test(x))}
 function shows(f){const n=NOW();return f.shows.filter(s=>(!st.site||siteOf(f,s)===st.site)&&(!st.ov||isOV(s))&&(!st.now||D.date!==TODAY||s.time>=n))}
 function ok(f,ignoreGen){
   if(!ignoreGen&&st.gen.size&&!f.genres.some(g=>st.gen.has(g)))return false;
-  if(st.kids&&!(f.fsk==="0"||f.fsk==="6"))return false;
+  if(st.kids&&!(String(f.fsk)==="0"||String(f.fsk)==="6"))return false;
   if(st.q){const h=[f.title,f.venue,f.genres.join(" "),(f.badges||[]).join(" ")].join(" ").toLowerCase();if(!st.q.toLowerCase().split(/\s+/).every(w=>h.includes(w)))return false}
   return shows(f).length>0}
 function chips(){
@@ -432,19 +433,20 @@ function render(){
   chips();
   const fs=D.films.filter(f=>ok(f)).sort((a,b)=>shows(a)[0].time.localeCompare(shows(b)[0].time));
   const total=fs.reduce((n,f)=>n+shows(f).length,0);
-  if(D.date!==TODAY){$("#prog").innerHTML=`<div class="empty">Das Kinoprogramm für heute ist noch nicht eingelesen. Der letzte Stand ist vom ${esc(D.date.split("-").reverse().join("."))} – bitte direkt beim Kino nachsehen.</div>`;return}
-  $("#prog").innerHTML=fs.length?`<div class="sec-h"><h2>${st.now?"Heute noch":"Heute"}</h2><span>${fs.length} ${fs.length===1?"Film":"Filme"} · ${total} Vorstellungen</span></div>`+fs.map(card).join("")
-    :`<div class="empty">${st.now?"Heute läuft mit dieser Auswahl nichts mehr. Schalte „Ab jetzt“ aus, um das ganze Tagesprogramm zu sehen.":"Für diese Auswahl läuft heute nichts."}</div>`;
+  const hint=D.cineFehlt?`<div class="empty">${D.cineTeil?"Das Programm des Cineplex für heute liegt dem Kinozettel nur teilweise vor.":"Das Programm des Cineplex für heute liegt dem Kinozettel gerade nicht vor."} Alle Filme und Zeiten stehen direkt beim Kino: <a href="${CINE}" target="_blank" rel="noopener">Programm des Cineplex Bayreuth ↗</a></div>`:"";
+  if(D.cineFehlt&&!D.films.length){$("#prog").innerHTML=hint;["now","ov","kids"].forEach(k=>$("#f-"+k).setAttribute("aria-pressed",st[k]));return}
+  $("#prog").innerHTML=hint+(fs.length?`<div class="sec-h"><h2>${st.now?"Heute noch":"Heute"}</h2><span>${fs.length} ${fs.length===1?"Film":"Filme"} · ${total} Vorstellungen</span></div>`+fs.map(card).join("")
+    :`<div class="empty">${st.now?"Heute läuft mit dieser Auswahl nichts mehr. Schalte „Ab jetzt“ aus, um das ganze Tagesprogramm zu sehen.":"Für diese Auswahl läuft heute nichts."}</div>`);
   ["now","ov","kids"].forEach(k=>$("#f-"+k).setAttribute("aria-pressed",st[k]));
 }
 function head(){
   const d=new Date(D.date+"T12:00:00");
   $("#issue").textContent="Bayreuth · Kinoprogramm · "+WD[d.getDay()]+", "+d.getDate()+". "+MO[d.getMonth()]+" "+d.getFullYear();
-  if(D.updated){const u=new Date(D.updated);$("#upd").textContent="Stand "+u.toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"})+" Uhr"}
+  if(D.updated){const u=new Date(D.updated);const ud=u.toLocaleDateString("sv-SE",{timeZone:"Europe/Berlin"});$("#upd").textContent="Stand "+(ud===TODAY?"":u.toLocaleDateString("de-DE",{timeZone:"Europe/Berlin",day:"numeric",month:"numeric"})+", ")+u.toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"})+" Uhr"}
   const sites=[...new Set(D.films.flatMap(f=>f.shows.map(s=>siteOf(f,s))))].sort((a,b)=>a.localeCompare(b,"de"));
   $("#f-site").innerHTML='<option value="">Alle Kinos &amp; Säle</option>'+sites.map(s=>`<option>${esc(s)}</option>`).join("");
   $("#stats").innerHTML=`<div><b>${D.films.length}</b><small>Filme heute</small></div><div><b>${D.films.reduce((n,f)=>n+f.shows.length,0)}</b><small>Vorstellungen</small></div><div><b>${sites.length}</b><small>Spielorte</small></div>`;
-  $("#foot").innerHTML=`<p>Der Kinozettel liest jeden Morgen das veröffentlichte Tagesprogramm der Bayreuther Kinos und Filmveranstalter aus. Maßgeblich sind ausschließlich die Angaben der Kinos, auf deren Seiten jeder Film verlinkt – Zeiten können sich kurzfristig ändern. Für Richtigkeit und Vollständigkeit wird keine Gewähr übernommen.</p>
+  $("#foot").innerHTML=`<p>Der Kinozettel liest regelmäßig das veröffentlichte Programm der Bayreuther Kinos und Filmveranstalter aus. Maßgeblich sind ausschließlich die Angaben der Kinos, auf deren Seiten jeder Film verlinkt – Zeiten können sich kurzfristig ändern. Für Richtigkeit und Vollständigkeit wird keine Gewähr übernommen.</p>
   <p class="legal"><a href="index.html">Kulturzettel</a> · <a href="ueber.html">Über den Kulturzettel</a> · <a href="quellen.html">Quellen</a> · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · Ein privates, nicht-kommerzielles Projekt von <a href="ueber.html" class="nb">Björn Rodday</a>.</p>`}
 document.addEventListener("click",ev=>{const b=ev.target.closest("button");if(!b)return;
   if(b.dataset.g!==undefined){const g=b.dataset.g;if(!g)st.gen.clear();else st.gen.has(g)?st.gen.delete(g):st.gen.add(g);render()}
@@ -453,7 +455,15 @@ $("#f-site").addEventListener("change",e=>{st.site=e.target.value;render()});
 let tq;$("#f-q").addEventListener("input",e=>{clearTimeout(tq);tq=setTimeout(()=>{st.q=e.target.value.trim();render()},160)});
 setInterval(()=>{if(D&&st.now)render()},60000);
 const go=d=>{D=d;head();render()};
-if(window.FILME)go(window.FILME);else fetch("filme.json",{cache:"no-store"}).then(r=>r.json()).then(go).catch(()=>{$("#prog").innerHTML='<div class="empty">Das Kinoprogramm konnte gerade nicht geladen werden. Bitte die Seite neu laden.</div>'});
+// Cineplex: aus dem Vorrat kinopuffer.json (Abruf über Chrome, mehrere Tage im Voraus) nur den heutigen Tag;
+// andere Filmorte aus filme.json (tägliche Aktualisierung), wenn deren Datum heute ist.
+const J=u=>fetch(u,{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null);
+function compose(p,f){
+  const day=p&&p.tage&&p.tage[TODAY];
+  const other=(f&&f.date===TODAY&&Array.isArray(f.films)?f.films:[]).filter(x=>x.source!=="Cineplex Bayreuth");
+  const cine=day?day.films:[];
+  return {date:TODAY,updated:day?p.abgerufen:(f&&f.date===TODAY?f.updated:null),films:[...cine,...other],cineFehlt:!day||!day.vollstaendig,cineTeil:!!(day&&!day.vollstaendig&&cine.length)}}
+Promise.all([J("kinopuffer.json"),J("filme.json")]).then(([p,f])=>go(compose(p,f)));
 })();
 </script>
 

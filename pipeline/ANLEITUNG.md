@@ -93,3 +93,12 @@ Die GitHub Action `.github/workflows/suchmaschinen.yml` läuft nach jedem Push v
 - schreibt sitemap.xml und meldet geänderte Seiten über `pipeline/indexnow.py` an IndexNow (Schlüssel in pipeline/indexnow_key.txt und als Datei im Hauptordner)
 
 Die tägliche Aufgabe fasst diese Dateien nicht an. Wer index.html von Hand ändert, lässt die Markierungen stehen; die Action baut danach automatisch neu. Google Search Console ist für die Domain eingerichtet (Konto bjoern.rodday@gmail.com, Bestätigung per TXT-Eintrag bei netcup).
+
+## Kinoprogramm des Cineplex über Chrome (seit 02.11.2026)
+
+Seit Ende Oktober 2026 steht cineplex.de hinter einem Schutz gegen automatische Abrufe (Cloudflare): WebFetch und die Cloud bekommen nur noch eine leere Seite ohne Filme. Björn hat entschieden, das Programm stattdessen über seinen Chrome auf dem Mac zu lesen, wenn der Rechner an ist.
+
+- Geplante Aufgabe „Kinozettel – Cineplex über Chrome (Mac)“: öffnet https://www.cineplex.de/bayreuth/programm in Chrome, führt `pipeline/cineplex_chrome.js` mit dem javascript_tool aus (liest die vollständigen Programmdaten aus der Seite, heute bis heute+4), holt das kompakte Ergebnis in Teilen von höchstens 900 Zeichen ab, setzt es zusammen und schreibt mit `python3 pipeline/kinopuffer.py <datei> --soll-filme N --soll-vorstellungen M` die Datei `kinopuffer.json`.
+- `kinopuffer.json` ist ein Vorrat: {"abgerufen", "quelle", "tage": {"JJJJ-MM-TT": {"vollstaendig": bool, "films": [...]}}}. kino.html und die Kinozeile der Startseite zeigen immer nur den heutigen Tag. Fehlt der heutige Tag oder ist er unvollständig, zeigt die Kinoseite einen Hinweis mit Link zum Programm des Cineplex.
+- Der Cineplex veröffentlicht sein reguläres Programm jeweils nur bis Mittwoch (Kinowoche Do–Mi); die neue Woche erscheint meist montags oder dienstags. Der Vorrat reicht deshalb je nach Wochentag 1 bis 5 Tage.
+- Die tägliche Aktualisierung in der Cloud ruft den Cineplex NICHT mehr ab und schreibt in filme.json nur noch andere Filmorte (Neuneinhalb, Glashaus, Kirchen, Uni …). kinopuffer.json fasst sie nicht an.

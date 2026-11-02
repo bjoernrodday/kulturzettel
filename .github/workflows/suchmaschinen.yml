@@ -5,6 +5,7 @@ on:
     paths:
       - events.json
       - filme.json
+      - kinopuffer.json
       - index.html
       - kino.html
       - quellen.html
