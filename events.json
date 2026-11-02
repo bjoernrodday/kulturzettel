@@ -767,9 +767,17 @@
 {
 "name": "Club Frisco",
 "url": "https://frisco-bayreuth.de/"
+},
+{
+"name": "SÜB Klüb (Sübkültür) – Konzerte",
+"url": "https://www.suebklueb.de/2026/10/sueb-konzert-sunday-morning-orchestra-2/"
+},
+{
+"name": "Naturbühne – Gastspiel Heller & Bolam",
+"url": "https://dienaturbuehne.de/portfolio-items/heller-bolam/"
 }
 ],
-"updated": "2026-11-01T01:04+01:00",
+"updated": "2026-11-02T01:13+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -965,7 +973,7 @@
 "id": "ded232f2c7"
 },
 {
-"title": "Familientafel",
+"title": "Koch- und Spieleabend",
 "subtitle": null,
 "date": "2026-10-08",
 "end_date": "2026-12-10",
@@ -974,18 +982,18 @@
 "organizer": "wundersam anders e.V.",
 "category": "Games",
 "tags": [
-"Familie",
-"Kochen & Spielen",
-"Brettspiele"
+"Kochen",
+"Brettspiele",
+"wöchentlich"
 ],
-"description": "Donnerstagabend zum gemeinsamen Kochen und Spielen (im Kalender als „Koch- und Spieleabend“, 17–21:30 Uhr), wöchentlich.",
+"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21 Uhr.",
 "price": null,
 "url": "https://wundersam-anders.de/haus-des-spiels/",
 "sources": [
 "Haus des Spiels (wundersam anders e.V.)"
 ],
 "house": "Weitere Orte",
-"id": "d2da703eb0"
+"id": "36bacb44f1"
 },
 {
 "title": "Die Krim dokumentieren: Kulturerbe durch Freies Wissen",
@@ -1159,31 +1167,6 @@
 "id": "dd10136ae0"
 },
 {
-"title": "Spooky Spielemarathon (42 Stunden)",
-"subtitle": "Das Amt für Ätherangelegenheiten",
-"date": "2026-10-30",
-"end_date": "2026-11-01",
-"time": "09:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Spielemarathon",
-"Rollenspiel",
-"Brettspiele",
-"Thema Horror"
-],
-"description": "Rund 42 Stunden lang wird im Haus des Spiels durchgehend gespielt; die Herbstausgabe dreht sich um das rätselhafte Buch WORAGOTH und das „Amt für Ätherangelegenheiten“. Ende am 1. November gegen 3 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/2026/10/07/spooky-spielemarathon/",
-"sources": [
-"wundersam anders e.V.",
-"Hinweis: Kurier Eventkalender"
-],
-"house": "Weitere Orte",
-"id": "66df454352"
-},
-{
 "title": "Eine Einladung zur Oper: Reise in die Geschichte der italienischen Oper",
 "subtitle": "vhs-Reihe mit Aureliano Zattoni (4 Abende)",
 "date": "2026-10-30",
@@ -1231,68 +1214,6 @@
 "id": "d5ac003ce5"
 },
 {
-"title": "Wurzelzeit: Apotheke unter der Erde",
-"subtitle": "Sonntagsführung",
-"date": "2026-11-01",
-"end_date": null,
-"time": "10:00",
-"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth, Haupteingang",
-"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
-"category": "Führung",
-"tags": [
-"Heilpflanzen",
-"Wurzeln",
-"Gartenführung",
-"Botanik"
-],
-"description": "Sonntagsführung zu Wurzeln und ihrer Nutzung als Heilmittel.",
-"price": null,
-"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20261101-Wurzelzeit-SoFueh/index.html",
-"sources": [
-"Ökologisch-Botanischer Garten Bayreuth",
-"Ökologisch-Botanischer Garten"
-],
-"house": "Botanischer Garten",
-"id": "7017c7f4fe"
-},
-{
-"title": "CineArt: Primetime",
-"subtitle": "Arthouse-Reihe im Cineplex",
-"date": "2026-11-01",
-"end_date": "2026-11-03",
-"time": "10:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Kino",
-"Filmkunst"
-],
-"description": "CineArt-Vorstellungen am Do 29.10. (17:30), So 1.11. (10:45) und Di 3.11. (20:00, Originalfassung).",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/primetime-A4341000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "c093d77007",
-"termine": [
-{
-"date": "2026-11-01",
-"time": "10:45",
-"hinweis": null
-},
-{
-"date": "2026-11-03",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
 "title": "Der Welt eine Bühne",
 "subtitle": "Ausstellung von Karin E. Pollak",
 "date": "2026-11-01",
@@ -1317,412 +1238,6 @@
 ],
 "house": "Botanischer Garten",
 "id": "ac1b034348"
-},
-{
-"title": "Museumsführung im Richard Wagner Museum",
-"subtitle": "sonntags 14 Uhr",
-"date": "2026-11-01",
-"end_date": "2026-12-27",
-"time": "14:00",
-"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
-"organizer": "Richard Wagner Museum",
-"category": "Führung",
-"tags": [
-"Wagner",
-"Haus Wahnfried",
-"Museum",
-"Festspielgeschichte",
-"Wahnfried"
-],
-"description": "Öffentliche Führung durch Haus Wahnfried und die Dauerausstellung, sonntags um 14 Uhr, Dauer etwa 90 Minuten; Treffpunkt Museumskasse im Neubau.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
-"sources": [
-"Richard Wagner Museum",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Richard Wagner Museum",
-"id": "4b37791296",
-"termine": [
-{
-"date": "2026-11-01",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-13",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-20",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-27",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Führung durch Schloss Carolinenruhe",
-"subtitle": "Wohnräume der Sommerresidenz der Markgräfin Caroline",
-"date": "2026-11-01",
-"end_date": "2026-12-06",
-"time": "14:00",
-"venue": "Schloss Colmdorf (Carolinenruhe), Colmdorf 8",
-"organizer": "Schloss Colmdorf",
-"category": "Führung",
-"tags": [
-"Schloss",
-"Markgrafen",
-"Führung"
-],
-"description": "Rundgang durch die Wohnräume des kleinen Sommerschlosses der Markgräfin Caroline in Colmdorf, jeweils am ersten Sonntag des Monats (1.11. und 6.12.). Gruppen ab zehn Personen können auch andere Termine telefonisch vereinbaren.",
-"price": null,
-"url": "https://schloss-colmdorf.de/en/start-en/",
-"sources": [
-"Schloss Colmdorf"
-],
-"house": "Schlösser & Eremitage",
-"id": "b0df0211d8",
-"termine": [
-{
-"date": "2026-11-01",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Zeitreise: Winter und Wärme",
-"subtitle": "Wie kamen die Menschen früher durch den Winter?",
-"date": "2026-11-01",
-"end_date": null,
-"time": "14:00",
-"venue": "Historisches Museum Bayreuth, Kirchplatz 4",
-"organizer": "Historisches Museum Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Familie",
-"Alltagsgeschichte",
-"Museum",
-"Familienführung",
-"Winter"
-],
-"description": "Familienprogramm zur Frage, wie Menschen früher durch den Winter kamen.",
-"price": "1–3 €",
-"url": "https://region-bayreuth.de/veranstaltung/zeitreise-winter-waerme-kamen-menschen-frueher-winter-bayreuth-95444-52vfbx",
-"sources": [
-"Historisches Museum Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Historisches Museum",
-"id": "91054a4244"
-},
-{
-"title": "Der Herr der Ringe – Extended Editions",
-"subtitle": "Trilogie in der Langfassung",
-"date": "2026-11-01",
-"end_date": "2026-11-08",
-"time": "16:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Filmreihe",
-"Fantasy",
-"Marathon"
-],
-"description": "Die drei Teile in den langen Fassungen: Teil 1 am Do 29.10. (19:00/19:30) und Fr 30.10. (16:00, 4DX), Teil 2 am Sa 31.10. (16:00), Teil 3 am So 1.11. (16:00); Marathon der ganzen Trilogie am So 8.11. ab 11 Uhr.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/der-herr-der-ringe-1-die-gefaehrten-ext-13600000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "a479cd76e9",
-"termine": [
-{
-"date": "2026-11-01",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "11:00",
-"hinweis": "Marathon (alle drei Teile)"
-}
-]
-},
-{
-"title": "Bayreuther Katakomben – Führung",
-"subtitle": "Die Stadt unter der Stadt",
-"date": "2026-11-01",
-"end_date": "2026-12-27",
-"time": "16:00",
-"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
-"organizer": "Maisel & Friends",
-"category": "Führung",
-"tags": [
-"Felsenkeller",
-"Stadtgeschichte",
-"Biergeschichte",
-"Untergrund"
-],
-"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
-"price": null,
-"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
-"termine": [
-{
-"date": "2026-11-01",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-06",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-13",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-13",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-19",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-20",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-26",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-27",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Maisel & Friends"
-],
-"house": "Liebesbier",
-"id": "a132e68ade"
-},
-{
-"title": "Die Zauberflöte",
-"subtitle": "Mozarts Oper als Marionettentheater",
-"date": "2026-11-01",
-"end_date": "2026-11-08",
-"time": "17:00",
-"venue": "Marionettentheater Operla, Sophienstraße 32",
-"organizer": "Marionettentheater Operla",
-"category": "Oper & Musiktheater",
-"tags": [
-"Marionetten",
-"Mozart",
-"Familie",
-"Oper"
-],
-"description": "Mozarts Oper als Marionettenaufführung im Operla-Theater.",
-"price": "22 €, erm. 16 €, Kinder 14 €",
-"url": "https://www.operla.de/produkt/w-a-mozart-die-zauberfloete/",
-"sources": [
-"Marionettentheater Operla",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Weitere Orte",
-"id": "34b1dfb267",
-"termine": [
-{
-"date": "2026-11-01",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "J. S. Bach: Goldberg-Variationen",
-"subtitle": "Evgeni Koroliov, Klavier",
-"date": "2026-11-01",
-"end_date": null,
-"time": "18:00",
-"venue": "Friedrichsforum – Balkonsaal",
-"organizer": "Friedrichsforum",
-"category": "Klassik",
-"tags": [
-"Klavier",
-"Bach",
-"Rezital"
-],
-"description": "Evgeni Koroliov spielt Bachs Goldberg-Variationen.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261101-j-s-bach-goldberg-variationen",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "17a228d7d3"
-},
-{
-"title": "Ausländer raus – Schlingensiefs Container",
-"subtitle": null,
-"date": "2026-11-01",
-"end_date": null,
-"time": "19:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Saalmitte",
-"category": "Film",
-"tags": [
-"Dokumentarfilm",
-"Schlingensief",
-"Satire",
-"Festival150"
-],
-"description": "Vorführung der Dokumentation über Christoph Schlingensiefs Wiener Container-Aktion aus dem Jahr 2000.",
-"price": "Eintritt frei",
-"url": "https://festival150.com/veranstaltung/auslaender-raus-schlingensiefs-container-doku-screening-bayreuth-95445-0e6qu4",
-"sources": [
-"Saalmitte",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Neuneinhalb",
-"id": "6a881d9dfc"
 },
 {
 "title": "Opernhaus-Highlights mit Bastel-Workshop",
@@ -1762,146 +1277,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Miniaturen bemalen – offener Treff",
-"subtitle": null,
-"date": "2026-11-02",
-"end_date": "2026-12-28",
-"time": "18:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Tabletop",
-"Miniaturen",
-"Spieltreff"
-],
-"description": "Montagabends treffen sich im Haus des Spiels Interessierte, um gemeinsam Spielfiguren für Tabletop-Spiele zu bemalen; Einsteiger sind willkommen.",
-"price": null,
-"url": "https://wundersam-anders.de/",
-"termine": [
-{
-"date": "2026-11-02",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-09",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-14",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-21",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "18:00",
-"hinweis": null
-}
-],
-"sources": [
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "5e7760cb58"
-},
-{
-"title": "Kuratierter Montags-Spieleabend",
-"subtitle": null,
-"date": "2026-11-02",
-"end_date": "2026-12-28",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Prototypen",
-"Spieleabend"
-],
-"description": "Offener Brettspielabend mit einer Bibliothek von über 1.500 Spielen. Am ersten und dritten Montag im Monat bringt der Verlag Frosted Games Prototypen zum Testen mit, an den übrigen Montagen gestaltet wundersam anders das Programm mit wechselnden Spielen des Monats.",
-"price": "frei",
-"url": "https://wundersam-anders.de/2026/06/30/montags-spieleabend/",
-"termine": [
-{
-"date": "2026-11-02",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-09",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-14",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-21",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "19:00",
-"hinweis": null
-}
-],
-"sources": [
-"wundersam anders e.V. (Haus des Spiels)"
-],
-"house": "Weitere Orte",
-"id": "7511ed2baf"
 },
 {
 "title": "Kunstnische November: Templar Wales – „Reconnecting …“",
@@ -2529,6 +1904,31 @@
 "id": "73c98cda20"
 },
 {
+"title": "CineArt: Primetime",
+"subtitle": "Arthouse-Reihe im Cineplex",
+"date": "2026-11-03",
+"end_date": null,
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Arthouse",
+"Kino",
+"Filmkunst"
+],
+"description": "CineArt-Vorstellungen am Do 29.10. (17:30), So 1.11. (10:45) und Di 3.11. (20:00, Originalfassung).",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/primetime-A4341000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "4a9b7fd55b"
+},
+{
 "title": "Best of Cinema: Rocky",
 "subtitle": "Filmklassiker auf der großen Leinwand",
 "date": "2026-11-03",
@@ -2827,57 +2227,6 @@
 ],
 "house": "Kunstmuseum",
 "id": "6a87f12018"
-},
-{
-"title": "Labortheater",
-"subtitle": null,
-"date": "2026-11-04",
-"end_date": "2026-12-30",
-"time": "19:30",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Theater",
-"tags": [
-"Theatergruppe",
-"Mitmachen",
-"offen"
-],
-"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
-"price": "frei",
-"url": "https://wundersam-anders.de/2026/04/02/labortheater-bayreuth/",
-"sources": [
-"wundersam anders e.V.",
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "320ff7991e",
-"termine": [
-{
-"date": "2026-11-04",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-12-02",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-12-30",
-"time": "19:30",
-"hinweis": null
-}
-]
 },
 {
 "title": "Junge Meisterpianist:innen aus Krakau",
@@ -3469,6 +2818,152 @@
 "id": "911a41de3b"
 },
 {
+"title": "Bayreuther Katakomben – Führung",
+"subtitle": "Die Stadt unter der Stadt",
+"date": "2026-11-06",
+"end_date": "2026-12-27",
+"time": "16:00",
+"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
+"organizer": "Maisel & Friends",
+"category": "Führung",
+"tags": [
+"Felsenkeller",
+"Stadtgeschichte",
+"Biergeschichte",
+"Untergrund"
+],
+"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
+"price": null,
+"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
+"termine": [
+{
+"date": "2026-11-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-07",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-19",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-26",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-27",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Maisel & Friends"
+],
+"house": "Liebesbier",
+"id": "f04d247b6e"
+},
+{
 "title": "Entdecke, was in dir steckt! – Schreibworkshop",
 "subtitle": "RW21-Leseherbst, ab 12 Jahren",
 "date": "2026-11-06",
@@ -3520,30 +3015,49 @@
 "id": "7bdbee1aae"
 },
 {
-"title": "Mach (K)ein Theater! – Werkschau",
-"subtitle": "Abschluss des Herbstferien-Theaterworkshops für Jugendliche",
+"title": "Offenes Magic Spielen",
+"subtitle": null,
 "date": "2026-11-06",
-"end_date": null,
-"time": "17:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V.",
-"category": "Theater",
+"end_date": "2026-11-27",
+"time": "18:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
 "tags": [
-"Jugendtheater",
-"Werkschau",
-"Herbstferien",
-"Workshop"
+"Magic: The Gathering",
+"Kartenspiel",
+"offener Treff"
 ],
-"description": "Jugendliche zwischen 12 und 16 Jahren zeigen das Theaterstück, das sie in einer Workshopwoche unter Leitung von Natalie Brandl und Lucie Cerveny selbst entwickelt haben.",
-"price": "Eintritt frei",
-"url": "https://www.neuneinhalb.org/veranstaltungen/mach-kein-theater-2/edate/2026-11-02",
-"termine": null,
+"description": "Offener Freitagabend für Magic-Spielerinnen und -Spieler im Haus des Spiels, jeweils bis 23 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-06",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "18:00",
+"hinweis": null
+}
+],
 "sources": [
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V. (nur Stadt, Land, Leben)"
+"wundersam anders e.V. (Haus des Spiels)"
 ],
-"house": "Neuneinhalb",
-"id": "f18dca4537"
+"house": "Weitere Orte",
+"id": "0c01a46d3c"
 },
 {
 "title": "LOVEBEATZ im Liebesbier",
@@ -4223,6 +3737,31 @@
 "id": "f93f60a2ce"
 },
 {
+"title": "Der Herr der Ringe – Extended Editions",
+"subtitle": "Trilogie in der Langfassung",
+"date": "2026-11-08",
+"end_date": null,
+"time": "11:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"Filmreihe",
+"Fantasy",
+"Marathon"
+],
+"description": "Die drei Teile in den langen Fassungen: Teil 1 am Do 29.10. (19:00/19:30) und Fr 30.10. (16:00, 4DX), Teil 2 am Sa 31.10. (16:00), Teil 3 am So 1.11. (16:00); Marathon der ganzen Trilogie am So 8.11. ab 11 Uhr.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/der-herr-der-ringe-1-die-gefaehrten-ext-13600000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "15194f7e71",
+"hinweis": "Marathon (alle drei Teile)"
+},
+{
 "title": "Pauline Viardot: Shooting-Star, It-Girl, Ikone",
 "subtitle": "Konzert mit Moderation – Talia Or (Sopran) & Maharani Chakrabarti (Klavier)",
 "date": "2026-11-08",
@@ -4301,6 +3840,74 @@
 "id": "9d20126e41"
 },
 {
+"title": "Museumsführung im Richard Wagner Museum",
+"subtitle": "sonntags 14 Uhr",
+"date": "2026-11-08",
+"end_date": "2026-12-27",
+"time": "14:00",
+"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
+"organizer": "Richard Wagner Museum",
+"category": "Führung",
+"tags": [
+"Wagner",
+"Haus Wahnfried",
+"Museum",
+"Festspielgeschichte",
+"Wahnfried"
+],
+"description": "Öffentliche Führung durch Haus Wahnfried und die Dauerausstellung, sonntags um 14 Uhr, Dauer etwa 90 Minuten; Treffpunkt Museumskasse im Neubau.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
+"sources": [
+"Richard Wagner Museum",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Richard Wagner Museum",
+"id": "a339387783",
+"termine": [
+{
+"date": "2026-11-08",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-27",
+"time": "14:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Strickkino: Verity – Dunkle Geheimnisse",
 "subtitle": null,
 "date": "2026-11-08",
@@ -4373,51 +3980,6 @@
 ],
 "house": "Schlösser & Eremitage",
 "id": "d9b6f75634"
-},
-{
-"title": "Miniaturen bemalen – Workshop",
-"subtitle": null,
-"date": "2026-11-08",
-"end_date": "2026-12-20",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "Wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Tabletop",
-"Miniaturen",
-"Workshop"
-],
-"description": "Offener Workshop zum Bemalen von Spielfiguren, Material und Miniaturen werden gestellt; keine Vorkenntnisse nötig. Alle zwei Wochen sonntags um 15 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "0ddad67bbb",
-"termine": [
-{
-"date": "2026-11-08",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-12-20",
-"time": "15:00",
-"hinweis": null
-}
-]
 },
 {
 "title": "Sonntag im Museum – Kunst macht Spaß",
@@ -4513,6 +4075,31 @@
 ],
 "house": "Universität",
 "id": "66a3384a3a"
+},
+{
+"title": "Die Zauberflöte",
+"subtitle": "Mozarts Oper als Marionettentheater",
+"date": "2026-11-08",
+"end_date": null,
+"time": "17:00",
+"venue": "Marionettentheater Operla, Sophienstraße 32",
+"organizer": "Marionettentheater Operla",
+"category": "Oper & Musiktheater",
+"tags": [
+"Marionetten",
+"Mozart",
+"Familie",
+"Oper"
+],
+"description": "Mozarts Oper als Marionettenaufführung im Operla-Theater.",
+"price": "22 €, erm. 16 €, Kinder 14 €",
+"url": "https://www.operla.de/produkt/w-a-mozart-die-zauberfloete/",
+"sources": [
+"Marionettentheater Operla",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Weitere Orte",
+"id": "243d5be501"
 },
 {
 "title": "Klaviersoirée: Junge Meisterpianist:innen aus Weimar",
@@ -5122,6 +4709,42 @@
 ],
 "house": "Kirchen",
 "id": "41769bd756"
+},
+{
+"title": "Labortheater",
+"subtitle": null,
+"date": "2026-11-11",
+"end_date": "2026-11-25",
+"time": "19:30",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Theater",
+"tags": [
+"Theatergruppe",
+"Mitmachen",
+"offen"
+],
+"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
+"price": "frei",
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e.V.",
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "22d8baafde",
+"termine": [
+{
+"date": "2026-11-11",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "19:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Tanzhaus im ZENTRUM",
@@ -6514,7 +6137,7 @@
 "Peter Ensikat"
 ],
 "description": "Kinderstück nach dem Märchen vom Wettlauf zwischen Hase und Igel, sonntags um 15 Uhr auf der Hauptbühne.",
-"price": null,
+"price": "13 €, ermäßigt 7 €",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2165",
 "sources": [
 "Studiobühne Bayreuth",
@@ -7333,18 +6956,8 @@
 "hinweis": null
 },
 {
-"date": "2026-11-20",
-"time": "20:13",
-"hinweis": null
-},
-{
 "date": "2026-12-04",
 "time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "20:13",
 "hinweis": null
 }
 ]
@@ -7961,7 +7574,7 @@
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
 "date": "2026-11-23",
-"end_date": "2026-12-30",
+"end_date": "2027-01-02",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus GmbH",
@@ -8162,6 +7775,21 @@
 },
 {
 "date": "2026-12-30",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2026-12-31",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2027-01-01",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
 "time": "10:30",
 "hinweis": null
 }
@@ -9236,7 +8864,7 @@
 "DIY"
 ],
 "description": "Doppelkonzert mit Hi Mum und Nikita Curtis.",
-"price": "ab 9,27 €",
+"price": "VVK 10 €, ermäßigt 8 € (zzgl. Gebühr); Abendkasse 14 €, ermäßigt 10 €",
 "url": "https://www.neuneinhalb.org/veranstaltungen/hi-mum-nikita-curtis/edate/2026-11-27",
 "sources": [
 "Neuneinhalb Ticketshop (eventim-light)",
@@ -9776,31 +9404,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Wie der Kaschber dem Richard half, seine Harmonie zu finden",
-"subtitle": "Puppentheater der Fröhlichen Kinderbühne",
-"date": "2026-11-29",
-"end_date": null,
-"time": "16:00",
-"venue": "Lutherkirche Bayreuth",
-"organizer": "Die Fröhliche Kinderbühne",
-"category": "Kinder & Familie",
-"tags": [
-"Puppentheater",
-"Kasper",
-"Richard Wagner",
-"Kasperl",
-"Wagner"
-],
-"description": "Puppenspiel für Kinder, in dem der Kaschber Richard Wagner aus einer Schaffenskrise hilft. Karten an der Tageskasse ab 30 Minuten vor Beginn.",
-"price": "7 €",
-"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
-"sources": [
-"Die Fröhliche Kinderbühne"
-],
-"house": "Kirchen",
-"id": "0e95b871c8"
 },
 {
 "title": "Adventskonzert der Sängergruppe des Gesangvereins Meyernberg",
@@ -10699,30 +10302,6 @@
 "hinweis": "für Jugendliche ab der 5. Klasse"
 },
 {
-"title": "Iranische Kunst und Kultur erleben",
-"subtitle": "Workshop mit Fatemeh Saffari",
-"date": "2026-12-05",
-"end_date": null,
-"time": "13:00",
-"venue": "RW21 Volkshochschule – Seminarraum 3, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Iran",
-"Kunstgeschichte",
-"Kunsthandwerk",
-"Workshop"
-],
-"description": "Einfache Einführung in Bilder, Symbole und Geschichte der iranischen Kunst.",
-"price": "15,60 € zzgl. 10 € Material",
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Iranische-Kunst-und-Kultur-erleben/I5308",
-"sources": [
-"vhs Bayreuth"
-],
-"house": "RW21",
-"id": "c0636d20d2"
-},
-{
 "title": "Schatzkästchen St. Georgen",
 "subtitle": "Besichtigung des Festsaals im Prinzessinnenhaus und der Stiftskirche des Gravenreuther Stifts",
 "date": "2026-12-05",
@@ -11145,6 +10724,29 @@
 ],
 "house": "Botanischer Garten",
 "id": "1d6ecd30a0"
+},
+{
+"title": "Führung durch Schloss Carolinenruhe",
+"subtitle": "Wohnräume der Sommerresidenz der Markgräfin Caroline",
+"date": "2026-12-06",
+"end_date": null,
+"time": "14:00",
+"venue": "Schloss Colmdorf (Carolinenruhe), Colmdorf 8",
+"organizer": "Schloss Colmdorf",
+"category": "Führung",
+"tags": [
+"Schloss",
+"Markgrafen",
+"Führung"
+],
+"description": "Rundgang durch die Wohnräume des kleinen Sommerschlosses der Markgräfin Caroline in Colmdorf, jeweils am ersten Sonntag des Monats (1.11. und 6.12.). Gruppen ab zehn Personen können auch andere Termine telefonisch vereinbaren.",
+"price": null,
+"url": "https://schloss-colmdorf.de/en/start-en/",
+"sources": [
+"Schloss Colmdorf"
+],
+"house": "Schlösser & Eremitage",
+"id": "3726fff584"
 },
 {
 "title": "Nikolausaktion mit dem Bayreuther Feuerwehrmuseum",

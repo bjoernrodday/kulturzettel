@@ -1,87 +1,30 @@
 {
- "date": "2026-11-01",
- "updated": "2026-11-01T01:04+01:00",
+ "date": "2026-11-02",
+ "updated": "2026-11-02T01:15+01:00",
  "films": [
   {
-   "title": "CineArt: Primetime",
+   "title": "Sneak Preview FSK 18",
    "venue": "Cineplex Bayreuth",
    "runtime": null,
-   "fsk": null,
+   "fsk": "18",
    "genres": [],
    "genres_raw": [],
    "badges": [
-    "CineArt"
+    "Sneak"
    ],
    "week": null,
    "shows": [
     {
-     "time": "10:45",
+     "time": "20:00",
      "room": null,
      "site": "Haupthaus",
      "flags": []
     }
    ],
    "more": false,
-   "note": "Cineplex nachts nicht lesbar – nur Sonderveranstaltungen aus dem Kulturzettel; reguläres Programm fehlt.",
-   "url": "https://www.cineplex.de/bayreuth/film/primetime-A4341000012FWBXJYB",
+   "note": "Cineplex nachts nicht lesbar – nur Sonderveranstaltung aus dem Kulturzettel; reguläres Programm fehlt.",
+   "url": "https://www.cineplex.de/bayreuth/film/sneak-preview-fsk-18-CEF50000012FWBXJYB",
    "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Der Herr der Ringe – Die Rückkehr des Königs (Extended Edition)",
-   "venue": "Cineplex Bayreuth",
-   "runtime": null,
-   "fsk": null,
-   "genres": [
-    "Science-Fiction & Fantasy"
-   ],
-   "genres_raw": [
-    "Fantasy"
-   ],
-   "badges": [
-    "Reihe",
-    "Extended Editions"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": null,
-     "site": "Haupthaus",
-     "flags": []
-    }
-   ],
-   "more": false,
-   "note": "Cineplex nachts nicht lesbar – nur Sonderveranstaltungen aus dem Kulturzettel; reguläres Programm fehlt.",
-   "url": "https://www.cineplex.de/bayreuth/film/der-herr-der-ringe-1-die-gefaehrten-ext-13600000012FWBXJYB",
-   "source": "Cineplex Bayreuth"
-  },
-  {
-   "title": "Ausländer raus – Schlingensiefs Container",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": null,
-   "fsk": null,
-   "genres": [
-    "Dokumentarfilm"
-   ],
-   "genres_raw": [
-    "Dokumentarfilm"
-   ],
-   "badges": [
-    "Doku-Screening"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:30",
-     "room": null,
-     "site": null,
-     "flags": []
-    }
-   ],
-   "more": false,
-   "note": null,
-   "url": "https://www.neuneinhalb.org/veranstaltungen/",
-   "source": "Neuneinhalb"
   }
  ]
 }
