@@ -777,7 +777,7 @@
 "url": "https://dienaturbuehne.de/portfolio-items/heller-bolam/"
 }
 ],
-"updated": "2026-11-02T01:13+01:00",
+"updated": "2026-11-03T01:47+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -873,127 +873,6 @@
 ],
 "house": "Weitere Orte",
 "id": "47f4cc1ff6"
-},
-{
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-10-05",
-"end_date": "2026-12-23",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "9ab36de646"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": null,
-"date": "2026-10-05",
-"end_date": "2026-12-09",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/2026/10/15/deine-offene-kreativzeit/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "6a3e12f28c"
-},
-{
-"title": "Brettspielabend 2.0 im Haus des Spiels",
-"subtitle": null,
-"date": "2026-10-05",
-"end_date": "2026-12-21",
-"time": "19:00",
-"venue": "Haus des Spiels, Berneckerstraße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"wöchentlich",
-"offener Treff"
-],
-"description": "Offener Spieleabend jeden Montag ab 19 Uhr mit über 1.500 Spielen und monatlich ausgewählten „Spielen des Monats“; am 1. und 3. Montag bringt der Verlag Frosted Games Prototypen zum Testen mit, am 2. und 4. Montag gestaltet wundersam anders den Abend. Eintritt frei.",
-"price": "frei",
-"url": "https://wundersam-anders.de/2026/06/30/montags-spieleabend/",
-"sources": [
-"wundersam anders e. V.",
-"Wundersam anders e.V. (Haus des Spiels)",
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "663a4bbda8"
-},
-{
-"title": "Blood Bowl im Haus des Spiels",
-"subtitle": null,
-"date": "2026-10-07",
-"end_date": "2026-12-09",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Tabletop",
-"Fantasy-Football",
-"Spieleabend",
-"Spieltreff"
-],
-"description": "Offener Spielabend für das Tabletop-Spiel Blood Bowl, mittwochs ab 19 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "ded232f2c7"
-},
-{
-"title": "Koch- und Spieleabend",
-"subtitle": null,
-"date": "2026-10-08",
-"end_date": "2026-12-10",
-"time": "17:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Kochen",
-"Brettspiele",
-"wöchentlich"
-],
-"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/haus-des-spiels/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "36bacb44f1"
 },
 {
 "title": "Die Krim dokumentieren: Kulturerbe durch Freies Wissen",
@@ -1167,31 +1046,8 @@
 "id": "dd10136ae0"
 },
 {
-"title": "Eine Einladung zur Oper: Reise in die Geschichte der italienischen Oper",
-"subtitle": "vhs-Reihe mit Aureliano Zattoni (4 Abende)",
-"date": "2026-10-30",
-"end_date": "2027-01-29",
-"time": "17:00",
-"venue": "RW21 Volkshochschule – Seminarraum 4, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Oper",
-"Musikgeschichte",
-"Italien"
-],
-"description": "Mehrteilige Vortragsreihe zur Entwicklung der italienischen Oper.",
-"price": "41,60 €",
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Eine-Einladung-zur-Oper-Reise-in-die-Geschichte-der-italienischen-Oper/I5601",
-"sources": [
-"vhs Bayreuth"
-],
-"house": "RW21",
-"id": "8c7f2d444e"
-},
-{
 "title": "Lichterglanz und Farbentanz",
-"subtitle": "Ausstellung im Gemeindesaal",
+"subtitle": "Fotokunst von Friederike Lippert",
 "date": "2026-10-31",
 "end_date": "2026-11-21",
 "time": null,
@@ -1199,11 +1055,11 @@
 "organizer": "Ev.-Luth. Kirchengemeinde Bayreuth-St. Georgen",
 "category": "Ausstellung",
 "tags": [
-"Ausstellung",
+"Fotografie",
 "St. Georgen",
 "Gemeindesaal"
 ],
-"description": "Ausstellung im Saal des Gemeindehauses der Kirchengemeinde St. Georgen; Öffnungszeiten nennt die Ankündigung nicht.",
+"description": "Fotoarbeiten von Friederike Lippert im Saal des Gemeindehauses St. Georgen; die Vernissage ist am 3. November um 18:30 Uhr, Öffnungszeiten nennt die Ankündigung nicht.",
 "price": null,
 "url": "https://ebw-oberfranken-mitte.de/evangelische-termine/?etID=7735700&until=yes",
 "termine": null,
@@ -1238,164 +1094,6 @@
 ],
 "house": "Botanischer Garten",
 "id": "ac1b034348"
-},
-{
-"title": "Opernhaus-Highlights mit Bastel-Workshop",
-"subtitle": "für Kinder von 6–12 Jahren",
-"date": "2026-11-02",
-"end_date": "2026-12-05",
-"time": "14:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Kinder & Familie",
-"tags": [
-"Kinder",
-"Basteln",
-"Opernhaus",
-"Kinderführung"
-],
-"description": "Kurze Familienführung durch das Opernhaus für Kinder von 6 bis 12 Jahren mit anschließendem Basteln.",
-"price": "3 € zzgl. Eintritt Erwachsene",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – bayreuth-wilhelmine.de (Themenführungen)",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "62e3dc95f4",
-"termine": [
-{
-"date": "2026-11-02",
-"time": "14:30",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "14:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kunstnische November: Templar Wales – „Reconnecting …“",
-"subtitle": "Ausstellungseröffnung",
-"date": "2026-11-02",
-"end_date": null,
-"time": "19:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb – Kunstnische, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V.",
-"category": "Ausstellung",
-"tags": [
-"Fotografie",
-"Vernissage",
-"Kunstnische"
-],
-"description": "Der in Bayreuth lebende, aus Südafrika stammende Templar Wales zeigt Fotografien, die er auf Reisen durch Zug- und Autofenster aufgenommen hat. Thema sind Verbindungen über Entfernungen hinweg; Unschärfen und Bildfehler bleiben bewusst sichtbar.",
-"price": "frei, Spenden erbeten",
-"url": "https://www.neuneinhalb.org/veranstaltungen/kunstnische-november-reconnecting/edate/2026-11-02",
-"termine": null,
-"sources": [
-"Neuneinhalb e. V."
-],
-"house": "Neuneinhalb",
-"id": "5c688f1213"
-},
-{
-"title": "Pat Todd & The Rankoutsiders",
-"subtitle": "Support: The Weak Willies",
-"date": "2026-11-02",
-"end_date": null,
-"time": "19:00",
-"venue": "Schokofabrik Bayreuth, Gaußstraße 6",
-"organizer": "Schoko e. V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Rock 'n' Roll",
-"Punk",
-"Live"
-],
-"description": "Die Band aus Los Angeles verbindet Garagenpunk mit Country, Blues und Roots-Rock; als Vorband spielen die Weak Willies aus Oberfranken.",
-"price": "Eintritt frei (Hutsammlung)",
-"url": "https://www.schoko-bayreuth.de/event/konzert-pat-todd-the-rankoutsiders-us-support-the-weak-willies/",
-"termine": null,
-"sources": [
-"Schokofabrik Bayreuth"
-],
-"house": "Clubs",
-"id": "6f7cfd9ef2"
-},
-{
-"title": "Die legendäre Glashaus Jamsession",
-"subtitle": null,
-"date": "2026-11-02",
-"end_date": "2026-12-07",
-"time": "19:00",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Jamsession",
-"Live-Musik",
-"offene Bühne"
-],
-"description": "Offene Session für Musikerinnen und Musiker aller Instrumente und Niveaus, Backline ist vorhanden; Termine am 2.11. und 7.12. Ab 18, Glashaus-Mitgliedschaft erforderlich.",
-"price": "Eintritt frei (Mitgliedschaft ab 1 €)",
-"url": "https://www.glashaus.org/programm/jamsession-260727-2-2",
-"sources": [
-"Glashaus"
-],
-"house": "Glashaus",
-"id": "6f541a1349",
-"termine": [
-{
-"date": "2026-11-02",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Sneak Preview FSK 18",
-"subtitle": null,
-"date": "2026-11-02",
-"end_date": "2026-11-16",
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Sneak Preview",
-"FSK 18",
-"Überraschungsfilm"
-],
-"description": "Überraschungsvorstellung eines kommenden Films ab 18 Jahren. Nächste Termine laut Kinoprogramm: Mo 19.10., 02.11. und 16.11., jeweils 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/sneak-preview-fsk-18-CEF50000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "7bc67ebe36",
-"termine": [
-{
-"date": "2026-11-02",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "20:00",
-"hinweis": null
-}
-]
 },
 {
 "title": "Herbstferienprogramm in der Lernwerkstatt",
@@ -1955,6 +1653,30 @@
 "id": "c722a479fe"
 },
 {
+"title": "Glanzlichter der Naturfotografie – Preisträger 2025",
+"subtitle": "Sonderausstellung",
+"date": "2026-11-03",
+"end_date": null,
+"time": null,
+"venue": "Urwelt-Museum Oberfranken, Kanzleistraße 1",
+"organizer": "Urwelt-Museum Oberfranken (SNSB)",
+"category": "Ausstellung",
+"tags": [
+"Fotografie",
+"Natur",
+"Wettbewerb"
+],
+"description": "Das Urwelt-Museum zeigt die ausgezeichneten Bilder des 27. internationalen Naturfotografie-Wettbewerbs Glanzlichter; eine Laufzeit nennt das Museum nicht.",
+"price": null,
+"url": "https://urwelt-museum.snsb.de/sonderausstellungen/",
+"termine": null,
+"sources": [
+"Urwelt-Museum Oberfranken"
+],
+"house": "Urwelt-Museum",
+"id": "9e0d11a642"
+},
+{
 "title": "UniKino der Fachschaft MPI",
 "subtitle": null,
 "date": "2026-11-03",
@@ -1966,11 +1688,11 @@
 "tags": [
 "Kino",
 "Universität",
-"Eintritt frei"
+"Filmabend"
 ],
 "description": "Die Fachschaft MPI zeigt während der Vorlesungszeit dienstags Filme, in H17 im Original mit englischen Untertiteln, in H18 auf Deutsch; das Filmprogramm steht nur im Uni-Netz.",
-"price": "frei",
-"url": "https://fsmpi.uni-bayreuth.de/en/uniCinema",
+"price": null,
+"url": "https://fsmpi.uni-bayreuth.de/unikino",
 "sources": [
 "Fachschaft MPI Universität Bayreuth"
 ],
@@ -2032,6 +1754,73 @@
 {
 "date": "2026-12-02",
 "time": "14:30",
+"hinweis": null
+}
+]
+},
+{
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-11-04",
+"end_date": "2026-11-30",
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "161770d497",
+"termine": [
+{
+"date": "2026-11-04",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-09",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-11",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "15:00",
 "hinweis": null
 }
 ]
@@ -2200,6 +1989,52 @@
 ],
 "house": "Iwalewahaus",
 "id": "1d5cacf6ef"
+},
+{
+"title": "Blood Bowl im Haus des Spiels",
+"subtitle": null,
+"date": "2026-11-04",
+"end_date": "2026-11-25",
+"time": "19:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Tabletop",
+"Fantasy-Football",
+"Spieleabend",
+"Spieltreff"
+],
+"description": "Offener Spielabend für das Tabletop-Spiel Blood Bowl, mittwochs ab 19 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "68667e6ebb",
+"termine": [
+{
+"date": "2026-11-04",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-11",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Totentanz im Fichtelgebirge – Eine Kulturgeschichte der Pest",
@@ -2399,6 +2234,51 @@
 {
 "date": "2026-12-03",
 "time": "16:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Koch- und Spieleabend",
+"subtitle": null,
+"date": "2026-11-05",
+"end_date": "2026-11-26",
+"time": "17:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Kochen",
+"Brettspiele",
+"wöchentlich"
+],
+"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "b4b32324f7",
+"termine": [
+{
+"date": "2026-11-05",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-12",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-19",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-26",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -3110,7 +2990,7 @@
 "title": "Nachtwächterführung in St. Georgen",
 "subtitle": "6.11. um 19 Uhr, 4.12. um 18 Uhr",
 "date": "2026-11-06",
-"end_date": "2026-12-04",
+"end_date": "2027-01-02",
 "time": "19:00",
 "venue": "Gegenüber der Ordenskirche St. Georgen (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus GmbH",
@@ -3138,6 +3018,11 @@
 {
 "date": "2026-12-04",
 "time": "18:00",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -3343,6 +3228,31 @@
 ],
 "house": "Clubs",
 "id": "599febaa65"
+},
+{
+"title": "Gesamt?kunstwerk – STADTSTEMPEL-PROJEKT Bayreuth",
+"subtitle": "Ausstellung von studio pari-pari (Lena Schrieb und Marina Kampka)",
+"date": "2026-11-06",
+"end_date": "2027-01-31",
+"time": null,
+"venue": "Kunstmuseum Bayreuth",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Druckgrafik",
+"Stadtbild",
+"Archiv",
+"Gegenwartskunst"
+],
+"description": "Die Künstlerinnen haben Formdetails der Stadt mit Knete und Stempelkissen abgenommen; gezeigt werden rund 300 Stempelmotive, das daraus entstandene Archiv und Künstlerinnen-Buchseiten.",
+"price": null,
+"url": "https://www.kunstmuseum-bayreuth.de/aktuelles/aktuelle-ausstellung",
+"termine": null,
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "46423ecb83"
 },
 {
 "title": "Führung: Köstliches Bayreuth",
@@ -3560,7 +3470,7 @@
 "title": "Nachtwächterführung Innenstadt",
 "subtitle": "7.11. um 19 Uhr; 28.11., 5.12., 12.12., 19.12. jeweils um 18 Uhr",
 "date": "2026-11-07",
-"end_date": "2026-12-19",
+"end_date": "2027-01-03",
 "time": "19:00",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus GmbH",
@@ -3603,6 +3513,11 @@
 {
 "date": "2026-12-19",
 "time": "18:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -3843,7 +3758,7 @@
 "title": "Museumsführung im Richard Wagner Museum",
 "subtitle": "sonntags 14 Uhr",
 "date": "2026-11-08",
-"end_date": "2026-12-27",
+"end_date": "2027-01-03",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -3902,6 +3817,11 @@
 },
 {
 "date": "2026-12-27",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
 "time": "14:00",
 "hinweis": null
 }
@@ -4195,7 +4115,7 @@
 "subtitle": "Gang vom Sternplatz zur Synagoge",
 "date": "2026-11-09",
 "end_date": null,
-"time": "18:00",
+"time": "17:00",
 "venue": "Sternplatz, Bayreuth",
 "organizer": null,
 "category": "Vortrag & Diskurs",
@@ -4236,6 +4156,53 @@
 ],
 "house": "Iwalewahaus",
 "id": "0b7f2db94e"
+},
+{
+"title": "Brettspielabend 2.0 im Haus des Spiels",
+"subtitle": null,
+"date": "2026-11-09",
+"end_date": "2026-11-30",
+"time": "19:00",
+"venue": "Haus des Spiels, Berneckerstraße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"offener Treff"
+],
+"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
+"price": "frei",
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e. V.",
+"Wundersam anders e.V. (Haus des Spiels)",
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "e45e5492f9",
+"termine": [
+{
+"date": "2026-11-09",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Cozy Autumn Evening",
@@ -4327,6 +4294,61 @@
 "id": "b53fb40b69"
 },
 {
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-10",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "f814fb1be3",
+"termine": [
+{
+"date": "2026-11-10",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Allgemeine Führung",
 "subtitle": null,
 "date": "2026-11-10",
@@ -4408,31 +4430,6 @@
 ],
 "house": "Weitere Orte",
 "id": "f28d39a33a"
-},
-{
-"title": "Islamische Kunst – Bedeutung, Entwicklung, Besonderheiten",
-"subtitle": "vhs-Kurs mit Angela Lodes (6 Abende)",
-"date": "2026-11-10",
-"end_date": "2026-12-15",
-"time": "17:30",
-"venue": "RW21 Volkshochschule – Seminarraum 3, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Kunstgeschichte",
-"Islam",
-"Architektur",
-"Kurs"
-],
-"description": "Kursreihe zu Formen und Entwicklung islamischer Kunst.",
-"price": "29,40–46,80 €",
-"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Islamische-Kunst-Bedeutung-Entwicklung-Besonderheiten/I5101",
-"sources": [
-"vhs Bayreuth",
-"Volkshochschule Bayreuth"
-],
-"house": "RW21",
-"id": "726b059695"
 },
 {
 "title": "Leben und Überleben",
@@ -4643,9 +4640,8 @@
 ],
 "description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung; Termine am 11. und 23.11., jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
 "price": "5 €",
-"url": "https://region-bayreuth.de/veranstaltung/lebendige-linie-aktzeichnen-bayreuth-95445-hubpso",
+"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-36/edate/2026-11-11",
 "sources": [
-"Neuneinhalb e.V. (nur Stadt, Land, Leben)",
 "Neuneinhalb e. V."
 ],
 "house": "Neuneinhalb",
@@ -4988,6 +4984,66 @@
 "id": "439c80394e"
 },
 {
+"title": "Bayreuther Jazz-November 2026",
+"subtitle": "Festival des Jazzforums",
+"date": "2026-11-12",
+"end_date": "2026-11-15",
+"time": "19:30",
+"venue": "Bechersaal, Neuneinhalb, Das Zentrum, Glashaus",
+"organizer": "Jazzforum Bayreuth",
+"category": "Festival",
+"tags": [
+"Jazz",
+"Festival",
+"international"
+],
+"description": "Viertägiges Jazzfestival an mehreren Spielorten der Stadt.",
+"price": null,
+"url": "https://www.jazz-bayreuth.de/jazz-november/",
+"sources": [
+"Jazzforum Bayreuth"
+],
+"house": "Das Zentrum",
+"id": "2d5f851bbd",
+"termine": [
+{
+"date": "2026-11-12",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2026-11-12",
+"time": "22:30",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "22:30",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "21:30",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "19:30",
+"hinweis": null
+}
+]
+},
+{
 "title": "Kult-Sneak",
 "subtitle": null,
 "date": "2026-11-12",
@@ -5187,51 +5243,6 @@
 ],
 "house": "Neuneinhalb",
 "id": "a9d368944e"
-},
-{
-"title": "Bayreuther Jazz-November 2026",
-"subtitle": "Festival des Jazzforums",
-"date": "2026-11-12",
-"end_date": "2026-11-15",
-"time": "22:30",
-"venue": "Bechersaal, Neuneinhalb, Das Zentrum, Glashaus",
-"organizer": "Jazzforum Bayreuth",
-"category": "Festival",
-"tags": [
-"Jazz",
-"Festival",
-"international"
-],
-"description": "Viertägiges Jazzfestival an mehreren Spielorten der Stadt.",
-"price": null,
-"url": "https://www.jazz-bayreuth.de/jazz-november/",
-"sources": [
-"Jazzforum Bayreuth"
-],
-"house": "Das Zentrum",
-"id": "2d5f851bbd",
-"termine": [
-{
-"date": "2026-11-12",
-"time": "22:30",
-"hinweis": null
-},
-{
-"date": "2026-11-13",
-"time": "22:30",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "21:30",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "19:30",
-"hinweis": null
-}
-]
 },
 {
 "title": "BarriereFREI – A. D. Trantenroth – inklusiv",
@@ -6262,6 +6273,30 @@
 "termine": null
 },
 {
+"title": "Sneak Preview FSK 18",
+"subtitle": null,
+"date": "2026-11-16",
+"end_date": null,
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"Sneak Preview",
+"FSK 18",
+"Überraschungsfilm"
+],
+"description": "Überraschungsvorstellung eines kommenden Films ab 18 Jahren. Nächste Termine laut Kinoprogramm: Mo 19.10., 02.11. und 16.11., jeweils 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/sneak-preview-fsk-18-CEF50000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth",
+"Cineplex Bayreuth – Reihen & Events"
+],
+"house": "Kino",
+"id": "cc4dd7f0dd"
+},
+{
 "title": "Buch und Plausch – Weihnachts-Special",
 "subtitle": "Der literarische Kaffeeklatsch der Buchhandlung im KirchenEck",
 "date": "2026-11-17",
@@ -7098,7 +7133,7 @@
 "title": "Die Bremer Stadtmusikanten",
 "subtitle": "Märchen nach den Brüdern Grimm",
 "date": "2026-11-21",
-"end_date": "2026-12-27",
+"end_date": "2027-01-03",
 "time": "15:00",
 "venue": "Brandenburger Kulturstadl, Brandenburger Straße 35",
 "organizer": "Brandenburger Kulturstadl",
@@ -7225,6 +7260,26 @@
 {
 "date": "2026-12-27",
 "time": "14:00",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
+"time": "16:30",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "16:30",
 "hinweis": null
 }
 ]
@@ -7819,29 +7874,6 @@
 "id": "37eda38f4c"
 },
 {
-"title": "Eröffnung des Christkindlesmarktes",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": null,
-"time": "17:00",
-"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
-"organizer": "Stadt Bayreuth",
-"category": "Festival",
-"tags": [
-"Christkindlesmarkt",
-"Advent",
-"Chor"
-],
-"description": "Der Oberbürgermeister und das Christkind eröffnen den Bayreuther Christkindlesmarkt; musikalisch begleitet vom Chor der Graserschule.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/eroeffnung-christkindlesmarktes-bayreuth-95444-n3plem",
-"sources": [
-"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "6355d6fb23"
-},
-{
 "title": "Dokufilmreihe „Wirklichkeiten“: Das Deutsche Volk",
 "subtitle": null,
 "date": "2026-11-23",
@@ -8410,41 +8442,6 @@
 {
 "date": "2026-11-28",
 "time": "09:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kiddy's Bastelspaß",
-"subtitle": null,
-"date": "2026-11-27",
-"end_date": "2026-12-23",
-"time": "14:30",
-"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
-"organizer": "Stadt Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"Christkindlesmarkt"
-],
-"description": "Bastelangebot für Kinder auf der Aktionsbühne des Christkindlesmarkts, betreut von Reuther-Entertainments.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/kiddy-s-bastelspass-bayreuth-95444-zyefxr",
-"sources": [
-"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "18350df308",
-"termine": [
-{
-"date": "2026-11-27",
-"time": "14:30",
-"hinweis": null
-},
-{
-"date": "2026-12-23",
-"time": "12:00",
 "hinweis": null
 }
 ]
@@ -9176,12 +9173,12 @@
 "id": "59684d25ef"
 },
 {
-"title": "Markgräfliches Opernhaus: Welterbe & Museum – Führung in Deutscher Gebärdensprache",
+"title": "Gesamtkunstwerk Markgräfliches Opernhaus – Führung in Deutscher Gebärdensprache",
 "subtitle": null,
 "date": "2026-11-29",
 "end_date": null,
 "time": "10:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14 (Museumskasse)",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14 (Foyer des Museums)",
 "organizer": "Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth-Eremitage",
 "category": "Führung",
 "tags": [
@@ -9189,53 +9186,14 @@
 "Gebärdensprache",
 "Inklusion"
 ],
-"description": "Führung in Deutscher Gebärdensprache durch das Opernhaus und seine Museumsausstellung, in Kooperation mit dem Gehörlosenverein Bayreuth; ab 6 Jahren, Anmeldung nötig. Der Termin am 24. Oktober entfällt.",
+"description": "Inklusive Führung in Deutscher Gebärdensprache durch das Markgräfliche Opernhaus, in Zusammenarbeit mit dem Gehörlosenverein; Dauer etwa 60 Minuten, Anmeldung über den Gehörlosenverein.",
 "price": "3 € zzgl. Eintritt",
 "url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=1&optArt=999999&optOrt=14&optMonat=11",
 "sources": [
 "Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth-Eremitage"
 ],
 "house": "Markgräfliches Opernhaus",
-"id": "e91a10250d"
-},
-{
-"title": "Barocke Theaterillusion und moderne Formensprache",
-"subtitle": "Überblicksführung",
-"date": "2026-11-29",
-"end_date": "2026-12-30",
-"time": "10:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Opernhaus",
-"UNESCO-Welterbe",
-"Barock",
-"Überblicksführung"
-],
-"description": "Überblicksführung durch das historische Opernhaus und die Ausstellung im Museum.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=4&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "13cfd09337",
-"termine": [
-{
-"date": "2026-11-29",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-12-30",
-"time": "10:30",
-"hinweis": null
-}
-]
+"id": "0ccea12f71"
 },
 {
 "title": "Music as Worldmaking: Improvised Connections",
@@ -9355,6 +9313,45 @@
 "id": "38fd8437d9"
 },
 {
+"title": "Barocke Theaterillusion und moderne Formensprache",
+"subtitle": "Überblicksführung",
+"date": "2026-11-29",
+"end_date": "2026-12-30",
+"time": "14:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Führung",
+"tags": [
+"Opernhaus",
+"UNESCO-Welterbe",
+"Barock",
+"Überblicksführung"
+],
+"description": "Überblicksführung durch das historische Opernhaus und die Ausstellung im Museum.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?PN=7&optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999",
+"sources": [
+"Schlösserverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
+"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "13cfd09337",
+"termine": [
+{
+"date": "2026-11-29",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "10:30",
+"hinweis": null
+}
+]
+},
+{
 "title": "Kinderzauberflöte",
 "subtitle": "Marionettentheater für Kinder",
 "date": "2026-11-29",
@@ -9368,7 +9365,7 @@
 "Mozart",
 "ab 6 Jahren"
 ],
-"description": "Kindgerechte Fassung der Zauberflöte mit Marionetten; Termine 29.11. 15 Uhr, 4.12. 17 Uhr, 19.12. 17 Uhr, 20.12. 15 Uhr und 22.12. 17 Uhr (ausverkauft).",
+"description": "Kindgerechte Fassung von Mozarts Zauberflöte mit Marionetten im Operla-Theater; die Vorstellung am 22.12. ist ausverkauft.",
 "price": "15 €, Kinder 12 €",
 "url": "https://www.operla.de/produkt/kinderzauberfloete/",
 "sources": [
@@ -10326,26 +10323,31 @@
 "id": "791a2494d3"
 },
 {
-"title": "Opernhaus-Highlights mit Masken-Workshop",
-"subtitle": null,
+"title": "Opernhaus-Highlights mit Bastel-Workshop",
+"subtitle": "für Kinder von 6–12 Jahren",
 "date": "2026-12-05",
 "end_date": null,
 "time": "14:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14 (Museumsfoyer)",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
 "organizer": "Bayerische Schlösserverwaltung",
 "category": "Kinder & Familie",
 "tags": [
-"Familienführung",
-"Workshop"
+"Kinder",
+"Basteln",
+"Opernhaus",
+"Kinderführung"
 ],
-"description": "Familienführung für Kinder von 6 bis 12 Jahren mit anschließendem Maskenbasteln; Anmeldung erforderlich.",
-"price": "3 € + Eintritt",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=6&optArt=999999&optOrt=14&optMonat=999999",
+"description": "Kurze Familienführung durch das Opernhaus für Kinder von 6 bis 12 Jahren mit anschließendem Basteln.",
+"price": "3 € zzgl. Eintritt Erwachsene",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp",
 "sources": [
-"Bayerische Schlösserverwaltung"
+"Schlösserverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung – bayreuth-wilhelmine.de (Themenführungen)",
+"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)"
 ],
 "house": "Markgräfliches Opernhaus",
-"id": "3f21bbf0ce"
+"id": "686f504f1c"
 },
 {
 "title": "Hänsel & Gretel – Marionettentheater Operla auf der Gassenweihnacht",
@@ -10864,6 +10866,29 @@
 ],
 "house": "Weitere Orte",
 "id": "16f74cc2a0"
+},
+{
+"title": "Die legendäre Glashaus Jamsession",
+"subtitle": null,
+"date": "2026-12-07",
+"end_date": null,
+"time": "19:00",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jamsession",
+"Live-Musik",
+"offene Bühne"
+],
+"description": "Offene Session für Musikerinnen und Musiker aller Instrumente und Niveaus, Backline ist vorhanden; Termine am 2.11. und 7.12. Ab 18, Glashaus-Mitgliedschaft erforderlich.",
+"price": "Eintritt frei (Mitgliedschaft ab 1 €)",
+"url": "https://www.glashaus.org/programm/jamsession-260727-2-2",
+"sources": [
+"Glashaus"
+],
+"house": "Glashaus",
+"id": "dd54a18a9a"
 },
 {
 "title": "Dokufilmreihe „Wirklichkeiten“: Zeppelin oben rechts",
@@ -11990,7 +12015,7 @@
 "title": "Die Verwirrungen des Zöglings Törless",
 "subtitle": null,
 "date": "2026-12-18",
-"end_date": "2026-12-31",
+"end_date": "2026-12-27",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
 "organizer": "Studiobühne Bayreuth e.V.",
@@ -12018,11 +12043,6 @@
 {
 "date": "2026-12-27",
 "time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-31",
-"time": "20:00",
 "hinweis": null
 }
 ]
@@ -12693,6 +12713,41 @@
 "id": "07a03ab0cc"
 },
 {
+"title": "Das Kriminal Dinner: Der Polterabendkiller",
+"subtitle": null,
+"date": "2026-12-29",
+"end_date": "2026-12-30",
+"time": "19:00",
+"venue": "Hotel & Restaurant Lohmühle, Badstraße 37",
+"organizer": "Das Kriminal Dinner",
+"category": "Theater",
+"tags": [
+"Krimidinner",
+"Krimi",
+"Menü"
+],
+"description": "Krimitheater mit Menü: Auf einer Verlobungsfeier wird ein Gast ermordet, und der Brautvater, ein Polizist, ermittelt mit seiner Freundin von der Kripo.",
+"price": "94,90 €",
+"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/hotel-restaurant-lohmuehle",
+"termine": [
+{
+"date": "2026-12-29",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "19:00",
+"hinweis": null
+}
+],
+"sources": [
+"Das Kriminal Dinner"
+],
+"house": "Weitere Orte",
+"id": "c8ee59314f"
+},
+{
 "title": "So wunderweiße Nächte",
 "subtitle": "Lesung mit Texten von Rainer Maria Rilke zum 100. Todestag",
 "date": "2026-12-29",
@@ -12716,6 +12771,54 @@
 ],
 "house": "Studiobühne",
 "id": "1e9a399268"
+},
+{
+"title": "Winterruhe? Von wegen! Spaziergang im ÖBG",
+"subtitle": "Führung",
+"date": "2027-01-03",
+"end_date": null,
+"time": "10:00",
+"venue": "Ökologisch-Botanischer Garten der Universität Bayreuth – Haupteingang",
+"organizer": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+"category": "Führung",
+"tags": [
+"Botanik",
+"Winter",
+"Garten"
+],
+"description": "Winterlicher Rundgang durch den Ökologisch-Botanischen Garten; Treffpunkt ist der Haupteingang, die Teilnahme ist kostenlos.",
+"price": "kostenlos",
+"url": "https://www.obg.uni-bayreuth.de/de/veranstaltungen/20270103-Fuehrung-Winterruhe/index.html",
+"termine": null,
+"sources": [
+"Ökologisch-Botanischer Garten"
+],
+"house": "Botanischer Garten",
+"id": "019c130d0c"
+},
+{
+"title": "Neujahrskonzert – Hofer Symphoniker",
+"subtitle": null,
+"date": "2027-01-03",
+"end_date": null,
+"time": "18:00",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": null,
+"category": "Klassik",
+"tags": [
+"Neujahrskonzert",
+"Orchester",
+"Hofer Symphoniker"
+],
+"description": "Die Hofer Symphoniker begrüßen im Großen Saal des Friedrichsforums das neue Jahr mit einem Orchesterkonzert.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20270103-neujahrskonzert-hofer-symphoniker",
+"termine": null,
+"sources": [
+"Friedrichsforum Bayreuth"
+],
+"house": "Friedrichsforum",
+"id": "0fcb1d40a6"
 }
 ]
 }
