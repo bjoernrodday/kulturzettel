@@ -1,17 +1,63 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-11-02T05:20+01:00",
+ "abgerufen": "2026-11-03T05:14+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-11-01",
-  "bis": "2026-11-01",
-  "besucher": 33,
+  "von": "2026-11-02",
+  "bis": "2026-11-02",
+  "besucher": 4,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 21
+    "besucher": 2
+   },
+   {
+    "pfad": "/ort/friedrichsforum.html",
+    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/sparte/kabarett-comedy.html",
+    "titel": "Kabarett und Comedy in Bayreuth – Kulturzettel",
+    "besucher": 1
+   }
+  ],
+  "herkunft": [
+   {
+    "name": "Google",
+    "besucher": 2
+   },
+   {
+    "name": "(direkt)",
+    "besucher": 1
+   },
+   {
+    "name": "chatgpt.com",
+    "besucher": 1
+   }
+  ]
+ },
+ "letzte_7_tage": {
+  "von": "2026-10-27",
+  "bis": "2026-11-02",
+  "besucher": 124,
+  "seiten": [
+   {
+    "pfad": "/",
+    "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
+    "besucher": 77
+   },
+   {
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
+    "besucher": 9
+   },
+   {
+    "pfad": "/kino.html",
+    "titel": "Kinozettel Bayreuth",
+    "besucher": 8
    },
    {
     "pfad": "/ueber.html",
@@ -24,96 +70,8 @@
     "besucher": 3
    },
    {
-    "pfad": "/sparte/ausstellungen.html",
-    "titel": "Ausstellungen in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/games.html",
-    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/schloesser-eremitage.html",
-    "titel": "Schlösser & Eremitage: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
-    "besucher": 1
-   }
-  ],
-  "herkunft": [
-   {
-    "name": "(direkt)",
-    "besucher": 17
-   },
-   {
-    "name": "chatgpt.com",
-    "besucher": 7
-   },
-   {
-    "name": "kulturzettel-bayreuth.de",
-    "besucher": 6
-   },
-   {
-    "name": "Google",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/ueber.html",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/index.html",
-    "besucher": 1
-   }
-  ]
- },
- "letzte_7_tage": {
-  "von": "2026-10-26",
-  "bis": "2026-11-01",
-  "besucher": 135,
-  "seiten": [
-   {
-    "pfad": "/",
-    "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 83
-   },
-   {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
-    "besucher": 10
-   },
-   {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
-    "besucher": 8
-   },
-   {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 5
-   },
-   {
     "pfad": "/sparte/klassik.html",
     "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 4
-   },
-   {
-    "pfad": "/ueber.html",
-    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 4
-   },
-   {
-    "pfad": "/impressum.html",
-    "titel": "Impressum – Kulturzettel Bayreuth",
     "besucher": 3
    },
    {
@@ -122,9 +80,19 @@
     "besucher": 2
    },
    {
-    "pfad": "/ort/stadtfuehrungen.html",
-    "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/kabarett-comedy.html",
+    "titel": "Kabarett und Comedy in Bayreuth – Kulturzettel",
     "besucher": 2
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
+    "pfad": "/ort/friedrichsforum.html",
+    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/sparte/ausstellungen.html",
@@ -147,11 +115,6 @@
     "besucher": 1
    },
    {
-    "pfad": "/sparte/kabarett-comedy.html",
-    "titel": "Kabarett und Comedy in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
     "pfad": "/ort/universitaet.html",
     "titel": "Universität: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
@@ -160,23 +123,19 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 46
+    "besucher": 45
    },
    {
     "name": "chatgpt.com",
-    "besucher": 38
+    "besucher": 33
    },
    {
     "name": "Google",
-    "besucher": 20
+    "besucher": 19
    },
    {
     "name": "kulturzettel-bayreuth.de",
     "besucher": 11
-   },
-   {
-    "name": "kulturtoepfe.de",
-    "besucher": 7
    },
    {
     "name": "l.instagram.com",
@@ -184,6 +143,10 @@
    },
    {
     "name": "www.facebook.com",
+    "besucher": 3
+   },
+   {
+    "name": "kulturtoepfe.de",
     "besucher": 3
    },
    {
@@ -201,14 +164,14 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-10-05",
-  "bis": "2026-11-01",
-  "besucher": 174,
+  "von": "2026-10-06",
+  "bis": "2026-11-02",
+  "besucher": 178,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 111
+    "besucher": 113
    },
    {
     "pfad": "/sparte/club-party.html",
@@ -251,9 +214,19 @@
     "besucher": 2
    },
    {
+    "pfad": "/sparte/kabarett-comedy.html",
+    "titel": "Kabarett und Comedy in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
     "pfad": "/ort/stadtfuehrungen.html",
     "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 2
+   },
+   {
+    "pfad": "/ort/friedrichsforum.html",
+    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
    },
    {
     "pfad": "/sparte/ausstellungen.html",
@@ -269,30 +242,20 @@
     "pfad": "/ort/schloesser-eremitage.html",
     "titel": "Schlösser & Eremitage: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
-   },
-   {
-    "pfad": "/datenschutz.html",
-    "titel": "Datenschutz – Kulturzettel Bayreuth",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/kabarett-comedy.html",
-    "titel": "Kabarett und Comedy in Bayreuth – Kulturzettel",
-    "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 73
+    "besucher": 74
    },
    {
     "name": "chatgpt.com",
-    "besucher": 38
+    "besucher": 39
    },
    {
     "name": "Google",
-    "besucher": 20
+    "besucher": 22
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -330,7 +293,7 @@
    },
    {
     "name": "Safari",
-    "besucher": 74
+    "besucher": 78
    },
    {
     "name": "Firefox",
@@ -340,7 +303,7 @@
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 70
+    "besucher": 73
    },
    {
     "name": "Android",
@@ -352,7 +315,7 @@
    },
    {
     "name": "macOS",
-    "besucher": 10
+    "besucher": 11
    },
    {
     "name": "Linux",
@@ -362,7 +325,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 141
+    "besucher": 144
    },
    {
     "name": "",
@@ -370,7 +333,7 @@
    },
    {
     "name": "",
-    "besucher": 30
+    "besucher": 31
    },
    {
     "name": "",
@@ -384,7 +347,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 156
+    "besucher": 160
    },
    {
     "name": "United Kingdom",
@@ -417,10 +380,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-08-04",
-   "besucher": 0
-  },
   {
    "tag": "2026-08-05",
    "besucher": 0
@@ -779,6 +738,10 @@
   },
   {
    "tag": "2026-11-02",
+   "besucher": 4
+  },
+  {
+   "tag": "2026-11-03",
    "besucher": 0
   }
  ]
