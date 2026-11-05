@@ -1,31 +1,26 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-11-04T05:17+01:00",
+ "abgerufen": "2026-11-05T05:18+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
  "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-11-03",
-  "bis": "2026-11-03",
-  "besucher": 10,
+  "von": "2026-11-04",
+  "bis": "2026-11-04",
+  "besucher": 7,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 4
+    "besucher": 3
    },
    {
-    "pfad": "/sparte/vortraege.html",
-    "titel": "Vorträge und Diskussionen in Bayreuth – Kulturzettel",
+    "pfad": "/ort/das-zentrum.html",
+    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
-    "pfad": "/sparte/ausstellungen.html",
-    "titel": "Ausstellungen in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/impressum.html",
-    "titel": "Impressum – Kulturzettel Bayreuth",
+    "pfad": "/ort/glashaus.html",
+    "titel": "Glashaus: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
@@ -37,11 +32,6 @@
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
     "besucher": 1
-   },
-   {
-    "pfad": "/quellen.html",
-    "titel": "Quellen – Kulturzettel Bayreuth",
-    "besucher": 1
    }
   ],
   "herkunft": [
@@ -51,41 +41,33 @@
    },
    {
     "name": "(direkt)",
-    "besucher": 2
-   },
-   {
-    "name": "Google",
     "besucher": 1
    },
    {
-    "name": "www.linkedin.com",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de",
+    "name": "kulturtoepfe.de",
     "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-10-28",
-  "bis": "2026-11-03",
-  "besucher": 117,
+  "von": "2026-10-29",
+  "bis": "2026-11-04",
+  "besucher": 112,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 72
+    "besucher": 70
    },
    {
     "pfad": "/sparte/club-party.html",
     "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
-    "besucher": 9
+    "besucher": 6
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 7
+    "besucher": 6
    },
    {
     "pfad": "/impressum.html",
@@ -96,6 +78,11 @@
     "pfad": "/ueber.html",
     "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
     "besucher": 4
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 3
    },
    {
     "pfad": "/sparte/ausstellungen.html",
@@ -115,11 +102,6 @@
    {
     "pfad": "/sparte/klassik.html",
     "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 2
-   },
-   {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
     "besucher": 2
    },
    {
@@ -151,7 +133,7 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 44
+    "besucher": 41
    },
    {
     "name": "chatgpt.com",
@@ -159,11 +141,11 @@
    },
    {
     "name": "Google",
-    "besucher": 17
+    "besucher": 16
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 11
+    "besucher": 10
    },
    {
     "name": "l.instagram.com",
@@ -192,19 +174,19 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-10-07",
-  "bis": "2026-11-03",
-  "besucher": 188,
+  "von": "2026-10-08",
+  "bis": "2026-11-04",
+  "besucher": 195,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 117
+    "besucher": 120
    },
    {
     "pfad": "/sparte/club-party.html",
     "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
-    "besucher": 11
+    "besucher": 12
    },
    {
     "pfad": "/kino.html",
@@ -212,14 +194,14 @@
     "besucher": 10
    },
    {
-    "pfad": "/ueber.html",
-    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
     "besucher": 7
    },
    {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 6
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
+    "besucher": 7
    },
    {
     "pfad": "/quellen.html",
@@ -252,6 +234,16 @@
     "besucher": 2
    },
    {
+    "pfad": "/ort/das-zentrum.html",
+    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
+    "pfad": "/ort/glashaus.html",
+    "titel": "Glashaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
     "pfad": "/ort/stadtfuehrungen.html",
     "titel": "Stadtführungen: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 2
@@ -260,26 +252,16 @@
     "pfad": "/sparte/vortraege.html",
     "titel": "Vorträge und Diskussionen in Bayreuth – Kulturzettel",
     "besucher": 1
-   },
-   {
-    "pfad": "/ort/friedrichsforum.html",
-    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/games.html",
-    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
-    "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 76
+    "besucher": 77
    },
    {
     "name": "chatgpt.com",
-    "besucher": 44
+    "besucher": 49
    },
    {
     "name": "Google",
@@ -295,7 +277,7 @@
    },
    {
     "name": "kulturtoepfe.de",
-    "besucher": 7
+    "besucher": 8
    },
    {
     "name": "www.facebook.com",
@@ -317,11 +299,11 @@
   "browser": [
    {
     "name": "Chrome",
-    "besucher": 98
+    "besucher": 101
    },
    {
     "name": "Safari",
-    "besucher": 82
+    "besucher": 86
    },
    {
     "name": "Firefox",
@@ -331,7 +313,7 @@
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 77
+    "besucher": 80
    },
    {
     "name": "Android",
@@ -339,11 +321,11 @@
    },
    {
     "name": "Windows",
-    "besucher": 20
+    "besucher": 23
    },
    {
     "name": "macOS",
-    "besucher": 12
+    "besucher": 13
    },
    {
     "name": "Linux",
@@ -353,7 +335,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 150
+    "besucher": 153
    },
    {
     "name": "",
@@ -361,7 +343,7 @@
    },
    {
     "name": "",
-    "besucher": 35
+    "besucher": 39
    },
    {
     "name": "",
@@ -375,7 +357,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 169
+    "besucher": 175
    },
    {
     "name": "United Kingdom",
@@ -383,7 +365,7 @@
    },
    {
     "name": "United States",
-    "besucher": 3
+    "besucher": 4
    },
    {
     "name": "Austria",
@@ -408,10 +390,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-08-06",
-   "besucher": 0
-  },
   {
    "tag": "2026-08-07",
    "besucher": 0
@@ -770,6 +748,10 @@
   },
   {
    "tag": "2026-11-04",
+   "besucher": 7
+  },
+  {
+   "tag": "2026-11-05",
    "besucher": 0
   }
  ]
