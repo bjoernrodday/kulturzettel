@@ -37,8 +37,8 @@ for f in files:
                 if not dup.get(k) and e.get(k): dup[k]=e[k]
             if not dup.get('price') and e.get('price') and not (dup.get('end_date') or e.get('end_date')): dup['price']=e['price']
             if e.get('termine'):
-                have={t.get('date') for t in dup.get('termine') or []}
-                dup['termine']=(dup.get('termine') or [])+[t for t in e['termine'] if t.get('date') not in have]
+                have={(t.get('date'),t.get('time')) for t in dup.get('termine') or []}
+                dup['termine']=(dup.get('termine') or [])+[t for t in e['termine'] if (t.get('date'),t.get('time')) not in have]
             dup['tags']=list(dict.fromkeys((dup.get('tags') or [])+(e.get('tags') or [])))[:5]
             dup.setdefault('sources',[]).extend(e.get('sources') or [e.get('source')])
             continue
@@ -48,7 +48,11 @@ for f in files:
 kept=[]
 for e in out:
     if e.get('termine'):
-        ts=sorted({t['date']:t for t in e['termine'] if t.get('date') and TODAY<=t['date']<=HORIZON}.values(),key=lambda t:(t['date'],t.get('time') or '99'))
+        _d={}
+        for t in e['termine']:
+            if t.get('date') and TODAY<=t['date']<=HORIZON: _d.setdefault((t['date'],t.get('time')),t)
+        _timed={k[0] for k in _d if k[1]}
+        ts=sorted([t for k,t in _d.items() if k[1] or k[0] not in _timed],key=lambda t:(t['date'],t.get('time') or '99'))
         if not ts: continue
         if len(ts)==1:
             e['date'],e['time']=ts[0]['date'],ts[0].get('time') or e.get('time'); e['end_date']=None
