@@ -791,9 +791,21 @@
 {
 "name": "Wild Wax Shows – Tourdaten (u. a. Schokofabrik)",
 "url": "https://www.wildwaxshows.com/on-tour/"
+},
+{
+"name": "Kulturkiosk zur Seebühne (Wilhelminenaue)",
+"url": "https://kulturkiosk-zur-seebuhne.webnode.page/"
+},
+{
+"name": "Lutherkirche Bayreuth",
+"url": "https://www.lutherkirche-bayreuth.de/"
+},
+{
+"name": "Unichor Bayreuth – Veranstaltungen",
+"url": "https://unichor-bayreuth.de/veranstaltungen/liste/"
 }
 ],
-"updated": "2026-11-05T11:23+01:00",
+"updated": "2026-11-06T01:22+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1137,36 +1149,11 @@
 "id": "ba7f7a0929"
 },
 {
-"title": "Puder, Parfüm, Parasiten – Mode und Hygiene im Barock",
-"subtitle": "für Kinder von 7–11 Jahren",
-"date": "2026-11-05",
-"end_date": null,
-"time": "10:30",
-"venue": "Neues Schloss Bayreuth",
-"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
-"category": "Kinder & Familie",
-"tags": [
-"Barock",
-"Mode",
-"Familienführung"
-],
-"description": "Kinderführung über Kleidung und Körperpflege im Barock mit Felicitas Weiß; Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt Erwachsene",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=3&optArt=999999&optOrt=14&optMonat=11",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – Bayreuth-Wilhelmine (Führungen)"
-],
-"house": "Schlösser & Eremitage",
-"id": "fd8583ce3e"
-},
-{
 "title": "Herbstferienprogramm in der Lernwerkstatt",
 "subtitle": "Kreativ-Workshops für Grundschulkinder",
-"date": "2026-11-05",
-"end_date": "2026-11-06",
-"time": "14:00",
+"date": "2026-11-06",
+"end_date": null,
+"time": "10:00",
 "venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
 "organizer": "Bezirk Oberfranken – KulturServiceStelle im Museum für bäuerliche Arbeitsgeräte",
 "category": "Kinder & Familie",
@@ -1184,515 +1171,7 @@
 "Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte"
 ],
 "house": "Weitere Orte",
-"id": "5209f55d17",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-06",
-"time": "10:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Spieletreff",
-"subtitle": "Offene Runde für Karten- und Brettspiele",
-"date": "2026-11-05",
-"end_date": "2026-12-17",
-"time": "14:00",
-"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
-"organizer": "Stadt Bayreuth – Seniorenamt",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Kartenspiele",
-"Senioren"
-],
-"description": "Offener Spielenachmittag in der Bürgerbegegnungsstätte mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
-"sources": [
-"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "a38815fa97",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-12",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-19",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-26",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-03",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-10",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-17",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Führung KLAVIERWELT: Manufaktur und Museum",
-"subtitle": "Manufaktur und Museum",
-"date": "2026-11-05",
-"end_date": "2026-12-03",
-"time": "16:00",
-"venue": "Steingraeber-Haus, Friedrichstraße 2",
-"organizer": "Steingraeber & Söhne",
-"category": "Führung",
-"tags": [
-"Klavierbau",
-"Museum",
-"Manufaktur",
-"Liszt",
-"Handwerk"
-],
-"description": "Rundgang durch Klaviermanufaktur und Museum (5.11. und 3.12.).",
-"price": "bis 8 €",
-"url": "https://www.steingraeber.de/veranstaltungen/fuehrung-klavierwelt-manufaktur-und-museum-9/",
-"sources": [
-"Steingraeber & Söhne",
-"Steingraeber",
-"Steingraeber Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Steingraeber Haus",
-"id": "7ab13341b5",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-03",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Koch- und Spieleabend",
-"subtitle": null,
-"date": "2026-11-05",
-"end_date": "2026-11-26",
-"time": "17:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Kochen",
-"Brettspiele",
-"wöchentlich"
-],
-"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "b4b32324f7",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-12",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-19",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-26",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "CineArt: Alte Liebe",
-"subtitle": null,
-"date": "2026-11-05",
-"end_date": "2026-11-10",
-"time": "17:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Komödie"
-],
-"description": "Tragikomödie über ein seit Jahrzehnten verheiratetes Paar in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoseite: Do 05.11. 17:30, So 08.11. 10:45, Di 10.11. 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/alte-liebe-6A141000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "e2b29f1e97",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "17:30",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "10:45",
-"hinweis": null
-},
-{
-"date": "2026-11-10",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Führungen durch „Beyond the Sweet and Obvious: African Feminisms Refracted“",
-"subtitle": "Ausstellungsführungen im Iwalewahaus",
-"date": "2026-11-05",
-"end_date": "2026-12-09",
-"time": "18:00",
-"venue": "Iwalewahaus, Wölfelstraße 2 – 1. Stock",
-"organizer": "Iwalewahaus, Universität Bayreuth",
-"category": "Führung",
-"tags": [
-"Ausstellung",
-"Afrika",
-"Feminismus",
-"Führung"
-],
-"description": "Rund 45-minütige Führungen durch die Ausstellung zu afrikanischen Feminismen; am 5. November führt Kuratorin Natasha A. Kelly selbst. Die deutschsprachige Kuratorinnenführung am 26. November steht als eigener Termin im Kalender.",
-"price": null,
-"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/PRINT-Inner-pages-A5_V3.pdf",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "18:00",
-"hinweis": "mit Kuratorin Natasha A. Kelly"
-},
-{
-"date": "2026-12-09",
-"time": "18:00",
-"hinweis": null
-}
-],
-"sources": [
-"Iwalewahaus"
-],
-"house": "Iwalewahaus",
-"id": "bb64bb72c8"
-},
-{
-"title": "Listen to the Science?!",
-"subtitle": "Zur Verarbeitung klimawissenschaftlicher Erkenntnisse im (Verfassungs-)Recht",
-"date": "2026-11-05",
-"end_date": null,
-"time": "18:00",
-"venue": "Universität Bayreuth, Gebäude Rechtswissenschaften II, Hörsaal H 21",
-"organizer": "Lehrstuhl für Europarecht, Umweltrecht und Rechtsvergleichung (Prof. Dr. Eva Julia Lohse), Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Klimaschutz",
-"Recht",
-"Wissenschaft"
-],
-"description": "Der Hamburger Rechtsanwalt Dr. Johannes Franke spricht darüber, wie Gerichte und Verfassungsrecht klimawissenschaftliche Erkenntnisse aufgreifen. Öffentlich, ohne Anmeldung.",
-"price": "Eintritt frei",
-"url": "https://www.bayceer.uni-bayreuth.de/bayceer/de/aktuelles/termine/detail.php?id_obj=178034",
-"termine": null,
-"sources": [
-"Universität Bayreuth – BayCEER"
-],
-"house": "Universität",
-"id": "bbeba5e7ed"
-},
-{
-"title": "Nachtwächterführung für Kinder",
-"subtitle": null,
-"date": "2026-11-05",
-"end_date": null,
-"time": "18:00",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus GmbH",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderführung",
-"Nachtwächter",
-"Abendrundgang",
-"Stadtgeschichte",
-"Abendführung"
-],
-"description": "Kindgerechte Nachtwächterführung durch die Innenstadt; Tickets vorab erforderlich.",
-"price": "10 € / Kinder 4 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/nachtwaechter-fuehrung/",
-"sources": [
-"Bayreuth Tourismus",
-"Bayreuth Tourismus (Führungsprogramm 2026)",
-"Bayreuth Marketing & Tourismus",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Stadtführungen",
-"id": "14c2f0629d"
-},
-{
-"title": "Alzire’s Afterlife: Archives, Absence, and Artistic Imagination",
-"subtitle": "Gespräch zur Ausstellung „Beyond the Sweet and Obvious“",
-"date": "2026-11-05",
-"end_date": null,
-"time": "19:00",
-"venue": "Iwalewahaus, Wölfelstraße 2 – Foyer",
-"organizer": "Iwalewahaus, Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Gespräch",
-"Archiv",
-"Kunst"
-],
-"description": "Die Künstlerin Kitso Lynn Lelliott und Katharina Fink sprechen über Archive, Leerstellen und künstlerische Imagination; Moderation Natasha A. Kelly.",
-"price": null,
-"url": "https://www.iwalewahaus.uni-bayreuth.de/de/Events/2026-10-22-Beyond-the-Sweet-and-Obvious/index.html",
-"termine": null,
-"sources": [
-"Iwalewahaus"
-],
-"house": "Iwalewahaus",
-"id": "e1b99af512"
-},
-{
-"title": "Jedermann",
-"subtitle": null,
-"date": "2026-11-05",
-"end_date": "2026-11-07",
-"time": "19:30",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "I LIKE STORIES GmbH",
-"category": "Theater",
-"tags": [
-"Hofmannsthal",
-"Schauspiel",
-"Neuinszenierung"
-],
-"description": "Musikalische Neuinszenierung von Hofmannsthals Spiel vom Sterben des reichen Mannes (Regie Nicolai Tegeler); 5.11. 19:30 Uhr Premiere, 6. und 7.11. jeweils 19 Uhr.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261105-jedermann",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "cb39db187f",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "19:30",
-"hinweis": "Premiere"
-},
-{
-"date": "2026-11-06",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Jeeps",
-"subtitle": "Komödie von Nora Abdel-Maksoud",
-"date": "2026-11-05",
-"end_date": "2026-12-28",
-"time": "20:00",
-"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth",
-"category": "Theater",
-"tags": [
-"Komödie",
-"Erbschaft",
-"Gegenwartsdramatik",
-"Studiobühne"
-],
-"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
-"price": null,
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
-"sources": [
-"Studiobühne Bayreuth",
-"Studiobühne (tickets4arts)",
-"Bayreuther Tagblatt / bayreuth4U"
-],
-"house": "Studiobühne",
-"id": "3b277f68bb",
-"termine": [
-{
-"date": "2026-11-05",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "20:00",
-"hinweis": "Letzte Vorstellung"
-}
-]
-},
-{
-"title": "Helene Bockhorst: Lebefrau",
-"subtitle": "Lebefrau",
-"date": "2026-11-05",
-"end_date": null,
-"time": "20:00",
-"venue": "Liebesbier, Andreas-Maisel-Weg 1",
-"organizer": "motion kommunikation",
-"category": "Kabarett & Comedy",
-"tags": [
-"Comedy",
-"Stand-up",
-"Solo",
-"Solo-Programm",
-"schwarzer Humor"
-],
-"description": "Stand-up-Programm der Komikerin.",
-"price": "29,95 €",
-"url": "https://www.motion-kommunikation.de/event/helene-bockhorst-lebefrau/",
-"sources": [
-"motion kommunikation",
-"motion Kommunikation",
-"Liebesbier",
-"Maisel & Friends / Liebesbier",
-"motion Kommunikation (Ticketshop)",
-"Motion Kommunikation",
-"Liebesbier (Maisel & Friends)",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Liebesbier",
-"id": "c38a2a6e39"
-},
-{
-"title": "Max Raabe & Palast Orchester – Hummel streicheln",
-"subtitle": null,
-"date": "2026-11-05",
-"end_date": null,
-"time": "20:00",
-"venue": "Oberfrankenhalle",
-"organizer": null,
-"category": "Pop, Rock & Jazz",
-"tags": [
-"20er-Jahre",
-"Chanson",
-"Orchester"
-],
-"description": "Max Raabe und sein Palast Orchester mit Schlagern der 1920er und eigenen Liedern im Stil der Zeit.",
-"price": null,
-"url": "https://www.palast-orchester.de/de/konzerte/",
-"sources": [
-"Max Raabe & Palast Orchester"
-],
-"house": "Oberfrankenhalle",
-"id": "85769bac6d"
+"id": "e34ed463f8"
 },
 {
 "title": "Sprechen und Zuhören",
@@ -1938,16 +1417,16 @@
 "end_date": null,
 "time": "17:00",
 "venue": "Katharina-von-Bora-Kirche Bayreuth",
-"organizer": "Ev.-Luth. Kirchengemeinde (Dekanat Bayreuth)",
+"organizer": "Ev.-Luth. Kirchengemeinde Lutherkirche Bayreuth, in Kooperation mit dem EBW Oberfranken-Mitte",
 "category": "Film",
 "tags": [
 "Dokumentarfilm",
 "Wohnungslosigkeit",
 "Gespräch"
 ],
-"description": "Vorführung des Bayreuther Dokumentarfilms über Menschen ohne Wohnung in der Stadt, danach Gespräch; Dauer etwa eine Stunde.",
-"price": null,
-"url": "https://www.evangelische-termine.de/detail-bt?ID=8131686",
+"description": "Gezeigt wird der 19-minütige Bayreuther Dokumentarfilm über wohnungslose Menschen in der Stadt; danach Gespräch mit Filmemacher Dekan i. R. Günter Saalfrank und einem Mitwirkenden (17–18 Uhr). Spenden gehen an Stadtmission und Diakonie (Haus Cosima).",
+"price": "Eintritt frei (Spenden erbeten)",
+"url": "https://www.lutherkirche-bayreuth.de/filmabend-obdachlos-bayreuth",
 "sources": [
 "Ev.-Luth. Dekanat Bayreuth (evangelische-termine.de)"
 ],
@@ -2042,6 +1521,42 @@
 {
 "date": "2026-12-18",
 "time": "18:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Jedermann",
+"subtitle": null,
+"date": "2026-11-06",
+"end_date": "2026-11-07",
+"time": "19:00",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": "I LIKE STORIES GmbH",
+"category": "Theater",
+"tags": [
+"Hofmannsthal",
+"Schauspiel",
+"Neuinszenierung"
+],
+"description": "Musikalische Neuinszenierung von Hofmannsthals Spiel vom Sterben des reichen Mannes (Regie Nicolai Tegeler); 5.11. 19:30 Uhr Premiere, 6. und 7.11. jeweils 19 Uhr.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261105-jedermann",
+"sources": [
+"Friedrichsforum",
+"Friedrichsforum Bayreuth"
+],
+"house": "Friedrichsforum",
+"id": "390040cc6f",
+"termine": [
+{
+"date": "2026-11-06",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-07",
+"time": "19:00",
 "hinweis": null
 }
 ]
@@ -2677,6 +2192,104 @@
 "id": "417f41e309"
 },
 {
+"title": "Jeeps",
+"subtitle": "Komödie von Nora Abdel-Maksoud",
+"date": "2026-11-07",
+"end_date": "2026-12-28",
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth",
+"category": "Theater",
+"tags": [
+"Komödie",
+"Erbschaft",
+"Gegenwartsdramatik",
+"Studiobühne"
+],
+"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
+"price": null,
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
+"sources": [
+"Studiobühne Bayreuth",
+"Studiobühne (tickets4arts)",
+"Bayreuther Tagblatt / bayreuth4U"
+],
+"house": "Studiobühne",
+"id": "6f01d49e0d",
+"termine": [
+{
+"date": "2026-11-07",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-08",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-11",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "20:00",
+"hinweis": "Letzte Vorstellung"
+}
+]
+},
+{
 "title": "Bochum – A Tribute to Herbert Grönemeyer",
 "subtitle": null,
 "date": "2026-11-07",
@@ -2775,6 +2388,41 @@
 ],
 "house": "Clubs",
 "id": "f93f60a2ce"
+},
+{
+"title": "CineArt: Alte Liebe",
+"subtitle": null,
+"date": "2026-11-08",
+"end_date": "2026-11-10",
+"time": "10:45",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Arthouse",
+"Komödie"
+],
+"description": "Tragikomödie über ein seit Jahrzehnten verheiratetes Paar in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoseite: Do 05.11. 17:30, So 08.11. 10:45, Di 10.11. 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/film/alte-liebe-6A141000012FWBXJYB",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "1aa3a18263",
+"termine": [
+{
+"date": "2026-11-08",
+"time": "10:45",
+"hinweis": null
+},
+{
+"date": "2026-11-10",
+"time": "20:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Der Herr der Ringe – Extended Editions",
@@ -4290,6 +3938,101 @@
 "id": "f7363da8a0"
 },
 {
+"title": "Spieletreff",
+"subtitle": "Offene Runde für Karten- und Brettspiele",
+"date": "2026-11-12",
+"end_date": "2026-12-17",
+"time": "14:00",
+"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
+"organizer": "Stadt Bayreuth – Seniorenamt",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Kartenspiele",
+"Senioren"
+],
+"description": "Offener Spielenachmittag in der Bürgerbegegnungsstätte mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
+"sources": [
+"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "67f0e31338",
+"termine": [
+{
+"date": "2026-11-12",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-19",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-26",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-03",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-10",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-17",
+"time": "14:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Koch- und Spieleabend",
+"subtitle": null,
+"date": "2026-11-12",
+"end_date": "2026-11-26",
+"time": "17:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Kochen",
+"Brettspiele",
+"wöchentlich"
+],
+"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "b97490a143",
+"termine": [
+{
+"date": "2026-11-12",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-19",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-26",
+"time": "17:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "CineArt: Lügen über meine Mutter",
 "subtitle": null,
 "date": "2026-11-12",
@@ -4916,34 +4659,6 @@
 ],
 "house": "Becher Bräu",
 "id": "672ac1afcf"
-},
-{
-"title": "Auf den Spuren von Commissaire Dupin",
-"subtitle": "Vortrag im RW21-Leseherbst",
-"date": "2026-11-13",
-"end_date": null,
-"time": "19:30",
-"venue": "RW21 Volkshochschule – Seminarraum 5, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Literatur",
-"tags": [
-"Leseherbst",
-"Krimi",
-"Bretagne",
-"RW21 Leseherbst"
-],
-"description": "Wolfgang Hugo führt in Bildern und Texten in die Bretagne, den Schauplatz der Dupin-Krimis.",
-"price": "7,50 €",
-"url": "https://stadtbibliothek.bayreuth.de/der-rw21-leseherbst/",
-"sources": [
-"RW21 Leseherbst",
-"RW21 Stadtbibliothek",
-"RW21 Stadtbibliothek / vhs Bayreuth",
-"RW21 Stadtbibliothek Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "RW21",
-"id": "f28c79d572"
 },
 {
 "title": "Maybebop",
@@ -6017,7 +5732,7 @@
 "Filmabend"
 ],
 "description": "Die Fachschaft MPI zeigt während der Vorlesungszeit dienstags Filme, in H17 im Original mit englischen Untertiteln, in H18 auf Deutsch; das Filmprogramm steht nur im Uni-Netz.",
-"price": null,
+"price": "Eintritt frei",
 "url": "https://fsmpi.uni-bayreuth.de/unikino",
 "sources": [
 "Fachschaft MPI Universität Bayreuth"
@@ -6796,7 +6511,7 @@
 "title": "Die Bremer Stadtmusikanten",
 "subtitle": "Märchen nach den Brüdern Grimm",
 "date": "2026-11-21",
-"end_date": "2027-01-03",
+"end_date": "2027-01-06",
 "time": "15:00",
 "venue": "Brandenburger Kulturstadl, Brandenburger Straße 35",
 "organizer": "Brandenburger Kulturstadl",
@@ -6944,6 +6659,11 @@
 "date": "2027-01-03",
 "time": "16:30",
 "hinweis": null
+},
+{
+"date": "2027-01-06",
+"time": "15:00",
+"hinweis": "Letzte Vorstellung"
 }
 ]
 },
@@ -8887,6 +8607,52 @@
 "id": "59684d25ef"
 },
 {
+"title": "Weihnachtsmarkt-Konzerte am Kulturkiosk",
+"subtitle": "Christmas Soul, Bowtie-Band, Marina-Seidel-Trio, The Real Bookstones und Mundart-Lesungen",
+"date": "2026-11-28",
+"end_date": "2026-12-13",
+"time": null,
+"venue": "Wilhelminenaue – Kulturkiosk an der Seebühne",
+"organizer": "Kulturkiosk zur Seebühne",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Live-Musik",
+"Weihnachten",
+"Open Air",
+"Mundart"
+],
+"description": "Am kleinen Weihnachtsmarkt am Kulturkiosk in der Wilhelminenaue spielen an zwei Adventswochenenden regionale Bands: TANQUORAY mit Christmas Soul (28.11.), Henrik Vorbröker & Freunde und das Marina-Seidel-Trio (29.11.), dazu am 12. und 13.12. weihnachtliche Mundart-Lesungen mit Reinhold „Heiner“ Hartmann sowie Henrik Vorbröker & Freunde bzw. The Real Bookstones. Genaue Uhrzeiten nennt der Kiosk noch nicht; der Markt ist jeweils 12–18 Uhr geöffnet.",
+"price": "Eintritt frei",
+"url": "https://kulturkiosk-zur-seebuhne.webnode.page/",
+"termine": [
+{
+"date": "2026-11-28",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": null,
+"hinweis": null
+}
+],
+"sources": [
+"Kulturkiosk zur Seebühne"
+],
+"house": "Weitere Orte",
+"id": "429d5ea7e2"
+},
+{
 "title": "Gesamtkunstwerk Markgräfliches Opernhaus – Führung in Deutscher Gebärdensprache",
 "subtitle": null,
 "date": "2026-11-29",
@@ -8908,6 +8674,45 @@
 ],
 "house": "Markgräfliches Opernhaus",
 "id": "0ccea12f71"
+},
+{
+"title": "Barocke Theaterillusion und moderne Formensprache",
+"subtitle": "Überblicksführung",
+"date": "2026-11-29",
+"end_date": "2026-12-30",
+"time": "10:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Führung",
+"tags": [
+"Opernhaus",
+"UNESCO-Welterbe",
+"Barock",
+"Überblicksführung"
+],
+"description": "Überblicksführung durch das historische Opernhaus und die Ausstellung im Museum.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?PN=7&optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999",
+"sources": [
+"Schlösserverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
+"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
+"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "13cfd09337",
+"termine": [
+{
+"date": "2026-11-29",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "10:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Music as Worldmaking: Improvised Connections",
@@ -9027,49 +8832,10 @@
 "id": "38fd8437d9"
 },
 {
-"title": "Barocke Theaterillusion und moderne Formensprache",
-"subtitle": "Überblicksführung",
-"date": "2026-11-29",
-"end_date": "2026-12-30",
-"time": "14:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Führung",
-"tags": [
-"Opernhaus",
-"UNESCO-Welterbe",
-"Barock",
-"Überblicksführung"
-],
-"description": "Überblicksführung durch das historische Opernhaus und die Ausstellung im Museum.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.schloesser.bayern.de/deutsch/aktuell/fuehrung/ergebnis.asp?PN=7&optRubrik=999999&optArt=999999&optOrt=14&optMonat=999999",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung Bayreuth (Führungskalender Oktober)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "13cfd09337",
-"termine": [
-{
-"date": "2026-11-29",
-"time": "14:30",
-"hinweis": null
-},
-{
-"date": "2026-12-30",
-"time": "10:30",
-"hinweis": null
-}
-]
-},
-{
 "title": "Kinderzauberflöte",
 "subtitle": "Marionettentheater für Kinder",
 "date": "2026-11-29",
-"end_date": "2026-12-22",
+"end_date": "2027-01-06",
 "time": "15:00",
 "venue": "Marionettentheater Operla, Sophienstraße 32",
 "organizer": "Marionettentheater Operla",
@@ -9111,6 +8877,11 @@
 },
 {
 "date": "2026-12-22",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-06",
 "time": "17:00",
 "hinweis": null
 }
@@ -9825,6 +9596,34 @@
 "id": "eeb81f9504"
 },
 {
+"title": "Führung KLAVIERWELT: Manufaktur und Museum",
+"subtitle": "Manufaktur und Museum",
+"date": "2026-12-03",
+"end_date": null,
+"time": "16:00",
+"venue": "Steingraeber-Haus, Friedrichstraße 2",
+"organizer": "Steingraeber & Söhne",
+"category": "Führung",
+"tags": [
+"Klavierbau",
+"Museum",
+"Manufaktur",
+"Liszt",
+"Handwerk"
+],
+"description": "Rundgang durch Klaviermanufaktur und Museum (5.11. und 3.12.).",
+"price": "bis 8 €",
+"url": "https://www.steingraeber.de/veranstaltungen/fuehrung-klavierwelt-manufaktur-und-museum-9/",
+"sources": [
+"Steingraeber & Söhne",
+"Steingraeber",
+"Steingraeber Bayreuth",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Steingraeber Haus",
+"id": "3600cb1474"
+},
+{
 "title": "Advents- und Weihnachtsgeschichten – Integrativer Montessori Kindergarten",
 "subtitle": null,
 "date": "2026-12-03",
@@ -10131,7 +9930,19 @@
 "Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
 ],
 "house": "Weitere Orte",
-"id": "403dc7cc0c"
+"id": "403dc7cc0c",
+"termine": [
+{
+"date": "2026-12-05",
+"time": "12:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "12:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Adventsprogramm in der Lernwerkstatt: Weihnachtsbasteln",

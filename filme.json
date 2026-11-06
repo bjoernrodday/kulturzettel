@@ -1,5 +1,34 @@
 {
- "date": "2026-11-05",
- "updated": "2026-11-05T11:23+01:00",
- "films": []
+ "date": "2026-11-06",
+ "updated": "2026-11-06T01:22+01:00",
+ "films": [
+  {
+   "title": "Obdachlos in Bayreuth",
+   "venue": "Katharina-von-Bora-Kirche Bayreuth",
+   "runtime": 19,
+   "fsk": null,
+   "genres": [
+    "Dokumentarfilm"
+   ],
+   "genres_raw": [
+    "Dokumentarfilm"
+   ],
+   "badges": [
+    "Film & Gespräch"
+   ],
+   "week": null,
+   "shows": [
+    {
+     "time": "17:00",
+     "room": null,
+     "site": null,
+     "flags": []
+    }
+   ],
+   "more": false,
+   "note": "Kurzer Bayreuther Dokumentarfilm über wohnungslose Menschen, danach Gespräch mit Filmemacher Günter Saalfrank (17–18 Uhr). Eintritt frei, Spenden erbeten.",
+   "url": "https://www.lutherkirche-bayreuth.de/filmabend-obdachlos-bayreuth",
+   "source": "Ev.-Luth. Kirchengemeinde Lutherkirche Bayreuth"
+  }
+ ]
 }
