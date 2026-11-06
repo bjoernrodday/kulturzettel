@@ -1,200 +1,7 @@
 {
- "abgerufen": "2026-11-05T21:02+01:00",
+ "abgerufen": "2026-11-06T07:02+01:00",
  "quelle": "Cineplex Bayreuth, https://www.cineplex.de/bayreuth/programm (Abruf über Chrome)",
  "tage": {
-  "2026-11-05": {
-   "vollstaendig": true,
-   "films": [
-    {
-     "title": "Verity - Dunkle Geheimnisse",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 118,
-     "fsk": 12,
-     "genres": [
-      "Thriller & Krimi"
-     ],
-     "genres_raw": [
-      "Thriller"
-     ],
-     "badges": [],
-     "week": 6,
-     "shows": [
-      {
-       "time": "20:15",
-       "room": "Kino 8",
-       "site": "Haupthaus",
-       "flags": [
-        "VPT Intense",
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/verity-dunkle-geheimnisse-43041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Godzilla Minus Zero",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 135,
-     "fsk": 12,
-     "genres": [
-      "Action & Abenteuer",
-      "Drama"
-     ],
-     "genres_raw": [
-      "Action",
-      "Abenteuer",
-      "Drama"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "20:30",
-       "room": "Kino 6",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:45",
-       "room": "4DX",
-       "site": "Haupthaus",
-       "flags": [
-        "4DX"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/godzilla-minus-zero-D1341000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Kommissar Jennerwein - Hochsaison",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 97,
-     "fsk": 12,
-     "genres": [
-      "Komödie"
-     ],
-     "genres_raw": [
-      "Komödie"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "20:30",
-       "room": "F&G 4",
-       "site": "Franz & Gloria",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/kommissar-jennerwein-hochsaison-B3041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Ein Talent fürs Morden",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 106,
-     "fsk": 12,
-     "genres": [
-      "Drama"
-     ],
-     "genres_raw": [
-      "Drama"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "21:00",
-       "room": "Kino 3",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/ein-talent-fuers-morden-10341000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Geister",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 106,
-     "fsk": 12,
-     "genres": [
-      "Drama"
-     ],
-     "genres_raw": [
-      "Drama"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "21:00",
-       "room": "Kino 2",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/geister-5A141000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Other Mommy",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 94,
-     "fsk": 16,
-     "genres": [
-      "Horror"
-     ],
-     "genres_raw": [
-      "Horrorfilm"
-     ],
-     "badges": [],
-     "week": 2,
-     "shows": [
-      {
-       "time": "21:15",
-       "room": "Kino 5",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/other-mommy-31041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    }
-   ]
-  },
   "2026-11-06": {
    "vollstaendig": true,
    "films": [
@@ -3269,6 +3076,567 @@
      "more": false,
      "note": null,
      "url": "https://www.cineplex.de/bayreuth/film/dao-D4141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    }
+   ]
+  },
+  "2026-11-10": {
+   "vollstaendig": true,
+   "films": [
+    {
+     "title": "Drei Männer im Schnee",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 93,
+     "fsk": 0,
+     "genres": [
+      "Komödie",
+      "Kinder & Familie"
+     ],
+     "genres_raw": [
+      "Komödie",
+      "Familienfilm"
+     ],
+     "badges": [],
+     "week": null,
+     "shows": [
+      {
+       "time": "14:30",
+       "room": "Kino 8",
+       "site": "Haupthaus",
+       "flags": [
+        "VPT Intense",
+        "SilberFILM",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/drei-maenner-im-schnee-CA531000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Shaun das Schaf - Spuk im Kürbisfeld",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 80,
+     "fsk": 0,
+     "genres": [
+      "Animation",
+      "Kinder & Familie",
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Animation",
+      "Familienfilm",
+      "Komödie"
+     ],
+     "badges": [],
+     "week": 6,
+     "shows": [
+      {
+       "time": "16:00",
+       "room": "Kino 6",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/shaun-das-schaf-spuk-im-kuerbisfeld-04041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Der frechste Troll der Welt",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 78,
+     "fsk": 0,
+     "genres": [
+      "Kinder & Familie",
+      "Animation"
+     ],
+     "genres_raw": [
+      "Familienfilm",
+      "Animation"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "16:00",
+       "room": "Kino 3",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/der-frechste-troll-der-welt-D9141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Clayface",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 109,
+     "fsk": 16,
+     "genres": [
+      "Thriller & Krimi",
+      "Horror"
+     ],
+     "genres_raw": [
+      "Thriller",
+      "Horrorfilm"
+     ],
+     "badges": [],
+     "week": 3,
+     "shows": [
+      {
+       "time": "16:15",
+       "room": "Kino 2",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/clayface-E1041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Street Fighter",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 120,
+     "fsk": 12,
+     "genres": [
+      "Action & Abenteuer"
+     ],
+     "genres_raw": [
+      "Action"
+     ],
+     "badges": [],
+     "week": 4,
+     "shows": [
+      {
+       "time": "16:15",
+       "room": "Kino 1",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/street-fighter-FFD31000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Der perfekte Urlaub",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 125,
+     "fsk": 12,
+     "genres": [
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Komödie"
+     ],
+     "badges": [],
+     "week": 3,
+     "shows": [
+      {
+       "time": "16:30",
+       "room": "ULTIMATE. Studio 7",
+       "site": "Haupthaus",
+       "flags": [
+        "D-BOX",
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:00",
+       "room": "F&G 2",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:30",
+       "room": "ULTIMATE. Studio 7",
+       "site": "Haupthaus",
+       "flags": [
+        "D-BOX",
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/der-perfekte-urlaub-F0041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Geister",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 106,
+     "fsk": 12,
+     "genres": [
+      "Drama"
+     ],
+     "genres_raw": [
+      "Drama"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "16:45",
+       "room": "Kino 8",
+       "site": "Haupthaus",
+       "flags": [
+        "VPT Intense",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "21:00",
+       "room": "Kino 2",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/geister-5A141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Wildwood",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 131,
+     "fsk": 12,
+     "genres": [
+      "Drama",
+      "Animation",
+      "Action & Abenteuer"
+     ],
+     "genres_raw": [
+      "Drama",
+      "Animation",
+      "Abenteuer"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "17:00",
+       "room": "4DX",
+       "site": "Haupthaus",
+       "flags": [
+        "4DX"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/wildwood-51341000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Verity - Dunkle Geheimnisse",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 118,
+     "fsk": 12,
+     "genres": [
+      "Thriller & Krimi"
+     ],
+     "genres_raw": [
+      "Thriller"
+     ],
+     "badges": [],
+     "week": 6,
+     "shows": [
+      {
+       "time": "17:15",
+       "room": "Kino 5",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:20",
+       "room": "F&G 3",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/verity-dunkle-geheimnisse-43041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Kommissar Jennerwein - Hochsaison",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 97,
+     "fsk": 12,
+     "genres": [
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Komödie"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "18:15",
+       "room": "Kino 6",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:00",
+       "room": "Kino 1",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:45",
+       "room": "F&G 4",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/kommissar-jennerwein-hochsaison-B3041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Ein Talent fürs Morden",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 106,
+     "fsk": 12,
+     "genres": [
+      "Drama"
+     ],
+     "genres_raw": [
+      "Drama"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "18:15",
+       "room": "Kino 3",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:45",
+       "room": "Kino 3",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/ein-talent-fuers-morden-10341000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Other Mommy",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 94,
+     "fsk": 16,
+     "genres": [
+      "Horror"
+     ],
+     "genres_raw": [
+      "Horrorfilm"
+     ],
+     "badges": [],
+     "week": 2,
+     "shows": [
+      {
+       "time": "18:45",
+       "room": "Kino 2",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:15",
+       "room": "4DX",
+       "site": "Haupthaus",
+       "flags": [
+        "4DX"
+       ]
+      },
+      {
+       "time": "21:15",
+       "room": "Kino 1",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/other-mommy-31041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "RBO 26/27: Carmen (Royal Opera)",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 215,
+     "fsk": null,
+     "genres": [
+      "Events & Live"
+     ],
+     "genres_raw": [],
+     "badges": [
+      "Klassik & Co."
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "19:45",
+       "room": "F&G 5",
+       "site": "Franz & Gloria",
+       "flags": [
+        "EVENT",
+        "Klassik & Co.",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:00",
+       "room": "Kino 8",
+       "site": "Haupthaus",
+       "flags": [
+        "EVENT",
+        "VPT Intense",
+        "Klassik & Co.",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/rbo-2627-carmen-royal-opera-51241000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Alte Liebe",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 111,
+     "fsk": 6,
+     "genres": [
+      "Komödie",
+      "Drama"
+     ],
+     "genres_raw": [
+      "Komödie",
+      "Drama"
+     ],
+     "badges": [
+      "CineArt"
+     ],
+     "week": 5,
+     "shows": [
+      {
+       "time": "20:00",
+       "room": "Kino 5",
+       "site": "Haupthaus",
+       "flags": [
+        "CineArt",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/alte-liebe-6A141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Godzilla Minus Zero",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 135,
+     "fsk": 12,
+     "genres": [
+      "Action & Abenteuer",
+      "Drama"
+     ],
+     "genres_raw": [
+      "Action",
+      "Abenteuer",
+      "Drama"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "20:15",
+       "room": "F&G 1",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:30",
+       "room": "Kino 6",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/godzilla-minus-zero-D1341000012FWBXJYB",
      "source": "Cineplex Bayreuth"
     }
    ]
