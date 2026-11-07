@@ -20,12 +20,36 @@
     if (x && typeof x === 'object') { const r = {}; for (const k in x) r[k] = R(x[k], d + 1); return r; }
     return x;
   };
+  // Seit 11/2026 steht der Schlüssel programUIData nicht mehr wörtlich in der Zeile, die ihn
+  // enthält (er wird erst über Verweise erreicht). Daher alle JSON-Zeilen auflösen, statt per Text vorzufiltern.
+  const P = {};
+  const parsed = k => { if (!(k in P)) { const c = M[k][0]; let o = null; if (c === '{' || c === '[') { try { o = R(JSON.parse(M[k]), 0); } catch (e) {} } P[k] = o; } return P[k]; };
   let list = null;
   for (const k in M) {
-    if (!M[k].includes('programUIData')) continue;
-    let o; try { o = R(JSON.parse(M[k]), 0); } catch (e) { continue; }
+    const o = parsed(k); if (!o) continue;
     (function walk(x) { if (list || !x || typeof x !== 'object') return; if (Array.isArray(x.programUIData)) { list = x.programUIData; return; } for (const kk in x) walk(x[kk]); })(o);
     if (list) break;
+  }
+  // Rückfall: alle Filmobjekte (movieTitle + performances) einsammeln und je Film zusammenführen.
+  if (!list) {
+    const byId = new Map();
+    for (const k in M) {
+      if (!M[k].includes('movieTitle')) continue;
+      const o = parsed(k); if (!o) continue;
+      (function walk(x) {
+        if (!x || typeof x !== 'object') return;
+        if (Array.isArray(x)) { x.forEach(walk); return; }
+        if (typeof x.movieTitle === 'string' && Array.isArray(x.performances)) {
+          const id = x.movieWinTicketFilmId || x.movieTitle;
+          if (!byId.has(id)) byId.set(id, { m: x, p: new Map() });
+          const e = byId.get(id);
+          x.performances.forEach(p => p && p.performanceDateAndTime && e.p.set(p.performanceId || (p.performanceDateAndTime + '|' + (p.auditoriumName || '')), p));
+          return;
+        }
+        for (const kk in x) walk(x[kk]);
+      })(o);
+    }
+    if (byId.size) list = [...byId.values()].map(e => Object.assign({}, e.m, { performances: [...e.p.values()] }));
   }
   if (!list) { window.__kp = ''; return 'FEHLER: programUIData nicht gefunden'; }
   const today = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
