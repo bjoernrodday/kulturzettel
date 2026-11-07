@@ -803,9 +803,13 @@
 {
 "name": "Unichor Bayreuth – Veranstaltungen",
 "url": "https://unichor-bayreuth.de/veranstaltungen/liste/"
+},
+{
+"name": "Evangelisch-reformierte Gemeinde Bayreuth – Termine",
+"url": "https://reformiert-bayreuth.de/termine"
 }
 ],
-"updated": "2026-11-06T01:22+01:00",
+"updated": "2026-11-07T01:12+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -859,7 +863,7 @@
 "title": "Festspielhaus-Führung",
 "subtitle": null,
 "date": "2026-10-04",
-"end_date": "2026-12-31",
+"end_date": "2027-03-31",
 "time": "14:00",
 "venue": "Bayreuther Festspielhaus, Westeingang, Festspielhügel 1–2 (Treffpunkt)",
 "organizer": "Bayreuth Marketing & Tourismus",
@@ -869,7 +873,7 @@
 "Wagner",
 "regelmäßig"
 ],
-"description": "45-minütige Führung durch das Richard-Wagner-Festspielhaus; im November und Dezember täglich um 14 Uhr, samstags und sonntags zusätzlich um 11 Uhr. Kurzfristige Ausfälle wegen Proben oder Bauarbeiten sind möglich.",
+"description": "45-minütige Führung durch das Richard-Wagner-Festspielhaus; von November 2026 bis März 2027 täglich um 14 Uhr, samstags und sonntags zusätzlich um 11 Uhr. Kurzfristige Ausfälle wegen Proben oder Bauarbeiten sind möglich.",
 "price": "10 €, ermäßigt 5 €",
 "url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/festspielhaus-fuehrung/",
 "sources": [
@@ -1149,667 +1153,6 @@
 "id": "ba7f7a0929"
 },
 {
-"title": "Herbstferienprogramm in der Lernwerkstatt",
-"subtitle": "Kreativ-Workshops für Grundschulkinder",
-"date": "2026-11-06",
-"end_date": null,
-"time": "10:00",
-"venue": "Museum für bäuerliche Arbeitsgeräte, Adolf-Wächter-Straße 17",
-"organizer": "Bezirk Oberfranken – KulturServiceStelle im Museum für bäuerliche Arbeitsgeräte",
-"category": "Kinder & Familie",
-"tags": [
-"Ferienprogramm",
-"Workshop",
-"Museum",
-"Handwerk"
-],
-"description": "Workshops in der Lernwerkstatt: Porzellanteller bemalen (3.11., 13–15 Uhr), Wolle mit Naturmaterialien färben (4.11., 13–15 Uhr), Schmetterlinge aus Märchenwolle basteln (5.11., 14–16 Uhr) für Kinder ab 6 Jahren sowie ein herbstlicher Kochkurs mit fränkischen Gerichten für Jugendliche ab der 5. Klasse (6.11., 10 Uhr). Kostenlos, Anmeldung erforderlich.",
-"price": "frei (Anmeldung erforderlich)",
-"url": "https://region-bayreuth.de/veranstaltung/ferienprogramm-lernwerkstatt-bemale-deinen-eigenen-teller-bayreuth-95448-01bgz0",
-"sources": [
-"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte (nur Stadt, Land, Leben)",
-"Bezirk Oberfranken – Museum für bäuerliche Arbeitsgeräte"
-],
-"house": "Weitere Orte",
-"id": "e34ed463f8"
-},
-{
-"title": "Sprechen und Zuhören",
-"subtitle": "Gesprächsrunden von Wundersam Anders e.V.",
-"date": "2026-11-06",
-"end_date": "2026-11-13",
-"time": "10:30",
-"venue": "Verschiedene Orte in Bayreuth",
-"organizer": "Wundersam Anders e.V.",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Gesprächsrunde",
-"Heimat",
-"Begegnung"
-],
-"description": "Gesprächsformat, bei dem reihum eine Person spricht und die anderen ohne Kommentar zuhören; wechselnde Orte in Bayreuth.",
-"price": null,
-"url": "https://wundersam-anders.de/2026/09/21/sprechen-und-zuhoeren-termine-im-oktober-november/",
-"sources": [
-"Wundersam Anders e.V."
-],
-"house": "Weitere Orte",
-"id": "520c00a3b1",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "10:30",
-"hinweis": "RW21 Leseinsel"
-},
-{
-"date": "2026-11-13",
-"time": "19:00",
-"hinweis": "Evangelisches Zentrum"
-}
-]
-},
-{
-"title": "Großes Theater! Willkommen im Markgräflichen Opernhaus",
-"subtitle": "Familienführung für Kinder von 6–12 Jahren",
-"date": "2026-11-06",
-"end_date": null,
-"time": "10:30",
-"venue": "Markgräfliches Opernhaus, Opernstraße 14",
-"organizer": "Bayerische Schlösserverwaltung",
-"category": "Kinder & Familie",
-"tags": [
-"Kinder",
-"Opernhaus",
-"Familienführung",
-"Kinderführung",
-"Welterbe"
-],
-"description": "Kinderführung (6–12 Jahre) durch das Markgräfliche Opernhaus mit Blick auf die barocke Bühnentechnik. Termine am 18. Oktober (14:30 Uhr) und 6. November (10:30 Uhr), Anmeldung erforderlich.",
-"price": "3 € zzgl. Eintritt Erwachsene",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp?PN=3&optArt=999999&optOrt=14&optMonat=10",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Schloss- und Gartenverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)",
-"Bayerische Schlösserverwaltung – bayreuth-wilhelmine.de (Themenführungen)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "911a41de3b"
-},
-{
-"title": "Bayreuther Katakomben – Führung",
-"subtitle": "Die Stadt unter der Stadt",
-"date": "2026-11-06",
-"end_date": "2026-12-27",
-"time": "16:00",
-"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
-"organizer": "Maisel & Friends",
-"category": "Führung",
-"tags": [
-"Felsenkeller",
-"Stadtgeschichte",
-"Biergeschichte",
-"Untergrund"
-],
-"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
-"price": null,
-"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-08",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-13",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-13",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-19",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-20",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-26",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-27",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Maisel & Friends"
-],
-"house": "Liebesbier",
-"id": "f04d247b6e"
-},
-{
-"title": "Entdecke, was in dir steckt! – Schreibworkshop",
-"subtitle": "RW21-Leseherbst, ab 12 Jahren",
-"date": "2026-11-06",
-"end_date": null,
-"time": "16:00",
-"venue": "RW21 Volkshochschule – Seminarraum 1, Richard-Wagner-Straße 21",
-"organizer": "vhs Bayreuth",
-"category": "Literatur",
-"tags": [
-"Leseherbst",
-"Jugendliche",
-"Schreibworkshop",
-"Schreibwerkstatt",
-"Jugend"
-],
-"description": "Schreibworkshop mit Marc Heinz für Jugendliche ab 12 Jahren. Anmeldung über die VHS.",
-"price": "frei",
-"url": "https://stadtbibliothek.bayreuth.de/der-rw21-leseherbst/",
-"sources": [
-"RW21 Leseherbst",
-"RW21 Stadtbibliothek",
-"RW21 Stadtbibliothek / vhs Bayreuth",
-"RW21 Stadtbibliothek Bayreuth"
-],
-"house": "RW21",
-"id": "2925c8f944"
-},
-{
-"title": "Obdachlos in Bayreuth",
-"subtitle": "Filmvorführung und Gespräch",
-"date": "2026-11-06",
-"end_date": null,
-"time": "17:00",
-"venue": "Katharina-von-Bora-Kirche Bayreuth",
-"organizer": "Ev.-Luth. Kirchengemeinde Lutherkirche Bayreuth, in Kooperation mit dem EBW Oberfranken-Mitte",
-"category": "Film",
-"tags": [
-"Dokumentarfilm",
-"Wohnungslosigkeit",
-"Gespräch"
-],
-"description": "Gezeigt wird der 19-minütige Bayreuther Dokumentarfilm über wohnungslose Menschen in der Stadt; danach Gespräch mit Filmemacher Dekan i. R. Günter Saalfrank und einem Mitwirkenden (17–18 Uhr). Spenden gehen an Stadtmission und Diakonie (Haus Cosima).",
-"price": "Eintritt frei (Spenden erbeten)",
-"url": "https://www.lutherkirche-bayreuth.de/filmabend-obdachlos-bayreuth",
-"sources": [
-"Ev.-Luth. Dekanat Bayreuth (evangelische-termine.de)"
-],
-"house": "Kirchen",
-"id": "7bdbee1aae"
-},
-{
-"title": "Offenes Magic Spielen",
-"subtitle": null,
-"date": "2026-11-06",
-"end_date": "2026-11-27",
-"time": "18:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Magic: The Gathering",
-"Kartenspiel",
-"offener Treff"
-],
-"description": "Offener Freitagabend für Magic-Spielerinnen und -Spieler im Haus des Spiels, jeweils bis 23 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-13",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "18:00",
-"hinweis": null
-}
-],
-"sources": [
-"wundersam anders e.V. (Haus des Spiels)"
-],
-"house": "Weitere Orte",
-"id": "0c01a46d3c"
-},
-{
-"title": "LOVEBEATZ im Liebesbier",
-"subtitle": "Bar-DJing",
-"date": "2026-11-06",
-"end_date": "2026-12-18",
-"time": "18:00",
-"venue": "Liebesbier (Maisel & Friends) – Barbereich, Andreas-Maisel-Weg 1",
-"organizer": "Liebesbier",
-"category": "Club & Party",
-"tags": [
-"DJ",
-"Bar",
-"Afterwork",
-"Bar-DJ"
-],
-"description": "Entspannte DJ-Sets an der Bar ab 18 Uhr; weitere Termine am 23. Oktober, 6. und 20. November sowie 4. und 18. Dezember.",
-"price": null,
-"url": "https://www.liebesbier.de/de/events/sunset-im-liebesbier-061126-5243/",
-"sources": [
-"Maisel & Friends / Liebesbier",
-"Hinweis: regioactive"
-],
-"house": "Liebesbier",
-"id": "7d1be0bbdb",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-18",
-"time": "18:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Jedermann",
-"subtitle": null,
-"date": "2026-11-06",
-"end_date": "2026-11-07",
-"time": "19:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "I LIKE STORIES GmbH",
-"category": "Theater",
-"tags": [
-"Hofmannsthal",
-"Schauspiel",
-"Neuinszenierung"
-],
-"description": "Musikalische Neuinszenierung von Hofmannsthals Spiel vom Sterben des reichen Mannes (Regie Nicolai Tegeler); 5.11. 19:30 Uhr Premiere, 6. und 7.11. jeweils 19 Uhr.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261105-jedermann",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "390040cc6f",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-07",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Nachtwächterführung in St. Georgen",
-"subtitle": "6.11. um 19 Uhr, 4.12. um 18 Uhr",
-"date": "2026-11-06",
-"end_date": "2027-01-02",
-"time": "19:00",
-"venue": "Gegenüber der Ordenskirche St. Georgen (Treffpunkt)",
-"organizer": "Bayreuth Marketing & Tourismus GmbH",
-"category": "Führung",
-"tags": [
-"Kostümführung",
-"St. Georgen",
-"Nachtwächter",
-"Abendrundgang"
-],
-"description": "Nachtwächterrundgang durch St. Georgen am 6.11. (19 Uhr) und 4.12. (18 Uhr). Tickets nur im Vorverkauf.",
-"price": "12 € / erm. 6 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/nachtwaechter-fuehrung/",
-"sources": [
-"Bayreuth Tourismus"
-],
-"house": "Kirchen",
-"id": "f95e9ec501",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2027-01-02",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Fränkische Soldaten im Amerikanischen Unabhängigkeitskrieg",
-"subtitle": "Vortrag von Dr. Marcus Mühlnikel",
-"date": "2026-11-06",
-"end_date": null,
-"time": "19:30",
-"venue": "Kunstmuseum Bayreuth, Maximilianstraße 33",
-"organizer": "Historischer Verein für Oberfranken",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Regionalgeschichte",
-"Militärgeschichte",
-"Amerikanische Revolution"
-],
-"description": "Der Historiker Marcus Mühlnikel beleuchtet das Schicksal fränkischer Soldaten, die im Unabhängigkeitskrieg in Nordamerika eingesetzt wurden. Im Anschluss hält der Verein seine Mitgliederversammlung ab.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/fraenkische-soldaten-im-amerikanischen-unabhaengigkeitskrieg-bayreuth-95444-d20iw4",
-"termine": null,
-"sources": [
-"Historischer Verein für Oberfranken (nur Stadt, Land, Leben)"
-],
-"house": "Kunstmuseum",
-"id": "9bc2b2868c"
-},
-{
-"title": "Simon & Jan: Heiße Luft",
-"subtitle": "Heiße Luft",
-"date": "2026-11-06",
-"end_date": null,
-"time": "20:00",
-"venue": "Gaststätte Becher – Bechersaal",
-"organizer": "motion kommunikation",
-"category": "Kabarett & Comedy",
-"tags": [
-"Liedermacher",
-"Satire",
-"Musikkabarett",
-"Duo",
-"Kultur im Becher"
-],
-"description": "Satirische Lieder des Duos Simon & Jan.",
-"price": "28,20–32 €",
-"url": "https://www.motion-kommunikation.de/event/simon-jan-heisse-luft/",
-"sources": [
-"motion kommunikation",
-"motion Kommunikation",
-"okticket (Bechersaal)",
-"Motion Kommunikation",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"okticket / motion"
-],
-"house": "Becher Bräu",
-"id": "156a0e47e9"
-},
-{
-"title": "To Athena – „Have I Lost My Magic?“-Tour",
-"subtitle": "Have I Lost My Magic?-Tour",
-"date": "2026-11-06",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
-"organizer": "DAS ZENTRUM",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Pop",
-"Singer-Songwriterin",
-"Tour",
-"Singer-Songwriter",
-"Schweiz"
-],
-"description": "Konzert der Schweizer Sängerin To Athena.",
-"price": "21,69 €",
-"url": "https://www.das-zentrum.de/veranstaltung/to-athena-have-i-lost-my-magic-tour/",
-"sources": [
-"Das Zentrum (Ticketshop)",
-"Das Zentrum (Ticketing eventim-light)",
-"DAS ZENTRUM (Ticketshop)",
-"Das Zentrum (eigener Ticketshop eventim-light)",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"eventfinder.de"
-],
-"house": "Das Zentrum",
-"id": "08b4054a36"
-},
-{
-"title": "Cabaret",
-"subtitle": null,
-"date": "2026-11-06",
-"end_date": "2027-01-03",
-"time": "20:00",
-"venue": "Kulturbühne Reichshof – Großer Saal",
-"organizer": "die naturbühne gGmbH",
-"category": "Oper & Musiktheater",
-"tags": [
-"Musical",
-"Kander/Ebb",
-"Berlin 1930er"
-],
-"description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre.",
-"price": "15–45 €",
-"url": "https://dienaturbuehne.de/produkt/cabaret-2026-11-06/",
-"sources": [
-"die naturbühne",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Kulturbühne Reichshof",
-"id": "9e19bbfebc",
-"termine": [
-{
-"date": "2026-11-06",
-"time": "20:00",
-"hinweis": "Premiere"
-},
-{
-"date": "2026-11-14",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-13",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-29",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-31",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2027-01-03",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Planet Ritmo Vol. 3",
-"subtitle": "Electro-Nacht mit Tongranulat",
-"date": "2026-11-06",
-"end_date": null,
-"time": "22:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e.V. / Tongranulat",
-"category": "Club & Party",
-"tags": [
-"Electro",
-"Booty Bass",
-"DJ"
-],
-"description": "Clubnacht mit Electro, Booty Bass und Electro Funk; an den Decks MAD IGEL, Cufme, 1905 und YEN bis in den Morgen. Ab 18 Jahren.",
-"price": null,
-"url": "https://www.neuneinhalb.org/veranstaltungen/planet-ritmo/edate/2026-11-06",
-"sources": [
-"Neuneinhalb e.V. (nur Stadt, Land, Leben)"
-],
-"house": "Neuneinhalb",
-"id": "bac266d100"
-},
-{
-"title": "Black Friday",
-"subtitle": "Hip-Hop & Black Music",
-"date": "2026-11-06",
-"end_date": null,
-"time": "23:00",
-"venue": "Club Frisco, Bamberger Straße 27",
-"organizer": "Club Frisco",
-"category": "Club & Party",
-"tags": [
-"Hip-Hop",
-"Black Music",
-"Party"
-],
-"description": "Clubnacht im Frisco mit Hip-Hop und Black Music.",
-"price": null,
-"url": "https://www.bayreuth4u.de/event/black-friday-4/",
-"termine": null,
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "599febaa65"
-},
-{
 "title": "Gesamt?kunstwerk – STADTSTEMPEL-PROJEKT Bayreuth",
 "subtitle": "Ausstellung von studio pari-pari (Lena Schrieb und Marina Kampka)",
 "date": "2026-11-06",
@@ -2023,6 +1366,147 @@
 ]
 },
 {
+"title": "Bayreuther Katakomben – Führung",
+"subtitle": "Die Stadt unter der Stadt",
+"date": "2026-11-07",
+"end_date": "2026-12-27",
+"time": "16:00",
+"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
+"organizer": "Maisel & Friends",
+"category": "Führung",
+"tags": [
+"Felsenkeller",
+"Stadtgeschichte",
+"Biergeschichte",
+"Untergrund"
+],
+"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
+"price": null,
+"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
+"termine": [
+{
+"date": "2026-11-07",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-14",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-19",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-26",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-27",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Maisel & Friends"
+],
+"house": "Liebesbier",
+"id": "5a8e1f1bd9"
+},
+{
 "title": "Kurzbesuch zum Kennenlernen",
 "subtitle": "30-Minuten-Einblick in die Ausstellung A. D. Trantenroth",
 "date": "2026-11-07",
@@ -2105,6 +1589,30 @@
 ],
 "house": "Kirchen",
 "id": "03997f134a"
+},
+{
+"title": "Jedermann",
+"subtitle": null,
+"date": "2026-11-07",
+"end_date": null,
+"time": "19:00",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": "I LIKE STORIES GmbH",
+"category": "Theater",
+"tags": [
+"Hofmannsthal",
+"Schauspiel",
+"Neuinszenierung"
+],
+"description": "Musikalische Neuinszenierung von Hofmannsthals Spiel vom Sterben des reichen Mannes (Regie Nicolai Tegeler); 5.11. 19:30 Uhr Premiere, 6. und 7.11. jeweils 19 Uhr.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261105-jedermann",
+"sources": [
+"Friedrichsforum",
+"Friedrichsforum Bayreuth"
+],
+"house": "Friedrichsforum",
+"id": "515b635860"
 },
 {
 "title": "Nachtwächterführung Innenstadt",
@@ -3516,6 +3024,30 @@
 "id": "64d2490104"
 },
 {
+"title": "Filmgesprächsabend",
+"subtitle": null,
+"date": "2026-11-10",
+"end_date": null,
+"time": "19:00",
+"venue": "Evangelisch-reformierte Kirche Bayreuth, Erlanger Straße 29",
+"organizer": "Evangelisch-reformierte Gemeinde Bayreuth",
+"category": "Film",
+"tags": [
+"Filmabend",
+"Gespräch",
+"Gemeinde"
+],
+"description": "Filmabend der reformierten Gemeinde mit anschließendem Gespräch. Welcher Film gezeigt wird, nennt die Gemeinde nicht; Auskunft gibt das Gemeindebüro.",
+"price": null,
+"url": "https://reformiert-bayreuth.de/termine",
+"termine": null,
+"sources": [
+"Evangelisch-reformierte Gemeinde Bayreuth"
+],
+"house": "Kirchen",
+"id": "a7994a0c21"
+},
+{
 "title": "Workshop: Musikproduktion mit Logic Pro – Basics",
 "subtitle": "mit Ines Maier",
 "date": "2026-11-10",
@@ -4635,6 +4167,70 @@
 "id": "1ea3c540b1"
 },
 {
+"title": "Offenes Magic Spielen",
+"subtitle": null,
+"date": "2026-11-13",
+"end_date": "2026-11-27",
+"time": "18:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Magic: The Gathering",
+"Kartenspiel",
+"offener Treff"
+],
+"description": "Offener Freitagabend für Magic-Spielerinnen und -Spieler im Haus des Spiels, jeweils bis 23 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-13",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "18:00",
+"hinweis": null
+}
+],
+"sources": [
+"wundersam anders e.V. (Haus des Spiels)"
+],
+"house": "Weitere Orte",
+"id": "391dcd67f8"
+},
+{
+"title": "Sprechen und Zuhören",
+"subtitle": "Gesprächsrunden von Wundersam Anders e.V.",
+"date": "2026-11-13",
+"end_date": null,
+"time": "19:00",
+"venue": "Verschiedene Orte in Bayreuth",
+"organizer": "Wundersam Anders e.V.",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Gesprächsrunde",
+"Heimat",
+"Begegnung"
+],
+"description": "Gesprächsformat, bei dem reihum eine Person spricht und die anderen ohne Kommentar zuhören; wechselnde Orte in Bayreuth.",
+"price": null,
+"url": "https://wundersam-anders.de/2026/09/21/sprechen-und-zuhoeren-termine-im-oktober-november/",
+"sources": [
+"Wundersam Anders e.V."
+],
+"house": "Weitere Orte",
+"id": "54b0b20499",
+"hinweis": "Evangelisches Zentrum"
+},
+{
 "title": "Louis Matute Large Ensemble",
 "subtitle": "Jazz-November",
 "date": "2026-11-13",
@@ -5104,6 +4700,77 @@
 ],
 "house": "Becher Bräu",
 "id": "66d8b0713c"
+},
+{
+"title": "Cabaret",
+"subtitle": null,
+"date": "2026-11-14",
+"end_date": "2027-01-03",
+"time": "20:00",
+"venue": "Kulturbühne Reichshof – Großer Saal",
+"organizer": "die naturbühne gGmbH",
+"category": "Oper & Musiktheater",
+"tags": [
+"Musical",
+"Kander/Ebb",
+"Berlin 1930er"
+],
+"description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre.",
+"price": "15–45 €",
+"url": "https://dienaturbuehne.de/produkt/cabaret-2026-11-06/",
+"sources": [
+"die naturbühne",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Kulturbühne Reichshof",
+"id": "2af5e95b16",
+"termine": [
+{
+"date": "2026-11-14",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-31",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "17:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "League of Legends Worlds 2026 – Finals in Cinema",
@@ -6128,6 +5795,72 @@
 ],
 "house": "RW21",
 "id": "f22ad12ca7"
+},
+{
+"title": "Tischtheater: Weihnachten bei Familie Maus",
+"subtitle": null,
+"date": "2026-11-20",
+"end_date": null,
+"time": "15:30",
+"venue": "Evangelisch-reformierte Kirche Bayreuth, Erlanger Straße 29",
+"organizer": "Evangelisch-reformierte Gemeinde Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Tischtheater",
+"Kinder",
+"Advent"
+],
+"description": "Kurzes Tischtheater für Kinder über das Weihnachtsfest einer Mäusefamilie, am Nachmittag des Adventsmarkts der Gemeinde.",
+"price": null,
+"url": "https://reformiert-bayreuth.de/termine",
+"termine": null,
+"sources": [
+"Evangelisch-reformierte Gemeinde Bayreuth"
+],
+"house": "Kirchen",
+"id": "b520d8dba4"
+},
+{
+"title": "LOVEBEATZ im Liebesbier",
+"subtitle": "Bar-DJing",
+"date": "2026-11-20",
+"end_date": "2026-12-18",
+"time": "18:00",
+"venue": "Liebesbier (Maisel & Friends) – Barbereich, Andreas-Maisel-Weg 1",
+"organizer": "Liebesbier",
+"category": "Club & Party",
+"tags": [
+"DJ",
+"Bar",
+"Afterwork",
+"Bar-DJ"
+],
+"description": "Entspannte DJ-Sets an der Bar ab 18 Uhr; weitere Termine am 23. Oktober, 6. und 20. November sowie 4. und 18. Dezember.",
+"price": null,
+"url": "https://www.liebesbier.de/de/events/sunset-im-liebesbier-061126-5243/",
+"sources": [
+"Maisel & Friends / Liebesbier",
+"Hinweis: regioactive"
+],
+"house": "Liebesbier",
+"id": "ef4be145fc",
+"termine": [
+{
+"date": "2026-11-20",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "18:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Schauvorlesung Materialwissenschaft",
@@ -9809,6 +9542,42 @@
 "id": "38f39aaf1b"
 },
 {
+"title": "Nachtwächterführung in St. Georgen",
+"subtitle": "6.11. um 19 Uhr, 4.12. um 18 Uhr",
+"date": "2026-12-04",
+"end_date": "2027-01-02",
+"time": "18:00",
+"venue": "Gegenüber der Ordenskirche St. Georgen (Treffpunkt)",
+"organizer": "Bayreuth Marketing & Tourismus GmbH",
+"category": "Führung",
+"tags": [
+"Kostümführung",
+"St. Georgen",
+"Nachtwächter",
+"Abendrundgang"
+],
+"description": "Nachtwächterrundgang durch St. Georgen am 6.11. (19 Uhr) und 4.12. (18 Uhr). Tickets nur im Vorverkauf.",
+"price": "12 € / erm. 6 €",
+"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/nachtwaechter-fuehrung/",
+"sources": [
+"Bayreuth Tourismus"
+],
+"house": "Kirchen",
+"id": "2e650c839b",
+"termine": [
+{
+"date": "2026-12-04",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
+"time": "17:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Skandal_los: Ein langes Schweigen wird gebrochen",
 "subtitle": "Lecture-Performance",
 "date": "2026-12-04",
@@ -11824,6 +11593,29 @@
 ],
 "house": "Weitere Orte",
 "id": "410d63a855"
+},
+{
+"title": "Milan Milano",
+"subtitle": null,
+"date": "2026-12-18",
+"end_date": null,
+"time": null,
+"venue": "Club Frisco, Bamberger Straße 27",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Club",
+"Live-Auftritt"
+],
+"description": "Auftritt von Milan Milano im Club Frisco. Uhrzeit und weitere Angaben sind noch nicht veröffentlicht.",
+"price": null,
+"url": "https://app.songkick.com/metro-areas/28439-germany-bayreuth/2026",
+"termine": null,
+"sources": [
+"Hinweis: Songkick"
+],
+"house": "Clubs",
+"id": "3f0b9be5dc"
 },
 {
 "title": "Öffentliche Führung in Ukrainisch/Deutsch",
