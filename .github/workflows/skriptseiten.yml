@@ -1,0 +1,33 @@
+name: Skript-Seiten holen
+on:
+  schedule:
+    - cron: "12 0 * * *"   # täglich 01:12 (Winter) / 02:12 (Sommer), vor dem Kulturzettel-Lauf
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [pipeline/fetch_skriptseiten.py, .github/workflows/skriptseiten.yml]
+permissions:
+  contents: write
+concurrency:
+  group: skriptseiten
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && playwright install --with-deps chromium
+      - run: python pipeline/fetch_skriptseiten.py
+      - name: Commit, falls sich etwas geändert hat
+        run: |
+          git config user.name "Kulturzettel-Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pipeline/skriptseiten.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Skript-Seiten: Stand $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          exit 1
