@@ -151,5 +151,5 @@ Jeder tägliche Lauf hängt unten einen Abschnitt „## JJJJ-MM-TT“ an (neuest
 
 ## 2026-11-09 (Skript-Seiten-Action)
 - Neu: pipeline/skriptseiten.json aus der GitHub Action „Skript-Seiten holen“ (nachts vor dem Lauf). In jedem Lauf lesen, statt Tanzbar, Winterdorf, Neuneinhalb, Urwelt-Veranstaltungen, Bayreuth-Tourismus-Kalender, Kunstmuseum, Studiobühne-Kalender, EZ, RW21 per WebFetch abzurufen; Details in ANLEITUNG „Skript-Seiten und Uni-Kalender“.
-- Uni-Kalender: unikalender.uni-bayreuth.de bleibt per robots.txt gesperrt; öffentliche Uni-Termine laufen laut Uni-Anleitung über das Veranstaltungsportal region-bayreuth.de und stehen in pipeline/sll.json (aktuell 46 Einträge mit Uni als Veranstalter oder Ort). Dort gründlich auswerten. Auch https://www.uni-bayreuth.de/veranstaltungskalender ist in der Action (nur falls robots.txt es erlaubt).
+- Uni-Kalender: unikalender.uni-bayreuth.de bleibt per robots.txt gesperrt; öffentliche Uni-Termine laufen laut Uni-Anleitung über das Veranstaltungsportal region-bayreuth.de und stehen in pipeline/sll.json (aktuell 46 Einträge mit Uni als Veranstalter oder Ort). Dort gründlich auswerten. https://www.uni-bayreuth.de/veranstaltungskalender liefert der Action 404 und ist deshalb nicht enthalten.
 - Sicherung vor Einführung der Action: Branch backup-vor-skriptseiten-2026-11-09.

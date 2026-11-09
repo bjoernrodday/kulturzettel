@@ -22,8 +22,8 @@ PAGES = [
     ("Kunstmuseum – Veranstaltungskalender", "https://www.kunstmuseum-bayreuth.de/aktuelles/vermittlung/veranstaltungskalender"),
     ("Studiobühne – Kalender", "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/kalender/"),
     ("Evangelisches Zentrum – Kalender", "https://www.ez-bayreuth.de/veranstaltungskalender"),
-    ("RW21 Stadtbibliothek", "https://stadtbibliothek.bayreuth.de/"),
-    ("Universität Bayreuth – Veranstaltungskalender", "https://www.uni-bayreuth.de/veranstaltungskalender"),
+    ("RW21 Stadtbibliothek", "https://stadtbibliothek.bayreuth.de/aktuelles/veranstaltungen/"),
+    ("Bayreuth Tourismus – Eventkalender", "https://www.bayreuth-tourismus.de/eventkalender/"),
 ]
 MORE = re.compile(r"^\s*(load more|mehr laden|mehr anzeigen|weitere (termine|veranstaltungen|laden)|more events)\s*$", re.I)
 _robots = {}
@@ -74,7 +74,14 @@ def fetch(ctx, name, url):
             btn.click(timeout=5000)
             page.wait_for_load_state("networkidle", timeout=20000)
             time.sleep(1)
-        rec["text"] = page.inner_text("body")[:MAX_TEXT]
+        texts = [page.inner_text("body")]
+        for frame in page.frames[1:]:  # eingebettete Terminlisten; auch hier gilt robots.txt
+            if frame.url.startswith("http") and allowed(frame.url):
+                try:
+                    texts.append(f"[Eingebettet: {frame.url}]\n" + frame.inner_text("body", timeout=5000))
+                except Exception:
+                    pass
+        rec["text"] = "\n\n".join(texts)[:MAX_TEXT]
         seen, links = set(), []
         for text, href in page.eval_on_selector_all("a[href]", "e=>e.map(a=>[a.innerText.trim(),a.href])"):
             if href not in seen and href.startswith("http"):
