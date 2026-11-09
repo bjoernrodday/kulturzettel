@@ -823,9 +823,13 @@
 {
 "name": "Motion Leselust",
 "url": "https://www.motion-kommunikation.de/leselust/"
+},
+{
+"name": "Bayreuth aktuell November",
+"url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2026/10/AKTUELL_November-2026-WEB.pdf"
 }
 ],
-"updated": "2026-11-09T00:55+01:00",
+"updated": "2026-11-09T07:28+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1281,6 +1285,66 @@
 ]
 },
 {
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-09",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-09",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-10",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "06f64f613e"
+},
+{
 "title": "Historische Führung",
 "subtitle": "Das Friedrichsforum als Spiegel der Stadtgeschichte",
 "date": "2026-11-09",
@@ -1414,7 +1478,7 @@
 "Universität",
 "Diskussion"
 ],
-"description": "An sieben Dienstagabenden halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Termine: 20. Oktober, 3. und 17. November, 1. und 15. Dezember, 12. und 26. Januar. Zusätzlich am Montag, 9. November: Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ mit Kommentar und Diskussion.",
+"description": "An sieben Dienstagabenden (18:15 Uhr, Kongressraum FZA) halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Zusatztermine: 9.11. Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ (Raum noch offen), 12.11. Diskussion zu den Landtagswahlen im Nordosten, 18.11. Vortrag „Press F to fight fascism“ (14 Uhr, Medienwissenschaft, Nürnberger Str. 38, Haus 4).",
 "price": "frei",
 "url": "https://kuwi.uni-bayreuth.de/fachschaft-kuwi/de/wgf2026",
 "sources": [
@@ -1427,12 +1491,22 @@
 {
 "date": "2026-11-09",
 "time": "18:15",
-"hinweis": null
+"hinweis": "Zusatztermin: Buchvorstellung, Raum noch offen"
+},
+{
+"date": "2026-11-12",
+"time": "18:15",
+"hinweis": "Zusatztermin: Landtagswahlen im Nordosten"
 },
 {
 "date": "2026-11-17",
 "time": "18:15",
 "hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "14:00",
+"hinweis": "Zusatztermin: Matthias Heider, Medienwissenschaft"
 },
 {
 "date": "2026-12-01",
@@ -3076,7 +3150,7 @@
 "title": "Bayreuther Katakomben – Führung",
 "subtitle": "Die Stadt unter der Stadt",
 "date": "2026-11-13",
-"end_date": "2026-12-27",
+"end_date": "2027-01-08",
 "time": "16:00",
 "venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
 "organizer": "Maisel & Friends",
@@ -3193,6 +3267,26 @@
 },
 {
 "date": "2026-12-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-01",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-08",
 "time": "16:00",
 "hinweis": null
 }
@@ -3366,6 +3460,29 @@
 "id": "391dcd67f8"
 },
 {
+"title": "Marcel Benker – Live im Dorf",
+"subtitle": null,
+"date": "2026-11-13",
+"end_date": null,
+"time": "18:00",
+"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
+"organizer": "Bayreuther Winterdorf",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Live-Musik",
+"Winterdorf"
+],
+"description": "Marcel Benker spielt live handgemachte Volksmusik und bekannte Schlager im Bayreuther Winterdorf.",
+"price": null,
+"url": "https://winterdorf-bayreuth.de/events/marcel-benker-3-846-577-838-850-377-896/",
+"termine": null,
+"sources": [
+"Bayreuther Winterdorf"
+],
+"house": "Winterdorf",
+"id": "93d413ef0a"
+},
+{
 "title": "Sprechen und Zuhören",
 "subtitle": "Gesprächsrunden von Wundersam Anders e.V.",
 "date": "2026-11-13",
@@ -3470,6 +3587,40 @@
 "id": "dfa1a713f0"
 },
 {
+"title": "Friday Disco Night",
+"subtitle": null,
+"date": "2026-11-13",
+"end_date": "2026-11-27",
+"time": "21:00",
+"venue": "Tanzbar, Bernecker Straße 79",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Disco",
+"Party"
+],
+"description": "Discoabend in der Tanzbar.",
+"price": null,
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
+"termine": [
+{
+"date": "2026-11-13",
+"time": "21:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "21:00",
+"hinweis": null
+}
+],
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Clubs",
+"id": "757e2eb8bd"
+},
+{
 "title": "Sonic Impact – Hart aber herzlich!",
 "subtitle": null,
 "date": "2026-11-13",
@@ -3542,29 +3693,6 @@
 ],
 "house": "Das Zentrum",
 "id": "21b2b313d5"
-},
-{
-"title": "Marcel Benker – Live im Dorf",
-"subtitle": null,
-"date": "2026-11-13",
-"end_date": null,
-"time": null,
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Live-Musik",
-"Winterdorf"
-],
-"description": "Live-Auftritt des Musikers Marcel Benker im Bayreuther Winterdorf; eine Uhrzeit nennt das Programm nicht.",
-"price": null,
-"url": "https://winterdorf-bayreuth.de/veranstaltungen/",
-"termine": null,
-"sources": [
-"Bayreuther Winterdorf"
-],
-"house": "Winterdorf",
-"id": "93d413ef0a"
 },
 {
 "title": "Franken Game Jam 2026",
@@ -3750,7 +3878,7 @@
 "Kammermusik"
 ],
 "description": "Junge Musikerinnen und Musiker aus Oberfranken spielen in der Matineereihe im Steingraeber-Haus; am 14.11. als Jubiläumskonzert (Eintritt frei).",
-"price": null,
+"price": "Eintritt frei",
 "url": "https://www.steingraeber.de/veranstaltungen/oberfraenkische-nachwuchskonzerte-junge-musikerinnen-im-steingraeber-haus-leitung-lisa-wellisch-3/",
 "sources": [
 "Steingraeber & Söhne",
@@ -4058,6 +4186,29 @@
 ],
 "house": "Das Zentrum",
 "id": "adb3005c55"
+},
+{
+"title": "Ü40 Party Night",
+"subtitle": null,
+"date": "2026-11-14",
+"end_date": null,
+"time": "21:00",
+"venue": "Tanzbar, Bernecker Straße 79",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Party",
+"Ü40"
+],
+"description": "Partyabend in der Tanzbar für ein Publikum ab 40.",
+"price": null,
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Clubs",
+"id": "a1f2b1a32f"
 },
 {
 "title": "Solaire",
@@ -4615,7 +4766,7 @@
 ],
 "description": "Lesekreis zu feministischer Literatur mit gemeinsamen Lese- und Diskussionsterminen am 6.10., 20.10. und 3.11., jeweils 18:15 Uhr.",
 "price": "Eintritt frei",
-"url": "https://www.glashaus.org/programm/intersectional-feminist-bookclub-5-2-4-2-2-2-2-2-2-3-2-3-2-2-6",
+"url": "https://www.glashaus.org/programm/intersectional-feminist-bookclub-5-2-4-2-2-2-2-2-2",
 "sources": [
 "Glashaus",
 "Glashaus e.V."
@@ -4675,7 +4826,7 @@
 "ausverkauft"
 ],
 "description": "Hannes Ringlstetter und Stephan Zinner mit gemeinsamem Programm aus Musik und Kabarett (ausverkauft).",
-"price": "ausverkauft",
+"price": "Restkarten",
 "url": "https://www.friedrichsforum.de/veranstaltung/20261117-ringlstetter-zinner",
 "sources": [
 "Friedrichsforum",
@@ -4767,7 +4918,7 @@
 "title": "Drei Nüsse für Aschenbrödel",
 "subtitle": null,
 "date": "2026-11-18",
-"end_date": "2026-12-30",
+"end_date": "2027-01-06",
 "time": "15:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -4829,6 +4980,11 @@
 },
 {
 "date": "2026-12-30",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2027-01-06",
 "time": "15:00",
 "hinweis": null
 }
@@ -5050,6 +5206,29 @@
 "hinweis": null
 }
 ]
+},
+{
+"title": "Winter Beats",
+"subtitle": null,
+"date": "2026-11-19",
+"end_date": null,
+"time": "18:00",
+"venue": "Bayreuther Winterdorf, Ehrenhof",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Elektronische Musik",
+"DJ"
+],
+"description": "Abend mit elektronischer Musik im Winterdorf, an den Reglern stehen Robin Stöhr und Izzy.",
+"price": null,
+"url": "https://www.bayreuth4u.de/event/winter-beats-2/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Winterdorf",
+"id": "a43f188daa"
 },
 {
 "title": "WeinLeseabend",
@@ -5409,6 +5588,29 @@
 "hinweis": null
 }
 ]
+},
+{
+"title": "Fox Me Up",
+"subtitle": null,
+"date": "2026-11-20",
+"end_date": null,
+"time": "20:30",
+"venue": "Tanzbar, Bernecker Straße 79",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Discofox",
+"Party"
+],
+"description": "Discofox-Party in der Tanzbar.",
+"price": "Eintritt frei",
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Clubs",
+"id": "374c1cd63c"
 },
 {
 "title": "Single Party",
@@ -5839,6 +6041,29 @@
 ],
 "house": "Glashaus",
 "id": "3948256b5e"
+},
+{
+"title": "Ladies Night",
+"subtitle": null,
+"date": "2026-11-21",
+"end_date": null,
+"time": "21:00",
+"venue": "Tanzbar, Bernecker Straße 79",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Party",
+"Themenabend"
+],
+"description": "Themen-Partyabend in der Tanzbar.",
+"price": null,
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Clubs",
+"id": "242658b31c"
 },
 {
 "title": "Classic Rock Nacht",
@@ -6592,30 +6817,6 @@
 "id": "cdd2df20bc"
 },
 {
-"title": "Des Kaisers ganz neue Kleider – Offene Probe",
-"subtitle": "Offene Probe des Labortheaters Bayreuth",
-"date": "2026-11-24",
-"end_date": null,
-"time": "20:00",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Labortheater Bayreuth / Kunst- und Kulturhaus Neuneinhalb",
-"category": "Theater",
-"tags": [
-"Forumtheater",
-"Offene Probe",
-"Mitmachen"
-],
-"description": "Das Labortheater Bayreuth zeigt eine Probe seines neuen Stücks, das nach den Methoden des Forumtheaters entsteht. Das Publikum kann zusehen, Vorschläge einbringen oder selbst mitspielen; Vorkenntnisse sind nicht nötig.",
-"price": "2 € zzgl. Spenden",
-"url": "https://www.neuneinhalb.org/veranstaltungen/des-kaisers-ganz-neue-kleider-offene-probe/edate/2026-11-24",
-"sources": [
-"Neuneinhalb",
-"Kunst- und Kulturhaus Neuneinhalb"
-],
-"house": "Neuneinhalb",
-"id": "1e2d5dcb0b"
-},
-{
 "title": "Anime: Puella Magi Madoka Magica – Walpurgisnacht: Rising",
 "subtitle": null,
 "date": "2026-11-24",
@@ -6637,6 +6838,30 @@
 ],
 "house": "Kino",
 "id": "c649e9c44a"
+},
+{
+"title": "Des Kaisers ganz neue Kleider – Offene Probe",
+"subtitle": "Offene Probe des Labortheaters Bayreuth",
+"date": "2026-11-24",
+"end_date": null,
+"time": "20:15",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Labortheater Bayreuth / Kunst- und Kulturhaus Neuneinhalb",
+"category": "Theater",
+"tags": [
+"Forumtheater",
+"Offene Probe",
+"Mitmachen"
+],
+"description": "Das Labortheater Bayreuth zeigt eine Probe seines neuen Stücks, das nach den Methoden des Forumtheaters entsteht. Das Publikum kann zusehen, Vorschläge einbringen oder selbst mitspielen; Vorkenntnisse sind nicht nötig.",
+"price": "2 €",
+"url": "https://www.neuneinhalb.org/veranstaltungen/des-kaisers-ganz-neue-kleider-offene-probe/edate/2026-11-24",
+"sources": [
+"Neuneinhalb",
+"Kunst- und Kulturhaus Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "1e2d5dcb0b"
 },
 {
 "title": "Kaffee, Klatsch & Kino: Der Spaziergang nach Syrakus",
@@ -7306,7 +7531,7 @@
 "title": "Der Messias",
 "subtitle": null,
 "date": "2026-11-27",
-"end_date": "2026-12-27",
+"end_date": "2027-01-08",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -7354,6 +7579,11 @@
 {
 "date": "2026-12-27",
 "time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-08",
+"time": "20:00",
 "hinweis": null
 }
 ]
@@ -7736,6 +7966,29 @@
 ],
 "house": "Neuneinhalb",
 "id": "59684d25ef"
+},
+{
+"title": "Forever Young Party",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": null,
+"time": "21:00",
+"venue": "Tanzbar, Bernecker Straße 79",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Party",
+"Themenabend"
+],
+"description": "Themen-Partyabend in der Tanzbar.",
+"price": null,
+"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
+"termine": null,
+"sources": [
+"Hinweis: bayreuth4U"
+],
+"house": "Clubs",
+"id": "71503a7197"
 },
 {
 "title": "Weihnachtsmarkt-Konzerte am Kulturkiosk",
@@ -8743,8 +8996,8 @@
 "Handwerk"
 ],
 "description": "Rundgang durch Klaviermanufaktur und Museum (5.11. und 3.12.).",
-"price": "bis 8 €",
-"url": "https://www.steingraeber.de/veranstaltungen/fuehrung-klavierwelt-manufaktur-und-museum-9/",
+"price": "8 €, ermäßigt 6 €, Kinder bis 14 Jahre frei",
+"url": "https://www.steingraeber.de/veranstaltungen/fuehrung-klavierwelt-manufaktur-und-museum-10/",
 "sources": [
 "Steingraeber & Söhne",
 "Steingraeber",
@@ -11220,7 +11473,7 @@
 "title": "Abenteuer Opernhaus – Führung hinter die Kulissen",
 "subtitle": "Familienführung für Kinder von 6–12 Jahren",
 "date": "2026-12-20",
-"end_date": null,
+"end_date": "2027-01-08",
 "time": "10:30",
 "venue": "Markgräfliches Opernhaus, Opernstraße 14",
 "organizer": "Bayerische Schlösserverwaltung",
@@ -11240,7 +11493,19 @@
 "Bayerische Schlösserverwaltung – bayreuth-wilhelmine.de (Themenführungen)"
 ],
 "house": "Markgräfliches Opernhaus",
-"id": "cf6ee90f98"
+"id": "cf6ee90f98",
+"termine": [
+{
+"date": "2026-12-20",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2027-01-08",
+"time": "14:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Öffentliche Führung in Französisch/Deutsch",
@@ -11313,6 +11578,30 @@
 ],
 "house": "Kirchen",
 "id": "e206c4baa9"
+},
+{
+"title": "Chrissie und das Weihnachtswunder",
+"subtitle": "Puppentheater der Fröhlichen Kinderbühne",
+"date": "2026-12-20",
+"end_date": null,
+"time": "15:00",
+"venue": "Wilhelminenaue – Kulturkiosk an der Seebühne",
+"organizer": "Die fröhliche Kinderbühne (Franziska Fröhlich)",
+"category": "Kinder & Familie",
+"tags": [
+"Puppentheater",
+"Weihnachten",
+"Kinder"
+],
+"description": "Das Christkind Chrissie wünscht sich in diesem Jahr selbst etwas von den Kindern und bricht wegen einer besonderen Überraschung zu einer abenteuerlichen Reise auf. Puppenspiel mit Liedern, etwa 50 Minuten.",
+"price": "7 € (Tageskasse)",
+"url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
+"termine": null,
+"sources": [
+"Die fröhliche Kinderbühne"
+],
+"house": "Weitere Orte",
+"id": "9bedb0c4ac"
 },
 {
 "title": "SANGESLUST 2026: Weihnachtskonzert mit magpie alley",
@@ -11795,6 +12084,30 @@
 "id": "0fcb1d40a6"
 },
 {
+"title": "Opernhaus-Highlights mit Bastel-Workshop",
+"subtitle": "Familienführung mit Basteln einer tragbaren Regenmaschine",
+"date": "2027-01-04",
+"end_date": null,
+"time": "10:30",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Kinder & Familie",
+"tags": [
+"Familienführung",
+"Basteln",
+"Opernhaus"
+],
+"description": "Kurze Führung durch das Markgräfliche Opernhaus für Kinder von 6 bis 12 Jahren mit Begleitperson, anschließend wird eine tragbare Regenmaschine gebaut. Dauer etwa 105 Minuten, Anmeldung erforderlich.",
+"price": "3 € pro Person zzgl. Eintritt für Erwachsene",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp",
+"termine": null,
+"sources": [
+"Bayerische Schlösserverwaltung"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "910ebf24ea"
+},
+{
 "title": "Die Schöne und das Biest – das Musical",
 "subtitle": null,
 "date": "2027-01-04",
@@ -11866,6 +12179,30 @@
 ],
 "house": "Das Zentrum",
 "id": "bc21100614"
+},
+{
+"title": "Großes Theater! Willkommen im Markgräflichen Opernhaus",
+"subtitle": "Familienführung",
+"date": "2027-01-09",
+"end_date": null,
+"time": "14:00",
+"venue": "Markgräfliches Opernhaus, Opernstraße 14",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Kinder & Familie",
+"tags": [
+"Familienführung",
+"Bühneneffekte",
+"Opernhaus"
+],
+"description": "Führung für Kinder von 6 bis 12 Jahren mit Begleitperson, bei der auf der rekonstruierten Bühne Theatereffekte ausprobiert werden können. Dauer etwa 75 Minuten, Anmeldung erforderlich.",
+"price": "3 € pro Person zzgl. Eintritt für Erwachsene",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp",
+"termine": null,
+"sources": [
+"Bayerische Schlösserverwaltung"
+],
+"house": "Markgräfliches Opernhaus",
+"id": "85c60aed84"
 },
 {
 "title": "Beethoven: Alle Klavierkonzerte",
