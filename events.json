@@ -835,9 +835,17 @@
 {
 "name": "Liebesbier – Eventliste",
 "url": "https://www.liebesbier.de/en/events/?group_filter=33"
+},
+{
+"name": "European Outdoor Film Tour – Bayreuth",
+"url": "https://de.eoft.eu/de/tickets/bayreuth"
+},
+{
+"name": "FABRIK Bayreuth – alle Termine",
+"url": "https://fabrik-bayreuth.com/noteaser"
 }
 ],
-"updated": "2026-11-10T01:13+01:00",
+"updated": "2026-11-11T00:57+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1253,545 +1261,6 @@
 ],
 "house": "Weitere Orte",
 "id": "f0c4c92418"
-},
-{
-"title": "Kuratorenführung im Richard Wagner Museum",
-"subtitle": "dienstags 14 Uhr",
-"date": "2026-11-10",
-"end_date": "2026-12-29",
-"time": "14:00",
-"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
-"organizer": "Richard Wagner Museum",
-"category": "Führung",
-"tags": [
-"Wagner",
-"Kuratoren",
-"Museum",
-"Kurator",
-"dienstags"
-],
-"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
-"sources": [
-"Richard Wagner Museum"
-],
-"house": "Richard Wagner Museum",
-"id": "66cac47f7d",
-"termine": [
-{
-"date": "2026-11-10",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-29",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "SilberFILM: Drei Männer im Schnee",
-"subtitle": "Seniorenkino",
-"date": "2026-11-10",
-"end_date": null,
-"time": "14:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Seniorenkino",
-"Klassiker",
-"Filmklassiker",
-"Kästner",
-"SilberFILM"
-],
-"description": "Filmklassiker in der Seniorenreihe SilberFILM.",
-"price": "6 €",
-"url": "https://www.silberfilm.info/bayreuth/",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "b53fb40b69"
-},
-{
-"title": "Kunst & Krümel",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Familie",
-"offenes Angebot"
-],
-"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-10",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "82d75cf113"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": "im Vereinskalender als „Kunst & Krümel“",
-"date": "2026-11-10",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "f814fb1be3",
-"termine": [
-{
-"date": "2026-11-10",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"subtitle": "GIB Lecture Series – Dr. Steven Gonzalez Monserrate (Goethe-Universität Frankfurt)",
-"end_date": null,
-"time": "16:00",
-"organizer": "Geographisches Institut der Universität Bayreuth",
-"price": "Eintritt frei",
-"termine": null,
-"title": "Enter the Mouth of the Cloud: How Data Centers Metabolize Earth for Computation",
-"date": "2026-11-10",
-"venue": "Universität Bayreuth – Gebäude GEO I, Hörsaal H6, Universitätsstraße 30",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Geographie",
-"Rechenzentren",
-"Ökologie",
-"englisch"
-],
-"description": "Englischsprachiger Vortrag im Geographischen Kolloquium über Rechenzentren und ihren Umgang mit lokalen Umwelt- und Klimabedingungen, gestützt auf Feldforschung in Island, Puerto Rico und dem Südwesten der USA. Auch online (hybrid).",
-"url": "https://www.geographie.uni-bayreuth.de/pool/dokumente/sonstiges/kolloquien/Kolloquium-WS26_27/2026-27-Wintersemester-Geogr_-Kolloquium-A0-aktualisiert-_1_.pdf",
-"sources": [
-"Geographisches Institut der Universität Bayreuth"
-],
-"house": "Universität",
-"id": "a02c57deb7"
-},
-{
-"title": "Allgemeine Führung",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": "2026-11-16",
-"time": "16:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Friedrichsforum",
-"category": "Führung",
-"tags": [
-"Hausführung",
-"Architektur",
-"Stadthalle"
-],
-"description": "Rund einstündiger Rundgang zu Geschichte, Räumen und heutiger Nutzung des Friedrichsforums und seinem Weg von der früheren Stadthalle zum Kulturort.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261110-allgemeine-fuehrung",
-"termine": [
-{
-"date": "2026-11-10",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Friedrichsforum"
-],
-"house": "Friedrichsforum",
-"id": "6ed0a7d8f3"
-},
-{
-"title": "Pub&Go Spieleabend",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": "2026-12-15",
-"time": "17:00",
-"venue": "Pub&Go Bayreuth, Sophienstraße 4",
-"organizer": "Pub&Go Bayreuth",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"wöchentlich",
-"dienstags"
-],
-"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
-"price": null,
-"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
-"sources": [
-"Pub&Go",
-"Pub&Go Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "bcfafae94a",
-"termine": [
-{
-"date": "2026-11-10",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Planetare Grenzen – was uns die Natur für die Zukunft lehrt",
-"subtitle": "Vortrag von Dirk Steffens zum Jahrestag der Universität Bayreuth",
-"date": "2026-11-10",
-"end_date": null,
-"time": "17:00",
-"venue": "Universität Bayreuth – Audimax, Universitätsstraße 30",
-"organizer": "Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wissenschaft",
-"Natur",
-"Universität"
-],
-"description": "Der Wissenschaftsjournalist und Fernsehmoderator Dirk Steffens spricht beim öffentlichen Jahrestag der Universität über planetare Grenzen und was sich daraus für die Zukunft ableiten lässt. Um Anmeldung wird gebeten.",
-"price": null,
-"url": "https://www.bayreuth.de/dirk-steffens-referiert-an-der-uni-bayreuth/",
-"termine": null,
-"sources": [
-"Stadt Bayreuth (Meldung der Universität Bayreuth)"
-],
-"house": "Universität",
-"id": "e06dd621bf"
-},
-{
-"title": "Familiengeschichtsforschung: „Aufbruch in die neue Welt“",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": null,
-"time": "17:30",
-"venue": "Evangelisches Zentrum Bayreuth – Seminarraum im Hof, Richard-Wagner-Straße 24",
-"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Genealogie",
-"Auswanderung",
-"Geschichte"
-],
-"description": "Reinhard Stelzer gibt in einem einstündigen Vortrag Einblicke in die Familienforschung zu Auswanderern in die Neue Welt.",
-"price": "frei, Spenden erbeten",
-"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
-"termine": null,
-"sources": [
-"Evangelisches Bildungswerk Oberfranken-Mitte"
-],
-"house": "Weitere Orte",
-"id": "f28d39a33a"
-},
-{
-"title": "Leben und Überleben",
-"subtitle": "Zwei jüdische Lebensgeschichten zwischen Verfolgung, Mut und Erinnerung",
-"date": "2026-11-10",
-"end_date": null,
-"time": "18:30",
-"venue": "Evangelisches Zentrum Bayreuth – Seminarraum im Hof, Richard-Wagner-Straße 24",
-"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte mit Stadtkirche Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Zeitzeugin",
-"Erinnerungskultur",
-"NS-Zeit"
-],
-"description": "Dorothea Woiczechowski-Fried erzählt von ihrem Überleben als Kind einer sogenannten Mischehe und von der Lebensgeschichte ihres Mannes, der drei Konzentrationslager überlebte.",
-"price": "Eintritt frei, Spenden erwünscht",
-"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
-"sources": [
-"Evangelisches Bildungswerk Oberfranken-Mitte"
-],
-"house": "Kirchen",
-"id": "64d2490104"
-},
-{
-"title": "Filmgesprächsabend",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": null,
-"time": "19:00",
-"venue": "Evangelisch-reformierte Kirche Bayreuth, Erlanger Straße 29",
-"organizer": "Evangelisch-reformierte Gemeinde Bayreuth",
-"category": "Film",
-"tags": [
-"Filmabend",
-"Gespräch",
-"Gemeinde"
-],
-"description": "Filmabend der reformierten Gemeinde mit anschließendem Gespräch. Welcher Film gezeigt wird, nennt die Gemeinde nicht; Auskunft gibt das Gemeindebüro.",
-"price": null,
-"url": "https://reformiert-bayreuth.de/termin/filmgespraechsabend-18/",
-"termine": null,
-"sources": [
-"Evangelisch-reformierte Gemeinde Bayreuth"
-],
-"house": "Kirchen",
-"id": "a7994a0c21"
-},
-{
-"title": "Ergötzlichkeit und Sprezzatura – Konzert mit Brett Leighton",
-"subtitle": "Konzert mit Brett Leighton (Orgel und Clavichord)",
-"date": "2026-11-10",
-"end_date": null,
-"time": "19:00",
-"venue": "Hochschule für evangelische Kirchenmusik – Großer Orgelsaal",
-"organizer": "Hochschule für evangelische Kirchenmusik Bayreuth",
-"category": "Klassik",
-"tags": [
-"Orgel",
-"Alte Musik",
-"Hochschule",
-"Clavichord",
-"Tasteninstrumente"
-],
-"description": "Konzert mit dem Organisten und Cembalisten Brett Leighton.",
-"price": "15 €",
-"url": "https://www.hfk-bayreuth.de/veranstaltungen?etID=7845162&until=yes",
-"sources": [
-"Hochschule für evangelische Kirchenmusik Bayreuth",
-"Hochschule für ev. Kirchenmusik",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Kirchen",
-"id": "934d233668"
-},
-{
-"title": "Fritz Bauer und der erste Frankfurter Auschwitz-Prozess 1963–1965",
-"subtitle": "Vortrag mit Ralf Oberndörfer",
-"date": "2026-11-10",
-"end_date": null,
-"time": "19:30",
-"venue": "Kunstmuseum Bayreuth – Historischer Sitzungssaal, Maximilianstraße 33",
-"organizer": "KEB Bayreuth – Hof – Kulmbach e.V.",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Zeitgeschichte",
-"NS-Aufarbeitung",
-"Justiz"
-],
-"description": "Ralf Oberndörfer spricht über den Juristen Fritz Bauer, der als hessischer Generalstaatsanwalt die Anklage im ersten Frankfurter Auschwitz-Prozess vorbereitete, und über die Bedeutung des Verfahrens für die Auseinandersetzung mit den NS-Verbrechen.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/zeitgeschichte-fritz-bauer-bayreuth-95444-hk36y6",
-"sources": [
-"KEB Bayreuth – Hof – Kulmbach (nur Stadt, Land, Leben)",
-"KEB Bayreuth – Hof – Kulmbach e.V."
-],
-"house": "Kunstmuseum",
-"id": "e60c0b5aae"
-},
-{
-"title": "CineArt: Alte Liebe",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Komödie"
-],
-"description": "Tragikomödie über ein seit Jahrzehnten verheiratetes Paar in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoseite: Do 05.11. 17:30, So 08.11. 10:45, Di 10.11. 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/alte-liebe-6A141000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "ff1393ed2f"
-},
-{
-"title": "Royal Opera live im Kino: Carmen",
-"subtitle": "Übertragung aus dem Royal Opera House London",
-"date": "2026-11-10",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Oper & Musiktheater",
-"tags": [
-"Royal Opera",
-"Bizet",
-"Live-Übertragung",
-"Oper",
-"Live im Kino"
-],
-"description": "Übertragung von Bizets „Carmen“ aus dem Royal Opera House London; Vorstellungen um 19:45 und 20:00 in zwei Sälen.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "467b19d623"
-},
-{
-"title": "Sübkültür: Sunday Morning Orchestra",
-"subtitle": null,
-"date": "2026-11-10",
-"end_date": null,
-"time": "20:30",
-"venue": "Sübkültür im Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kunst- und Kulturhaus Neuneinhalb",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Jazz",
-"Pop Noir",
-"Duo",
-"Kontrabass"
-],
-"description": "Das Duo Maleen Schulz-Kallenbach (Gesang) und Oliver Zoglauer (Kontrabass) spielt reduzierte Songs zwischen Lo-Fi-Jazz und Pop Noir, darunter Stücke ihres neuen Albums. Einlass 20 Uhr.",
-"price": "2 € zzgl. Spenden",
-"url": "https://www.suebklueb.de/2026/10/sueb-konzert-sunday-morning-orchestra-2/",
-"sources": [
-"Sübkültür e.V."
-],
-"house": "Neuneinhalb",
-"id": "46aa640170"
 },
 {
 "title": "Erzählcafé",
@@ -3956,7 +3425,7 @@
 "Comedy"
 ],
 "description": "Stand-up-Mixed-Show mit mehreren Comedians.",
-"price": "32,50 €",
+"price": "32,50 € (ausverkauft)",
 "url": "https://www.das-zentrum.de/veranstaltung/nightwash-comedy-at-its-best/",
 "sources": [
 "Agentur Streckenbach",
@@ -4042,6 +3511,41 @@
 "id": "27424532a2"
 },
 {
+"subtitle": "mit DJ C-Lane",
+"end_date": "2026-12-05",
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": [
+{
+"date": "2026-11-14",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": null,
+"hinweis": null
+}
+],
+"title": "Nonstop Bangers",
+"date": "2026-11-14",
+"tags": [
+"Party",
+"DJ",
+"Clubnacht"
+],
+"description": "Clubnacht in der FABRIK, bei der DJ C-Lane bekannte Partyhits auflegt. Beginn und Eintritt sind auf der Veranstalterseite nicht angegeben.",
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "02bd06c7e4"
+},
+{
 "title": "Sangeslust 2026: SingSing mit StimmGold",
 "subtitle": "Traditionskonzert in der JVA Bayreuth",
 "date": "2026-11-15",
@@ -4070,7 +3574,7 @@
 "title": "Museumsführung im Richard Wagner Museum",
 "subtitle": "sonntags 14 Uhr",
 "date": "2026-11-15",
-"end_date": "2027-01-03",
+"end_date": "2026-12-27",
 "time": "14:00",
 "venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
 "organizer": "Richard Wagner Museum",
@@ -4124,11 +3628,6 @@
 },
 {
 "date": "2026-12-27",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2027-01-03",
 "time": "14:00",
 "hinweis": null
 }
@@ -4358,6 +3857,129 @@
 "id": "e124332cd6"
 },
 {
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-16",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "895dfde5d0"
+},
+{
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-16",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "e26a27bb0c",
+"termine": [
+{
+"date": "2026-11-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Allgemeine Führung",
+"subtitle": null,
+"date": "2026-11-16",
+"end_date": null,
+"time": "16:00",
+"venue": "Friedrichsforum – Großer Saal",
+"organizer": "Friedrichsforum",
+"category": "Führung",
+"tags": [
+"Hausführung",
+"Architektur",
+"Stadthalle"
+],
+"description": "Rund einstündiger Rundgang zu Geschichte, Räumen und heutiger Nutzung des Friedrichsforums und seinem Weg von der früheren Stadthalle zum Kulturort.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261110-allgemeine-fuehrung",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "027778666c"
+},
+{
 "title": "Brettspielabend 2.0 im Haus des Spiels",
 "subtitle": null,
 "date": "2026-11-16",
@@ -4451,6 +4073,63 @@
 ],
 "house": "Kino",
 "id": "cc4dd7f0dd"
+},
+{
+"title": "Kuratorenführung im Richard Wagner Museum",
+"subtitle": "dienstags 14 Uhr",
+"date": "2026-11-17",
+"end_date": "2026-12-22",
+"time": "14:00",
+"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
+"organizer": "Richard Wagner Museum",
+"category": "Führung",
+"tags": [
+"Wagner",
+"Kuratoren",
+"Museum",
+"Kurator",
+"dienstags"
+],
+"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
+"sources": [
+"Richard Wagner Museum"
+],
+"house": "Richard Wagner Museum",
+"id": "aaaf220614",
+"termine": [
+{
+"date": "2026-11-17",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "14:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Buch und Plausch – Weihnachts-Special",
@@ -4593,6 +4272,58 @@
 ],
 "house": "Universität",
 "id": "185144d7d2"
+},
+{
+"title": "Pub&Go Spieleabend",
+"subtitle": null,
+"date": "2026-11-17",
+"end_date": "2026-12-15",
+"time": "17:00",
+"venue": "Pub&Go Bayreuth, Sophienstraße 4",
+"organizer": "Pub&Go Bayreuth",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"wöchentlich",
+"dienstags"
+],
+"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
+"price": null,
+"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
+"sources": [
+"Pub&Go",
+"Pub&Go Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "c57fc6d832",
+"termine": [
+{
+"date": "2026-11-17",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "17:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Intersectional Feminist Bookclub",
@@ -5790,7 +5521,7 @@
 ],
 "description": "Offener Abend mit Brett- und Kartenspielen, bei dem man ohne Vorkenntnisse neue Leute kennenlernen kann; für Erwachsene ab 18.",
 "price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/spieleabend-neue-leute-kennenlernen-bayreuth-95448-hbcsld",
+"url": "https://region-bayreuth.de/veranstaltung/spieleabend-neue-leute-kennenlernen-bayreuth-95448-c7159x",
 "termine": [
 {
 "date": "2026-11-21",
@@ -5933,6 +5664,30 @@
 ],
 "house": "Neuneinhalb",
 "id": "2ec2fd70f2"
+},
+{
+"subtitle": "mit Dr. Rockwell",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"title": "RNB Therapy",
+"date": "2026-11-21",
+"tags": [
+"Party",
+"DJ",
+"R&B"
+],
+"description": "R&B-Clubnacht in der FABRIK mit DJ Dr. Rockwell. Beginn und Eintritt sind auf der Veranstalterseite nicht angegeben.",
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "fd9001444c"
 },
 {
 "title": "Zutritt verboten – ein Blick hinter die Kulissen",
@@ -7439,7 +7194,7 @@
 "title": "Der Messias",
 "subtitle": null,
 "date": "2026-11-27",
-"end_date": "2027-01-08",
+"end_date": "2027-01-10",
 "time": "20:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -7492,6 +7247,11 @@
 {
 "date": "2027-01-08",
 "time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-10",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -8624,9 +8384,9 @@
 "title": "European Outdoor Film Tour 26/27",
 "subtitle": null,
 "date": "2026-12-01",
-"end_date": null,
+"end_date": "2027-01-11",
 "time": "19:30",
-"venue": "DAS ZENTRUM",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
 "organizer": "Moving Adventures Medien GmbH",
 "category": "Film",
 "tags": [
@@ -8643,7 +8403,19 @@
 "European Outdoor Film Tour"
 ],
 "house": "Das Zentrum",
-"id": "ca4ab02468"
+"id": "ca4ab02468",
+"termine": [
+{
+"date": "2026-12-01",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2027-01-11",
+"time": "19:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "The Best of Black Gospel",
@@ -9245,6 +9017,31 @@
 ],
 "house": "Friedrichsforum",
 "id": "c2fc4a6def"
+},
+{
+"title": "Celtic Christmas Concert: Andy Lang",
+"subtitle": "Keltische Harfe und Songpoesie",
+"date": "2026-12-04",
+"end_date": null,
+"time": "20:00",
+"venue": "Spitalkirche Bayreuth, Maximilianstraße 64",
+"organizer": "Andy Lang Konzerte",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Harfe",
+"Advent",
+"Singer-Songwriter",
+"Folk"
+],
+"description": "Der Harfenist und Sänger Andy Lang spielt sein adventliches Konzert mit keltischer Harfe und eigenen Liedern, verbunden mit Moderation und kleinen Geschichten. Freie Platzwahl, Beteiligung während der Veranstaltung.",
+"price": "15–20 € (solidarische Konzertbeteiligung)",
+"url": "https://region-bayreuth.de/veranstaltung/celtic-christmas-concert-keltische-harfe-songpoesie-andy-lang-bayreuth-95444-3choy1",
+"termine": null,
+"sources": [
+"Andy Lang Konzerte (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "c64566b7c4"
 },
 {
 "title": "Advent mit Rilke",
@@ -10678,6 +10475,30 @@
 "id": "30e1e7b936"
 },
 {
+"subtitle": "Special Guest: Lil Ma, mit Robin Stöhr und Izzy",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"title": "Spicey",
+"date": "2026-12-12",
+"tags": [
+"Party",
+"DJ",
+"Clubnacht"
+],
+"description": "Partynacht in der FABRIK mit Gast-Act Lil Ma sowie Robin Stöhr und Izzy an den Plattentellern. Beginn und Eintritt sind nicht angegeben.",
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "2a0f424283"
+},
+{
 "title": "Strickkino: Drei Haselnüsse für Aschenbrödel",
 "subtitle": null,
 "date": "2026-12-13",
@@ -11989,19 +11810,19 @@
 },
 {
 "title": "Neujahrskonzert – Hofer Symphoniker",
-"subtitle": null,
+"subtitle": "Die Goldenen Zwanziger",
 "date": "2027-01-03",
 "end_date": null,
 "time": "18:00",
 "venue": "Friedrichsforum – Großer Saal",
-"organizer": null,
+"organizer": "Hofer Symphoniker",
 "category": "Klassik",
 "tags": [
 "Neujahrskonzert",
 "Orchester",
 "Hofer Symphoniker"
 ],
-"description": "Die Hofer Symphoniker begrüßen im Großen Saal des Friedrichsforums das neue Jahr mit einem Orchesterkonzert.",
+"description": "Unter der Leitung von Enrico Delamboye spielen die Hofer Symphoniker Operetten- und Tanzmusik der 1920er Jahre von Lehár und Künneke bis Gershwins Rhapsody in Blue; Solistinnen sind Asya Fateyeva (Saxophon) und Inga Lisa Lehr (Sopran).",
 "price": null,
 "url": "https://www.friedrichsforum.de/veranstaltung/20270103-neujahrskonzert-hofer-symphoniker",
 "termine": null,
@@ -12134,19 +11955,19 @@
 },
 {
 "title": "Beethoven: Alle Klavierkonzerte",
-"subtitle": null,
+"subtitle": "Alexander Lonquich & Münchner Kammerorchester",
 "date": "2027-01-09",
 "end_date": "2027-01-09",
 "time": "16:00",
 "venue": "Friedrichsforum – Großer Saal",
-"organizer": null,
+"organizer": "Friedrichsforum",
 "category": "Klassik",
 "tags": [
 "Beethoven",
 "Klavierkonzert",
 "Orchester"
 ],
-"description": "Zwei Konzerte an einem Tag widmen sich sämtlichen Klavierkonzerten Ludwig van Beethovens.",
+"description": "Alexander Lonquich spielt und leitet vom Flügel aus mit dem Münchner Kammerorchester alle fünf Klavierkonzerte Beethovens in zwei Konzerten (Nr. 1–3 um 16 Uhr, Nr. 4 und 5 um 19:30 Uhr); dazwischen gibt es ein im Ticket enthaltenes Abendessen im Balkonsaal.",
 "price": null,
 "url": "https://www.friedrichsforum.de/veranstaltung/20270109-beethoven-alle-klavierkonzerte",
 "termine": [
