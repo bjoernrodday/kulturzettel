@@ -827,9 +827,17 @@
 {
 "name": "Bayreuth aktuell November",
 "url": "https://www.bayreuth-tourismus.de/wp-content/uploads/2026/10/AKTUELL_November-2026-WEB.pdf"
+},
+{
+"name": "wundersam anders – Aktuelles",
+"url": "https://wundersam-anders.de/category/aktuell/"
+},
+{
+"name": "Liebesbier – Eventliste",
+"url": "https://www.liebesbier.de/en/events/?group_filter=33"
 }
 ],
-"updated": "2026-11-09T07:28+01:00",
+"updated": "2026-11-10T01:13+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1223,438 +1231,6 @@
 "id": "4ccf9365f1"
 },
 {
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-11-09",
-"end_date": "2026-11-30",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "1b3d6e2abc",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-11",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "15:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kunst & Krümel",
-"subtitle": null,
-"date": "2026-11-09",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Familie",
-"offenes Angebot"
-],
-"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-10",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "06f64f613e"
-},
-{
-"title": "Historische Führung",
-"subtitle": "Das Friedrichsforum als Spiegel der Stadtgeschichte",
-"date": "2026-11-09",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Friedrichsforum",
-"organizer": "Friedrichsforum",
-"category": "Führung",
-"tags": [
-"Hausführung",
-"Stadtgeschichte",
-"Architektur"
-],
-"description": "Führung durch das Friedrichsforum, die das Haus als Spiegel der Bayreuther Stadtgeschichte betrachtet.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261109-historische-fuehrung",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Friedrichsforum"
-],
-"house": "Friedrichsforum",
-"id": "34d77d9a20"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": "im Vereinskalender als „Kunst & Krümel“",
-"date": "2026-11-09",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "3c4909671d",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-10",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Gedenken an den 9. November",
-"subtitle": "Gang vom Sternplatz zur Synagoge",
-"date": "2026-11-09",
-"end_date": null,
-"time": "17:00",
-"venue": "Sternplatz, Bayreuth",
-"organizer": null,
-"category": "Vortrag & Diskurs",
-"tags": [
-"Gedenken",
-"Pogromnacht",
-"Stadtgeschichte"
-],
-"description": "Gedenken an die Novemberpogrome 1938 mit gemeinsamem Gang vom Sternplatz zur Synagoge neben dem Markgräflichen Opernhaus.",
-"price": null,
-"url": "https://frankenbundbayreuth.jimdofree.com/n%C3%A4chste-veranstaltungen/",
-"sources": [
-"Frankenbund Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "d5f0d94753"
-},
-{
-"title": "Wissenschaft gegen Faschismus",
-"subtitle": "Vortragsreihe der Fachschaft KuWi",
-"date": "2026-11-09",
-"end_date": "2026-12-15",
-"time": "18:15",
-"venue": "FZA – Forschungszentrum Afrika, Kongressraum, Universität Bayreuth",
-"organizer": "Fachschaft Kulturwissenschaften, Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wissenschaft",
-"Demokratie",
-"Vortragsreihe",
-"Universität",
-"Diskussion"
-],
-"description": "An sieben Dienstagabenden (18:15 Uhr, Kongressraum FZA) halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Zusatztermine: 9.11. Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ (Raum noch offen), 12.11. Diskussion zu den Landtagswahlen im Nordosten, 18.11. Vortrag „Press F to fight fascism“ (14 Uhr, Medienwissenschaft, Nürnberger Str. 38, Haus 4).",
-"price": "frei",
-"url": "https://kuwi.uni-bayreuth.de/fachschaft-kuwi/de/wgf2026",
-"sources": [
-"Universität Bayreuth",
-"Fachschaft KuWi, Universität Bayreuth"
-],
-"house": "Universität",
-"id": "051bef21fe",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "18:15",
-"hinweis": "Zusatztermin: Buchvorstellung, Raum noch offen"
-},
-{
-"date": "2026-11-12",
-"time": "18:15",
-"hinweis": "Zusatztermin: Landtagswahlen im Nordosten"
-},
-{
-"date": "2026-11-17",
-"time": "18:15",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "14:00",
-"hinweis": "Zusatztermin: Matthias Heider, Medienwissenschaft"
-},
-{
-"date": "2026-12-01",
-"time": "18:15",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "18:15",
-"hinweis": null
-}
-]
-},
-{
-"title": "Sicherheit durch Wandel – Klimaschutz und Biodiversität in Krisenzeiten",
-"subtitle": "Auftakt der RegioCOP 2026",
-"date": "2026-11-09",
-"end_date": null,
-"time": "18:30",
-"venue": "Iwalewahaus (Universität Bayreuth), Wölfelstraße 2",
-"organizer": "forum1.5",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Klima",
-"Biodiversität",
-"Sicherheit",
-"Podium"
-],
-"description": "Auftaktabend der regionalen Klimakonferenz Oberfranken mit Vorträgen von Michael Müller und Dr. Claudia Hunecke zu Klima, Artenverlust und Ernährungssicherheit sowie einer Podiumsrunde. Anmeldung erforderlich.",
-"price": null,
-"url": "https://regiocop.de/regiocop-2026/anmeldung/",
-"sources": [
-"RegioCOP / forum1.5"
-],
-"house": "Iwalewahaus",
-"id": "0b7f2db94e"
-},
-{
-"title": "Brettspielabend 2.0 im Haus des Spiels",
-"subtitle": null,
-"date": "2026-11-09",
-"end_date": "2026-11-30",
-"time": "19:00",
-"venue": "Haus des Spiels, Berneckerstraße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"offener Treff"
-],
-"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
-"price": "frei",
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"wundersam anders e. V.",
-"Wundersam anders e.V. (Haus des Spiels)",
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "e45e5492f9",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Cozy Autumn Evening",
-"subtitle": null,
-"date": "2026-11-09",
-"end_date": null,
-"time": "19:00",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Ambient",
-"Lesen",
-"Handarbeit"
-],
-"description": "Ruhiger Herbstabend mit Ambient-Musik, bei dem Gäste lesen, stricken oder häkeln können. Ab 18 Jahren, Glashaus-Mitgliedschaft erforderlich.",
-"price": "frei (Mitgliedschaft 1 €/Monat bzw. 6 €/Jahr)",
-"url": "https://www.glashaus.org/programm/cozy-autumn-evening",
-"sources": [
-"Glashaus"
-],
-"house": "Glashaus",
-"id": "af638c58c4"
-},
-{
-"title": "Cinema Africa: Afrikanische Filmreihe",
-"subtitle": null,
-"date": "2026-11-09",
-"end_date": "2026-11-23",
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Africa Multiple Cluster of Excellence, Universität Bayreuth",
-"category": "Film",
-"tags": [
-"Filmreihe",
-"Afrika",
-"OmU"
-],
-"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Soumsoum, la nuit des astres“ (26.10., 20 Uhr, mit Regisseur Mahamat-Saleh Haroun), „Dao“ (9.11., 20 Uhr) und „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln). Weitere Filme folgen 2027.",
-"price": null,
-"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/index.html",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "a7baa57077",
-"termine": [
-{
-"date": "2026-11-09",
-"time": "20:00",
-"hinweis": "Dao"
-},
-{
-"date": "2026-11-23",
-"time": "18:00",
-"hinweis": "Hanami (OmU dt.)"
-},
-{
-"date": "2026-11-23",
-"time": "20:00",
-"hinweis": "Hanami (OmU engl.)"
-}
-]
-},
-{
 "subtitle": null,
 "end_date": "2026-11-30",
 "time": null,
@@ -1770,6 +1346,116 @@
 ],
 "house": "Kino",
 "id": "b53fb40b69"
+},
+{
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-10",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-10",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "82d75cf113"
+},
+{
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-10",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "f814fb1be3",
+"termine": [
+{
+"date": "2026-11-10",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+]
 },
 {
 "subtitle": "GIB Lecture Series – Dr. Steven Gonzalez Monserrate (Goethe-Universität Frankfurt)",
@@ -1975,36 +1661,13 @@
 ],
 "description": "Filmabend der reformierten Gemeinde mit anschließendem Gespräch. Welcher Film gezeigt wird, nennt die Gemeinde nicht; Auskunft gibt das Gemeindebüro.",
 "price": null,
-"url": "https://reformiert-bayreuth.de/termine",
+"url": "https://reformiert-bayreuth.de/termin/filmgespraechsabend-18/",
 "termine": null,
 "sources": [
 "Evangelisch-reformierte Gemeinde Bayreuth"
 ],
 "house": "Kirchen",
 "id": "a7994a0c21"
-},
-{
-"title": "Workshop: Musikproduktion mit Logic Pro – Basics",
-"subtitle": "mit Ines Maier",
-"date": "2026-11-10",
-"end_date": null,
-"time": "19:00",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Workshop",
-"Musikproduktion"
-],
-"description": "Einführung in die Musikproduktion mit der Software Logic Pro; Anmeldung erforderlich.",
-"price": "nach Anmeldung",
-"url": "https://www.glashaus.org/programm/workshop-musikproduktion-mit-logic-pro-basics-mit-ines-maier",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "c8e63a08d0"
 },
 {
 "title": "Ergötzlichkeit und Sprezzatura – Konzert mit Brett Leighton",
@@ -2152,6 +1815,63 @@
 ],
 "house": "RW21",
 "id": "2a08292ef9"
+},
+{
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-11-11",
+"end_date": "2026-11-30",
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "410a4482f7",
+"termine": [
+{
+"date": "2026-11-11",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-16",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "15:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Vorlesestunden für Kinder ab 4 Jahren",
@@ -2762,6 +2482,59 @@
 ]
 },
 {
+"title": "Wissenschaft gegen Faschismus",
+"subtitle": "Vortragsreihe der Fachschaft KuWi",
+"date": "2026-11-12",
+"end_date": "2026-12-15",
+"time": "18:15",
+"venue": "FZA – Forschungszentrum Afrika, Kongressraum, Universität Bayreuth",
+"organizer": "Fachschaft Kulturwissenschaften, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Wissenschaft",
+"Demokratie",
+"Vortragsreihe",
+"Universität",
+"Diskussion"
+],
+"description": "An sieben Dienstagabenden (18:15 Uhr, Kongressraum FZA) halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Zusatztermine: 9.11. Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ (Raum noch offen), 12.11. Diskussion zu den Landtagswahlen im Nordosten, 18.11. Vortrag „Press F to fight fascism“ (14 Uhr, Medienwissenschaft, Nürnberger Str. 38, Haus 4).",
+"price": "frei",
+"url": "https://kuwi.uni-bayreuth.de/fachschaft-kuwi/de/wgf2026",
+"sources": [
+"Universität Bayreuth",
+"Fachschaft KuWi, Universität Bayreuth"
+],
+"house": "Universität",
+"id": "465cd561b4",
+"termine": [
+{
+"date": "2026-11-12",
+"time": "18:15",
+"hinweis": "Zusatztermin: Landtagswahlen im Nordosten"
+},
+{
+"date": "2026-11-17",
+"time": "18:15",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "14:00",
+"hinweis": "Zusatztermin: Matthias Heider, Medienwissenschaft"
+},
+{
+"date": "2026-12-01",
+"time": "18:15",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "18:15",
+"hinweis": null
+}
+]
+},
+{
 "title": "Weiße Esel, weite Landschaft – Der Nationalpark Neusiedler See",
 "subtitle": null,
 "date": "2026-11-12",
@@ -3150,7 +2923,7 @@
 "title": "Bayreuther Katakomben – Führung",
 "subtitle": "Die Stadt unter der Stadt",
 "date": "2026-11-13",
-"end_date": "2027-01-08",
+"end_date": "2027-01-09",
 "time": "16:00",
 "venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
 "organizer": "Maisel & Friends",
@@ -3287,6 +3060,11 @@
 },
 {
 "date": "2027-01-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
 "time": "16:00",
 "hinweis": null
 }
@@ -4580,6 +4358,48 @@
 "id": "e124332cd6"
 },
 {
+"title": "Brettspielabend 2.0 im Haus des Spiels",
+"subtitle": null,
+"date": "2026-11-16",
+"end_date": "2026-11-30",
+"time": "19:00",
+"venue": "Haus des Spiels, Berneckerstraße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"offener Treff"
+],
+"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
+"price": "frei",
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e. V.",
+"Wundersam anders e.V. (Haus des Spiels)",
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "002409037d",
+"termine": [
+{
+"date": "2026-11-16",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "19:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Schreibkreis „Thoughts to Page“",
 "subtitle": null,
 "date": "2026-11-16",
@@ -4666,6 +4486,30 @@
 ],
 "house": "Kirchen",
 "id": "c84b0aa051"
+},
+{
+"title": "Wundersames Spielecafé",
+"subtitle": null,
+"date": "2026-11-17",
+"end_date": null,
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spielecafé",
+"offenes Angebot"
+],
+"description": "Erster Testlauf eines Spielecafés im Haus des Spiels: Nachmittag mit Heißgetränken und Brettspielen aus der über 1.300 Titel umfassenden Sammlung des Vereins, 15 bis 18 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/2026/11/03/spielecafe/",
+"termine": null,
+"sources": [
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "ca6f47a786"
 },
 {
 "title": "Bildbetrachtungen",
@@ -5302,48 +5146,6 @@
 "id": "b520d8dba4"
 },
 {
-"title": "LOVEBEATZ im Liebesbier",
-"subtitle": "Bar-DJing",
-"date": "2026-11-20",
-"end_date": "2026-12-18",
-"time": "18:00",
-"venue": "Liebesbier (Maisel & Friends) – Barbereich, Andreas-Maisel-Weg 1",
-"organizer": "Liebesbier",
-"category": "Club & Party",
-"tags": [
-"DJ",
-"Bar",
-"Afterwork",
-"Bar-DJ"
-],
-"description": "Entspannte DJ-Sets an der Bar ab 18 Uhr; weitere Termine am 23. Oktober, 6. und 20. November sowie 4. und 18. Dezember.",
-"price": null,
-"url": "https://www.liebesbier.de/de/events/sunset-im-liebesbier-061126-5243/",
-"sources": [
-"Maisel & Friends / Liebesbier",
-"Hinweis: regioactive"
-],
-"house": "Liebesbier",
-"id": "ef4be145fc",
-"termine": [
-{
-"date": "2026-11-20",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2026-12-18",
-"time": "18:00",
-"hinweis": null
-}
-]
-},
-{
 "title": "Schauvorlesung Materialwissenschaft",
 "subtitle": "Ritter Metall und Druide Schmiedus",
 "date": "2026-11-20",
@@ -5497,6 +5299,48 @@
 ],
 "house": "Steingraeber Haus",
 "id": "ae59989941"
+},
+{
+"title": "LOVEBEATZ im Liebesbier",
+"subtitle": "Bar-DJing",
+"date": "2026-11-20",
+"end_date": "2026-12-18",
+"time": "20:00",
+"venue": "Liebesbier (Maisel & Friends) – Barbereich, Andreas-Maisel-Weg 1",
+"organizer": "Liebesbier",
+"category": "Club & Party",
+"tags": [
+"DJ",
+"Bar",
+"Afterwork",
+"Bar-DJ"
+],
+"description": "DJ-Sets im Barbereich des Liebesbier an drei Freitagabenden im November und Dezember.",
+"price": null,
+"url": "https://www.liebesbier.de/de/events/sunset-im-liebesbier-201126-5244/",
+"sources": [
+"Maisel & Friends / Liebesbier",
+"Hinweis: regioactive"
+],
+"house": "Liebesbier",
+"id": "ef4be145fc",
+"termine": [
+{
+"date": "2026-11-20",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "20:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Comedyflash Bayreuth",
@@ -6127,10 +5971,34 @@
 ]
 },
 {
+"title": "Kreative Schreibwerkstatt",
+"subtitle": "Traumwerkstatt zwischen Wirklichkeit und Fantasie",
+"date": "2026-11-22",
+"end_date": null,
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Literatur",
+"tags": [
+"Schreibwerkstatt",
+"Geschichten",
+"Familie"
+],
+"description": "Offene Werkstatt von 16 bis 22 Uhr, in der Fantasiewesen und -welten erfunden, gezeichnet und zu Geschichten weiterentwickelt werden; für Erwachsene gibt es zudem philosophische Gesprächsrunden und Lesemomente. Um kurze Anmeldung wird gebeten.",
+"price": null,
+"url": "https://wundersam-anders.de/2026/11/02/kreative-schreibwerkstatt/",
+"termine": null,
+"sources": [
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "ff84e05afd"
+},
+{
 "title": "Sonntag im Museum – Kunst macht Spaß",
 "subtitle": null,
 "date": "2026-11-22",
-"end_date": "2026-12-20",
+"end_date": "2027-01-10",
 "time": "16:00",
 "venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
 "organizer": "Kunstmuseum Bayreuth",
@@ -6140,7 +6008,7 @@
 "Malen",
 "Kunstvermittlung"
 ],
-"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 25.10., 8.11., 22.11., 6.12. und 20.12.; Anmeldung unter 0921/7645310.",
+"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 22.11., 6.12., 20.12. und 10.1.; Anmeldung unter 0921/7645310.",
 "price": "15 € pro Termin zzgl. Material",
 "url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
 "sources": [
@@ -6161,6 +6029,11 @@
 },
 {
 "date": "2026-12-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-10",
 "time": "16:00",
 "hinweis": null
 }
@@ -6584,6 +6457,41 @@
 ],
 "house": "Das Zentrum",
 "id": "37eda38f4c"
+},
+{
+"title": "Cinema Africa: Afrikanische Filmreihe",
+"subtitle": null,
+"date": "2026-11-23",
+"end_date": "2026-11-23",
+"time": "18:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Africa Multiple Cluster of Excellence, Universität Bayreuth",
+"category": "Film",
+"tags": [
+"Filmreihe",
+"Afrika",
+"OmU"
+],
+"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Soumsoum, la nuit des astres“ (26.10., 20 Uhr, mit Regisseur Mahamat-Saleh Haroun), „Dao“ (9.11., 20 Uhr) und „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln). Weitere Filme folgen 2027.",
+"price": null,
+"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/index.html",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "dd3abcb64f",
+"termine": [
+{
+"date": "2026-11-23",
+"time": "18:00",
+"hinweis": "Hanami (OmU dt.)"
+},
+{
+"date": "2026-11-23",
+"time": "20:00",
+"hinweis": "Hanami (OmU engl.)"
+}
+]
 },
 {
 "title": "Dokufilmreihe „Wirklichkeiten“: Das Deutsche Volk",
@@ -7880,7 +7788,7 @@
 },
 {
 "date": "2026-11-29",
-"time": "15:00",
+"time": "16:00",
 "hinweis": null
 }
 ],
@@ -7989,6 +7897,30 @@
 ],
 "house": "Clubs",
 "id": "71503a7197"
+},
+{
+"title": "One Night in Moscow x Frisco",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": null,
+"time": "22:30",
+"venue": "Club Frisco, Bamberger Straße 27",
+"organizer": null,
+"category": "Club & Party",
+"tags": [
+"Party",
+"Russische Musik",
+"Club"
+],
+"description": "Clubnacht mit russischsprachiger Party-Musik im Club Frisco.",
+"price": null,
+"url": "https://veranstaltungen.meinestadt.de/bayreuth/partys-feiern/alle",
+"termine": null,
+"sources": [
+"Hinweis: meinestadt"
+],
+"house": "Clubs",
+"id": "9a0deee847"
 },
 {
 "title": "Weihnachtsmarkt-Konzerte am Kulturkiosk",
@@ -8126,7 +8058,7 @@
 "title": "Öffentliche Führungen durch die Ausstellung A. D. Trantenroth",
 "subtitle": "Auch zweisprachig",
 "date": "2026-11-29",
-"end_date": "2026-12-20",
+"end_date": "2027-01-09",
 "time": "11:00",
 "venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
 "organizer": "Kunstmuseum Bayreuth",
@@ -8136,7 +8068,7 @@
 "Führung",
 "mehrsprachig"
 ],
-"description": "Führungen durch die Nachlass-Ausstellung: 29.11., 11 Uhr mit Dr. Beatrice Trost (5 €); 2.12., 15 Uhr Russisch/Deutsch; 19.12., 11 Uhr Ukrainisch/Deutsch und 20.12., 11 Uhr Französisch/Deutsch (frei).",
+"description": "Führungen durch die Nachlass-Ausstellung: 29.11., 11 Uhr mit Dr. Beatrice Trost (5 €); 2.12., 15 Uhr Russisch/Deutsch; 19.12., 11 Uhr Ukrainisch/Deutsch und 20.12., 11 Uhr Französisch/Deutsch (frei); 9.1., 11 Uhr (5 €) und 14 Uhr Russisch/Deutsch mit Museumswerkstatt.",
 "price": "5 € bzw. frei",
 "url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
 "sources": [
@@ -8163,6 +8095,16 @@
 {
 "date": "2026-12-20",
 "time": "11:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "14:00",
 "hinweis": null
 }
 ]
@@ -8461,6 +8403,29 @@
 ],
 "house": "Urwelt-Museum",
 "id": "c7fab9c2a6"
+},
+{
+"title": "Historische Führung",
+"subtitle": "Das Friedrichsforum als Spiegel der Stadtgeschichte",
+"date": "2026-11-30",
+"end_date": null,
+"time": "16:00",
+"venue": "Friedrichsforum",
+"organizer": "Friedrichsforum",
+"category": "Führung",
+"tags": [
+"Hausführung",
+"Stadtgeschichte",
+"Architektur"
+],
+"description": "Führung durch das Friedrichsforum, die das Haus als Spiegel der Bayreuther Stadtgeschichte betrachtet.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261109-historische-fuehrung",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "c2abf75767"
 },
 {
 "title": "Frankreich und Franken – Berührungspunkte vom Mittelalter bis ins 20. Jahrhundert",
@@ -9514,7 +9479,7 @@
 "title": "Kurzbesuch zum Kennenlernen",
 "subtitle": "30-Minuten-Einblick in die Ausstellung A. D. Trantenroth",
 "date": "2026-12-05",
-"end_date": null,
+"end_date": "2027-01-09",
 "time": "16:00",
 "venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
 "organizer": "Kunstmuseum Bayreuth",
@@ -9524,14 +9489,26 @@
 "Kurzführung",
 "Ausstellung"
 ],
-"description": "Halbstündiger Einblick in die aktuelle Ausstellung mit der Kunsthistorikerin Ursula Leibinger-Hasibether, jeweils am ersten Samstag im Monat: 7.11. und 5.12., 16–16.30 Uhr.",
+"description": "Halbstündiger Einblick in die aktuelle Ausstellung mit der Kunsthistorikerin Ursula Leibinger-Hasibether, jeweils am ersten Samstag im Monat: 5.12. und 9.1., 16–16.30 Uhr.",
 "price": "2,50 €",
 "url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
 "sources": [
 "Kunstmuseum Bayreuth"
 ],
 "house": "Kunstmuseum",
-"id": "f0979c3cd4"
+"id": "f0979c3cd4",
+"termine": [
+{
+"date": "2026-12-05",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "16:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "André Rieus Weihnachtskonzert 2026: Let it Snow",
@@ -11328,30 +11305,6 @@
 "id": "3f0b9be5dc"
 },
 {
-"title": "Öffentliche Führung in Ukrainisch/Deutsch",
-"subtitle": "mit Dr. Nataliya Yadzhak und Dr. Beatrice Trost",
-"date": "2026-12-19",
-"end_date": null,
-"time": "11:00",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Führung",
-"tags": [
-"Kunstmuseum",
-"Ukrainisch",
-"Zweisprachig"
-],
-"description": "Zweisprachige Führung auf Ukrainisch und Deutsch durch das Kunstmuseum.",
-"price": "Eintritt und Führung frei",
-"url": "https://region-bayreuth.de/veranstaltung/oeffentliche-fuehrung-ukrainisch-deutsch-bayreuth-95444-d8w0fk",
-"termine": null,
-"sources": [
-"Kunstmuseum Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Kunstmuseum",
-"id": "7e32edc847"
-},
-{
 "subtitle": null,
 "end_date": null,
 "venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
@@ -11506,31 +11459,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Öffentliche Führung in Französisch/Deutsch",
-"subtitle": "A. D. Trantenroth – Objekte und Gedanken aus dem Künstlernachlass",
-"date": "2026-12-20",
-"end_date": null,
-"time": "11:00",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus – Ausstellungsraum H (1. Stock), Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Führung",
-"tags": [
-"Kunstmuseum",
-"Französisch",
-"Zweisprachig",
-"Skulptur"
-],
-"description": "Führung auf Französisch und Deutsch durch die Trantenroth-Ausstellung mit Mathilde Müller-Bulabois und Dr. Beatrice Trost.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/oeffentliche-fuehrung-franzoesisch-deutsch-bayreuth-95444-vftqgz",
-"termine": null,
-"sources": [
-"Kunstmuseum Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Kunstmuseum",
-"id": "22c2a93e38"
 },
 {
 "title": "Royal Ballet live im Kino: Der Nussknacker",
@@ -12261,6 +12189,78 @@
 ],
 "house": "Das Zentrum",
 "id": "470358548b"
+},
+{
+"title": "Rückblick: Das war 2026 im Kunstmuseum",
+"subtitle": null,
+"date": "2027-01-10",
+"end_date": null,
+"time": "14:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Kunstmuseum",
+"Jahresrückblick",
+"Vortrag"
+],
+"description": "Dr. Beatrice Trost blickt in einem Vortrag mit Lesung auf das Ausstellungsjahr 2026 des Kunstmuseums zurück.",
+"price": "5 €",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"termine": null,
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "a754b6cfd0"
+},
+{
+"title": "Die Zauberflöte – Marionettenoper",
+"subtitle": "W. A. Mozart im Marionettentheater Operla",
+"date": "2027-01-10",
+"end_date": null,
+"time": "17:00",
+"venue": "Marionettentheater Operla, Sophienstraße 32",
+"organizer": "Marionettentheater Operla",
+"category": "Oper & Musiktheater",
+"tags": [
+"Marionetten",
+"Mozart",
+"Oper"
+],
+"description": "Mozarts Zauberflöte als Marionettenaufführung im kleinen Theater in der Sophienstraße. Laut Theater sind alle Vorstellungen bereits ausverkauft.",
+"price": "22 €, ermäßigt 16 €, Kinder bis 14 Jahre 14 €",
+"url": "https://www.operla.de/produkt/w-a-mozart-die-zauberfloete/",
+"sources": [
+"Marionettentheater Operla"
+],
+"house": "Weitere Orte",
+"id": "676e50bd9a"
+},
+{
+"title": "Die jungen Tenöre – Neujahrskonzert",
+"subtitle": "30 Jahre Bühnenjubiläum, Gast: Jasmin von Brünken",
+"date": "2027-01-10",
+"end_date": null,
+"time": "19:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "Motion Kommunikationsgesellschaft mbH",
+"category": "Klassik",
+"tags": [
+"Neujahrskonzert",
+"Tenöre",
+"Oper",
+"Musical"
+],
+"description": "Das Tenor-Trio feiert sein 30-jähriges Bestehen mit einem Neujahrsprogramm von Oper und Musical bis zu Popklassikern und Schlagern, begleitet am Klavier. Als Gast singt die aus Bayreuth stammende Opernsängerin Jasmin von Brünken.",
+"price": "34,80 €",
+"url": "https://www.das-zentrum.de/veranstaltung/die-jungen-tenoere-neujahrskonzert/",
+"termine": null,
+"sources": [
+"DAS ZENTRUM / Motion"
+],
+"house": "Das Zentrum",
+"id": "5a671dbe4f"
 }
 ]
 }

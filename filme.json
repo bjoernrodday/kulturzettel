@@ -1,5 +1,30 @@
 {
-"date": "2026-11-09",
-"updated": "2026-11-09T00:55+01:00",
-"films": []
+ "date": "2026-11-10",
+ "updated": "2026-11-10T01:13+01:00",
+ "films": [
+  {
+   "title": "Filmgesprächsabend",
+   "venue": "Evangelisch-reformierte Kirche Bayreuth, Erlanger Straße 29",
+   "runtime": null,
+   "fsk": null,
+   "genres": [],
+   "genres_raw": [],
+   "badges": [
+    "Filmgespräch"
+   ],
+   "week": null,
+   "shows": [
+    {
+     "time": "19:00",
+     "room": null,
+     "site": null,
+     "flags": []
+    }
+   ],
+   "more": false,
+   "note": "Film mit anschließendem Gespräch (bis ca. 22 Uhr); der Filmtitel wird nicht veröffentlicht, Auskunft im Gemeindebüro.",
+   "url": "https://reformiert-bayreuth.de/termin/filmgespraechsabend-18/",
+   "source": "Evangelisch-reformierte Gemeinde Bayreuth"
+  }
+ ]
 }
