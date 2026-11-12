@@ -845,7 +845,7 @@
 "url": "https://fabrik-bayreuth.com/noteaser"
 }
 ],
-"updated": "2026-11-11T00:57+01:00",
+"updated": "2026-11-12T01:05+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1263,504 +1263,6 @@
 "id": "f0c4c92418"
 },
 {
-"title": "Erzählcafé",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": null,
-"time": "14:30",
-"venue": "RW21 Stadtbibliothek – Kreativwerkstatt (EG)",
-"organizer": "RW21 Stadtbibliothek Bayreuth",
-"category": "Literatur",
-"tags": [
-"Erzählen",
-"Erinnerungen",
-"Senioren"
-],
-"description": "Monatliche Gesprächsrunde unter Leitung von Wolfgang Roth, in der zu wechselnden Themen von früher erzählt wird; Kaffee und Kuchen gibt es im Lesecafé.",
-"price": "Eintritt frei",
-"url": "https://stadtbibliothek.bayreuth.de/",
-"sources": [
-"RW21 Stadtbibliothek"
-],
-"house": "RW21",
-"id": "2a08292ef9"
-},
-{
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": "2026-11-30",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "410a4482f7",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-16",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "15:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Vorlesestunden für Kinder ab 4 Jahren",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": "2026-11-28",
-"time": "16:00",
-"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Kinder & Familie",
-"tags": [
-"Vorlesen",
-"Kinder ab 4",
-"Bibliothek"
-],
-"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "b9a2f25364",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "11:00",
-"hinweis": null
-}
-]
-},
-{
-"subtitle": "oder: Was man als Einheimischer über Wagner wissen sollte – Vortrag von Bernd Völkl",
-"end_date": null,
-"time": "18:00",
-"organizer": "Verein Deutsche Sprache e. V., Regionalgruppe / Bernd Völkl",
-"price": "Eintritt frei",
-"termine": null,
-"title": "So bereitete sich Bayreuth auf die ersten Festspiele vor",
-"date": "2026-11-11",
-"venue": "Brauereischänke am Markt, Maximilianstraße 56",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wagner",
-"Stadtgeschichte",
-"Festspiele"
-],
-"description": "Vortrag beim Regionaltreffen des Vereins Deutsche Sprache über die Vorbereitungen der Stadt auf die ersten Festspiele 1876.",
-"url": "https://region-bayreuth.de/veranstaltung/bereitete-bayreuth-ersten-festspiele-vor-oder-man-einheimischer-ueber-wagner-wissen-95444-stk0o6",
-"sources": [
-"Bernd Völkl (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "2a6a7db575"
-},
-{
-"title": "Konzert zum Jubiläum der Städtepartnerschaft Bayreuth–Annecy",
-"subtitle": "Trio sous les Toits mit Mine Krause",
-"date": "2026-11-11",
-"end_date": null,
-"time": "18:00",
-"venue": "Königsallee 17, Bayreuth",
-"organizer": "Deutsch-Französische Gesellschaft Bayreuth e. V.",
-"category": "Klassik",
-"tags": [
-"Kammermusik",
-"Städtepartnerschaft",
-"Frankreich"
-],
-"description": "Zum 60-jährigen Bestehen der Partnerschaft mit Annecy spielt das deutsch-französische Trio sous les Toits aus Paris mit der Bayreuther Geigerin Mine Krause Werke von Louise Farrenc und Felix Mendelssohn Bartholdy. Getränke und Snacks bietet das Café blu.",
-"price": null,
-"url": "https://www.dfg-bayreuth.de/details-registrierung/konzert-zum-jubilaum-der-stadtepartnerschaft",
-"sources": [
-"Deutsch-Französische Gesellschaft Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "6d154116d3"
-},
-{
-"title": "Die lebendige Linie: Aktzeichnen",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": "2026-11-23",
-"time": "18:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e.V.",
-"category": "Ausstellung",
-"tags": [
-"Zeichnen",
-"Aktmodell",
-"Mitmachen"
-],
-"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung; Termine am 11. und 23.11., jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
-"price": "5 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-36/edate/2026-11-11",
-"sources": [
-"Neuneinhalb e. V."
-],
-"house": "Neuneinhalb",
-"id": "91be9ced60",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "18:30",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "18:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Blood Bowl im Haus des Spiels",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": "2026-11-25",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Tabletop",
-"Fantasy-Football",
-"Spieleabend",
-"Spieltreff"
-],
-"description": "Offener Spielabend für das Tabletop-Spiel Blood Bowl, mittwochs ab 19 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "c8f7126835",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Ulla Suspekt",
-"subtitle": "Albumvorstellung „Antrag Abgelehnt“",
-"date": "2026-11-11",
-"end_date": null,
-"time": "19:00",
-"venue": "Schokofabrik Bayreuth, Gaußstraße 6",
-"organizer": "Schoko e. V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Punk",
-"Live",
-"Band"
-],
-"description": "Die aus Nürnberg stammende, in Wien lebende Musikerin stellt mit Band ihr neues Album vor.",
-"price": "ab 6 €",
-"url": "https://www.schoko-bayreuth.de/event/konzert-ulla-suspekt-nbg/",
-"termine": null,
-"sources": [
-"Schokofabrik Bayreuth"
-],
-"house": "Clubs",
-"id": "a201560ddd"
-},
-{
-"title": "St.-Martin – kein Kinderkram",
-"subtitle": "Märchenabend mit Fiona Ahlborn",
-"date": "2026-11-11",
-"end_date": null,
-"time": "19:00",
-"venue": "Gemeindebücherei der Friedenskirche, Friedenstraße 1",
-"organizer": "Fiona Ahlborn",
-"category": "Literatur",
-"tags": [
-"Märchen",
-"Brauchtum",
-"Erzählkunst"
-],
-"description": "Märchen, Legenden und alte Bräuche rund um den Martinstag, mit einem Blick auf traditionelles Gebäck und die Verbindung zu Weihnachten.",
-"price": "7 €",
-"url": "https://ahlborn-erzaehlerin.de/veranstaltungen/",
-"sources": [
-"Fiona Ahlborn"
-],
-"house": "Kirchen",
-"id": "41769bd756"
-},
-{
-"title": "Labortheater",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": "2026-11-25",
-"time": "19:30",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Theater",
-"tags": [
-"Theatergruppe",
-"Mitmachen",
-"offen"
-],
-"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
-"price": "frei",
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"wundersam anders e.V.",
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "22d8baafde",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "19:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Jeeps",
-"subtitle": "Komödie von Nora Abdel-Maksoud",
-"date": "2026-11-11",
-"end_date": "2026-12-28",
-"time": "20:00",
-"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth",
-"category": "Theater",
-"tags": [
-"Komödie",
-"Erbschaft",
-"Gegenwartsdramatik",
-"Studiobühne"
-],
-"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
-"price": null,
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
-"sources": [
-"Studiobühne Bayreuth",
-"Studiobühne (tickets4arts)",
-"Bayreuther Tagblatt / bayreuth4U"
-],
-"house": "Studiobühne",
-"id": "dd1c138161",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "20:00",
-"hinweis": "Letzte Vorstellung"
-}
-]
-},
-{
-"title": "Tanzhaus im ZENTRUM",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": "2026-12-09",
-"time": "20:00",
-"venue": "DAS ZENTRUM – Seminarraum 6, Äußere Badstraße 7a",
-"organizer": "Tanzhaus im ZENTRUM (Leitung Dr. Wolfgang Richter)",
-"category": "Tanz",
-"tags": [
-"Folkloretanz",
-"Mitmachen",
-"international"
-],
-"description": "Offener Abend mit einfachen Kreis- und Gruppentänzen aus internationaler Folklore zu Originalmusik; ohne Partner und Vorkenntnisse. Mittwochs außerhalb der Schulferien (14.10., 21.10., 28.10., 11.11., 18.11., 2.12., 9.12.).",
-"price": "3 € pro Abend (Semesterbeitrag 25 €)",
-"url": "https://www.richter-bayreuth.de/Tanzhaus-im-Zentrum/",
-"sources": [
-"Tanzhaus im ZENTRUM"
-],
-"house": "Das Zentrum",
-"id": "91bf0b4c63",
-"termine": [
-{
-"date": "2026-11-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-02",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Salsa-Abend",
-"subtitle": null,
-"date": "2026-11-11",
-"end_date": null,
-"time": "21:15",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Club & Party",
-"tags": [
-"Salsa",
-"Tanz",
-"Campus"
-],
-"description": "Offener Salsa-Tanzabend im studentischen Kulturcafé Glashaus am Campus.",
-"price": "Eintritt frei",
-"url": "https://www.glashaus.org/programm/salsa-abend-11-11-2026",
-"termine": null,
-"sources": [
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "f7363da8a0"
-},
-{
 "title": "Spieletreff",
 "subtitle": "Offene Runde für Karten- und Brettspiele",
 "date": "2026-11-12",
@@ -1954,7 +1456,7 @@
 "title": "Wissenschaft gegen Faschismus",
 "subtitle": "Vortragsreihe der Fachschaft KuWi",
 "date": "2026-11-12",
-"end_date": "2026-12-15",
+"end_date": "2027-01-12",
 "time": "18:15",
 "venue": "FZA – Forschungszentrum Afrika, Kongressraum, Universität Bayreuth",
 "organizer": "Fachschaft Kulturwissenschaften, Universität Bayreuth",
@@ -1998,6 +1500,11 @@
 },
 {
 "date": "2026-12-15",
+"time": "18:15",
+"hinweis": null
+},
+{
+"date": "2027-01-12",
 "time": "18:15",
 "hinweis": null
 }
@@ -3111,6 +2618,56 @@
 "id": "8277a9a67b"
 },
 {
+"title": "Vorlesestunden für Kinder ab 4 Jahren",
+"subtitle": null,
+"date": "2026-11-14",
+"end_date": "2026-11-28",
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Kinder ab 4",
+"Bibliothek"
+],
+"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "b2255abfc3",
+"termine": [
+{
+"date": "2026-11-14",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "11:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Oberfränkische Nachwuchskonzerte",
 "subtitle": "Junge Musikerinnen und Musiker, Leitung Lisa Wellisch; 14.11. Jubiläumskonzert",
 "date": "2026-11-14",
@@ -3240,6 +2797,31 @@
 ]
 },
 {
+"title": "Benefizkonzert des Rotaract Clubs Bayreuth",
+"subtitle": "zugunsten des Kinderschutzbunds Bayreuth",
+"date": "2026-11-14",
+"end_date": null,
+"time": "18:00",
+"venue": "Katholische Schlosskirche Bayreuth",
+"organizer": "Rotaract Club Bayreuth",
+"category": "Klassik",
+"tags": [
+"Benefiz",
+"Solistenkonzert",
+"Tango",
+"Minimal Music"
+],
+"description": "Solistische Beiträge von Klassik und Romantik über argentinischen Tango bis zur Minimal Music des 20. Jahrhunderts; der Erlös geht an den Kinderschutzbund Bayreuth. Ende gegen 19:30 Uhr.",
+"price": "10 €, Schüler/Azubis/Studierende frei",
+"url": "https://pretix.rotaract.de/bayreuth/Benefizkonzert/",
+"termine": null,
+"sources": [
+"Rotaract Club Bayreuth"
+],
+"house": "Kirchen",
+"id": "d71c9bce19"
+},
+{
 "title": "Fuego – Latin Night",
 "subtitle": "Tanzkurs, freies Tanzen und Latin Party",
 "date": "2026-11-14",
@@ -3285,6 +2867,89 @@
 ],
 "house": "Becher Bräu",
 "id": "66d8b0713c"
+},
+{
+"title": "Jeeps",
+"subtitle": "Komödie von Nora Abdel-Maksoud",
+"date": "2026-11-14",
+"end_date": "2026-12-28",
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth",
+"category": "Theater",
+"tags": [
+"Komödie",
+"Erbschaft",
+"Gegenwartsdramatik",
+"Studiobühne"
+],
+"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
+"price": null,
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
+"sources": [
+"Studiobühne Bayreuth",
+"Studiobühne (tickets4arts)",
+"Bayreuther Tagblatt / bayreuth4U"
+],
+"house": "Studiobühne",
+"id": "46da99120f",
+"termine": [
+{
+"date": "2026-11-14",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-15",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "20:00",
+"hinweis": "Letzte Vorstellung"
+}
+]
 },
 {
 "title": "Cabaret",
@@ -3857,6 +3522,58 @@
 "id": "e124332cd6"
 },
 {
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-11-16",
+"end_date": "2026-11-30",
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "7c1971aca3",
+"termine": [
+{
+"date": "2026-11-16",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-18",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "15:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Kunst & Krümel",
 "subtitle": null,
 "date": "2026-11-16",
@@ -4416,7 +4133,7 @@
 "title": "UniKino der Fachschaft MPI",
 "subtitle": null,
 "date": "2026-11-17",
-"end_date": "2026-12-15",
+"end_date": "2027-01-12",
 "time": null,
 "venue": "Universität Bayreuth – Hörsäle H17/H18",
 "organizer": "Fachschaft Mathematik/Physik/Informatik der Universität Bayreuth",
@@ -4447,6 +4164,11 @@
 },
 {
 "date": "2026-12-15",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2027-01-12",
 "time": null,
 "hinweis": null
 }
@@ -4645,6 +4367,42 @@
 "id": "0fef35a253"
 },
 {
+"title": "Blood Bowl im Haus des Spiels",
+"subtitle": null,
+"date": "2026-11-18",
+"end_date": "2026-11-25",
+"time": "19:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Tabletop",
+"Fantasy-Football",
+"Spieleabend",
+"Spieltreff"
+],
+"description": "Offener Spielabend für das Tabletop-Spiel Blood Bowl, mittwochs ab 19 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "614287df59",
+"termine": [
+{
+"date": "2026-11-18",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "19:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "AfriKaleidoskop meets ARTE",
 "subtitle": "Zwei Reportagen aus der DR Kongo und dem Sudan mit Gespräch",
 "date": "2026-11-18",
@@ -4718,6 +4476,46 @@
 ],
 "house": "Kino",
 "id": "fa5e9c5b6d"
+},
+{
+"title": "Tanzhaus im ZENTRUM",
+"subtitle": null,
+"date": "2026-11-18",
+"end_date": "2026-12-09",
+"time": "20:00",
+"venue": "DAS ZENTRUM – Seminarraum 6, Äußere Badstraße 7a",
+"organizer": "Tanzhaus im ZENTRUM (Leitung Dr. Wolfgang Richter)",
+"category": "Tanz",
+"tags": [
+"Folkloretanz",
+"Mitmachen",
+"international"
+],
+"description": "Offener Abend mit einfachen Kreis- und Gruppentänzen aus internationaler Folklore zu Originalmusik; ohne Partner und Vorkenntnisse. Mittwochs außerhalb der Schulferien (14.10., 21.10., 28.10., 11.11., 18.11., 2.12., 9.12.).",
+"price": "3 € pro Abend (Semesterbeitrag 25 €)",
+"url": "https://www.richter-bayreuth.de/Tanzhaus-im-Zentrum/",
+"sources": [
+"Tanzhaus im ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "c2ecad8724",
+"termine": [
+{
+"date": "2026-11-18",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-02",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "20:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Schwarze Magie: Kohlenstoffe für den Wandel in der Chemie",
@@ -6249,6 +6047,29 @@
 ]
 },
 {
+"title": "Die lebendige Linie: Aktzeichnen",
+"subtitle": null,
+"date": "2026-11-23",
+"end_date": null,
+"time": "18:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e.V.",
+"category": "Ausstellung",
+"tags": [
+"Zeichnen",
+"Aktmodell",
+"Mitmachen"
+],
+"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung; Termine am 11. und 23.11., jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
+"price": "5 €",
+"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-36/edate/2026-11-11",
+"sources": [
+"Neuneinhalb e. V."
+],
+"house": "Neuneinhalb",
+"id": "b18e934f54"
+},
+{
 "title": "Dokufilmreihe „Wirklichkeiten“: Das Deutsche Volk",
 "subtitle": null,
 "date": "2026-11-23",
@@ -6575,6 +6396,30 @@
 "id": "6bb79d9202"
 },
 {
+"title": "Labortheater",
+"subtitle": null,
+"date": "2026-11-25",
+"end_date": null,
+"time": "19:30",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Theater",
+"tags": [
+"Theatergruppe",
+"Mitmachen",
+"offen"
+],
+"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
+"price": "frei",
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e.V.",
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "404dd48072"
+},
+{
 "title": "Ingmar Stadelmann: Stadelmann liest Höcke",
 "subtitle": "Ein satirischer Diskurs",
 "date": "2026-11-25",
@@ -6599,6 +6444,41 @@
 ],
 "house": "Das Zentrum",
 "id": "d8b632cf2c"
+},
+{
+"title": "Salsa-Abend",
+"subtitle": null,
+"date": "2026-11-25",
+"end_date": "2026-12-09",
+"time": "21:15",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Club & Party",
+"tags": [
+"Salsa",
+"Tanz",
+"Campus"
+],
+"description": "Offener Salsa-Tanzabend im studentischen Kulturcafé Glashaus am Campus.",
+"price": "Eintritt frei",
+"url": "https://www.glashaus.org/programm/salsa-abend-11-11-2026",
+"termine": [
+{
+"date": "2026-11-25",
+"time": "21:15",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "21:15",
+"hinweis": null
+}
+],
+"sources": [
+"Glashaus e.V."
+],
+"house": "Glashaus",
+"id": "0f662a429d"
 },
 {
 "title": "Auftritt des kath. Kindergartens St. Vinzenz",
@@ -8312,29 +8192,6 @@
 "id": "d44b878be3"
 },
 {
-"title": "Literaturkurs der Anthroposophischen Gesellschaft: Goethes Faust II",
-"subtitle": null,
-"date": "2026-12-01",
-"end_date": null,
-"time": "19:00",
-"venue": "Rudolf Steiner Haus Bayreuth – Vortragssaal, Zeppelinstraße 18",
-"organizer": "Anthroposophische Gesellschaft Bayreuth",
-"category": "Literatur",
-"tags": [
-"Goethe",
-"Faust",
-"Lektürekurs"
-],
-"description": "Christa Pfannmüller liest und bespricht mit den Teilnehmenden Goethes Faust, Teil 2, unter dem Titel „Die Entwicklung der Bewusstseinsseele“.",
-"price": "5–10 €",
-"url": "https://anthroposophie-bayreuth.de",
-"sources": [
-"Anthroposophische Gesellschaft Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "e846907627"
-},
-{
 "title": "Jamsession im Zentrum",
 "subtitle": null,
 "date": "2026-12-01",
@@ -8905,6 +8762,41 @@
 ],
 "house": "RW21",
 "id": "5b8a08c673"
+},
+{
+"title": "Nachts im Schloss",
+"subtitle": "Abendführung für Kinder von 7 bis 10 Jahren",
+"date": "2026-12-04",
+"end_date": "2026-12-04",
+"time": "16:15",
+"venue": "Neues Schloss Bayreuth (Treffpunkt vor dem Schlosseingang)",
+"organizer": "Bayerische Schlösserverwaltung",
+"category": "Kinder & Familie",
+"tags": [
+"Kinderführung",
+"Neues Schloss",
+"Abendführung"
+],
+"description": "Abendliche Entdeckungstour durch das Neue Schloss für Kinder von 7 bis 10 Jahren ohne erwachsene Begleitung, in zwei Gruppen (16:15–18 Uhr und 18:30–20:15 Uhr). Anmeldung ab 14.11. persönlich an der Schlosskasse.",
+"price": "5 €",
+"url": "https://www.bayreuth-wilhelmine.de/deutsch/kinder/termine/index.asp",
+"termine": [
+{
+"date": "2026-12-04",
+"time": "16:15",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "18:30",
+"hinweis": null
+}
+],
+"sources": [
+"Bayerische Schlösserverwaltung"
+],
+"house": "Schlösser & Eremitage",
+"id": "23f5154256"
 },
 {
 "title": "Posaunenchor Warmensteinach",
@@ -9532,7 +9424,7 @@
 "Kammermusik"
 ],
 "description": "Konzert des sizilianischen Liedermachers mit Akustikquartett.",
-"price": "46,20 €",
+"price": "45,50 €",
 "url": "https://www.das-zentrum.de/veranstaltung/pippo-pollina-quartetto-acustico-la-vita-e-bella-cosi-come/",
 "sources": [
 "motion kommunikation",
