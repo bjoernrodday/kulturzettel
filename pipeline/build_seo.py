@@ -323,7 +323,8 @@ def main():
     # Sitemap
     urls = [("", "daily", "1.0"), ("kino.html", "daily", "0.8")]
     urls += [(p, "daily", "0.7") for p in written]
-    urls += [("quellen.html", "weekly", "0.3"), ("ueber.html", "monthly", "0.3"), ("impressum.html", "yearly", "0.1"), ("datenschutz.html", "yearly", "0.1")]
+    # Impressum und Datenschutz tragen noindex und gehören deshalb nicht in die Sitemap (Search-Console-Hinweis vom 09.11.2026)
+    urls += [("quellen.html", "weekly", "0.3"), ("ueber.html", "monthly", "0.3")]
     lastmod = {}
     try:
         old = open("sitemap.xml", encoding="utf-8").read()
