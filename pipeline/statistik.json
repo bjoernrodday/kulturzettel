@@ -1,99 +1,63 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-11-12T12:30+01:00",
+ "abgerufen": "2026-11-13T12:15+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
- "heute_bis_abruf": 2,
+ "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-11-11",
-  "bis": "2026-11-11",
-  "besucher": 13,
+  "von": "2026-11-12",
+  "bis": "2026-11-12",
+  "besucher": 5,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 7
-   },
-   {
-    "pfad": "/sparte/klassik.html",
-    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 2
-   },
-   {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
-    "besucher": 2
-   },
-   {
-    "pfad": "/ort/winterdorf.html",
-    "titel": "Winterdorf: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
+    "besucher": 3
    },
    {
     "pfad": "/sparte/games.html",
     "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
     "besucher": 1
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 1
    }
   ],
   "herkunft": [
-   {
-    "name": "(direkt)",
-    "besucher": 4
-   },
    {
     "name": "chatgpt.com",
     "besucher": 3
    },
    {
+    "name": "(direkt)",
+    "besucher": 1
+   },
+   {
     "name": "Google",
-    "besucher": 2
-   },
-   {
-    "name": "ig",
-    "besucher": 1
-   },
-   {
-    "name": "www.facebook.com",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/index.html",
-    "besucher": 1
-   },
-   {
-    "name": "kulturzettel-bayreuth.de/sparte/klassik.html",
     "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-11-05",
-  "bis": "2026-11-11",
-  "besucher": 104,
+  "von": "2026-11-06",
+  "bis": "2026-11-12",
+  "besucher": 95,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 38
+    "besucher": 37
    },
    {
     "pfad": "/ort/kulturbuehne-reichshof.html",
     "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 14
+    "besucher": 12
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 9
-   },
-   {
-    "pfad": "/sparte/klassik.html",
-    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 5
-   },
-   {
-    "pfad": "/sparte/club-party.html",
-    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
-    "besucher": 5
+    "besucher": 7
    },
    {
     "pfad": "/sparte/theater.html",
@@ -101,14 +65,29 @@
     "besucher": 4
    },
    {
-    "pfad": "/sparte/pop-rock-jazz.html",
-    "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/club-party.html",
+    "titel": "Clubs und Partys in Bayreuth – Kulturzettel",
     "besucher": 4
    },
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
     "besucher": 4
+   },
+   {
+    "pfad": "/sparte/pop-rock-jazz.html",
+    "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
+    "besucher": 3
+   },
+   {
+    "pfad": "/sparte/games.html",
+    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
+    "besucher": 3
+   },
+   {
+    "pfad": "/sparte/klassik.html",
+    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
+    "besucher": 3
    },
    {
     "pfad": "/ueber.html",
@@ -131,11 +110,6 @@
     "besucher": 2
    },
    {
-    "pfad": "/sparte/games.html",
-    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
-    "besucher": 2
-   },
-   {
     "pfad": "/ort/winterdorf.html",
     "titel": "Winterdorf: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
@@ -149,15 +123,15 @@
   "herkunft": [
    {
     "name": "Google",
-    "besucher": 28
+    "besucher": 27
    },
    {
     "name": "chatgpt.com",
-    "besucher": 28
+    "besucher": 25
    },
    {
     "name": "(direkt)",
-    "besucher": 24
+    "besucher": 22
    },
    {
     "name": "kulturzettel-bayreuth.de/index.html",
@@ -165,7 +139,7 @@
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 5
+    "besucher": 3
    },
    {
     "name": "www.ecosia.org",
@@ -190,14 +164,14 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-10-15",
-  "bis": "2026-11-11",
-  "besucher": 299,
+  "von": "2026-10-16",
+  "bis": "2026-11-12",
+  "besucher": 304,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 158
+    "besucher": 161
    },
    {
     "pfad": "/kino.html",
@@ -217,7 +191,7 @@
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 11
+    "besucher": 12
    },
    {
     "pfad": "/ueber.html",
@@ -250,13 +224,13 @@
     "besucher": 4
    },
    {
-    "pfad": "/sparte/vortraege.html",
-    "titel": "Vorträge und Diskussionen in Bayreuth – Kulturzettel",
-    "besucher": 3
-   },
-   {
     "pfad": "/sparte/games.html",
     "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
+    "besucher": 4
+   },
+   {
+    "pfad": "/sparte/vortraege.html",
+    "titel": "Vorträge und Diskussionen in Bayreuth – Kulturzettel",
     "besucher": 3
    },
    {
@@ -273,15 +247,15 @@
   "herkunft": [
    {
     "name": "(direkt)",
-    "besucher": 101
+    "besucher": 102
    },
    {
     "name": "chatgpt.com",
-    "besucher": 77
+    "besucher": 80
    },
    {
     "name": "Google",
-    "besucher": 51
+    "besucher": 52
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -315,11 +289,11 @@
   "browser": [
    {
     "name": "Chrome",
-    "besucher": 161
+    "besucher": 163
    },
    {
     "name": "Safari",
-    "besucher": 130
+    "besucher": 131
    },
    {
     "name": "Firefox",
@@ -329,15 +303,15 @@
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 116
+    "besucher": 117
    },
    {
     "name": "Android",
-    "besucher": 104
+    "besucher": 105
    },
    {
     "name": "Windows",
-    "besucher": 40
+    "besucher": 41
    },
    {
     "name": "macOS",
@@ -351,7 +325,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 221
+    "besucher": 223
    },
    {
     "name": "",
@@ -359,7 +333,7 @@
    },
    {
     "name": "",
-    "besucher": 66
+    "besucher": 67
    },
    {
     "name": "",
@@ -373,7 +347,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 270
+    "besucher": 273
    },
    {
     "name": "United States",
@@ -406,10 +380,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-08-14",
-   "besucher": 0
-  },
   {
    "tag": "2026-08-15",
    "besucher": 0
@@ -768,6 +738,10 @@
   },
   {
    "tag": "2026-11-12",
+   "besucher": 5
+  },
+  {
+   "tag": "2026-11-13",
    "besucher": 0
   }
  ]
