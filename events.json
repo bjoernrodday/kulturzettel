@@ -863,9 +863,21 @@
 {
 "name": "KÜKO Künstlerkolonie Fichtelgebirge – Veranstaltungen",
 "url": "https://kueko-fichtelgebirge.de/veranstaltungen/"
+},
+{
+"name": "Magic Gregorian Night – Tourdaten",
+"url": "https://www.magicgregoriannight.de/shows/"
+},
+{
+"name": "Miro Live – Magic Gregorian Night",
+"url": "https://miro-live.de/magic-gregorian-night-2/"
+},
+{
+"name": "Bundesarchiv – Veranstaltungen",
+"url": "https://www.bundesarchiv.de/themen-entdecken/vor-ort-entdecken/veranstaltungen/"
 }
 ],
-"updated": "2026-11-14T01:04+01:00",
+"updated": "2026-11-15T01:14+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -989,7 +1001,7 @@
 },
 {
 "title": "Bayreuther Winterdorf 2026",
-"subtitle": "Eröffnung mit Oliver Schott feat. The Golden Gospel Choir",
+"subtitle": null,
 "date": "2026-10-15",
 "end_date": "2026-12-31",
 "time": "11:00",
@@ -1002,7 +1014,7 @@
 "Innenstadt",
 "Winterdorf"
 ],
-"description": "Das Hüttendorf in der Innenstadt hat Mo–Sa 11–23 Uhr und So 12–23 Uhr geöffnet und bietet ein wechselndes Programm mit Live-Musik und DJ-Abenden; das Programm für November und Dezember ist noch in Vorbereitung.",
+"description": "Das Hüttendorf in der Innenstadt hat bis 31. Dezember Mo–Sa 11–23 Uhr und So 12–23 Uhr geöffnet (Heiligabend 11–14 Uhr, Weihnachtsfeiertage 13–23 Uhr, Silvester 11–14 Uhr und ab 20 Uhr); dazu gibt es ein wechselndes Abendprogramm mit DJ-Abenden und Live-Musik. Der Eintritt ist frei.",
 "price": "frei",
 "url": "https://winterdorf-bayreuth.de/veranstaltungen/",
 "sources": [
@@ -1028,7 +1040,7 @@
 "Charts",
 "Eintritt frei"
 ],
-"description": "Regelmäßige DJ-Abende zwischen den Hütten, meist mit Dorf-DJ Maze: dienstags Mixed Music, mittwochs House und Hits (21.10. mit DJ SO.INK), freitags „Dorf-Fest“ mit Schlagern und Klassikern (16. und 23.10.), samstags „Dorf-Gaudi“ mit Après-Ski-Stimmung (17. und 24.10.). Weitere Termine laut Programm.",
+"description": "DJ-Abende zwischen den Hütten, jeweils 18 bis 23 Uhr, meist mit Dorf-DJ Maze: dienstags „Dorf-Dienstag“ mit gemischter Musik (laut Veranstalterkalender wöchentlich bis 29.12.), freitags „Dorf-Fest“ mit Schlagern und Hits, samstags „Dorf-Gaudi“ mit Après-Ski-Musik; einzelne Mittwoche mit Gast-DJs (25.11. DJ SO.INK). Das Winterdorf veröffentlicht die Einzeltermine nur etwa zwei Wochen im Voraus.",
 "price": "Eintritt frei",
 "url": "https://winterdorf-bayreuth.de/veranstaltungen/",
 "sources": [
@@ -1308,7 +1320,7 @@
 {
 "title": "Wagner-Wochenende: Leben und Werk",
 "subtitle": "Leben und Werk in acht Vorträgen mit Dr. Sven Friedrich",
-"date": "2026-11-14",
+"date": "2026-11-15",
 "end_date": "2026-11-15",
 "time": "10:00",
 "venue": "Richard Wagner Museum – Saal in Haus Wahnfried, Richard-Wagner-Straße 48",
@@ -1329,28 +1341,8 @@
 "Volkshochschule Bayreuth"
 ],
 "house": "Richard Wagner Museum",
-"id": "d088a3a99e",
+"id": "a3d48c503c",
 "termine": [
-{
-"date": "2026-11-14",
-"time": "10:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "12:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "17:00",
-"hinweis": null
-},
 {
 "date": "2026-11-15",
 "time": "10:00",
@@ -1369,217 +1361,6 @@
 {
 "date": "2026-11-15",
 "time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Historischer Stadtrundgang",
-"subtitle": null,
-"date": "2026-11-14",
-"end_date": "2026-12-28",
-"time": "10:30",
-"venue": "Tourist-Information Bayreuth, Opernstraße 22",
-"organizer": "Bayreuth Marketing & Tourismus",
-"category": "Führung",
-"tags": [
-"Stadtführung",
-"Stadtgeschichte",
-"Altstadt"
-],
-"description": "Zweistündiger Rundgang durch die Innenstadt zu den wichtigsten Stationen der Stadtgeschichte. Im Oktober täglich 10:30 Uhr, freitags bis sonntags zusätzlich 14:00 Uhr; ab November samstags 10:30 Uhr (vom 23.11. bis 23.12. als Weihnachtlicher Stadtrundgang täglich).",
-"price": "12 €, Schüler/Studierende 6 €",
-"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/historischer-stadtrundgang/",
-"sources": [
-"Bayreuth Marketing & Tourismus",
-"Bayreuth Tourismus"
-],
-"house": "Stadtführungen",
-"id": "6879229290",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-12-26",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-12-27",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "10:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Alles unter Dach und Fach(werk)",
-"subtitle": "Technikführung",
-"date": "2026-11-14",
-"end_date": null,
-"time": "10:30",
-"venue": "Markgräfliches Opernhaus",
-"organizer": "Schloss- und Gartenverwaltung Bayreuth-Eremitage",
-"category": "Führung",
-"tags": [
-"Bühnentechnik",
-"Welterbe",
-"Dachstuhl",
-"Bautechnik",
-"Opernhaus"
-],
-"description": "Führung zur modernen Bühnen-, Sicherheits- und Klimatechnik im historischen Opernhaus.",
-"price": "3–13 €",
-"url": "https://www.bayreuth-wilhelmine.de/deutsch/aktuell/fuehr.asp",
-"sources": [
-"Schlösserverwaltung Bayreuth",
-"Bayerische Schlösserverwaltung – Bayreuth-Wilhelmine (Führungen)",
-"Bayerische Schlösserverwaltung (Bayreuth-Eremitage)"
-],
-"house": "Markgräfliches Opernhaus",
-"id": "8277a9a67b"
-},
-{
-"title": "Vorlesestunden für Kinder ab 4 Jahren",
-"subtitle": null,
-"date": "2026-11-14",
-"end_date": "2026-11-28",
-"time": "11:00",
-"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Kinder & Familie",
-"tags": [
-"Vorlesen",
-"Kinder ab 4",
-"Bibliothek"
-],
-"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
-"price": "frei",
-"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "b2255abfc3",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "11:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Oberfränkische Nachwuchskonzerte",
-"subtitle": "Junge Musikerinnen und Musiker, Leitung Lisa Wellisch; 14.11. Jubiläumskonzert",
-"date": "2026-11-14",
-"end_date": "2026-12-12",
-"time": "11:00",
-"venue": "Steingraeber-Haus – Kammermusiksaal, Friedrichstraße 2",
-"organizer": "Steingraeber & Söhne",
-"category": "Klassik",
-"tags": [
-"Nachwuchs",
-"Matinee",
-"Kammermusik"
-],
-"description": "Junge Musikerinnen und Musiker aus Oberfranken spielen in der Matineereihe im Steingraeber-Haus; am 14.11. als Jubiläumskonzert (Eintritt frei).",
-"price": "Eintritt frei",
-"url": "https://www.steingraeber.de/veranstaltungen/oberfraenkische-nachwuchskonzerte-junge-musikerinnen-im-steingraeber-haus-leitung-lisa-wellisch-3/",
-"sources": [
-"Steingraeber & Söhne",
-"Steingraeber",
-"Steingraeber Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Steingraeber Haus",
-"id": "3b38b5c4a6",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "11:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Festtagsspaß mit Peppa – Das Kinoerlebnis",
-"subtitle": null,
-"date": "2026-11-14",
-"end_date": "2026-11-22",
-"time": "13:45",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Kinderkino",
-"Peppa Wutz",
-"Advent"
-],
-"description": "Kinoprogramm mit festlichen Peppa-Wutz-Geschichten für die Kleinsten; Vorstellungen am 14., 15., 21. und 22. November, jeweils 13:45 Uhr.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "8b5291d6ce",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "13:45",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "13:45",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "13:45",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "13:45",
 "hinweis": null
 }
 ]
@@ -1587,9 +1368,9 @@
 {
 "title": "Kreuzfahrt im Schweinestall",
 "subtitle": "Komödie von Carsten Lögering",
-"date": "2026-11-14",
+"date": "2026-11-15",
 "end_date": "2026-11-15",
-"time": "14:30",
+"time": "10:00",
 "venue": "Friedrichsforum – Kleiner Saal",
 "organizer": "Heimat- und Volkstrachtenverein Alt-Bayreuth e.V.",
 "category": "Theater",
@@ -1605,18 +1386,8 @@
 "Friedrichsforum"
 ],
 "house": "Friedrichsforum",
-"id": "9fe5a6e445",
+"id": "480ba70511",
 "termine": [
-{
-"date": "2026-11-14",
-"time": "14:30",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "19:00",
-"hinweis": null
-},
 {
 "date": "2026-11-15",
 "time": "10:00",
@@ -1628,657 +1399,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Bayreuther Katakomben – Führung",
-"subtitle": "Die Stadt unter der Stadt",
-"date": "2026-11-14",
-"end_date": "2027-01-09",
-"time": "16:00",
-"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
-"organizer": "Maisel & Friends",
-"category": "Führung",
-"tags": [
-"Felsenkeller",
-"Stadtgeschichte",
-"Biergeschichte",
-"Untergrund"
-],
-"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
-"price": null,
-"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-04",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-13",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-18",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-19",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-20",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-26",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-27",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2027-01-01",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2027-01-02",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2027-01-03",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2027-01-08",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2027-01-09",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Maisel & Friends"
-],
-"house": "Liebesbier",
-"id": "72d59b1292"
-},
-{
-"title": "Kino ist Programm: Programmkino-Wochenende November",
-"subtitle": "Lügen über meine Mutter, Call Me Queen, Watching People Watching Birds, Hirten",
-"date": "2026-11-14",
-"end_date": "2026-11-15",
-"time": "16:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Kino ist Programm",
-"category": "Film",
-"tags": [
-"Programmkino",
-"Arthouse",
-"Filmverein"
-],
-"description": "Programmkino-Wochenende von Kino ist Programm mit vier Filmen, jeweils mit Vorfilm: „Lügen über meine Mutter“ (Sa 16:30), „Call Me Queen“ (OmU, Sa 19:00), „Watching People Watching Birds“ (OmU, So 16:00) und „Hirten – mit 827 Schafen in der Provence“ (OmU, So 18:30).",
-"price": "7 €, Kinder 4 €",
-"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
-"sources": [
-"Kino ist Programm",
-"Kino ist Programm e. V."
-],
-"house": "Neuneinhalb",
-"id": "9478f38d7f",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "16:30",
-"hinweis": "Lügen über meine Mutter"
-},
-{
-"date": "2026-11-14",
-"time": "19:00",
-"hinweis": "Call Me Queen (OmU)"
-},
-{
-"date": "2026-11-15",
-"time": "16:00",
-"hinweis": "Watching People Watching Birds (OmU)"
-},
-{
-"date": "2026-11-15",
-"time": "18:30",
-"hinweis": "Hirten – mit 827 Schafen in der Provence (OmU)"
-}
-]
-},
-{
-"title": "Benefizkonzert des Rotaract Clubs Bayreuth",
-"subtitle": "zugunsten des Kinderschutzbunds Bayreuth",
-"date": "2026-11-14",
-"end_date": null,
-"time": "18:00",
-"venue": "Katholische Schlosskirche Bayreuth",
-"organizer": "Rotaract Club Bayreuth",
-"category": "Klassik",
-"tags": [
-"Benefiz",
-"Solistenkonzert",
-"Tango",
-"Minimal Music"
-],
-"description": "Solistische Beiträge von Klassik und Romantik über argentinischen Tango bis zur Minimal Music des 20. Jahrhunderts; der Erlös geht an den Kinderschutzbund Bayreuth. Ende gegen 19:30 Uhr.",
-"price": "10 €, Schüler/Azubis/Studierende frei",
-"url": "https://pretix.rotaract.de/bayreuth/Benefizkonzert/",
-"termine": null,
-"sources": [
-"Rotaract Club Bayreuth"
-],
-"house": "Kirchen",
-"id": "d71c9bce19"
-},
-{
-"title": "Fuego – Latin Night",
-"subtitle": "Tanzkurs, freies Tanzen und Latin Party",
-"date": "2026-11-14",
-"end_date": null,
-"time": "18:00",
-"venue": "Friedrichsforum – Balkonsaal",
-"organizer": "Friedrichsforum",
-"category": "Club & Party",
-"tags": [
-"Latin",
-"Salsa",
-"Tanzen",
-"Party"
-],
-"description": "Lateinamerikanischer Tanzabend: um 18 Uhr ein Einsteiger-Tanzkurs, ab 20 Uhr freies Tanzen und ab 22 Uhr Party mit DJs (Salsa, Bachata, Merengue, Reggaeton). Vorkenntnisse sind nicht nötig.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261114-fuego-latin-night",
-"sources": [
-"Friedrichsforum"
-],
-"house": "Friedrichsforum",
-"id": "008bb68126"
-},
-{
-"title": "Bayreuther Jazz-November 2026",
-"subtitle": "Festival des Jazzforums",
-"date": "2026-11-14",
-"end_date": "2026-11-15",
-"time": "19:00",
-"venue": "Bechersaal, Neuneinhalb, Das Zentrum, Glashaus",
-"organizer": "Jazzforum Bayreuth",
-"category": "Festival",
-"tags": [
-"Jazz",
-"Festival",
-"international"
-],
-"description": "Viertägiges Jazzfestival an mehreren Spielorten der Stadt.",
-"price": null,
-"url": "https://www.jazz-bayreuth.de/jazz-november/",
-"sources": [
-"Jazzforum Bayreuth"
-],
-"house": "Das Zentrum",
-"id": "9ddd7eef51",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-14",
-"time": "21:30",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "19:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Bayreuther Jazz-November 2026: Stemeseder Lillinger Quartet",
-"subtitle": "feat. Peter Evans and Nick Joz",
-"date": "2026-11-14",
-"end_date": null,
-"time": "19:00",
-"venue": "Bechersaal",
-"organizer": "Jazzforum Bayreuth",
-"category": "Festival",
-"tags": [
-"Jazz-November",
-"Avantgarde"
-],
-"description": "Pianist Elias Stemeseder und Schlagzeuger Christian Lillinger mit dem Trompeter Peter Evans – zeitgenössischer Jazz an der Grenze zur Improvisation.",
-"price": "22–30 €",
-"url": "https://www.jazz-bayreuth.de/konzerte/stemeseder-lillinger-quartet-feat-peter-evans-and-nick-joz/",
-"sources": [
-"Jazzforum Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Becher Bräu",
-"id": "66d8b0713c"
-},
-{
-"title": "Jeeps",
-"subtitle": "Komödie von Nora Abdel-Maksoud",
-"date": "2026-11-14",
-"end_date": "2026-12-28",
-"time": "20:00",
-"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth",
-"category": "Theater",
-"tags": [
-"Komödie",
-"Erbschaft",
-"Gegenwartsdramatik",
-"Studiobühne"
-],
-"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
-"price": null,
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
-"sources": [
-"Studiobühne Bayreuth",
-"Studiobühne (tickets4arts)",
-"Bayreuther Tagblatt / bayreuth4U"
-],
-"house": "Studiobühne",
-"id": "46da99120f",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-15",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "20:00",
-"hinweis": "Letzte Vorstellung"
-}
-]
-},
-{
-"title": "Cabaret",
-"subtitle": null,
-"date": "2026-11-14",
-"end_date": "2027-01-03",
-"time": "20:00",
-"venue": "Kulturbühne Reichshof – Großer Saal",
-"organizer": "die naturbühne gGmbH",
-"category": "Oper & Musiktheater",
-"tags": [
-"Musical",
-"Kander/Ebb",
-"Berlin 1930er"
-],
-"description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre.",
-"price": "15–45 €",
-"url": "https://dienaturbuehne.de/produkt/cabaret-2026-11-06/",
-"sources": [
-"die naturbühne",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Kulturbühne Reichshof",
-"id": "2af5e95b16",
-"termine": [
-{
-"date": "2026-11-14",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-06",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-13",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-29",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-31",
-"time": "18:00",
-"hinweis": null
-},
-{
-"date": "2027-01-03",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "League of Legends Worlds 2026 – Finals in Cinema",
-"subtitle": "E-Sport-Übertragung",
-"date": "2026-11-14",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Games",
-"tags": [
-"E-Sport",
-"League of Legends",
-"Live",
-"Live-Übertragung",
-"Liveübertragung"
-],
-"description": "Live-Übertragung des Finales der League-of-Legends-Weltmeisterschaft.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "81d3072f7c"
-},
-{
-"title": "Quichotte: Guter Dinge",
-"subtitle": "Guter Dinge",
-"date": "2026-11-14",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM – Kleinkunstbühne",
-"organizer": "motion kommunikation",
-"category": "Kabarett & Comedy",
-"tags": [
-"Poetry",
-"Comedy",
-"Rap",
-"Kabarett",
-"Stand-up"
-],
-"description": "Programm des Wortkünstlers Quichotte.",
-"price": "27,80 €",
-"url": "https://www.das-zentrum.de/veranstaltung/quichotte-guter-dinge/",
-"sources": [
-"motion kommunikation",
-"motion Kommunikation",
-"Motion Kommunikation"
-],
-"house": "Das Zentrum",
-"id": "9450c632a4"
-},
-{
-"title": "NightWash – Comedy at its best",
-"subtitle": "Comedy At Its Best",
-"date": "2026-11-14",
-"end_date": null,
-"time": "20:00",
-"venue": "DAS ZENTRUM – Europasaal",
-"organizer": "Agentur Streckenbach",
-"category": "Kabarett & Comedy",
-"tags": [
-"Stand-up",
-"Mixed Show",
-"Comedy"
-],
-"description": "Stand-up-Mixed-Show mit mehreren Comedians.",
-"price": "32,50 € (ausverkauft)",
-"url": "https://www.das-zentrum.de/veranstaltung/nightwash-comedy-at-its-best/",
-"sources": [
-"Agentur Streckenbach",
-"NightWash"
-],
-"house": "Das Zentrum",
-"id": "adb3005c55"
-},
-{
-"title": "Ü40 Party Night",
-"subtitle": null,
-"date": "2026-11-14",
-"end_date": null,
-"time": "21:00",
-"venue": "Tanzbar, Bernecker Straße 79",
-"organizer": null,
-"category": "Club & Party",
-"tags": [
-"Party",
-"Ü40"
-],
-"description": "Partyabend in der Tanzbar für ein Publikum ab 40.",
-"price": null,
-"url": "https://www.tanzbar-bayreuth.de/veranstaltungen/",
-"termine": null,
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "a1f2b1a32f"
-},
-{
-"title": "Solaire",
-"subtitle": "Jazz-November – Late Night",
-"date": "2026-11-14",
-"end_date": null,
-"time": "21:30",
-"venue": "Glashaus",
-"organizer": "Jazzforum Bayreuth",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Jazz",
-"Konzert",
-"Jazz-November",
-"Glashaus",
-"Late Night"
-],
-"description": "Spätkonzert des Jazz-Novembers im Glashaus.",
-"price": "5–15 €",
-"url": "https://www.jazz-bayreuth.de/konzerte/solaire/",
-"sources": [
-"Jazzforum Bayreuth",
-"Jazzforum Bayreuth / Glashaus e.V.",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "19c1d67528"
-},
-{
-"title": "Apache Double Live on Stage",
-"subtitle": null,
-"date": "2026-11-14",
-"end_date": null,
-"time": "22:00",
-"venue": "Club Frisco, Bamberger Straße 27",
-"organizer": "Club Frisco",
-"category": "Club & Party",
-"tags": [
-"Deutschrap",
-"Double-Show"
-],
-"description": "Tribute- und Double-Show mit Songs von Apache 207, kein Auftritt des Originalkünstlers. Einlass ab 16 Jahren mit Erziehungsbeauftragung.",
-"price": "12 €",
-"url": "https://www.eventfinder.de/veranstaltung/3310477/apache-live-on-stage-in-bayreuth-am-2026-11-14-um-22-00-uhr/",
-"sources": [
-"Hinweis: regioactive",
-"Hinweis: eventfinder",
-"Club Frisco (Tickets: eventim)",
-"Hinweis: bayreuth4U"
-],
-"house": "Clubs",
-"id": "27424532a2"
-},
-{
-"subtitle": "mit DJ C-Lane",
-"end_date": "2026-12-05",
-"time": null,
-"venue": "FABRIK Bayreuth",
-"organizer": "FABRIK Bayreuth",
-"category": "Club & Party",
-"price": null,
-"url": "https://fabrik-bayreuth.com/events",
-"termine": [
-{
-"date": "2026-11-14",
-"time": null,
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": null,
-"hinweis": null
-}
-],
-"title": "Nonstop Bangers",
-"date": "2026-11-14",
-"tags": [
-"Party",
-"DJ",
-"Clubnacht"
-],
-"description": "Clubnacht in der FABRIK, bei der DJ C-Lane bekannte Partyhits auflegt. Beginn und Eintritt sind auf der Veranstalterseite nicht angegeben.",
-"sources": [
-"FABRIK Bayreuth"
-],
-"house": "Clubs",
-"id": "02bd06c7e4"
 },
 {
 "title": "CineArt: Lügen über meine Mutter",
@@ -2339,6 +1459,46 @@
 ],
 "house": "Friedrichsforum",
 "id": "471535367d"
+},
+{
+"title": "Festtagsspaß mit Peppa – Das Kinoerlebnis",
+"subtitle": null,
+"date": "2026-11-15",
+"end_date": "2026-11-22",
+"time": "13:45",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Kinderkino",
+"Peppa Wutz",
+"Advent"
+],
+"description": "Kinoprogramm mit festlichen Peppa-Wutz-Geschichten für die Kleinsten; Vorstellungen am 14., 15., 21. und 22. November, jeweils 13:45 Uhr.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "b14bc2950c",
+"termine": [
+{
+"date": "2026-11-15",
+"time": "13:45",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "13:45",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "13:45",
+"hinweis": null
+}
+]
 },
 {
 "title": "Museumsführung im Richard Wagner Museum",
@@ -2575,6 +1735,266 @@
 ]
 },
 {
+"title": "Bayreuther Katakomben – Führung",
+"subtitle": "Die Stadt unter der Stadt",
+"date": "2026-11-15",
+"end_date": "2027-01-09",
+"time": "16:00",
+"venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
+"organizer": "Maisel & Friends",
+"category": "Führung",
+"tags": [
+"Felsenkeller",
+"Stadtgeschichte",
+"Biergeschichte",
+"Untergrund"
+],
+"description": "Rundgang durch die in den Sandstein gegrabenen Felsenkeller unter Bayreuth, die über Jahrhunderte als Bergwerk, Bierlager und im Zweiten Weltkrieg als Luftschutzraum dienten. Die öffentlichen Führungen finden freitags bis sonntags statt; Tickets gibt es online.",
+"price": null,
+"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/bayreuther-katakomben-fuehrung-1899/",
+"termine": [
+{
+"date": "2026-11-15",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-04",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-19",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-26",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-27",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-01",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-02",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Maisel & Friends"
+],
+"house": "Liebesbier",
+"id": "c784f16e6c"
+},
+{
+"title": "Kino ist Programm: Programmkino-Wochenende November",
+"subtitle": "Lügen über meine Mutter, Call Me Queen, Watching People Watching Birds, Hirten",
+"date": "2026-11-15",
+"end_date": "2026-11-15",
+"time": "16:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kino ist Programm",
+"category": "Film",
+"tags": [
+"Programmkino",
+"Arthouse",
+"Filmverein"
+],
+"description": "Programmkino-Wochenende von Kino ist Programm mit vier Filmen, jeweils mit Vorfilm: „Lügen über meine Mutter“ (Sa 16:30), „Call Me Queen“ (OmU, Sa 19:00), „Watching People Watching Birds“ (OmU, So 16:00) und „Hirten – mit 827 Schafen in der Provence“ (OmU, So 18:30).",
+"price": "7 €, Kinder 4 €",
+"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
+"sources": [
+"Kino ist Programm",
+"Kino ist Programm e. V."
+],
+"house": "Neuneinhalb",
+"id": "069e10156a",
+"termine": [
+{
+"date": "2026-11-15",
+"time": "16:00",
+"hinweis": "Watching People Watching Birds (OmU)"
+},
+{
+"date": "2026-11-15",
+"time": "18:30",
+"hinweis": "Hirten – mit 827 Schafen in der Provence (OmU)"
+}
+]
+},
+{
+"title": "Jeeps",
+"subtitle": "Komödie von Nora Abdel-Maksoud",
+"date": "2026-11-15",
+"end_date": "2026-12-28",
+"time": "17:00",
+"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth",
+"category": "Theater",
+"tags": [
+"Komödie",
+"Erbschaft",
+"Gegenwartsdramatik",
+"Studiobühne"
+],
+"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
+"price": null,
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
+"sources": [
+"Studiobühne Bayreuth",
+"Studiobühne (tickets4arts)",
+"Bayreuther Tagblatt / bayreuth4U"
+],
+"house": "Studiobühne",
+"id": "a8cdd18d76",
+"termine": [
+{
+"date": "2026-11-15",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-11-17",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-20",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "20:00",
+"hinweis": "Letzte Vorstellung"
+}
+]
+},
+{
 "title": "Die Jahreszeiten",
 "subtitle": "Konzert des Philharmonischen Chors Bayreuth",
 "date": "2026-11-15",
@@ -2624,6 +2044,29 @@
 ],
 "house": "Kino",
 "id": "4e6127ff77"
+},
+{
+"title": "Bayreuther Jazz-November 2026",
+"subtitle": "Festival des Jazzforums",
+"date": "2026-11-15",
+"end_date": null,
+"time": "19:30",
+"venue": "Bechersaal, Neuneinhalb, Das Zentrum, Glashaus",
+"organizer": "Jazzforum Bayreuth",
+"category": "Festival",
+"tags": [
+"Jazz",
+"Festival",
+"international"
+],
+"description": "Viertägiges Jazzfestival an mehreren Spielorten der Stadt.",
+"price": null,
+"url": "https://www.jazz-bayreuth.de/jazz-november/",
+"sources": [
+"Jazzforum Bayreuth"
+],
+"house": "Das Zentrum",
+"id": "215278ab20"
 },
 {
 "title": "Matthieu Saglio Quartet",
@@ -2881,10 +2324,9 @@
 "Schreiben",
 "Schreibgruppe",
 "offen",
-"Schreibwerkstatt",
-"Workshop"
+"Schreibwerkstatt"
 ],
-"description": "Offener Schreibkreis für alle Erfahrungsstufen, die sich einen Abend Zeit für eigene Texte nehmen möchten; Einlass 19 Uhr, Beginn 19:15 Uhr. Termine: Mi 28.10. und Mo 16.11. Eintritt frei.",
+"description": "Offener Schreibkreis für Anfänger und erfahrene Schreibende: Austausch über eigene Texte und Projekte, für Teilnehmende ohne eigenes Vorhaben gibt es eine kleine Aufgabe. Einlass 19 Uhr, Beginn 19:15 Uhr, Eintritt frei.",
 "price": "frei",
 "url": "https://www.neuneinhalb.org/veranstaltungen/schreibkreis-thoughts-to-page-8/edate/2026-11-16",
 "sources": [
@@ -2920,6 +2362,29 @@
 ],
 "house": "Kino",
 "id": "cc4dd7f0dd"
+},
+{
+"title": "Die »Schönsten Deutschen Bücher« 2026",
+"subtitle": "Ausstellung der Stiftung Buchkunst",
+"date": "2026-11-17",
+"end_date": "2026-12-17",
+"time": "10:00",
+"venue": "RW21 Stadtbibliothek – Galerie (1. OG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek mit der Stiftung Buchkunst",
+"category": "Ausstellung",
+"tags": [
+"Buchgestaltung",
+"Typografie",
+"Buchkunst"
+],
+"description": "Gezeigt werden die 25 von der Stiftung Buchkunst prämierten, am besten gestalteten Bücher des Jahres aus fünf Kategorien von Belletristik bis Kinderbuch. Zu den Öffnungszeiten der Bibliothek.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/ausstellung-schoensten-deutschen-buecher-2026-bayreuth-95444-q1b2ya",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "d195e686bf"
 },
 {
 "title": "Kuratorenführung im Richard Wagner Museum",
@@ -3403,7 +2868,7 @@
 "title": "Drei Nüsse für Aschenbrödel",
 "subtitle": null,
 "date": "2026-11-18",
-"end_date": "2027-01-06",
+"end_date": "2027-01-09",
 "time": "15:00",
 "venue": "Kulturbühne Reichshof – Großer Saal",
 "organizer": "die naturbühne gGmbH",
@@ -3426,7 +2891,7 @@
 {
 "date": "2026-11-18",
 "time": "15:00",
-"hinweis": "Premiere"
+"hinweis": null
 },
 {
 "date": "2026-11-29",
@@ -3471,6 +2936,56 @@
 {
 "date": "2027-01-06",
 "time": "15:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "15:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Vorlesestunden für Kinder ab 4 Jahren",
+"subtitle": null,
+"date": "2026-11-18",
+"end_date": "2026-11-28",
+"time": "16:00",
+"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Kinder ab 4",
+"Bibliothek"
+],
+"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten in der Kinderbibliothek, mittwochs um 16 Uhr und samstags um 11 Uhr, für Kinder ab 4 Jahren; ohne Anmeldung.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/vorlesestunden-kinder-4-jahren-bayreuth-95444-ri7epx",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "15f6b7c5ab",
+"termine": [
+{
+"date": "2026-11-18",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-28",
+"time": "11:00",
 "hinweis": null
 }
 ]
@@ -4364,6 +3879,52 @@
 ],
 "house": "Clubs",
 "id": "7de3ae1848"
+},
+{
+"title": "Historischer Stadtrundgang",
+"subtitle": null,
+"date": "2026-11-21",
+"end_date": "2026-12-28",
+"time": "10:30",
+"venue": "Tourist-Information Bayreuth, Opernstraße 22",
+"organizer": "Bayreuth Marketing & Tourismus",
+"category": "Führung",
+"tags": [
+"Stadtführung",
+"Stadtgeschichte",
+"Altstadt"
+],
+"description": "Zweistündiger Rundgang durch die Innenstadt zu den wichtigsten Stationen der Stadtgeschichte. Im Oktober täglich 10:30 Uhr, freitags bis sonntags zusätzlich 14:00 Uhr; ab November samstags 10:30 Uhr (vom 23.11. bis 23.12. als Weihnachtlicher Stadtrundgang täglich).",
+"price": "12 €, Schüler/Studierende 6 €",
+"url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/historischer-stadtrundgang/",
+"sources": [
+"Bayreuth Marketing & Tourismus",
+"Bayreuth Tourismus"
+],
+"house": "Stadtführungen",
+"id": "c19eac74c5",
+"termine": [
+{
+"date": "2026-11-21",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2026-12-26",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2026-12-27",
+"time": "10:30",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "10:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Jahreskonzert des Ersten Harmonika-Clubs Bayreuth",
@@ -5426,29 +4987,6 @@
 "id": "fd7fe214e7"
 },
 {
-"title": "Die »Schönsten Deutschen Bücher« 2026",
-"subtitle": "Ausstellung der Stiftung Buchkunst",
-"date": "2026-11-24",
-"end_date": "2026-12-17",
-"time": "10:00",
-"venue": "RW21 Stadtbibliothek – Galerie (1. OG), Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek mit der Stiftung Buchkunst",
-"category": "Ausstellung",
-"tags": [
-"Buchgestaltung",
-"Typografie",
-"Buchkunst"
-],
-"description": "Gezeigt werden die 25 von der Stiftung Buchkunst prämierten, am besten gestalteten Bücher des Jahres aus fünf Kategorien von Belletristik bis Kinderbuch. Zu den Öffnungszeiten der Bibliothek.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/ausstellung-schoensten-deutschen-buecher-2026-bayreuth-95444-q1b2ya",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "1d57fca671"
-},
-{
 "subtitle": "Raffael Beier, Ph.D. (TU Dortmund)",
 "end_date": null,
 "time": "16:00",
@@ -6154,7 +5692,7 @@
 "title": "Nachts im Museum",
 "subtitle": "Taschenlampenführung ab 14 Jahren",
 "date": "2026-11-27",
-"end_date": null,
+"end_date": "2027-01-14",
 "time": "18:00",
 "venue": "Historisches Museum Bayreuth, Kirchplatz 4",
 "organizer": "Historisches Museum Bayreuth",
@@ -6175,7 +5713,19 @@
 "Historisches Museum Bayreuth / Bayreuth Marketing & Tourismus (Führungsprogramm 2026)"
 ],
 "house": "Historisches Museum",
-"id": "9c5908a0f8"
+"id": "9c5908a0f8",
+"termine": [
+{
+"date": "2026-11-27",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2027-01-14",
+"time": "18:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Adventssingen der Gruppe Luther",
@@ -6810,6 +6360,82 @@
 "id": "0813c6ff75"
 },
 {
+"title": "Cabaret",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": "2027-01-15",
+"time": "20:00",
+"venue": "Kulturbühne Reichshof – Großer Saal",
+"organizer": "die naturbühne gGmbH",
+"category": "Oper & Musiktheater",
+"tags": [
+"Musical",
+"Kander/Ebb",
+"Berlin 1930er"
+],
+"description": "Die naturbühne spielt das Musical über Sally Bowles und den Kit Kat Klub im Berlin der frühen 1930er Jahre.",
+"price": "15–45 €",
+"url": "https://dienaturbuehne.de/produkt/cabaret-2026-11-06/",
+"sources": [
+"die naturbühne",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Kulturbühne Reichshof",
+"id": "b339a1870e",
+"termine": [
+{
+"date": "2026-11-28",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-06",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-13",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-29",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-31",
+"time": "18:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-15",
+"time": "20:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Dance Masters! Best of Irish Dance",
 "subtitle": null,
 "date": "2026-11-28",
@@ -7138,7 +6764,7 @@
 ],
 "description": "128. Kabinettausstellung des Kunstvereins; Eröffnung am Sonntag, 29. November, um 11 Uhr.",
 "price": null,
-"url": "https://kunstverein-bayreuth.de/sample-page/veranstaltungskalender-2026/",
+"url": "https://kunstverein-bayreuth.de/johannes-schreiber/",
 "sources": [
 "Kunstverein Bayreuth"
 ],
@@ -7718,6 +7344,30 @@
 "id": "2d39b2cb4b"
 },
 {
+"title": "Mensch ist Mensch – Ich zeige dir, wer ich wirklich bin",
+"subtitle": "Inklusives Fotoprojekt des BegegnungsCampus Immenreuth",
+"date": "2026-12-01",
+"end_date": "2027-01-28",
+"time": null,
+"venue": "RW21 Stadtbibliothek – Galerie (1. OG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek mit dem BegegnungsCampus Immenreuth",
+"category": "Ausstellung",
+"tags": [
+"Fotografie",
+"Porträt",
+"Inklusion"
+],
+"description": "Wanderausstellung mit Porträts von Menschen mit Beeinträchtigungen und Menschen mit Ausgrenzungserfahrungen, jeweils ergänzt um ihre persönliche Geschichte. Zu sehen zu den Öffnungszeiten der Bibliothek.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/mensch-zeige-dir-bayreuth-95444-ouzx3q",
+"termine": null,
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "b4774085bb"
+},
+{
 "title": "Chor „Frieden“ – Lebenswerk der Diakonie Bayreuth",
 "subtitle": null,
 "date": "2026-12-02",
@@ -7997,7 +7647,7 @@
 "id": "3600cb1474"
 },
 {
-"title": "Advents- und Weihnachtsgeschichten – Integrativer Montessori Kindergarten",
+"title": "Weihnachtsklänge und Schneeflockenzauber – Integrativer Montessori Kindergarten",
 "subtitle": null,
 "date": "2026-12-03",
 "end_date": null,
@@ -8010,14 +7660,14 @@
 "Geschichten",
 "Christkindlesmarkt"
 ],
-"description": "Kinder des Integrativen Montessori Kindergartens Bayreuth präsentieren Advents- und Weihnachtsgeschichten.",
+"description": "Kinder des Integrativen Montessori Kindergartens präsentieren Advents- und Weihnachtsgeschichten und singen Weihnachtslieder.",
 "price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/advents-weihnachtsgeschichten-integrativer-montessori-kindergarten-bayreuth-95444-egauzd",
+"url": "https://region-bayreuth.de/veranstaltung/weihnachtsklaenge-schneeflockenzauber-montessori-kindergarten-bayreuth-95444-egauzd",
 "sources": [
 "Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)"
 ],
 "house": "Weitere Orte",
-"id": "d8c4d89faa"
+"id": "2d81a1875b"
 },
 {
 "title": "Wiesenttaler Blechbläser",
@@ -8048,16 +7698,36 @@
 "hinweis": null
 },
 {
-"date": "2026-12-10",
-"time": "18:00",
-"hinweis": null
-},
-{
 "date": "2026-12-22",
 "time": "18:00",
 "hinweis": null
 }
 ]
+},
+{
+"title": "GERMAFIA – Lesung und Gespräch mit Sandro Mattioli",
+"subtitle": "Die italienische Mafia in Deutschland",
+"date": "2026-12-03",
+"end_date": null,
+"time": "18:30",
+"venue": "Universität Bayreuth – GWI, Universitätsstraße 30",
+"organizer": "Sprachenzentrum der Universität Bayreuth",
+"category": "Literatur",
+"tags": [
+"Lesung",
+"Mafia",
+"Sachbuch",
+"Italien"
+],
+"description": "Der Journalist Sandro Mattioli liest aus seinem Buch über Netzwerke und Einfluss der italienischen Mafia in Deutschland; im anschließenden Gespräch geht es auch um den Umgang mit organisierter Kriminalität in Italien und Deutschland.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/germafia-lesung-gespraech-sandro-mattioli-bayreuth-95447-5msfo7",
+"termine": null,
+"sources": [
+"Sprachenzentrum Universität Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Universität",
+"id": "ace16b6b72"
 },
 {
 "title": "Kuratorenführung im Historischen Museum",
@@ -8192,6 +7862,30 @@
 ],
 "house": "Schlösser & Eremitage",
 "id": "23f5154256"
+},
+{
+"title": "Zwangsarbeiter – die ersten Opfer des Kalten Krieges",
+"subtitle": "Vortrag von Bärbel Bauerschäfer",
+"date": "2026-12-04",
+"end_date": null,
+"time": "17:00",
+"venue": "Bundesarchiv – Lastenausgleichsarchiv, Dr.-Franz-Straße 1",
+"organizer": "Bundesarchiv",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Geschichte",
+"Zwangsarbeit",
+"Archiv"
+],
+"description": "Die Archivarin Bärbel Bauerschäfer zeichnet nach, wie schwer es für ehemalige ausländische Zwangsarbeiterinnen und Zwangsarbeiter war, Rehabilitation und Entschädigung zu erlangen.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/zwangsarbeiter-ersten-opfer-kalten-krieges-bayreuth-95445-zjb94v",
+"termine": null,
+"sources": [
+"Bundesarchiv (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "1398736e56"
 },
 {
 "title": "Posaunenchor Warmensteinach",
@@ -8437,6 +8131,55 @@
 ],
 "house": "Weitere Orte",
 "id": "bb2a3ce8b7"
+},
+{
+"title": "Budenzauber mit Puderzucker",
+"subtitle": "Orgelkonzert für die ganze Familie",
+"date": "2026-12-05",
+"end_date": null,
+"time": "11:00",
+"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": "Kirchenmusik an der Stadtkirche Bayreuth",
+"category": "Kinder & Familie",
+"tags": [
+"Orgel",
+"Familienkonzert",
+"Märchen",
+"Advent"
+],
+"description": "Pfarrer Carsten Brall erzählt das Weihnachtsmärchen von Simone Pepping, KMD Michael Dorn spielt dazu Orgelmusik von Andreas Schmidt; etwa 45 Minuten im Rahmen des Advents im Gassenviertel.",
+"price": "Eintritt frei",
+"url": "https://www.stadtkirche-bayreuth.de/musik-kultur-bildung/kirchenmusik/konzerte/",
+"termine": null,
+"sources": [
+"Kirchenmusik an der Stadtkirche Bayreuth"
+],
+"house": "Kirchen",
+"id": "c978dea535"
+},
+{
+"title": "Vorlesestunde mit dem Nikolaus",
+"subtitle": null,
+"date": "2026-12-05",
+"end_date": null,
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Nikolaus",
+"Kinder"
+],
+"description": "Der Nikolaus liest in der Stadtbibliothek eine Geschichte vor und bringt für jedes Kind eine kleine Überraschung mit; ohne Anmeldung.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/vorlesestunde-nikolaus-bayreuth-95444-1zthx2",
+"termine": null,
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "d0527ccd31"
 },
 {
 "title": "Weihnachtliches Basteln mit dem Stadtjugendring Bayreuth",
@@ -8914,6 +8657,29 @@
 "id": "56b9a5531f"
 },
 {
+"subtitle": "mit DJ C-Lane",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"title": "Nonstop Bangers",
+"date": "2026-12-05",
+"tags": [
+"Party",
+"DJ",
+"Clubnacht"
+],
+"description": "Clubnacht in der FABRIK, bei der DJ C-Lane bekannte Partyhits auflegt. Beginn und Eintritt sind auf der Veranstalterseite nicht angegeben.",
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "a1b9875edc"
+},
+{
 "title": "Kino ist Programm: Programmkino-Wochenende Dezember",
 "subtitle": null,
 "date": "2026-12-05",
@@ -8929,7 +8695,7 @@
 ],
 "description": "Vorgemerkte Programmkinotage; Filmauswahl und Zeiten werden noch bekanntgegeben.",
 "price": "7 €, Kinder 4 €",
-"url": "https://www.kino-ist-programm.de/aktuelles-programm.html",
+"url": "https://kino-ist-programm.de/termine-zum-vormerken/",
 "sources": [
 "Kino ist Programm",
 "Kino ist Programm e. V."
@@ -9055,6 +8821,31 @@
 ],
 "house": "Kirchen",
 "id": "20aa312d47"
+},
+{
+"title": "Bob Chilcott: A Christmas Oratorio",
+"subtitle": "Stadtkantorei Bayreuth und Kantorei St. Bartholomäus Pegnitz",
+"date": "2026-12-06",
+"end_date": null,
+"time": "19:00",
+"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": "Kirchenmusik an der Stadtkirche Bayreuth",
+"category": "Klassik",
+"tags": [
+"Chor",
+"Oratorium",
+"Weihnachten",
+"Blechbläser"
+],
+"description": "Zwei Kantoreien führen am 2. Advent das zeitgenössische Weihnachtsoratorium des Engländers Bob Chilcott auf, mit Vokal- und Instrumentalsolisten und dem Ensemble Terzo Brass; Leitung KMD Michael Dorn.",
+"price": "10–20 €",
+"url": "https://www.stadtkirche-bayreuth.de/musik-kultur-bildung/kirchenmusik/konzerte/",
+"termine": null,
+"sources": [
+"Kirchenmusik an der Stadtkirche Bayreuth"
+],
+"house": "Kirchen",
+"id": "8d13b002a1"
 },
 {
 "title": "Konstantin Kölmel Project feat. Randy Brecker",
@@ -9297,7 +9088,7 @@
 "title": "Erzählcafé",
 "subtitle": null,
 "date": "2026-12-09",
-"end_date": null,
+"end_date": "2027-01-13",
 "time": "14:30",
 "venue": "RW21 Stadtbibliothek – Kreativwerkstatt (EG), Richard-Wagner-Straße 21",
 "organizer": "RW21 Stadtbibliothek",
@@ -9314,7 +9105,19 @@
 "RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
 ],
 "house": "RW21",
-"id": "a56f0cced3"
+"id": "a56f0cced3",
+"termine": [
+{
+"date": "2026-12-09",
+"time": "14:30",
+"hinweis": null
+},
+{
+"date": "2027-01-13",
+"time": "14:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Führung durch die Ausstellung „Beyond the Sweet and Obvious“",
@@ -9546,6 +9349,30 @@
 "id": "592104cd87"
 },
 {
+"title": "Dachshund",
+"subtitle": "Eurotour 2026",
+"date": "2026-12-10",
+"end_date": null,
+"time": null,
+"venue": "Schokofabrik Bayreuth, Gaußstraße 6",
+"organizer": null,
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Garage Punk",
+"Konzert",
+"Großbritannien"
+],
+"description": "Die Garage-Punk-Band aus Manchester stellt auf ihrer Europatour ihre im September erschienene EP „Dog Eat Dog“ vor. Uhrzeit und Eintritt sind noch nicht veröffentlicht.",
+"price": null,
+"url": "https://www.wildwaxshows.com/artist/dachshund-uk/",
+"termine": null,
+"sources": [
+"Wild Wax Shows (Tourbooking)"
+],
+"house": "Clubs",
+"id": "b4589fb342"
+},
+{
 "title": "Mobile Kinderkerzenwerkstatt",
 "subtitle": null,
 "date": "2026-12-11",
@@ -9602,11 +9429,11 @@
 "category": "Kinder & Familie",
 "tags": [
 "Puppentheater",
-"Kinder",
-"Kasperl"
+"Kinder ab 3",
+"Weihnachten"
 ],
-"description": "Puppentheater-Vorstellung der Fröhlichen Kinderbühne in der Black Box der Stadtbibliothek. Karten im Vorverkauf in der Stadtbibliothek und an der Tageskasse.",
-"price": "7 € (Tageskasse; Vorverkauf in der Stadtbibliothek)",
+"description": "Puppentheaterstück von Franziska Fröhlich: In der Vorweihnachtszeit muss der mürrische Nachbar Herr Murgler auf Freddie aufpassen – daraus wird eine turbulente Reise in die Fantasie. Für Kinder ab 3 Jahren, Dauer etwa 50 Minuten.",
+"price": "7 € (Vorverkauf ab 20.11. am Servicepoint der Stadtbibliothek; Tageskasse nur bei Restkarten)",
 "url": "https://www.die-froehliche-kinderbuehne.de/termine-puppentheater.html",
 "sources": [
 "Die Fröhliche Kinderbühne"
@@ -9711,6 +9538,32 @@
 ],
 "house": "Friedrichsforum",
 "id": "0ae9834845"
+},
+{
+"title": "Oberfränkische Nachwuchskonzerte",
+"subtitle": "Junge Musikerinnen und Musiker, Leitung Lisa Wellisch; 14.11. Jubiläumskonzert",
+"date": "2026-12-12",
+"end_date": null,
+"time": "11:00",
+"venue": "Steingraeber-Haus – Kammermusiksaal, Friedrichstraße 2",
+"organizer": "Steingraeber & Söhne",
+"category": "Klassik",
+"tags": [
+"Nachwuchs",
+"Matinee",
+"Kammermusik"
+],
+"description": "Junge Musikerinnen und Musiker aus Oberfranken spielen in der Matineereihe im Steingraeber-Haus; am 14.11. als Jubiläumskonzert (Eintritt frei).",
+"price": "Eintritt frei",
+"url": "https://www.steingraeber.de/veranstaltungen/oberfraenkische-nachwuchskonzerte-junge-musikerinnen-im-steingraeber-haus-leitung-lisa-wellisch-3/",
+"sources": [
+"Steingraeber & Söhne",
+"Steingraeber",
+"Steingraeber Bayreuth",
+"Stadt, Land, Leben (region-bayreuth.de)"
+],
+"house": "Steingraeber Haus",
+"id": "ee49fd5a4f"
 },
 {
 "title": "Adventsprogramm in der Lernwerkstatt: Familienbacktag",
@@ -10243,6 +10096,30 @@
 "id": "db9947cd4d"
 },
 {
+"title": "Bilderbuchkino im Dezember: Drachenstarke Weihnachtsnacht",
+"subtitle": "Für Kinder ab 4 Jahren",
+"date": "2026-12-18",
+"end_date": null,
+"time": "15:00",
+"venue": "RW21 Stadtbibliothek – Black Box (UG), Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Bilderbuchkino",
+"Weihnachten",
+"ab 4 Jahren"
+],
+"description": "Halbstündiges Bilderbuchkino mit der gereimten Weihnachtsgeschichte von Stefan Gemmel und Stefanie Reich über einen Drachen, der die Waldtiere heimlich beschenkt.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/bilderbuchkino-im-dezember-kinder-4-jahren-bayreuth-95444-ursgdy",
+"termine": null,
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "ed0df3ac08"
+},
+{
 "title": "Bayreuther Weihnachtscircus 2026/27",
 "subtitle": null,
 "date": "2026-12-18",
@@ -10383,6 +10260,30 @@
 ],
 "house": "Kirchen",
 "id": "9c49f3a9ae"
+},
+{
+"title": "Lieder auf Kanz: Hannes Wölfel und Stefan Haußner",
+"subtitle": "Songs und Stories",
+"date": "2026-12-18",
+"end_date": null,
+"time": "19:30",
+"venue": "Neues Gemeindehaus St. Johannis, Altentrebgastplatz 4",
+"organizer": "Gemeindeförderverein St. Johannis e. V.",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Akustik",
+"Weihnachtslieder",
+"Singer-Songwriter"
+],
+"description": "Akustikkonzert der neuen Reihe „Lieder auf Kanz“: Hannes Wölfel und Stefan Haußner verbinden Weihnachtslieder, Popsongs und eigene Stücke mit Geschichten.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://region-bayreuth.de/veranstaltung/lieder-kanz-hannes-woelfel-stefan-haussner-bayreuth-95448-73m1q7",
+"termine": null,
+"sources": [
+"Gemeindeförderverein St. Johannis (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "0ee57a8a54"
 },
 {
 "title": "Die Verwirrungen des Zöglings Törless",
@@ -10620,6 +10521,30 @@
 "id": "5b5a13eea7"
 },
 {
+"title": "M.B.I.N.I.T. – Xmas Edition",
+"subtitle": "mit Marbelz und DJ Bump",
+"date": "2026-12-19",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Party",
+"DJ",
+"Clubnacht"
+],
+"description": "Weihnachtliche Clubnacht in der FABRIK mit Marbelz und DJ Bump an den Plattentellern. Beginn und Eintritt sind auf der Veranstalterseite nicht angegeben.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "0f55dbc499"
+},
+{
 "title": "Abenteuer Opernhaus – Führung hinter die Kulissen",
 "subtitle": "Familienführung für Kinder von 6–12 Jahren",
 "date": "2026-12-20",
@@ -10686,7 +10611,7 @@
 "subtitle": null,
 "date": "2026-12-20",
 "end_date": null,
-"time": "13:00",
+"time": "14:30",
 "venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
 "organizer": "Ev.-Luth. Kreuzkirche Bayreuth",
 "category": "Kinder & Familie",
@@ -11344,11 +11269,11 @@
 "Familie"
 ],
 "description": "Philipp Schepmann, Sprecher der Hörbücher, trägt das Abenteuer live auf der Bühne vor: Kokosnuss folgt den Briefen seines entführten Freundes Oskar von London über Paris und Pisa bis nach China.",
-"price": null,
-"url": "https://www.eventim.de/event/der-kleine-drache-kokosnuss-reist-um-die-welt-friedrichsforum-grosser-saal-21411005/",
+"price": "40,40–47,00 €",
+"url": "https://region-bayreuth.de/veranstaltung/kleine-drache-kokosnuss-bayreuth-95444-6cv1cc",
 "termine": null,
 "sources": [
-"Konzertbüro Augsburg"
+"Konzertbüro Augsburg (nur Stadt, Land, Leben)"
 ],
 "house": "Friedrichsforum",
 "id": "198485c117"
@@ -11486,7 +11411,7 @@
 },
 {
 "title": "Die Zauberflöte – Marionettenoper",
-"subtitle": "W. A. Mozart im Marionettentheater Operla",
+"subtitle": "W. A. Mozart im Marionettentheater Operla – alle Vorstellungen ausverkauft",
 "date": "2027-01-10",
 "end_date": null,
 "time": "17:00",
@@ -11747,6 +11672,103 @@
 ],
 "house": "Steingraeber Haus",
 "id": "6be898f3ea"
+},
+{
+"title": "Magic Gregorian Night",
+"subtitle": "Klang der Mönche – Gregorian Chants meets Pop Music",
+"date": "2027-01-14",
+"end_date": null,
+"time": "20:00",
+"venue": "Spitalkirche Bayreuth, Maximilianstraße 64",
+"organizer": "Miro Live",
+"category": "Klassik",
+"tags": [
+"Gregorianik",
+"Chor",
+"Kirchenkonzert"
+],
+"description": "Acht bulgarische Sänger unter Leitung von Georgi Pandurov verbinden gregorianische und orthodoxe Gesänge mit geistlicher Musik aus Renaissance und Barock sowie Pop-Klassikern.",
+"price": "44,40 €",
+"url": "https://miro-live.de/magic-gregorian-night-2/",
+"termine": null,
+"sources": [
+"Miro Live"
+],
+"house": "Kirchen",
+"id": "3a7dd3c671"
+},
+{
+"title": "Gesellschaft im Wandel – Paris & Berlin um 1900",
+"subtitle": "Vortrag",
+"date": "2027-01-15",
+"end_date": null,
+"time": "17:30",
+"venue": "RW21 Volkshochschule – Seminarraum 1, Richard-Wagner-Straße 21",
+"organizer": "vhs Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Kulturgeschichte",
+"Paris",
+"Berlin",
+"Frankreich-Schwerpunkt"
+],
+"description": "Vortrag aus dem Frankreich-Schwerpunkt der Volkshochschule über den gesellschaftlichen Wandel in Paris und Berlin um die Jahrhundertwende.",
+"price": null,
+"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Gesellschaft-im-Wandel-Paris-Berlin-um-1900/I6014",
+"termine": null,
+"sources": [
+"vhs Bayreuth"
+],
+"house": "RW21",
+"id": "8b3ced4872"
+},
+{
+"title": "Vereinsabend: Was machen die Hühner in der Kathedrale? – Jakobsweg in Spanien (Teil 3)",
+"subtitle": "Bildvortrag von Michael Thein",
+"date": "2027-01-15",
+"end_date": null,
+"time": "19:00",
+"venue": "Evangelisches Gemeindehaus Bayreuth-Altstadt (Erlöserkirche), Dietrich-Bonhoeffer-Straße 1",
+"organizer": "Fichtelgebirgsverein, Ortsgruppe Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Reisebericht",
+"Jakobsweg",
+"Bildvortrag"
+],
+"description": "Dritter Teil von Michael Theins Bildvortrag über seine Wanderung auf dem spanischen Jakobsweg. Eintritt frei, Spenden willkommen.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://www.fichtelgebirgsverein-bayreuth.de/wanderungen",
+"termine": null,
+"sources": [
+"Fichtelgebirgsverein Bayreuth"
+],
+"house": "Kirchen",
+"id": "95640ba757"
+},
+{
+"title": "aMuse: Into The Woods",
+"subtitle": "Clubkonzert des Jazzforums Bayreuth",
+"date": "2027-01-15",
+"end_date": null,
+"time": "20:00",
+"venue": "Gaststätte Becher – Bechersaal, St.-Nikolaus-Straße 25",
+"organizer": "Jazzforum Bayreuth",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Jazz",
+"Gesang",
+"Improvisation"
+],
+"description": "Die Sängerin Karoline Weidt und Scat-Sänger Kilian Sladek spielen mit Luca Zambito (Piano), Susi Lotter (Bass) und Magnus Dauner (Schlagzeug) ihr Programm „Into The Woods“, das Lyrik und freie Improvisation verbindet.",
+"price": "24 €, ermäßigt 12 €, unter 17 Jahren und Mitglieder 1 € (VVK) bzw. frei (AK)",
+"url": "https://www.jazz-bayreuth.de/konzerte/amuse/",
+"termine": null,
+"sources": [
+"Jazzforum Bayreuth"
+],
+"house": "Becher Bräu",
+"id": "24adefda65"
 }
 ]
 }

@@ -1,43 +1,17 @@
 {
- "date": "2026-11-14",
- "updated": "2026-11-14T01:04+01:00",
+ "date": "2026-11-15",
+ "updated": "2026-11-15T00:42+01:00",
  "films": [
   {
-   "title": "Lügen über meine Mutter",
+   "title": "Watching People Watching Birds",
    "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 102,
-   "fsk": "12",
+   "runtime": 92,
+   "fsk": "0",
    "genres": [
-    "Drama"
-   ],
-   "genres_raw": [],
-   "badges": [
-    "Kino ist Programm"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "16:30",
-     "room": null,
-     "site": null,
-     "flags": []
-    }
-   ],
-   "more": false,
-   "note": "Programmkino-Wochenende von Kino ist Programm; 7 €, Kinder 4 €, kein Vorverkauf (Reservierung per E-Mail).",
-   "url": "https://kino-ist-programm.de/luegen-ueber-meine-mutter/",
-   "source": "Kino ist Programm"
-  },
-  {
-   "title": "Call Me Queen",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 105,
-   "fsk": "12",
-   "genres": [
-    "Drama"
+    "Dokumentarfilm"
    ],
    "genres_raw": [
-    "Drama, von wahren Begebenheiten inspiriert"
+    "Doku"
    ],
    "badges": [
     "Kino ist Programm"
@@ -45,7 +19,7 @@
    "week": null,
    "shows": [
     {
-     "time": "19:00",
+     "time": "16:00",
      "room": null,
      "site": null,
      "flags": [
@@ -54,8 +28,38 @@
     }
    ],
    "more": false,
-   "note": "Programmkino-Wochenende von Kino ist Programm; 7 €, Kinder 4 €, kein Vorverkauf (Reservierung per E-Mail).",
-   "url": "https://kino-ist-programm.de/call-me-queen-omu/",
+   "note": "Programmkino-Wochenende von Kino ist Programm; Eintritt 7 €, Kinder 4 €.",
+   "url": "https://kino-ist-programm.de/watching-people-watching-birds-omu/",
+   "source": "Kino ist Programm"
+  },
+  {
+   "title": "Hirten – mit 827 Schafen in der Provence",
+   "venue": "Kunst- und Kulturhaus Neuneinhalb",
+   "runtime": 113,
+   "fsk": "12",
+   "genres": [
+    "Drama"
+   ],
+   "genres_raw": [
+    "poetisches Drama"
+   ],
+   "badges": [
+    "Kino ist Programm"
+   ],
+   "week": null,
+   "shows": [
+    {
+     "time": "18:30",
+     "room": null,
+     "site": null,
+     "flags": [
+      "OmU"
+     ]
+    }
+   ],
+   "more": false,
+   "note": "Programmkino-Wochenende von Kino ist Programm; Eintritt 7 €, Kinder 4 €.",
+   "url": "https://kino-ist-programm.de/hirten-mit-827-schafen-in-der-provence-omu/",
    "source": "Kino ist Programm"
   }
  ]
