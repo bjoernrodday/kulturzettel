@@ -893,7 +893,7 @@
 "url": "https://www.bfm-bayreuth.de/aktuelles/events/"
 }
 ],
-"updated": "2026-11-16T01:02+01:00",
+"updated": "2026-11-17T00:58+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1311,275 +1311,6 @@
 "id": "f0c4c92418"
 },
 {
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-11-16",
-"end_date": "2026-11-30",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "7c1971aca3",
-"termine": [
-{
-"date": "2026-11-16",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "15:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kunst & Krümel",
-"subtitle": null,
-"date": "2026-11-16",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Familie",
-"offenes Angebot"
-],
-"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "895dfde5d0"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": "im Vereinskalender als „Kunst & Krümel“",
-"date": "2026-11-16",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "e26a27bb0c",
-"termine": [
-{
-"date": "2026-11-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Allgemeine Führung",
-"subtitle": null,
-"date": "2026-11-16",
-"end_date": null,
-"time": "16:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "Friedrichsforum",
-"category": "Führung",
-"tags": [
-"Hausführung",
-"Architektur",
-"Stadthalle"
-],
-"description": "Rund einstündiger Rundgang zu Geschichte, Räumen und heutiger Nutzung des Friedrichsforums und seinem Weg von der früheren Stadthalle zum Kulturort.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261110-allgemeine-fuehrung",
-"sources": [
-"Friedrichsforum"
-],
-"house": "Friedrichsforum",
-"id": "027778666c"
-},
-{
-"title": "Brettspielabend 2.0 im Haus des Spiels",
-"subtitle": null,
-"date": "2026-11-16",
-"end_date": "2026-11-30",
-"time": "19:00",
-"venue": "Haus des Spiels, Berneckerstraße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"offener Treff"
-],
-"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
-"price": "frei",
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"wundersam anders e. V.",
-"Wundersam anders e.V. (Haus des Spiels)",
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "002409037d",
-"termine": [
-{
-"date": "2026-11-16",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Schreibkreis „Thoughts to Page“",
-"subtitle": null,
-"date": "2026-11-16",
-"end_date": null,
-"time": "19:15",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e. V.",
-"category": "Literatur",
-"tags": [
-"Schreiben",
-"Schreibgruppe",
-"offen",
-"Schreibwerkstatt"
-],
-"description": "Offener Schreibkreis für Anfänger und erfahrene Schreibende: Austausch über eigene Texte und Projekte, für Teilnehmende ohne eigenes Vorhaben gibt es eine kleine Aufgabe. Einlass 19 Uhr, Beginn 19:15 Uhr, Eintritt frei.",
-"price": "frei",
-"url": "https://www.neuneinhalb.org/veranstaltungen/schreibkreis-thoughts-to-page-8/edate/2026-11-16",
-"sources": [
-"Neuneinhalb",
-"Kunst- und Kulturhaus Neuneinhalb",
-"Neuneinhalb e. V.",
-"Neuneinhalb e.V."
-],
-"house": "Neuneinhalb",
-"id": "6bbee28570",
-"termine": null
-},
-{
-"title": "Sneak Preview FSK 18",
-"subtitle": null,
-"date": "2026-11-16",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Sneak Preview",
-"FSK 18",
-"Überraschungsfilm"
-],
-"description": "Überraschungsvorstellung eines kommenden Films ab 18 Jahren. Nächste Termine laut Kinoprogramm: Mo 19.10., 02.11. und 16.11., jeweils 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/sneak-preview-fsk-18-CEF50000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "cc4dd7f0dd"
-},
-{
 "title": "Die »Schönsten Deutschen Bücher« 2026",
 "subtitle": "Ausstellung der Stiftung Buchkunst",
 "date": "2026-11-17",
@@ -1754,6 +1485,96 @@
 {
 "date": "2027-01-12",
 "time": "15:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-17",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "8cc78bd04e"
+},
+{
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-17",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "92fe980f43",
+"termine": [
+{
+"date": "2026-11-17",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
 "hinweis": null
 }
 ]
@@ -2261,6 +2082,53 @@
 {
 "date": "2026-12-29",
 "time": "14:30",
+"hinweis": null
+}
+]
+},
+{
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-11-18",
+"end_date": "2026-11-30",
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "91d41b7270",
+"termine": [
+{
+"date": "2026-11-18",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-23",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-25",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "15:00",
 "hinweis": null
 }
 ]
@@ -4601,6 +4469,43 @@
 "id": "b18e934f54"
 },
 {
+"title": "Brettspielabend 2.0 im Haus des Spiels",
+"subtitle": null,
+"date": "2026-11-23",
+"end_date": "2026-11-30",
+"time": "19:00",
+"venue": "Haus des Spiels, Berneckerstraße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"offener Treff"
+],
+"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
+"price": "frei",
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e. V.",
+"Wundersam anders e.V. (Haus des Spiels)",
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "70eae52f1f",
+"termine": [
+{
+"date": "2026-11-23",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "19:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Dokufilmreihe „Wirklichkeiten“: Das Deutsche Volk",
 "subtitle": null,
 "date": "2026-11-23",
@@ -5792,6 +5697,30 @@
 ],
 "house": "Weitere Orte",
 "id": "1dccb925bd"
+},
+{
+"title": "Orgelmusik zum Christkindlesmarkt",
+"subtitle": "Sebastian Ruf: „Nun komm der Heiden Heiland“",
+"date": "2026-11-28",
+"end_date": null,
+"time": "12:00",
+"venue": "Katholische Schlosskirche, Schlossberglein 3",
+"organizer": "Katholische Schlosskirche Bayreuth",
+"category": "Klassik",
+"tags": [
+"Orgel",
+"Advent",
+"Kirchenmusik"
+],
+"description": "Regionalkantor Sebastian Ruf eröffnet die halbstündigen Orgelmusiken zur Christkindlesmarkt-Zeit mit Werken von Karg-Elert, Bruhns, Bach und Brahms.",
+"price": "Eintritt frei, Spenden erbeten",
+"url": "https://region-bayreuth.de/veranstaltung/orgelmusik-christkindlesmarkt-sebastian-ruf-bayreuth-95444-yt5nnv",
+"termine": null,
+"sources": [
+"Katholische Schlosskirche Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "a2ed06a0ba"
 },
 {
 "title": "Band Herzblatt-Musik",
@@ -8446,7 +8375,7 @@
 "title": "Führung durch Schloss Carolinenruhe",
 "subtitle": "Wohnräume der Sommerresidenz der Markgräfin Caroline",
 "date": "2026-12-06",
-"end_date": null,
+"end_date": "2027-01-03",
 "time": "14:00",
 "venue": "Schloss Colmdorf (Carolinenruhe), Colmdorf 8",
 "organizer": "Schloss Colmdorf",
@@ -8456,14 +8385,26 @@
 "Markgrafen",
 "Führung"
 ],
-"description": "Rundgang durch die Wohnräume des kleinen Sommerschlosses der Markgräfin Caroline in Colmdorf, jeweils am ersten Sonntag des Monats (1.11. und 6.12.). Gruppen ab zehn Personen können auch andere Termine telefonisch vereinbaren.",
+"description": "Rundgang durch die Wohnräume des kleinen Sommerschlosses der Markgräfin Caroline in Colmdorf, jeweils am ersten Sonntag des Monats. Gruppen ab zehn Personen können auch andere Termine telefonisch vereinbaren.",
 "price": null,
-"url": "https://schloss-colmdorf.de/en/start-en/",
+"url": "https://schloss-colmdorf.de/",
 "sources": [
 "Schloss Colmdorf"
 ],
 "house": "Schlösser & Eremitage",
-"id": "3726fff584"
+"id": "3726fff584",
+"termine": [
+{
+"date": "2026-12-06",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "14:00",
+"hinweis": null
+}
+]
 },
 {
 "subtitle": "Quartett DreiviertelAkt",
@@ -9253,6 +9194,30 @@
 ],
 "house": "Friedrichsforum",
 "id": "0ae9834845"
+},
+{
+"title": "Night of the Profs",
+"subtitle": "Die Professoren geben den Takt vor!",
+"date": "2026-12-11",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "Universität Bayreuth, S4S und Studentenleben Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Party",
+"DJ",
+"Universität"
+],
+"description": "Partynacht in der FABRIK, bei der Professorinnen und Professoren der Universität Bayreuth auflegen. Beginn und Eintritt sind nicht angegeben.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "24cb183849"
 },
 {
 "title": "Oberfränkische Nachwuchskonzerte",
@@ -11153,7 +11118,7 @@
 "title": "Die Zauberflöte – Marionettenoper",
 "subtitle": "W. A. Mozart im Marionettentheater Operla – alle Vorstellungen ausverkauft",
 "date": "2027-01-10",
-"end_date": "2027-01-16",
+"end_date": "2027-01-17",
 "time": "17:00",
 "venue": "Marionettentheater Operla, Sophienstraße 32",
 "organizer": "Marionettentheater Operla",
@@ -11180,6 +11145,11 @@
 {
 "date": "2027-01-16",
 "time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-17",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -11593,6 +11563,31 @@
 ],
 "house": "Neuneinhalb",
 "id": "04cf9cee6e"
+},
+{
+"title": "Müller & Murakami – Liederabend im Haus Wahnfried",
+"subtitle": "Wahnfriedkonzert W3 der Kulturfreunde Bayreuth",
+"date": "2027-01-17",
+"end_date": null,
+"time": "19:00",
+"venue": "Haus Wahnfried, Richard-Wagner-Straße 48",
+"organizer": "Kulturfreunde Bayreuth",
+"category": "Klassik",
+"tags": [
+"Liederabend",
+"Bariton",
+"Klavier",
+"Kulturfreunde"
+],
+"description": "Liederabend im Haus Wahnfried: Bariton Jonas Müller und Pianistin Akemi Murakami mit Liedern von Schubert, Schumann, Mahler und Schönberg; dritter Abend der Wahnfriedkonzerte der Kulturfreunde in der Saison 2026/27.",
+"price": null,
+"url": "https://www.kulturfreunde-bayreuth.de/haessler-murakami/",
+"termine": null,
+"sources": [
+"Kulturfreunde Bayreuth"
+],
+"house": "Richard Wagner Museum",
+"id": "6229281de2"
 }
 ]
 }
