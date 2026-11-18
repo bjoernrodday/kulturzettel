@@ -891,9 +891,25 @@
 {
 "name": "BF/M Bayreuth Events",
 "url": "https://www.bfm-bayreuth.de/aktuelles/events/"
+},
+{
+"name": "KunstHERZ e.V.",
+"url": "https://www.kunstherz.club/"
+},
+{
+"name": "Konzert und Torte (Zamirhalle)",
+"url": "https://konzertundtorte.de/"
+},
+{
+"name": "Das Kriminal Dinner – Bayreuth",
+"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth"
+},
+{
+"name": "okticket – Bayreuth (Entdecken)",
+"url": "https://okticket.de/tickets-bayreuth-p95445?hauptid=0&unterid=&filter_id=0&"
 }
 ],
-"updated": "2026-11-17T00:58+01:00",
+"updated": "2026-11-18T01:04+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1334,657 +1350,6 @@
 "id": "d195e686bf"
 },
 {
-"title": "Kuratorenführung im Richard Wagner Museum",
-"subtitle": "dienstags 14 Uhr",
-"date": "2026-11-17",
-"end_date": "2026-12-22",
-"time": "14:00",
-"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
-"organizer": "Richard Wagner Museum",
-"category": "Führung",
-"tags": [
-"Wagner",
-"Kuratoren",
-"Museum",
-"Kurator",
-"dienstags"
-],
-"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
-"sources": [
-"Richard Wagner Museum"
-],
-"house": "Richard Wagner Museum",
-"id": "aaaf220614",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Buch und Plausch – Weihnachts-Special",
-"subtitle": "Der literarische Kaffeeklatsch der Buchhandlung im KirchenEck",
-"date": "2026-11-17",
-"end_date": "2026-11-17",
-"time": "14:00",
-"venue": "Café SIMone, Sophienstraße 32",
-"organizer": "Buchhandlung im KirchenEck",
-"category": "Literatur",
-"tags": [
-"Buchtipps",
-"Weihnachten",
-"Gespräch"
-],
-"description": "Das Team der Buchhandlung im KirchenEck stellt bei Kaffee im Café SIMone Bücher für die Weihnachtszeit vor; die Runde findet zweimal statt, Plätze nur mit Anmeldung, Verzehr auf eigene Kosten.",
-"price": null,
-"url": "https://kircheneck.buchkatalog.de/Veranstaltungenaktuell",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-17",
-"time": "17:00",
-"hinweis": null
-}
-],
-"sources": [
-"Buchhandlung im KirchenEck"
-],
-"house": "Kirchen",
-"id": "c84b0aa051"
-},
-{
-"title": "Wundersames Spielecafé",
-"subtitle": null,
-"date": "2026-11-17",
-"end_date": null,
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spielecafé",
-"offenes Angebot"
-],
-"description": "Erster Testlauf eines Spielecafés im Haus des Spiels: Nachmittag mit Heißgetränken und Brettspielen aus der über 1.300 Titel umfassenden Sammlung des Vereins, 15 bis 18 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/2026/11/03/spielecafe/",
-"termine": null,
-"sources": [
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "ca6f47a786"
-},
-{
-"title": "Bildbetrachtungen",
-"subtitle": "In der Ausstellung A. D. Trantenroth",
-"date": "2026-11-17",
-"end_date": "2027-01-12",
-"time": "15:00",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Führung",
-"tags": [
-"Kunstmuseum",
-"Kunstgeschichte",
-"Führung"
-],
-"description": "Rundgang mit Ursula Leibinger-Hasibether, bei dem einzelne Werke genauer betrachtet und in ihren zeitlichen Zusammenhang gestellt werden; Termine 17.11., 15.12. und 12.01., jeweils 15 Uhr.",
-"price": "5 €",
-"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
-"sources": [
-"Kunstmuseum Bayreuth"
-],
-"house": "Kunstmuseum",
-"id": "c1f0d633ca",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2027-01-12",
-"time": "15:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kunst & Krümel",
-"subtitle": null,
-"date": "2026-11-17",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Familie",
-"offenes Angebot"
-],
-"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "8cc78bd04e"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": "im Vereinskalender als „Kunst & Krümel“",
-"date": "2026-11-17",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "92fe980f43",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Gleiches Geschlecht ≠ gleiche Ansichten",
-"subtitle": "Vortrag von Prof. Dr. David Stadelmann (in englischer Sprache)",
-"date": "2026-11-17",
-"end_date": null,
-"time": "16:00",
-"venue": "Universität Bayreuth – K3 (RWI)",
-"organizer": "Universität Bayreuth – GO Forschung",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Politik",
-"Gender",
-"Universität"
-],
-"description": "Der Volkswirt David Stadelmann geht der Frage nach, ob Politikerinnen und Politiker Wählende mit gleichen demografischen Merkmalen tatsächlich besser vertreten, und stellt dazu empirische Befunde vor.",
-"price": null,
-"url": "https://www.frauenbeauftragte.uni-bayreuth.de/de/go-forschung/veranstaltungen-und-termine/index.html",
-"termine": null,
-"sources": [
-"Universität Bayreuth – GO Forschung"
-],
-"house": "Universität",
-"id": "e7ae0cee56"
-},
-{
-"subtitle": "GIB Lecture Series – Prof. Caroline Kramer (KIT)",
-"end_date": null,
-"time": "16:00",
-"organizer": "Geographisches Institut der Universität Bayreuth",
-"price": "Eintritt frei",
-"termine": null,
-"title": "Temporalität des Wohnens und Arbeitens – mobil, multilokal und nachhaltig?",
-"date": "2026-11-17",
-"venue": "Universität Bayreuth – Gebäude GEO I, Hörsaal H6, Universitätsstraße 30",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Geographie",
-"Wohnen",
-"Arbeitswelt"
-],
-"description": "Vortrag im Geographischen Kolloquium mit Ergebnissen einer Studie zu befristetem und multilokalem Wohnen und Arbeiten in den Großstadtregionen Frankfurt am Main und Leipzig. Auch online (hybrid).",
-"url": "https://www.geographie.uni-bayreuth.de/pool/dokumente/sonstiges/kolloquien/Kolloquium-WS26_27/2026-27-Wintersemester-Geogr_-Kolloquium-A0-aktualisiert-_1_.pdf",
-"sources": [
-"Geographisches Institut der Universität Bayreuth"
-],
-"house": "Universität",
-"id": "185144d7d2"
-},
-{
-"title": "Pub&Go Spieleabend",
-"subtitle": null,
-"date": "2026-11-17",
-"end_date": "2026-12-15",
-"time": "17:00",
-"venue": "Pub&Go Bayreuth, Sophienstraße 4",
-"organizer": "Pub&Go Bayreuth",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"wöchentlich",
-"dienstags"
-],
-"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
-"price": null,
-"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
-"sources": [
-"Pub&Go",
-"Pub&Go Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "c57fc6d832",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Wissenschaft gegen Faschismus",
-"subtitle": "Vortragsreihe der Fachschaft KuWi",
-"date": "2026-11-17",
-"end_date": "2027-01-12",
-"time": "18:15",
-"venue": "FZA – Forschungszentrum Afrika, Kongressraum, Universität Bayreuth",
-"organizer": "Fachschaft Kulturwissenschaften, Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wissenschaft",
-"Demokratie",
-"Vortragsreihe",
-"Universität",
-"Diskussion"
-],
-"description": "An sieben Dienstagabenden (18:15 Uhr, Kongressraum FZA) halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Zusatztermine: 9.11. Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ (Raum noch offen), 12.11. Diskussion zu den Landtagswahlen im Nordosten, 18.11. Vortrag „Press F to fight fascism“ (14 Uhr, Medienwissenschaft, Nürnberger Str. 38, Haus 4).",
-"price": "frei",
-"url": "https://kuwi.uni-bayreuth.de/fachschaft-kuwi/de/wgf2026",
-"sources": [
-"Universität Bayreuth",
-"Fachschaft KuWi, Universität Bayreuth"
-],
-"house": "Universität",
-"id": "9f3f321c39",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "18:15",
-"hinweis": null
-},
-{
-"date": "2026-11-18",
-"time": "14:00",
-"hinweis": "Zusatztermin: Matthias Heider, Medienwissenschaft"
-},
-{
-"date": "2026-12-01",
-"time": "18:15",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "18:15",
-"hinweis": null
-},
-{
-"date": "2027-01-12",
-"time": "18:15",
-"hinweis": null
-}
-]
-},
-{
-"title": "Intersectional Feminist Bookclub",
-"subtitle": null,
-"date": "2026-11-17",
-"end_date": "2026-12-01",
-"time": "18:15",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Literatur",
-"tags": [
-"Lesekreis",
-"Feminismus",
-"englisch"
-],
-"description": "Lesekreis zu feministischer Literatur mit gemeinsamen Lese- und Diskussionsterminen am 6.10., 20.10. und 3.11., jeweils 18:15 Uhr.",
-"price": "Eintritt frei",
-"url": "https://www.glashaus.org/programm/intersectional-feminist-bookclub-5-2-4-2-2-2-2-2-2",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "cce14dfb8d",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "18:15",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "18:15",
-"hinweis": null
-}
-]
-},
-{
-"title": "Jan-Uwe Rogge: Gelassen erziehen, stark begleiten",
-"subtitle": "Zauberformeln für Vertrauen, Humor und Orientierung",
-"date": "2026-11-17",
-"end_date": null,
-"time": "19:00",
-"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": null,
-"category": "Vortrag & Diskurs",
-"tags": [
-"Vortrag",
-"Erziehung",
-"Familie"
-],
-"description": "Der Erziehungswissenschaftler Jan-Uwe Rogge spricht über Erziehung als lebendigen Prozess und stellt sieben Leitideen für einen entspannteren Familienalltag vor.",
-"price": "19–23 €",
-"url": "https://www.das-zentrum.de/veranstaltung/vortrag-mit-jan-uwe-rogge-gelassen-erziehen-stark-begleiten/",
-"termine": null,
-"sources": [
-"DAS ZENTRUM"
-],
-"house": "Das Zentrum",
-"id": "a007826367"
-},
-{
-"title": "CineArt: Lügen über meine Mutter",
-"subtitle": null,
-"date": "2026-11-17",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Drama"
-],
-"description": "Drama aus der Bundesrepublik der 1980er-Jahre in der Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 12.11. 17:30, So 15.11. 10:45, Di 17.11. 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "ec4c1b6c6e"
-},
-{
-"title": "Jeeps",
-"subtitle": "Komödie von Nora Abdel-Maksoud",
-"date": "2026-11-17",
-"end_date": "2026-12-28",
-"time": "20:00",
-"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth",
-"category": "Theater",
-"tags": [
-"Komödie",
-"Erbschaft",
-"Gegenwartsdramatik",
-"Studiobühne"
-],
-"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
-"price": null,
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
-"sources": [
-"Studiobühne Bayreuth",
-"Studiobühne (tickets4arts)",
-"Bayreuther Tagblatt / bayreuth4U"
-],
-"house": "Studiobühne",
-"id": "f5c435c8a0",
-"termine": [
-{
-"date": "2026-11-17",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-20",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-21",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-27",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-11",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "20:00",
-"hinweis": "Letzte Vorstellung"
-}
-]
-},
-{
-"title": "Frauen in der Kirchengeschichte",
-"subtitle": "Vortrags- und Gesprächsabend / Women in Church History",
-"date": "2026-11-17",
-"end_date": null,
-"time": "20:00",
-"venue": "ESG Bayreuth, Richard-Wagner-Straße 24",
-"organizer": "Ökumenische Hochschulgemeinde (KHG/ESG Bayreuth)",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Vortrag",
-"Kirchengeschichte",
-"Frauen"
-],
-"description": "Zweisprachiger Vortrags- und Gesprächsabend über Frauen in der Geschichte der Kirche.",
-"price": null,
-"url": "https://www.khg-in-bayreuth.de/event/frauen-in-der-kirchngeschichte-vortrags-gespraechsabend-women-in-church-history-lecture-and-discussion-evening/",
-"sources": [
-"Katholische Hochschulgemeinde Bayreuth"
-],
-"house": "Kirchen",
-"id": "e8fdf18656"
-},
-{
-"title": "Ringlstetter & Zinner: Irgendwas mit Küche",
-"subtitle": "Irgendwas mit Küche",
-"date": "2026-11-17",
-"end_date": null,
-"time": "20:00",
-"venue": "Friedrichsforum – Großer Saal",
-"organizer": "motion",
-"category": "Kabarett & Comedy",
-"tags": [
-"Kabarett",
-"Musik",
-"Bayern",
-"Kochen",
-"ausverkauft"
-],
-"description": "Hannes Ringlstetter und Stephan Zinner mit gemeinsamem Programm aus Musik und Kabarett (ausverkauft).",
-"price": "Restkarten",
-"url": "https://www.friedrichsforum.de/veranstaltung/20261117-ringlstetter-zinner",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)",
-"motion Kommunikation"
-],
-"house": "Friedrichsforum",
-"id": "38a0170339"
-},
-{
-"title": "UniKino der Fachschaft MPI",
-"subtitle": null,
-"date": "2026-11-17",
-"end_date": "2027-01-12",
-"time": null,
-"venue": "Universität Bayreuth – Hörsäle H17/H18",
-"organizer": "Fachschaft Mathematik/Physik/Informatik der Universität Bayreuth",
-"category": "Film",
-"tags": [
-"Kino",
-"Universität",
-"Filmabend"
-],
-"description": "Die Fachschaft MPI zeigt während der Vorlesungszeit dienstags Filme, in H17 im Original mit englischen Untertiteln, in H18 auf Deutsch; das Filmprogramm steht nur im Uni-Netz.",
-"price": "Eintritt frei",
-"url": "https://fsmpi.uni-bayreuth.de/unikino",
-"sources": [
-"Fachschaft MPI Universität Bayreuth"
-],
-"house": "Universität",
-"id": "e3f5beabd2",
-"termine": [
-{
-"date": "2026-11-17",
-"time": null,
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": null,
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": null,
-"hinweis": null
-},
-{
-"date": "2027-01-12",
-"time": null,
-"hinweis": null
-}
-]
-},
-{
 "title": "Vorlesestunden für Kinder ab 4 Jahren",
 "subtitle": null,
 "date": "2026-11-18",
@@ -2045,6 +1410,54 @@
 {
 "date": "2026-12-12",
 "time": "11:00",
+"hinweis": null
+}
+]
+},
+{
+"title": "Wissenschaft gegen Faschismus",
+"subtitle": "Vortragsreihe der Fachschaft KuWi",
+"date": "2026-11-18",
+"end_date": "2027-01-12",
+"time": "14:00",
+"venue": "FZA – Forschungszentrum Afrika, Kongressraum, Universität Bayreuth",
+"organizer": "Fachschaft Kulturwissenschaften, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Wissenschaft",
+"Demokratie",
+"Vortragsreihe",
+"Universität",
+"Diskussion"
+],
+"description": "An sieben Dienstagabenden (18:15 Uhr, Kongressraum FZA) halten jeweils drei Forschende kurze Vorträge mit anschließender Diskussion; offen für alle. Zusatztermine: 9.11. Buchvorstellung „Deutsche Unrechtsgeschichte im 20. Jahrhundert“ (Raum noch offen), 12.11. Diskussion zu den Landtagswahlen im Nordosten, 18.11. Vortrag „Press F to fight fascism“ (14 Uhr, Medienwissenschaft, Nürnberger Str. 38, Haus 4).",
+"price": "frei",
+"url": "https://kuwi.uni-bayreuth.de/fachschaft-kuwi/de/wgf2026",
+"sources": [
+"Universität Bayreuth",
+"Fachschaft KuWi, Universität Bayreuth"
+],
+"house": "Universität",
+"id": "2a8a4b63d6",
+"termine": [
+{
+"date": "2026-11-18",
+"time": "14:00",
+"hinweis": "Zusatztermin: Matthias Heider, Medienwissenschaft"
+},
+{
+"date": "2026-12-01",
+"time": "18:15",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "18:15",
+"hinweis": null
+},
+{
+"date": "2027-01-12",
+"time": "18:15",
 "hinweis": null
 }
 ]
@@ -2216,12 +1629,12 @@
 },
 {
 "title": "Bayreuther Stadtgespräche: Jens Zinn – Risiken verstehen heißt nicht, alle Antworten zu haben",
-"subtitle": null,
+"subtitle": "Stadtgespräch Extra: Wie Gesellschaften mit Unsicherheit umgehen",
 "date": "2026-11-18",
 "end_date": null,
 "time": "18:00",
 "venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": "DAS ZENTRUM Bayreuth",
+"organizer": "Universität Bayreuth (Bayreuther Stadtgespräche) im ZENTRUM",
 "category": "Vortrag & Diskurs",
 "tags": [
 "Soziologie",
@@ -2229,7 +1642,7 @@
 "Stadtgespräch",
 "Eintritt frei"
 ],
-"description": "Der Soziologe Jens Zinn von der University of Melbourne spricht über den Umgang mit Risiken, über Vertrauen in Experten und über Entscheidungen unter Unsicherheit.",
+"description": "Der Risikoforscher Jens O. Zinn (University of Melbourne) spricht über Vertrauen in Wissenschaft und den Umgang mit Unsicherheit; Einführung durch Sylvia Mayer (Universität Bayreuth), anschließend Diskussion.",
 "price": "Eintritt frei",
 "url": "https://www.das-zentrum.de/veranstaltung/jens-zinn-risiken-verstehen-heisst-nicht-alle-antworten-zu-haben/",
 "termine": null,
@@ -2640,6 +2053,31 @@
 "id": "a43f188daa"
 },
 {
+"title": "#NahAmMensch – Gemeinschaftsausstellung von KunstHERZ",
+"subtitle": "Kunst im Klinikum Bayreuth",
+"date": "2026-11-19",
+"end_date": "2027-01-31",
+"time": "19:00",
+"venue": "Klinikum Bayreuth – Eingang Herzchirurgie (1. Stock), Preuschwitzer Straße 101",
+"organizer": "KunstHERZ e.V. mit Kultur im Klinikum",
+"category": "Ausstellung",
+"tags": [
+"Gemeinschaftsausstellung",
+"Malerei",
+"Klinikum",
+"Eintritt frei"
+],
+"description": "Rund 30 Künstlerinnen und Künstler zeigen Arbeiten zu Begegnung, Nähe und Distanz, Krankheit, Hoffnung und Identität; die Schau knüpft an die Reihe „Kunst im Klinikum“ an. Vernissage am 19. November um 19 Uhr, zu sehen bis 31. Januar 2027.",
+"price": "Eintritt frei",
+"url": "https://www.kunstherz.club/nahammensch-gemeinschaftsausstellung-von-kunstherz-e.-v",
+"termine": null,
+"sources": [
+"KunstHERZ e.V."
+],
+"house": "Weitere Orte",
+"id": "ceb33ba6ab"
+},
+{
 "title": "WeinLeseabend",
 "subtitle": null,
 "date": "2026-11-19",
@@ -2910,32 +2348,6 @@
 "id": "d340971ed1"
 },
 {
-"title": "Das Kriminal Dinner: Und raus bist du",
-"subtitle": null,
-"date": "2026-11-20",
-"end_date": null,
-"time": "19:00",
-"venue": "Hotel & Restaurant Lohmühle, Badstraße 37",
-"organizer": "Das Kriminal Dinner",
-"category": "Theater",
-"tags": [
-"Krimidinner",
-"Menü",
-"Krimi",
-"Dinner",
-"interaktiv"
-],
-"description": "Krimitheater mit Menü am 20.11. (laut Veranstalter einziger Termin im November).",
-"price": "94,90 €",
-"url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/bayreuth/hotel-restaurant-lohmuehle",
-"sources": [
-"Das Kriminal Dinner",
-"Das Kriminal Dinner (Lohmühle)"
-],
-"house": "Weitere Orte",
-"id": "ba81e8aa7a"
-},
-{
 "title": "Festvortrag: Kommunale Wirtschaftspolitik",
 "subtitle": "Plenumsdiskussion mit den Oberbürgermeistern von Bayreuth und Kulmbach",
 "date": "2026-11-20",
@@ -3064,6 +2476,74 @@
 ],
 "house": "Steingraeber Haus",
 "id": "ae59989941"
+},
+{
+"title": "Jeeps",
+"subtitle": "Komödie von Nora Abdel-Maksoud",
+"date": "2026-11-20",
+"end_date": "2026-12-28",
+"time": "20:00",
+"venue": "Studiobühne Bayreuth – Studio, Röntgenstraße",
+"organizer": "Studiobühne Bayreuth",
+"category": "Theater",
+"tags": [
+"Komödie",
+"Erbschaft",
+"Gegenwartsdramatik",
+"Studiobühne"
+],
+"description": "Komödie von Nora Abdel-Maksoud über eine Erbschaftslotterie, inszeniert von der Studiobühne im Studio in der Röntgenstraße.",
+"price": null,
+"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2158",
+"sources": [
+"Studiobühne Bayreuth",
+"Studiobühne (tickets4arts)",
+"Bayreuther Tagblatt / bayreuth4U"
+],
+"house": "Studiobühne",
+"id": "ef2e56280e",
+"termine": [
+{
+"date": "2026-11-20",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-21",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-27",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-11-29",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-11",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "20:00",
+"hinweis": "Letzte Vorstellung"
+}
+]
 },
 {
 "title": "LOVEBEATZ im Liebesbier",
@@ -3297,7 +2777,7 @@
 "title": "Historischer Stadtrundgang",
 "subtitle": null,
 "date": "2026-11-21",
-"end_date": "2026-12-28",
+"end_date": "2027-01-16",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22",
 "organizer": "Bayreuth Marketing & Tourismus",
@@ -3307,7 +2787,7 @@
 "Stadtgeschichte",
 "Altstadt"
 ],
-"description": "Zweistündiger Rundgang durch die Innenstadt zu den wichtigsten Stationen der Stadtgeschichte. Im Oktober täglich 10:30 Uhr, freitags bis sonntags zusätzlich 14:00 Uhr; ab November samstags 10:30 Uhr (vom 23.11. bis 23.12. als Weihnachtlicher Stadtrundgang täglich).",
+"description": "Zweistündiger Rundgang durch die Innenstadt zu den wichtigsten Stationen der Stadtgeschichte. November bis März samstags 10:30 Uhr; vom 23.11. bis 06.01. läuft er täglich als „Weihnachtlicher Stadtrundgang“ (eigener Eintrag), ab 7. Januar 2027 wieder samstags.",
 "price": "12 €, Schüler/Studierende 6 €",
 "url": "https://www.bayreuth-tourismus.de/entdecken/fuehrungen/historischer-stadtrundgang/",
 "sources": [
@@ -3323,17 +2803,12 @@
 "hinweis": null
 },
 {
-"date": "2026-12-26",
+"date": "2027-01-09",
 "time": "10:30",
 "hinweis": null
 },
 {
-"date": "2026-12-27",
-"time": "10:30",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
+"date": "2027-01-16",
 "time": "10:30",
 "hinweis": null
 }
@@ -4388,6 +3863,86 @@
 ]
 },
 {
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-23",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "eb1ab03a3c"
+},
+{
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-23",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "4dbdef8ba4",
+"termine": [
+{
+"date": "2026-11-23",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Figurentheater: Die kleine Eule feiert Weihnachten",
 "subtitle": null,
 "date": "2026-11-23",
@@ -4414,7 +3969,7 @@
 "title": "Cinema Africa: Afrikanische Filmreihe",
 "subtitle": null,
 "date": "2026-11-23",
-"end_date": "2026-11-23",
+"end_date": "2027-01-17",
 "time": "18:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Africa Multiple Cluster of Excellence, Universität Bayreuth",
@@ -4424,7 +3979,7 @@
 "Afrika",
 "OmU"
 ],
-"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Soumsoum, la nuit des astres“ (26.10., 20 Uhr, mit Regisseur Mahamat-Saleh Haroun), „Dao“ (9.11., 20 Uhr) und „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln). Weitere Filme folgen 2027.",
+"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln); im neuen Jahr folgt am 17. Januar „Aisha can’t fly away“ von Morad Mostafa über eine junge sudanesische Pflegekraft in Kairo.",
 "price": null,
 "url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/index.html",
 "sources": [
@@ -4442,6 +3997,11 @@
 "date": "2026-11-23",
 "time": "20:00",
 "hinweis": "Hanami (OmU engl.)"
+},
+{
+"date": "2027-01-17",
+"time": "20:00",
+"hinweis": "Aisha can’t fly away"
 }
 ]
 },
@@ -4554,6 +4114,58 @@
 "id": "fd7fe214e7"
 },
 {
+"title": "Kuratorenführung im Richard Wagner Museum",
+"subtitle": "dienstags 14 Uhr",
+"date": "2026-11-24",
+"end_date": "2026-12-22",
+"time": "14:00",
+"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
+"organizer": "Richard Wagner Museum",
+"category": "Führung",
+"tags": [
+"Wagner",
+"Kuratoren",
+"Museum",
+"Kurator",
+"dienstags"
+],
+"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
+"sources": [
+"Richard Wagner Museum"
+],
+"house": "Richard Wagner Museum",
+"id": "1d49ad5069",
+"termine": [
+{
+"date": "2026-11-24",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "14:00",
+"hinweis": null
+}
+]
+},
+{
 "subtitle": "Raffael Beier, Ph.D. (TU Dortmund)",
 "end_date": null,
 "time": "16:00",
@@ -4577,6 +4189,53 @@
 ],
 "house": "Universität",
 "id": "77deca0236"
+},
+{
+"title": "Pub&Go Spieleabend",
+"subtitle": null,
+"date": "2026-11-24",
+"end_date": "2026-12-15",
+"time": "17:00",
+"venue": "Pub&Go Bayreuth, Sophienstraße 4",
+"organizer": "Pub&Go Bayreuth",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"wöchentlich",
+"dienstags"
+],
+"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
+"price": null,
+"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
+"sources": [
+"Pub&Go",
+"Pub&Go Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "73b2267550",
+"termine": [
+{
+"date": "2026-11-24",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "17:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Gedankenspiele",
@@ -5700,24 +5359,47 @@
 },
 {
 "title": "Orgelmusik zum Christkindlesmarkt",
-"subtitle": "Sebastian Ruf: „Nun komm der Heiden Heiland“",
+"subtitle": "Halbstündige Orgelmusiken an den Adventssamstagen",
 "date": "2026-11-28",
-"end_date": null,
+"end_date": "2026-12-19",
 "time": "12:00",
 "venue": "Katholische Schlosskirche, Schlossberglein 3",
-"organizer": "Katholische Schlosskirche Bayreuth",
+"organizer": "Schlosskirchenmusik e. V.",
 "category": "Klassik",
 "tags": [
 "Orgel",
 "Advent",
-"Kirchenmusik"
+"Kirchenmusik",
+"Mittagsmusik"
 ],
-"description": "Regionalkantor Sebastian Ruf eröffnet die halbstündigen Orgelmusiken zur Christkindlesmarkt-Zeit mit Werken von Karg-Elert, Bruhns, Bach und Brahms.",
+"description": "Halbstündige Orgelmusiken zur Mittagszeit während des Christkindlesmarkts: Regionalkantor Sebastian Ruf eröffnet die Reihe (Karg-Elert, Bruhns, Bach, Brahms), es folgen Alena Hartmann aus Leipzig („Magnificat“), Marie Esslová aus Budweis („Ariosa“) und Frederik Kranemann aus Freiburg mit französischer Weihnachtsmusik („Noel“).",
 "price": "Eintritt frei, Spenden erbeten",
-"url": "https://region-bayreuth.de/veranstaltung/orgelmusik-christkindlesmarkt-sebastian-ruf-bayreuth-95444-yt5nnv",
-"termine": null,
+"url": "https://schlosskirchenmusik-bayreuth.de/veranstaltungen/alle-termine/index.html",
+"termine": [
+{
+"date": "2026-11-28",
+"time": "12:00",
+"hinweis": "Sebastian Ruf"
+},
+{
+"date": "2026-12-05",
+"time": "12:00",
+"hinweis": "Alena Hartmann"
+},
+{
+"date": "2026-12-12",
+"time": "12:00",
+"hinweis": "Marie Esslová"
+},
+{
+"date": "2026-12-19",
+"time": "12:00",
+"hinweis": "Frederik Kranemann"
+}
+],
 "sources": [
-"Katholische Schlosskirche Bayreuth (nur Stadt, Land, Leben)"
+"Schlosskirchenmusik Bayreuth",
+"Katholische Schlosskirche Bayreuth (Stadt, Land, Leben)"
 ],
 "house": "Kirchen",
 "id": "a2ed06a0ba"
@@ -6652,8 +6334,8 @@
 "Blechbläser",
 "Marimba"
 ],
-"description": "Adventskonzert des Richard-Wagner-Verbands mit Bläserensemble und Marimba in der Stadtkirche.",
-"price": null,
+"description": "Adventskonzert des Richard-Wagner-Verbands mit Blechbläsern, Marimba und Orgel in der Stadtkirche. Bereits um 17 Uhr wird mit der Gemeinde der Herrnhuter Stern an der Kirche entzündet.",
+"price": "Eintritt frei, Spenden erbeten",
 "url": "https://www.rwv-bayreuth.de/userdata/filegallery/original/3_rwv-bt-folder-2026.pdf",
 "sources": [
 "Richard-Wagner-Verband Bayreuth, Jahresprogramm 2026"
@@ -6833,6 +6515,30 @@
 "id": "d44b878be3"
 },
 {
+"title": "Intersectional Feminist Bookclub",
+"subtitle": null,
+"date": "2026-12-01",
+"end_date": null,
+"time": "18:15",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Literatur",
+"tags": [
+"Lesekreis",
+"Feminismus",
+"englisch"
+],
+"description": "Lesekreis zu feministischer Literatur mit gemeinsamen Lese- und Diskussionsterminen am 6.10., 20.10. und 3.11., jeweils 18:15 Uhr.",
+"price": "Eintritt frei",
+"url": "https://www.glashaus.org/programm/intersectional-feminist-bookclub-5-2-4-2-2-2-2-2-2",
+"sources": [
+"Glashaus",
+"Glashaus e.V."
+],
+"house": "Glashaus",
+"id": "1ed68f8e92"
+},
+{
 "title": "Lesung mit Wolfram Nagel: »Jonathans Verwandlung«",
 "subtitle": null,
 "date": "2026-12-01",
@@ -6986,6 +6692,46 @@
 ],
 "house": "Kino",
 "id": "2d39b2cb4b"
+},
+{
+"title": "UniKino der Fachschaft MPI",
+"subtitle": null,
+"date": "2026-12-01",
+"end_date": "2027-01-12",
+"time": null,
+"venue": "Universität Bayreuth – Hörsäle H17/H18",
+"organizer": "Fachschaft Mathematik/Physik/Informatik der Universität Bayreuth",
+"category": "Film",
+"tags": [
+"Kino",
+"Universität",
+"Filmabend"
+],
+"description": "Die Fachschaft MPI zeigt während der Vorlesungszeit dienstags Filme, in H17 im Original mit englischen Untertiteln, in H18 auf Deutsch; das Filmprogramm steht nur im Uni-Netz.",
+"price": "Eintritt frei",
+"url": "https://fsmpi.uni-bayreuth.de/unikino",
+"sources": [
+"Fachschaft MPI Universität Bayreuth"
+],
+"house": "Universität",
+"id": "0498fc1bde",
+"termine": [
+{
+"date": "2026-12-01",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2027-01-12",
+"time": null,
+"hinweis": null
+}
+]
 },
 {
 "title": "Mensch ist Mensch – Ich zeige dir, wer ich wirklich bin",
@@ -7171,8 +6917,8 @@
 "Sinfonieorchester"
 ],
 "description": "Orchesterkonzert mit Auszügen aus dem „Ring des Nibelungen“ unter Oksana Lyniv.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261202-wagner-oksana-lyniv-und-das-mdr-sinfonierorchester",
+"price": "60–80 €",
+"url": "https://www.friedrichsforum.de/veranstaltung/20261202-wagner-oksana-lyniv-und-das-mdr-sinfonieorchester",
 "sources": [
 "Friedrichsforum",
 "Friedrichsforum Bayreuth"
@@ -8147,7 +7893,7 @@
 "subtitle": "INVIVAS, River, Rock4",
 "date": "2026-12-05",
 "end_date": null,
-"time": "19:00",
+"time": "19:30",
 "venue": "Friedrichsforum – Großer Saal",
 "organizer": "Friedrichsforum",
 "category": "Pop, Rock & Jazz",
@@ -8158,7 +7904,7 @@
 "Vokalmusik",
 "Festival"
 ],
-"description": "Abend mit mehreren Vokalensembles im Rahmen der Reihe Sangeslust.",
+"description": "A-cappella-Abend mit drei internationalen Ensembles: der Schweizer Band INVIVAS, dem französisch-kolumbianischen Beatboxer und Sänger River (Grand Beatbox Battle 2023) und der niederländischen Vokal-Rockband Rock4.",
 "price": null,
 "url": "https://www.friedrichsforum.de/veranstaltung/20261205-sangeslust-2026-bayreuther-a-capella-nacht",
 "sources": [
@@ -8572,6 +8318,29 @@
 ],
 "house": "Weitere Orte",
 "id": "16f74cc2a0"
+},
+{
+"title": "Allgemeine Führung durch das Friedrichsforum",
+"subtitle": null,
+"date": "2026-12-07",
+"end_date": null,
+"time": "17:00",
+"venue": "Friedrichsforum",
+"organizer": "Friedrichsforum",
+"category": "Führung",
+"tags": [
+"Hausführung",
+"Architektur",
+"Stadtgeschichte"
+],
+"description": "Rund einstündiger Rundgang durch ausgewählte Räume des Hauses: Geschichte, heutige Nutzung und der Umbau der früheren Stadthalle zum Kultur- und Veranstaltungsort.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261207-allgemeine-fuehrung",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "0d0e273286"
 },
 {
 "title": "Die legendäre Glashaus Jamsession",
@@ -9235,7 +9004,7 @@
 ],
 "description": "Junge Musikerinnen und Musiker aus Oberfranken spielen in der Matineereihe im Steingraeber-Haus; am 14.11. als Jubiläumskonzert (Eintritt frei).",
 "price": "Eintritt frei",
-"url": "https://www.steingraeber.de/veranstaltungen/oberfraenkische-nachwuchskonzerte-junge-musikerinnen-im-steingraeber-haus-leitung-lisa-wellisch-3/",
+"url": "https://www.steingraeber.de/veranstaltungen/oberfraenkische-nachwuchskonzerte-junge-musikerinnen-im-steingraeber-haus-leitung-lisa-wellisch-4/",
 "sources": [
 "Steingraeber & Söhne",
 "Steingraeber",
@@ -9381,6 +9150,29 @@
 ],
 "house": "Clubs",
 "id": "2a0f424283"
+},
+{
+"title": "Historische Führung durch das Friedrichsforum",
+"subtitle": null,
+"date": "2026-12-13",
+"end_date": null,
+"time": "10:00",
+"venue": "Friedrichsforum",
+"organizer": "Friedrichsforum",
+"category": "Führung",
+"tags": [
+"Hausführung",
+"Geschichte",
+"NS-Zeit"
+],
+"description": "Etwa einstündige Führung zur Baugeschichte: von der Reithalle Markgraf Friedrichs III. über die Ludwig-Siebert-Halle der NS-Zeit und den Wiederaufbau als Stadthalle in den 1960er-Jahren bis zum heutigen Kulturhaus.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261213-historische-fuehrung",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "3a6e857ed5"
 },
 {
 "title": "Strickkino: Drei Haselnüsse für Aschenbrödel",
@@ -9569,6 +9361,41 @@
 "id": "a5aa07ae53"
 },
 {
+"title": "Bildbetrachtungen",
+"subtitle": "In der Ausstellung A. D. Trantenroth",
+"date": "2026-12-15",
+"end_date": "2027-01-12",
+"time": "15:00",
+"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
+"organizer": "Kunstmuseum Bayreuth",
+"category": "Führung",
+"tags": [
+"Kunstmuseum",
+"Kunstgeschichte",
+"Führung"
+],
+"description": "Rundgang mit Ursula Leibinger-Hasibether, bei dem einzelne Werke genauer betrachtet und in ihren zeitlichen Zusammenhang gestellt werden; Termine 17.11., 15.12. und 12.01., jeweils 15 Uhr.",
+"price": "5 €",
+"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
+"sources": [
+"Kunstmuseum Bayreuth"
+],
+"house": "Kunstmuseum",
+"id": "b05f39b5cb",
+"termine": [
+{
+"date": "2026-12-15",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2027-01-12",
+"time": "15:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Unichor Bayreuth",
 "subtitle": "Weihnachtslieder auf der Aktionsbühne",
 "date": "2026-12-15",
@@ -9665,7 +9492,7 @@
 "subtitle": null,
 "date": "2026-12-16",
 "end_date": null,
-"time": "18:00",
+"time": "18:30",
 "venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
 "organizer": "Stadt Bayreuth",
 "category": "Klassik",
@@ -10060,6 +9887,30 @@
 "id": "410d63a855"
 },
 {
+"title": "FABRIK pres. Felix Kröcher",
+"subtitle": "Technofabrik",
+"date": "2026-12-18",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Techno",
+"DJ",
+"Club"
+],
+"description": "Technoabend mit DJ Felix Kröcher, dazu Matt Hyber und Inkan.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "70d3f5563a"
+},
+{
 "title": "Milan Milano",
 "subtitle": null,
 "date": "2026-12-18",
@@ -10104,6 +9955,31 @@
 ],
 "house": "Weitere Orte",
 "id": "aa325df584"
+},
+{
+"title": "Weihnachtliches Benefizkonzert mit Roman Antonyuk",
+"subtitle": "Das Schönste ist die Liebe – Arien und Lieder zur Weihnachtszeit",
+"date": "2026-12-19",
+"end_date": null,
+"time": "17:00",
+"venue": "Zamirhalle, Eduard-Bayerlein-Straße 8",
+"organizer": "Konzert und Torte",
+"category": "Klassik",
+"tags": [
+"Oper und Operette",
+"Weihnachtslieder",
+"Benefiz",
+"Ukraine"
+],
+"description": "Barbara Baier (Sopran), James Clark (Tenor) und der Bariton Roman Antonyuk aus Lviv singen, begleitet von Aureliano Zattoni am Flügel, Melodien aus Oper und Operette; nach der Pause werden mit Antonyuk an der Bandura gemeinsam Weihnachtslieder gesungen. Voranmeldung bis 18. Dezember erbeten.",
+"price": "Eintritt frei, Spenden zugunsten der Ukraine erbeten",
+"url": "https://region-bayreuth.de/veranstaltung/weihnachtliches-benefizkonzert-stargast-roman-antonyuk-lviv-lemberg-bayreuth-95445-6kvis2",
+"termine": null,
+"sources": [
+"Konzert und Torte (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "04726cce14"
 },
 {
 "subtitle": null,
@@ -11588,6 +11464,30 @@
 ],
 "house": "Richard Wagner Museum",
 "id": "6229281de2"
+},
+{
+"title": "Jüdisches Leben in Franken: Mittelalter und frühe Neuzeit",
+"subtitle": null,
+"date": "2027-01-18",
+"end_date": null,
+"time": "18:30",
+"venue": "RW21 Volkshochschule – Seminarraum 3, Richard-Wagner-Straße 21",
+"organizer": "vhs Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Judentum",
+"Geschichte",
+"Franken"
+],
+"description": "Vortrag der Volkshochschule zur Geschichte jüdischen Lebens in Franken vom Mittelalter bis in die frühe Neuzeit (Kursnummer I6016); Anmeldung über die vhs.",
+"price": null,
+"url": "https://www.vhs-bayreuth.de/vortraege/kurs/Juedisches-Leben-in-Franken-Mittelalter-und-fruehe-Neuzeit/I6016",
+"termine": null,
+"sources": [
+"vhs Bayreuth"
+],
+"house": "RW21",
+"id": "ba4fc57e49"
 }
 ]
 }
