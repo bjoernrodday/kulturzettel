@@ -911,9 +911,13 @@
 {
 "name": "Konzert und Torte – Konzerte",
 "url": "https://konzertundtorte.de/konzerte"
+},
+{
+"name": "Gesangverein Concordia Laineck",
+"url": "https://www.concordia-laineck.de/3063-2/"
 }
 ],
-"updated": "2026-11-19T01:03+01:00",
+"updated": "2026-11-20T00:58+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1354,201 +1358,6 @@
 "id": "d195e686bf"
 },
 {
-"title": "Klimaklagen und ihre Auswirkungen auf die regionale Ebene",
-"subtitle": "Diskussion im Rahmen der Regionalen Klimakonferenz Oberfranken (RegioCOP 2026)",
-"date": "2026-11-19",
-"end_date": null,
-"time": "14:00",
-"venue": "neuseum – Schaufenster für Innovationen, La-Spezia-Platz 1",
-"organizer": "forum1.5",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Klima",
-"Recht",
-"Diskussion"
-],
-"description": "Im Dialog wird der Stand der Klimaklagen in Deutschland und international vorgestellt und gefragt, welche Folgen sie für regionalen Klimaschutz haben können und wie sich Verbände einbringen. Anschließend sind Fragen aus dem Publikum möglich.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/klimaklagen-auswirkungen-regionale-ebene-bayreuth-95444-9c1gad",
-"termine": null,
-"sources": [
-"forum1.5 (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "b7187b1a74"
-},
-{
-"title": "Spieletreff",
-"subtitle": "Offene Runde für Karten- und Brettspiele",
-"date": "2026-11-19",
-"end_date": "2026-12-17",
-"time": "14:00",
-"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
-"organizer": "Stadt Bayreuth – Seniorenamt",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Kartenspiele",
-"Senioren"
-],
-"description": "Offener Spielenachmittag in der Bürgerbegegnungsstätte mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
-"sources": [
-"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "d5bdf950ca",
-"termine": [
-{
-"date": "2026-11-19",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-11-26",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-03",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-10",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-17",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Koch- und Spieleabend",
-"subtitle": null,
-"date": "2026-11-19",
-"end_date": "2026-11-26",
-"time": "17:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Kochen",
-"Brettspiele",
-"wöchentlich"
-],
-"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "31ed09938e",
-"termine": [
-{
-"date": "2026-11-19",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-11-26",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Schwarze Magie: Kohlenstoffe für den Wandel in der Chemie",
-"subtitle": "JCV-Vortrag mit Prof. Dr. Markus Antonietti (MPI Potsdam)",
-"date": "2026-11-19",
-"end_date": null,
-"time": "17:00",
-"venue": "Universität Bayreuth, Gebäude NW I, Hörsaal H 14",
-"organizer": "Chemie an der Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Chemie",
-"Wissenschaft",
-"Universität"
-],
-"description": "Der Kolloidchemiker Markus Antonietti vom Max-Planck-Institut in Potsdam spricht über Kohlenstoffmaterialien und ihre Rolle für eine nachhaltigere Chemie.",
-"price": null,
-"url": "https://www.chemiestudium.uni-bayreuth.de/de/Vortraege/index.html",
-"sources": [
-"Universität Bayreuth – Chemie (Vorträge und Ringvorlesungen)"
-],
-"house": "Universität",
-"id": "3e81e2a6b5"
-},
-{
-"title": "CineArt: Chopin – Eine Sonate in Paris",
-"subtitle": null,
-"date": "2026-11-19",
-"end_date": "2026-11-24",
-"time": "17:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Biopic",
-"Musik"
-],
-"description": "Biografischer Spielfilm über Frédéric Chopin und George Sand in der Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 19.11. 17:30, So 22.11. 10:45, Di 24.11. 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "6f77022e30",
-"termine": [
-{
-"date": "2026-11-19",
-"time": "17:30",
-"hinweis": null
-},
-{
-"date": "2026-11-22",
-"time": "10:45",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Winter Beats",
-"subtitle": null,
-"date": "2026-11-19",
-"end_date": null,
-"time": "18:00",
-"venue": "Bayreuther Winterdorf, Ehrenhof",
-"organizer": "Bayreuther Winterdorf GmbH",
-"category": "Club & Party",
-"tags": [
-"Elektronische Musik",
-"DJ"
-],
-"description": "Abend mit elektronischer Musik im Winterdorf, an den Reglern stehen Robin Stöhr und Izzy.",
-"price": null,
-"url": "https://winterdorf-bayreuth.de/veranstaltungen/",
-"termine": null,
-"sources": [
-"Bayreuther Winterdorf"
-],
-"house": "Winterdorf",
-"id": "a43f188daa"
-},
-{
 "title": "#NahAmMensch – Gemeinschaftsausstellung von KunstHERZ",
 "subtitle": "Kunst im Klinikum Bayreuth",
 "date": "2026-11-19",
@@ -1572,30 +1381,6 @@
 ],
 "house": "Weitere Orte",
 "id": "ceb33ba6ab"
-},
-{
-"title": "WeinLeseabend",
-"subtitle": null,
-"date": "2026-11-19",
-"end_date": null,
-"time": "20:00",
-"venue": "Buchhandlung Rupprecht, Maximilianstraße",
-"organizer": "Buchhandlung Rupprecht",
-"category": "Literatur",
-"tags": [
-"Neuerscheinungen",
-"Buchvorstellung",
-"Wein"
-],
-"description": "Abend mit Vorstellungen neuer Bücher, dazu Wein und Gespräche in der Bayreuther Filiale der Buchhandlung Rupprecht.",
-"price": null,
-"url": "https://www.rupprecht.de/shop/magazine/96527/veranstaltungen.html",
-"termine": null,
-"sources": [
-"Hinweis: bayreuth4U"
-],
-"house": "Weitere Orte",
-"id": "e9cfb5e8ba"
 },
 {
 "title": "Bilderbuchkino: Uhuwe liest vor",
@@ -1956,12 +1741,10 @@
 "category": "Film",
 "tags": [
 "Stummfilm",
-"Klavier",
-"Live-Musik",
-"Komödie",
-"live"
+"Live-Klavier",
+"Komödie"
 ],
-"description": "Stummfilmvorführung mit Klavierbegleitung von Christoph Wünsch.",
+"description": "Stummfilmabend mit Kurzkomödien von Charley Chase und den „Kleinen Strolchen“, live am Klavier und mit computergesteuerten Klavierklängen begleitet von Christoph Wünsch.",
 "price": "5–22 €",
 "url": "https://www.steingraeber.de/veranstaltungen/stummfilm-mit-live-klavier-christoph-wuensch/",
 "sources": [
@@ -2138,7 +1921,7 @@
 "title": "Die Impro-Show!",
 "subtitle": "Mamaladnamala – Improvisationstheater",
 "date": "2026-11-20",
-"end_date": "2026-12-04",
+"end_date": "2027-01-15",
 "time": "20:00",
 "venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
 "organizer": "Mamaladnamala",
@@ -2169,6 +1952,11 @@
 },
 {
 "date": "2026-12-04",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-15",
 "time": "20:00",
 "hinweis": null
 }
@@ -2834,6 +2622,41 @@
 ],
 "house": "Clubs",
 "id": "fd9001444c"
+},
+{
+"title": "CineArt: Chopin – Eine Sonate in Paris",
+"subtitle": null,
+"date": "2026-11-22",
+"end_date": "2026-11-24",
+"time": "10:45",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Biopic",
+"Musik"
+],
+"description": "Biografischer Spielfilm über Frédéric Chopin und George Sand in der Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 19.11. 17:30, So 22.11. 10:45, Di 24.11. 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/previews-und-events",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "34d27f0a1a",
+"termine": [
+{
+"date": "2026-11-22",
+"time": "10:45",
+"hinweis": null
+},
+{
+"date": "2026-11-24",
+"time": "20:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Museumsführung im Richard Wagner Museum",
@@ -3568,7 +3391,7 @@
 "title": "Cinema Africa: Afrikanische Filmreihe",
 "subtitle": null,
 "date": "2026-11-23",
-"end_date": "2027-01-18",
+"end_date": "2027-01-19",
 "time": "18:00",
 "venue": "Cineplex Bayreuth",
 "organizer": "Africa Multiple Cluster of Excellence, Universität Bayreuth",
@@ -3578,7 +3401,7 @@
 "Afrika",
 "OmU"
 ],
-"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln); im neuen Jahr folgen am 17. Januar „Aisha can’t fly away“ von Morad Mostafa über eine junge sudanesische Pflegekraft in Kairo und am 18. Januar „Lady“ von Olive Nwosu über eine Taxifahrerin im nächtlichen Lagos.",
+"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln); im Januar folgen „Aisha can’t fly away“ (17.01.), „Lady“ (18.01.) sowie am 19.01. das Coming-of-Age-Drama „Congo Boy“ von Rafiki Fariala (18 Uhr) und „Apagamento“ von Carlos Massingue (20 Uhr).",
 "price": null,
 "url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/index.html",
 "sources": [
@@ -3606,6 +3429,16 @@
 "date": "2027-01-18",
 "time": "20:00",
 "hinweis": "Lady"
+},
+{
+"date": "2027-01-19",
+"time": "18:00",
+"hinweis": "Congo Boy"
+},
+{
+"date": "2027-01-19",
+"time": "20:00",
+"hinweis": "Apagamento"
 }
 ]
 },
@@ -3613,7 +3446,7 @@
 "title": "Die lebendige Linie: Aktzeichnen",
 "subtitle": null,
 "date": "2026-11-23",
-"end_date": null,
+"end_date": "2026-12-18",
 "time": "18:30",
 "venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
 "organizer": "Neuneinhalb e.V.",
@@ -3623,14 +3456,31 @@
 "Aktmodell",
 "Mitmachen"
 ],
-"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung; Termine am 11. und 23.11., jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
+"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung, jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
 "price": "5 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-36/edate/2026-11-11",
+"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-37/edate/2026-11-23",
 "sources": [
 "Neuneinhalb e. V."
 ],
 "house": "Neuneinhalb",
-"id": "b18e934f54"
+"id": "b18e934f54",
+"termine": [
+{
+"date": "2026-11-23",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "18:30",
+"hinweis": null
+}
+]
 },
 {
 "title": "Brettspielabend 2.0 im Haus des Spiels",
@@ -4004,7 +3854,7 @@
 "subtitle": "Offene Probe des Labortheaters Bayreuth",
 "date": "2026-11-24",
 "end_date": null,
-"time": "20:15",
+"time": "20:00",
 "venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
 "organizer": "Labortheater Bayreuth / Kunst- und Kulturhaus Neuneinhalb",
 "category": "Theater",
@@ -4051,7 +3901,7 @@
 "title": "Blood Bowl im Haus des Spiels",
 "subtitle": null,
 "date": "2026-11-25",
-"end_date": null,
+"end_date": "2027-01-13",
 "time": "19:00",
 "venue": "Haus des Spiels, Bernecker Straße 15",
 "organizer": "wundersam anders e. V.",
@@ -4062,14 +3912,56 @@
 "Spieleabend",
 "Spieltreff"
 ],
-"description": "Offener Spielabend für das Tabletop-Spiel Blood Bowl, mittwochs ab 19 Uhr.",
+"description": "Offener Spielabend und Ligabetrieb für das Tabletop-Spiel Blood Bowl, jeden Mittwoch ab 19 Uhr; Neulinge willkommen.",
 "price": null,
-"url": "https://wundersam-anders.de/kalender/",
+"url": "https://wundersam-anders.de/blood-bowl-mittwoch/",
 "sources": [
 "Haus des Spiels (wundersam anders e.V.)"
 ],
 "house": "Weitere Orte",
-"id": "a353c065cf"
+"id": "a353c065cf",
+"termine": [
+{
+"date": "2026-11-25",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-02",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-23",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-06",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-13",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Orange Day – Gemeinsam gegen Gewalt an Frauen",
@@ -4166,7 +4058,7 @@
 "title": "Salsa-Abend",
 "subtitle": null,
 "date": "2026-11-25",
-"end_date": "2026-12-09",
+"end_date": "2026-12-22",
 "time": "21:15",
 "venue": "Glashaus",
 "organizer": "Glashaus e.V.",
@@ -4189,6 +4081,11 @@
 "date": "2026-12-09",
 "time": "21:15",
 "hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "21:15",
+"hinweis": null
 }
 ],
 "sources": [
@@ -4196,6 +4093,51 @@
 ],
 "house": "Glashaus",
 "id": "0f662a429d"
+},
+{
+"title": "Spieletreff",
+"subtitle": "Offene Runde für Karten- und Brettspiele",
+"date": "2026-11-26",
+"end_date": "2026-12-17",
+"time": "14:00",
+"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
+"organizer": "Stadt Bayreuth – Seniorenamt",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Kartenspiele",
+"Senioren"
+],
+"description": "Offener Spielenachmittag in der Bürgerbegegnungsstätte mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
+"sources": [
+"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "4ec0af5059",
+"termine": [
+{
+"date": "2026-11-26",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-03",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-10",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-17",
+"time": "14:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Auftritt des kath. Kindergartens St. Vinzenz",
@@ -4243,6 +4185,29 @@
 ],
 "house": "RW21",
 "id": "372812e61d"
+},
+{
+"title": "Koch- und Spieleabend",
+"subtitle": null,
+"date": "2026-11-26",
+"end_date": null,
+"time": "17:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Kochen",
+"Brettspiele",
+"wöchentlich"
+],
+"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "8f2d8aa1e2"
 },
 {
 "title": "CineArt: Heimsuchung – Eine Jahrhundertgeschichte",
@@ -5152,6 +5117,30 @@
 "id": "a0715157cc"
 },
 {
+"title": "Marcel Benker – Live im Dorf",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": null,
+"time": "15:00",
+"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
+"organizer": "Bayreuther Winterdorf GmbH",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Live-Musik",
+"Winterdorf",
+"Hüttenabend"
+],
+"description": "Marcel Benker spielt im Winterdorf am Alten Schloss von 15 bis 19 Uhr handgemachte Volksmusik und bekannte Schlager, oft mit Gästen; anschließend legt DJ Maze bei der Dorf-Gaudi auf.",
+"price": null,
+"url": "https://winterdorf-bayreuth.de/events/marcel-benker-3-846-577/",
+"termine": null,
+"sources": [
+"Bayreuther Winterdorf"
+],
+"house": "Winterdorf",
+"id": "4e3eeb8179"
+},
+{
 "title": "Henrik und Diana Vorbröker – Bandauftritt",
 "subtitle": null,
 "date": "2026-11-28",
@@ -5454,30 +5443,6 @@
 ],
 "house": "Clubs",
 "id": "9a0deee847"
-},
-{
-"title": "Marcel Benker – Live im Dorf",
-"subtitle": null,
-"date": "2026-11-28",
-"end_date": null,
-"time": null,
-"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
-"organizer": "Bayreuther Winterdorf GmbH",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Live-Musik",
-"Winterdorf",
-"Hüttenabend"
-],
-"description": "Live-Auftritt des Musikers Marcel Benker im Winterdorf am Alten Schloss. Eine Uhrzeit nennt das Programm nicht, das Winterdorf öffnet samstags ab 11 Uhr.",
-"price": null,
-"url": "https://winterdorf-bayreuth.de/veranstaltungen/",
-"termine": null,
-"sources": [
-"Bayreuther Winterdorf"
-],
-"house": "Winterdorf",
-"id": "4e3eeb8179"
 },
 {
 "title": "Weihnachtsmarkt-Konzerte am Kulturkiosk",
@@ -5971,6 +5936,30 @@
 "id": "354aa43a48"
 },
 {
+"title": "Ö-Drei Band – Live im Dorf",
+"subtitle": "Austropop unplugged",
+"date": "2026-11-29",
+"end_date": null,
+"time": "17:00",
+"venue": "Bayreuther Winterdorf, Maximilianstraße 12–14",
+"organizer": "Bayreuther Winterdorf GmbH",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Live-Musik",
+"Austropop",
+"Winterdorf"
+],
+"description": "Die Ö-Drei Band spielt von 17 bis 21 Uhr bekannte Austropop-Titel von Fendrich, STS, Ambros, Danzer und Peter Cornelius in kleiner Unplugged-Besetzung mit Gitarre, Klavier und Percussion.",
+"price": null,
+"url": "https://winterdorf-bayreuth.de/events/silvester-im-dorf-510-279-296/",
+"termine": null,
+"sources": [
+"Bayreuther Winterdorf"
+],
+"house": "Winterdorf",
+"id": "d615fb4a94"
+},
+{
 "title": "„Zwei Monate in Frankreich“ – Erfahrungsbericht vom Schüleraustausch",
 "subtitle": null,
 "date": "2026-11-29",
@@ -6117,11 +6106,6 @@
 {
 "date": "2026-11-30",
 "time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "17:00",
 "hinweis": null
 },
 {
@@ -7250,7 +7234,7 @@
 "subtitle": null,
 "date": "2026-12-04",
 "end_date": null,
-"time": "21:00",
+"time": "20:00",
 "venue": "Glashaus",
 "organizer": "Glashaus e.V.",
 "category": "Club & Party",
@@ -7846,7 +7830,7 @@
 "title": "Tannöd – Ein Kriminalfall",
 "subtitle": "nach dem Roman von Andrea Maria Schenkel",
 "date": "2026-12-05",
-"end_date": "2026-12-31",
+"end_date": "2027-01-17",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Hauptbühne, Röntgenstraße",
 "organizer": "Studiobühne Bayreuth",
@@ -7894,6 +7878,31 @@
 },
 {
 "date": "2026-12-31",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-03",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-07",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-15",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-17",
 "time": "17:00",
 "hinweis": null
 }
@@ -8096,10 +8105,10 @@
 ],
 "description": "Zwei Kantoreien führen am 2. Advent das zeitgenössische Weihnachtsoratorium des Engländers Bob Chilcott auf, mit Vokal- und Instrumentalsolisten und dem Ensemble Terzo Brass; Leitung KMD Michael Dorn.",
 "price": "10–20 €",
-"url": "https://region-bayreuth.de/veranstaltung/bob-chilcott-a-christmas-oratorio-bayreuth-95444-fdq02y",
+"url": "https://www.stadtkirche-bayreuth.de/musik-kultur-bildung/kirchenmusik/konzerte/",
 "termine": null,
 "sources": [
-"Kirchenmusik an der Stadtkirche Bayreuth (nur Stadt, Land, Leben)"
+"Kirchenmusik an der Stadtkirche Bayreuth"
 ],
 "house": "Kirchen",
 "id": "8d13b002a1"
@@ -8175,6 +8184,29 @@
 "id": "16f74cc2a0"
 },
 {
+"title": "Allgemeine Führung durch das Friedrichsforum",
+"subtitle": "Das Friedrichsforum erleben, entdecken und verstehen",
+"date": "2026-12-07",
+"end_date": null,
+"time": "17:00",
+"venue": "Friedrichsforum",
+"organizer": "Friedrichsforum",
+"category": "Führung",
+"tags": [
+"Hausführung",
+"Architektur",
+"Bühnentechnik"
+],
+"description": "Rund einstündiger Rundgang durch ausgewählte Bereiche des Hauses zu Geschichte, Architektur, Technik und heutiger Nutzung – vom Umbau der früheren Stadthalle zum Kultur- und Veranstaltungsort.",
+"price": null,
+"url": "https://www.friedrichsforum.de/veranstaltung/20261207-allgemeine-fuehrung",
+"sources": [
+"Friedrichsforum"
+],
+"house": "Friedrichsforum",
+"id": "0d0e273286"
+},
+{
 "title": "Die legendäre Glashaus Jamsession",
 "subtitle": null,
 "date": "2026-12-07",
@@ -8244,6 +8276,30 @@
 ],
 "house": "RW21",
 "id": "68345fa388"
+},
+{
+"title": "Kunstnische Dezember: Die lebendige Linie",
+"subtitle": "Gruppenausstellung der offenen Aktzeichenrunde",
+"date": "2026-12-07",
+"end_date": null,
+"time": "19:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e.V.",
+"category": "Ausstellung",
+"tags": [
+"Zeichnung",
+"Aktzeichnen",
+"Gruppenausstellung"
+],
+"description": "Die Zeichenrunde „Die lebendige Linie“, die sich seit zwei Jahren im Neuneinhalb trifft, zeigt Aktskizzen in verschiedenen Techniken und daraus entwickelte Studien. Einlass 19 Uhr, Beginn 19.30 Uhr.",
+"price": "Eintritt frei",
+"url": "https://www.neuneinhalb.org/veranstaltungen/kunstnische-dezember-die-lebendige-linie/edate/2026-12-07",
+"termine": null,
+"sources": [
+"Neuneinhalb e. V."
+],
+"house": "Neuneinhalb",
+"id": "0d2d1ee6be"
 },
 {
 "title": "Advents- und Weihnachtslieder – Schulchor der Dr.-Kurt-Blaser-Schule",
@@ -8342,7 +8398,7 @@
 "id": "60e45b433d"
 },
 {
-"title": "Erzählcafé",
+"title": "Erzählcafé: Weihnachtszeit",
 "subtitle": null,
 "date": "2026-12-09",
 "end_date": "2027-01-13",
@@ -8357,12 +8413,12 @@
 ],
 "description": "Offene Gesprächsrunde in der Stadtbibliothek, bei der Teilnehmende Erinnerungen und Geschichten austauschen.",
 "price": null,
-"url": "https://region-bayreuth.de/veranstaltung/erzaehlcafe-bayreuth-95444-pjr6k9",
+"url": "https://www.vhs-bayreuth.de/programm/kulturelle-bildung-und-alle-vortraege/kurs/Erzaehlcaf-Weihnachtszeit/I5212?Fsize=1#inhalt",
 "sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+"vhs Bayreuth"
 ],
 "house": "RW21",
-"id": "a56f0cced3",
+"id": "0c6e068a21",
 "termine": [
 {
 "date": "2026-12-09",
@@ -9228,6 +9284,30 @@
 "id": "9f30643056"
 },
 {
+"title": "True Crime live in Bayreuth – Philipp Möller",
+"subtitle": "mit Dr. Tino Grosche",
+"date": "2026-12-15",
+"end_date": null,
+"time": "19:30",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "Blutspuren Events / Textonia GmbH",
+"category": "Vortrag & Diskurs",
+"tags": [
+"True Crime",
+"Rechtsmedizin",
+"Bühnengespräch"
+],
+"description": "Der Berliner Rechtsmediziner Philipp Möller erläutert an realen Fällen, was Obduktionen leisten können und wo forensische Grenzen liegen; Moderation: Tino Grosche.",
+"price": "34,20 €",
+"url": "https://www.das-zentrum.de/veranstaltung/true-crime-live-in-bayreuth-philipp-moeller/",
+"termine": null,
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "c1d47d84eb"
+},
+{
 "title": "Weihnachtskonzert des Orchestervereins Bayreuth",
 "subtitle": null,
 "date": "2026-12-15",
@@ -9605,7 +9685,7 @@
 "title": "Die Verwirrungen des Zöglings Törless",
 "subtitle": null,
 "date": "2026-12-18",
-"end_date": "2026-12-27",
+"end_date": "2027-01-19",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
 "organizer": "Studiobühne Bayreuth e.V.",
@@ -9633,6 +9713,21 @@
 {
 "date": "2026-12-27",
 "time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-08",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-16",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-19",
+"time": "20:00",
 "hinweis": null
 }
 ]
@@ -10024,6 +10119,30 @@
 "id": "9bedb0c4ac"
 },
 {
+"title": "Weihnachtssingen des Gesangvereins Concordia Laineck",
+"subtitle": null,
+"date": "2026-12-20",
+"end_date": null,
+"time": "16:00",
+"venue": "Kirche St. Johannes Nepomuk, Bayreuth-Laineck",
+"organizer": "Gesangverein Concordia-Laineck 1886 e.V.",
+"category": "Klassik",
+"tags": [
+"Chor",
+"Weihnachten",
+"Laineck"
+],
+"description": "Der Lainecker Gesangverein Concordia singt zur Weihnachtszeit in der Kirche St. Johannes Nepomuk.",
+"price": null,
+"url": "https://www.concordia-laineck.de/3063-2/",
+"termine": null,
+"sources": [
+"Gesangverein Concordia-Laineck"
+],
+"house": "Kirchen",
+"id": "bfe9513c7b"
+},
+{
 "title": "Weihnachtssingen im Städtischen Stadion",
 "subtitle": null,
 "date": "2026-12-20",
@@ -10091,6 +10210,30 @@
 ],
 "house": "Kirchen",
 "id": "22b6e8fa68"
+},
+{
+"title": "Weihnachtliche Kunstbetrachtung",
+"subtitle": "Vortrag mit Kunstbetrachtungen zu den christlichen Jahresfesten",
+"date": "2026-12-21",
+"end_date": null,
+"time": "19:00",
+"venue": "Rudolf Steiner Haus, Zeppelinstraße 18",
+"organizer": "Anthroposophische Gesellschaft Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Kunstbetrachtung",
+"Weihnachten",
+"Vortrag"
+],
+"description": "Christa Pfannmüller betrachtet zum Weihnachtsfest ausgewählte Kunstwerke; Teil der Reihe zu den christlichen Jahresfesten der Anthroposophischen Gesellschaft.",
+"price": null,
+"url": "https://anthroposophie-bayreuth.de/?page_id=3880",
+"termine": null,
+"sources": [
+"Anthroposophische Gesellschaft Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "d994944cb1"
 },
 {
 "title": "Dokufilmreihe „Wirklichkeiten“: Im Prinzip Familie",
@@ -10509,7 +10652,7 @@
 "title": "So wunderweiße Nächte",
 "subtitle": "Lesung mit Texten von Rainer Maria Rilke zum 100. Todestag",
 "date": "2026-12-29",
-"end_date": null,
+"end_date": "2027-01-10",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
 "organizer": "Studiobühne Bayreuth e.V.",
@@ -10522,7 +10665,18 @@
 "description": "Ein Ensemble der Studiobühne liest am 100. Todestag Rainer Maria Rilkes aus seinen Gedichten, Briefen und Aufsätzen; der Abend dauert rund eine Stunde unter der Leitung von Marieluise Müller.",
 "price": "frei (Platzreservierung erforderlich)",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2163&collection_code=produktionen",
-"termine": null,
+"termine": [
+{
+"date": "2026-12-29",
+"time": "20:00",
+"hinweis": "Premiere"
+},
+{
+"date": "2027-01-10",
+"time": "17:00",
+"hinweis": null
+}
+],
 "sources": [
 "Studiobühne Bayreuth",
 "Studiobühne Bayreuth (nur Stadt, Land, Leben)"
@@ -11039,30 +11193,6 @@
 "id": "6919b9a5d1"
 },
 {
-"title": "The Music of Hans Zimmer & Others – A Celebration of Film Music",
-"subtitle": null,
-"date": "2027-01-13",
-"end_date": null,
-"time": "20:30",
-"venue": "Oberfrankenhalle, Am Sportpark 3",
-"organizer": "Star Entertainment GmbH",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Filmmusik",
-"Orchester",
-"Chor"
-],
-"description": "Das Hollywood Philharmonic Orchestra spielt mit Chor und Solisten bekannte Filmmusik von Hans Zimmer und anderen Komponisten.",
-"price": null,
-"url": "https://www.songkick.com/concerts/43056267-music-of-hans-zimmer-at-oberfrankenhalle",
-"termine": null,
-"sources": [
-"Hinweis: songkick"
-],
-"house": "Oberfrankenhalle",
-"id": "15daa9f55b"
-},
-{
 "title": "Inheriting History: The Diek Family Archive",
 "subtitle": "Vortrag und digitale Führung mit Abenaa Adomako",
 "date": "2027-01-14",
@@ -11327,6 +11457,30 @@
 ],
 "house": "RW21",
 "id": "ba4fc57e49"
+},
+{
+"title": "Yves Macak – Best of R-zieher",
+"subtitle": null,
+"date": "2027-01-20",
+"end_date": null,
+"time": "20:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "Agentour & HumorZone GmbH",
+"category": "Kabarett & Comedy",
+"tags": [
+"Comedy",
+"Stand-up",
+"Erziehung"
+],
+"description": "Der frühere Erzieher Yves Macak zeigt Höhepunkte aus drei Programmen über den Alltag mit Kindern und Jugendlichen, mit Stand-up, Slapstick und Musik. Ersatztermin für die Vorstellung vom 14.11.2025; Karten behalten ihre Gültigkeit.",
+"price": "34,30 €",
+"url": "https://www.das-zentrum.de/veranstaltung/yves-macak-best-of-r-zieher/",
+"termine": null,
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "8f0e4df3d4"
 }
 ]
 }
