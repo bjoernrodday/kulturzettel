@@ -1,39 +1,5 @@
 {
- "date": "2026-11-18",
- "updated": "2026-11-18T01:05+01:00",
- "films": [
-  {
-   "title": "AfriKaleidoskop meets ARTE: „DR Kongo: Poetry-Slam gegen Krieg“ + „Sudan: Frauen in den Krieg“",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb (im Gerberhaus), Gerberplatz 1",
-   "runtime": null,
-   "fsk": null,
-   "genres": [
-    "Dokumentarfilm"
-   ],
-   "genres_raw": [
-    "Film",
-    "Reportage",
-    "Dokumentarfilm"
-   ],
-   "badges": [
-    "Eintritt frei",
-    "mit Filmgespräch"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:00",
-     "room": null,
-     "site": null,
-     "flags": [
-      "Einlass 18:30"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Zwei ARTE-Reportagen à 24 Min. (Regie Marion Touboul bzw. Sara Creta), danach Fragen an die Filmemacherin Laura Salm-Reifferscheidt; Ende ca. 21:00. Veranstalter: Exzellenzcluster Africa Multiple (Uni Bayreuth) mit ARTE. Sprachfassung und FSK auf der Originalseite nicht angegeben.",
-   "url": "https://www.neuneinhalb.org/veranstaltungen/afrikaleidoskop-meets-arte-6/edate/2026-11-18",
-   "source": "Neuneinhalb"
-  }
- ]
+ "date": "2026-11-19",
+ "updated": "2026-11-19T01:03+01:00",
+ "films": []
 }
