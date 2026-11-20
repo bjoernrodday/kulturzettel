@@ -1,82 +1,107 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-11-19T12:53+01:00",
+ "abgerufen": "2026-11-20T12:54+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
- "heute_bis_abruf": 7,
+ "heute_bis_abruf": 0,
  "gestern": {
-  "von": "2026-11-18",
-  "bis": "2026-11-18",
-  "besucher": 12,
+  "von": "2026-11-19",
+  "bis": "2026-11-19",
+  "besucher": 19,
   "seiten": [
+   {
+    "pfad": "/ort/kulturbuehne-reichshof.html",
+    "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 6
+   },
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
     "besucher": 5
    },
    {
-    "pfad": "/ort/kulturbuehne-reichshof.html",
-    "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
     "besucher": 3
    },
    {
-    "pfad": "/sparte/tanz.html",
-    "titel": "Tanz in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/klassik.html",
-    "titel": "Klassische Konzerte in Bayreuth – Kulturzettel",
-    "besucher": 1
+    "pfad": "/sparte/pop-rock-jazz.html",
+    "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
+    "besucher": 2
    },
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 1
+    "besucher": 2
    },
    {
-    "pfad": "/kino.html",
-    "titel": "Kinozettel Bayreuth",
+    "pfad": "/ort/studiobuehne.html",
+    "titel": "Studiobühne: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
-    "name": "chatgpt.com",
-    "besucher": 6
+    "name": "Google",
+    "besucher": 8
    },
    {
-    "name": "Google",
-    "besucher": 4
+    "name": "kulturzettel-bayreuth.de",
+    "besucher": 3
+   },
+   {
+    "name": "chatgpt.com",
+    "besucher": 2
    },
    {
     "name": "(direkt)",
     "besucher": 1
    },
    {
-    "name": "kulturzettel-bayreuth.de",
+    "name": "www.bing.com",
+    "besucher": 1
+   },
+   {
+    "name": "www.ecosia.org",
+    "besucher": 1
+   },
+   {
+    "name": "kulturtoepfe.de",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/index.html",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/sparte/pop-rock-jazz.html",
     "besucher": 1
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-11-12",
-  "bis": "2026-11-18",
-  "besucher": 77,
+  "von": "2026-11-13",
+  "bis": "2026-11-19",
+  "besucher": 91,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 31
+    "besucher": 33
    },
    {
     "pfad": "/ort/kulturbuehne-reichshof.html",
     "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 13
+    "besucher": 19
    },
    {
     "pfad": "/sparte/pop-rock-jazz.html",
     "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
-    "besucher": 7
+    "besucher": 9
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 6
    },
    {
     "pfad": "/kino.html",
@@ -84,18 +109,13 @@
     "besucher": 6
    },
    {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 5
+    "pfad": "/ueber.html",
+    "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
+    "besucher": 3
    },
    {
     "pfad": "/ort/friedrichsforum.html",
     "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 2
-   },
-   {
-    "pfad": "/sparte/games.html",
-    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
     "besucher": 2
    },
    {
@@ -114,6 +134,11 @@
     "besucher": 1
    },
    {
+    "pfad": "/ort/studiobuehne.html",
+    "titel": "Studiobühne: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
     "pfad": "/ort/kino.html",
     "titel": "Kino-Sonderveranstaltungen in Bayreuth – Kulturzettel",
     "besucher": 1
@@ -124,29 +149,24 @@
     "besucher": 1
    },
    {
+    "pfad": "/sparte/games.html",
+    "titel": "Games, LAN und E-Sport in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
     "pfad": "/ort/markgraefliches-opernhaus.html",
     "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/ort/das-zentrum.html",
-    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
-    "pfad": "/sparte/tanz.html",
-    "titel": "Tanz in Bayreuth – Kulturzettel",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
-    "name": "chatgpt.com",
+    "name": "Google",
     "besucher": 28
    },
    {
-    "name": "Google",
-    "besucher": 21
+    "name": "chatgpt.com",
+    "besucher": 27
    },
    {
     "name": "(direkt)",
@@ -154,22 +174,26 @@
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 7
+    "besucher": 10
    },
    {
     "name": "kulturtoepfe.de",
-    "besucher": 2
+    "besucher": 3
    },
    {
     "name": "www.bing.com",
-    "besucher": 1
+    "besucher": 2
    },
    {
     "name": "www.ecosia.org",
-    "besucher": 1
+    "besucher": 2
    },
    {
     "name": "perplexity",
+    "besucher": 1
+   },
+   {
+    "name": "kulturzettel-bayreuth.de/index.html",
     "besucher": 1
    },
    {
@@ -179,24 +203,24 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-10-22",
-  "bis": "2026-11-18",
-  "besucher": 347,
+  "von": "2026-10-23",
+  "bis": "2026-11-19",
+  "besucher": 360,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 167
+    "besucher": 169
    },
    {
     "pfad": "/ort/kulturbuehne-reichshof.html",
     "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 27
+    "besucher": 33
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
-    "besucher": 24
+    "besucher": 23
    },
    {
     "pfad": "/sparte/club-party.html",
@@ -206,12 +230,12 @@
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 16
+    "besucher": 18
    },
    {
     "pfad": "/sparte/pop-rock-jazz.html",
     "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
-    "besucher": 11
+    "besucher": 13
    },
    {
     "pfad": "/sparte/klassik.html",
@@ -221,7 +245,7 @@
    {
     "pfad": "/ueber.html",
     "titel": "Über den Kulturzettel – Kulturzettel Bayreuth",
-    "besucher": 8
+    "besucher": 10
    },
    {
     "pfad": "/sparte/games.html",
@@ -262,71 +286,71 @@
   "herkunft": [
    {
     "name": "chatgpt.com",
-    "besucher": 105
+    "besucher": 107
    },
    {
     "name": "(direkt)",
-    "besucher": 95
+    "besucher": 94
    },
    {
     "name": "Google",
-    "besucher": 72
+    "besucher": 80
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 26
+    "besucher": 27
    },
    {
     "name": "kulturtoepfe.de",
-    "besucher": 12
+    "besucher": 13
    },
    {
     "name": "kulturzettel-bayreuth.de/index.html",
-    "besucher": 8
+    "besucher": 9
    },
    {
     "name": "l.instagram.com",
     "besucher": 6
    },
    {
+    "name": "www.ecosia.org",
+    "besucher": 4
+   },
+   {
     "name": "www.facebook.com",
     "besucher": 4
    },
    {
-    "name": "www.ecosia.org",
-    "besucher": 3
-   },
-   {
-    "name": "perplexity",
+    "name": "www.bing.com",
     "besucher": 2
    }
   ],
   "browser": [
    {
     "name": "Chrome",
-    "besucher": 189
+    "besucher": 192
    },
    {
     "name": "Safari",
-    "besucher": 152
+    "besucher": 154
    },
    {
     "name": "Firefox",
-    "besucher": 13
+    "besucher": 14
    }
   ],
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 138
+    "besucher": 140
    },
    {
     "name": "Android",
-    "besucher": 121
+    "besucher": 129
    },
    {
     "name": "Windows",
-    "besucher": 51
+    "besucher": 52
    },
    {
     "name": "macOS",
@@ -334,13 +358,13 @@
    },
    {
     "name": "Linux",
-    "besucher": 16
+    "besucher": 11
    }
   ],
   "bildschirm": [
    {
     "name": "",
-    "besucher": 259
+    "besucher": 269
    },
    {
     "name": "",
@@ -348,7 +372,7 @@
    },
    {
     "name": "",
-    "besucher": 78
+    "besucher": 74
    },
    {
     "name": "",
@@ -362,15 +386,11 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 321
+    "besucher": 332
    },
    {
     "name": "United States",
     "besucher": 9
-   },
-   {
-    "name": "United Kingdom",
-    "besucher": 5
    },
    {
     "name": "France",
@@ -391,14 +411,14 @@
    {
     "name": "Canada",
     "besucher": 1
+   },
+   {
+    "name": "Switzerland",
+    "besucher": 1
    }
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-08-21",
-   "besucher": 0
-  },
   {
    "tag": "2026-08-22",
    "besucher": 0
@@ -757,7 +777,11 @@
   },
   {
    "tag": "2026-11-19",
-   "besucher": 0
+   "besucher": 18
+  },
+  {
+   "tag": "2026-11-20",
+   "besucher": 1
   }
  ]
 }
