@@ -1,36 +1,5 @@
 {
- "date": "2026-11-20",
- "updated": "2026-11-20T00:55+01:00",
- "films": [
-  {
-   "title": "Stummfilm mit Live-Klavier: Charley Chase & Die Kleinen Strolche",
-   "venue": "Steingraeber-Haus",
-   "runtime": null,
-   "fsk": null,
-   "genres": [
-    "Komödie",
-    "Events & Live"
-   ],
-   "genres_raw": "Stummfilm, Komödie, Live-Musik",
-   "badges": [
-    "Stummfilm",
-    "Live-Klavier"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:30",
-     "room": "Kammermusiksaal",
-     "site": null,
-     "flags": [
-      "Live-Klavier"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Stummfilmkomödien mit Live-Begleitung von Christoph Wünsch (Klavier und computergesteuerte Klavierklänge); Veranstaltung 19:30–21:30.",
-   "url": "https://www.steingraeber.de/veranstaltungen/stummfilm-mit-live-klavier-christoph-wuensch/",
-   "source": "Steingraeber & Söhne"
-  }
- ]
+ "date": "2026-11-21",
+ "updated": "2026-11-21T01:03+01:00",
+ "films": []
 }
