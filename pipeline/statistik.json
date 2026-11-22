@@ -1,62 +1,82 @@
 {
  "quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
- "abgerufen": "2026-11-21T12:25+01:00",
+ "abgerufen": "2026-11-22T12:40+01:00",
  "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
- "heute_bis_abruf": 6,
+ "heute_bis_abruf": 1,
  "gestern": {
-  "von": "2026-11-20",
-  "bis": "2026-11-20",
-  "besucher": 6,
+  "von": "2026-11-21",
+  "bis": "2026-11-21",
+  "besucher": 19,
   "seiten": [
+   {
+    "pfad": "/",
+    "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
+    "besucher": 8
+   },
    {
     "pfad": "/ort/kulturbuehne-reichshof.html",
     "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 5
+    "besucher": 4
    },
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 4
+   },
+   {
+    "pfad": "/ort/studiobuehne.html",
+    "titel": "Studiobühne: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/friedrichsforum.html",
+    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 1
+   },
+   {
+    "pfad": "/ort/markgraefliches-opernhaus.html",
+    "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
-    "name": "Google",
-    "besucher": 3
+    "name": "(direkt)",
+    "besucher": 7
    },
    {
-    "name": "(direkt)",
-    "besucher": 2
+    "name": "Google",
+    "besucher": 7
    },
    {
     "name": "chatgpt.com",
-    "besucher": 1
+    "besucher": 5
    }
   ]
  },
  "letzte_7_tage": {
-  "von": "2026-11-14",
-  "bis": "2026-11-20",
-  "besucher": 86,
+  "von": "2026-11-15",
+  "bis": "2026-11-21",
+  "besucher": 92,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 29
+    "besucher": 34
    },
    {
     "pfad": "/ort/kulturbuehne-reichshof.html",
     "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 23
-   },
-   {
-    "pfad": "/sparte/pop-rock-jazz.html",
-    "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
-    "besucher": 9
+    "besucher": 25
    },
    {
     "pfad": "/sparte/kinder-familie.html",
     "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 8
+   },
+   {
+    "pfad": "/sparte/pop-rock-jazz.html",
+    "titel": "Pop-, Rock- und Jazzkonzerte in Bayreuth – Kulturzettel",
     "besucher": 5
    },
    {
@@ -70,13 +90,18 @@
     "besucher": 3
    },
    {
+    "pfad": "/ort/studiobuehne.html",
+    "titel": "Studiobühne: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 2
+   },
+   {
     "pfad": "/ort/friedrichsforum.html",
     "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 2
    },
    {
-    "pfad": "/ort/brandenburger-kulturstadl.html",
-    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/ort/markgraefliches-opernhaus.html",
+    "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 2
    },
    {
@@ -90,11 +115,6 @@
     "besucher": 1
    },
    {
-    "pfad": "/ort/studiobuehne.html",
-    "titel": "Studiobühne: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 1
-   },
-   {
     "pfad": "/ort/kino.html",
     "titel": "Kino-Sonderveranstaltungen in Bayreuth – Kulturzettel",
     "besucher": 1
@@ -105,32 +125,32 @@
     "besucher": 1
    },
    {
-    "pfad": "/ort/markgraefliches-opernhaus.html",
-    "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/ort/brandenburger-kulturstadl.html",
+    "titel": "Brandenburger Kulturstadl: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 1
    },
    {
-    "pfad": "/ort/das-zentrum.html",
-    "titel": "Das Zentrum: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/sparte/tanz.html",
+    "titel": "Tanz in Bayreuth – Kulturzettel",
     "besucher": 1
    }
   ],
   "herkunft": [
    {
     "name": "Google",
-    "besucher": 29
+    "besucher": 33
    },
    {
     "name": "chatgpt.com",
-    "besucher": 25
+    "besucher": 23
    },
    {
     "name": "(direkt)",
-    "besucher": 15
+    "besucher": 20
    },
    {
     "name": "kulturzettel-bayreuth.de",
-    "besucher": 8
+    "besucher": 7
    },
    {
     "name": "www.bing.com",
@@ -159,29 +179,29 @@
   ]
  },
  "letzte_28_tage": {
-  "von": "2026-10-24",
-  "bis": "2026-11-20",
-  "besucher": 364,
+  "von": "2026-10-25",
+  "bis": "2026-11-21",
+  "besucher": 382,
   "seiten": [
    {
     "pfad": "/",
     "titel": "Kulturzettel Bayreuth – Veranstaltungen, Konzerte, Theater und Ausstellungen",
-    "besucher": 167
+    "besucher": 174
    },
    {
     "pfad": "/ort/kulturbuehne-reichshof.html",
     "titel": "Kulturbühne Reichshof: Programm und Termine in Bayreuth – Kulturzettel",
-    "besucher": 38
+    "besucher": 42
+   },
+   {
+    "pfad": "/sparte/kinder-familie.html",
+    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
+    "besucher": 23
    },
    {
     "pfad": "/kino.html",
     "titel": "Kinozettel Bayreuth",
     "besucher": 23
-   },
-   {
-    "pfad": "/sparte/kinder-familie.html",
-    "titel": "Kultur für Kinder und Familien in Bayreuth – Kulturzettel",
-    "besucher": 19
    },
    {
     "pfad": "/sparte/club-party.html",
@@ -214,13 +234,18 @@
     "besucher": 5
    },
    {
+    "pfad": "/ort/markgraefliches-opernhaus.html",
+    "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "besucher": 5
+   },
+   {
     "pfad": "/sparte/theater.html",
     "titel": "Theater in Bayreuth – Kulturzettel",
     "besucher": 4
    },
    {
-    "pfad": "/ort/markgraefliches-opernhaus.html",
-    "titel": "Markgräfliches Opernhaus: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/ort/friedrichsforum.html",
+    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 4
    },
    {
@@ -229,28 +254,23 @@
     "besucher": 3
    },
    {
-    "pfad": "/sparte/vortraege.html",
-    "titel": "Vorträge und Diskussionen in Bayreuth – Kulturzettel",
-    "besucher": 3
-   },
-   {
-    "pfad": "/ort/friedrichsforum.html",
-    "titel": "Friedrichsforum: Programm und Termine in Bayreuth – Kulturzettel",
+    "pfad": "/ort/studiobuehne.html",
+    "titel": "Studiobühne: Programm und Termine in Bayreuth – Kulturzettel",
     "besucher": 3
    }
   ],
   "herkunft": [
    {
     "name": "chatgpt.com",
-    "besucher": 108
+    "besucher": 113
    },
    {
     "name": "(direkt)",
-    "besucher": 94
+    "besucher": 100
    },
    {
     "name": "Google",
-    "besucher": 83
+    "besucher": 90
    },
    {
     "name": "kulturzettel-bayreuth.de",
@@ -284,33 +304,33 @@
   "browser": [
    {
     "name": "Chrome",
-    "besucher": 193
+    "besucher": 197
    },
    {
     "name": "Safari",
-    "besucher": 162
+    "besucher": 170
    },
    {
     "name": "Firefox",
-    "besucher": 15
+    "besucher": 16
    }
   ],
   "systeme": [
    {
     "name": "iOS",
-    "besucher": 147
+    "besucher": 155
    },
    {
     "name": "Android",
-    "besucher": 130
+    "besucher": 133
    },
    {
     "name": "Windows",
-    "besucher": 53
+    "besucher": 54
    },
    {
     "name": "macOS",
-    "besucher": 29
+    "besucher": 30
    },
    {
     "name": "Linux",
@@ -320,7 +340,7 @@
   "bildschirm": [
    {
     "name": "",
-    "besucher": 277
+    "besucher": 288
    },
    {
     "name": "",
@@ -328,7 +348,7 @@
    },
    {
     "name": "",
-    "besucher": 75
+    "besucher": 77
    },
    {
     "name": "",
@@ -342,7 +362,7 @@
   "laender": [
    {
     "name": "Germany",
-    "besucher": 341
+    "besucher": 354
    },
    {
     "name": "United States",
@@ -375,10 +395,6 @@
   ]
  },
  "verlauf_90_tage": [
-  {
-   "tag": "2026-08-23",
-   "besucher": 0
-  },
   {
    "tag": "2026-08-24",
    "besucher": 0
@@ -737,7 +753,11 @@
   },
   {
    "tag": "2026-11-21",
-   "besucher": 0
+   "besucher": 18
+  },
+  {
+   "tag": "2026-11-22",
+   "besucher": 1
   }
  ]
 }
