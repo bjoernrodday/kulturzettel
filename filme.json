@@ -1,95 +1,38 @@
 {
- "date": "2026-11-22",
- "updated": "2026-11-22T00:43:36+01:00",
+ "date": "2026-11-23",
+ "updated": "2026-11-23T01:13:50+01:00",
  "films": [
   {
-   "title": "Petite Maman – Als wir Kinder waren",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 73,
-   "fsk": 0,
-   "genres": [
-    "Drama",
-    "Kinder & Familie"
-   ],
-   "genres_raw": [],
-   "badges": [
-    "Vis-à-vis",
-    "OmU"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "16:00",
-     "room": null,
-     "site": null,
-     "flags": [
-      "OmU"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Reihe „Vis-à-vis: Frankreich im Fokus“ von Kino ist Programm. F 2021, Regie Céline Sciamma. Eintritt 7 €, Kinder 4 €, kein Vorverkauf, Reservierung per E-Mail.",
-   "url": "https://kino-ist-programm.de/petite-maman-als-wir-kinder-waren/",
-   "source": "Kino ist Programm"
-  },
-  {
-   "title": "Gelobt sei Gott – Grâce à Dieu",
-   "venue": "Kunst- und Kulturhaus Neuneinhalb",
-   "runtime": 138,
+   "title": "Das Deutsche Volk",
+   "venue": "Friedrichsforum – Kleiner Saal",
+   "runtime": 132,
    "fsk": 6,
    "genres": [
-    "Drama"
-   ],
-   "genres_raw": [],
-   "badges": [
-    "Vis-à-vis",
-    "OmU"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:00",
-     "room": null,
-     "site": null,
-     "flags": [
-      "OmU"
-     ]
-    }
-   ],
-   "more": false,
-   "note": "Reihe „Vis-à-vis: Frankreich im Fokus“ von Kino ist Programm. F 2019, Regie François Ozon, nach wahren Begebenheiten. Eintritt 7 €, Kinder 4 €, kein Vorverkauf.",
-   "url": "https://kino-ist-programm.de/gelobt-sei-gott-grace-a-dieu/",
-   "source": "Kino ist Programm"
-  },
-  {
-   "title": "Lichtspielhaus: Fantasyfilme (Publikumswahl)",
-   "venue": "Glashaus",
-   "runtime": null,
-   "fsk": null,
-   "genres": [
-    "Science-Fiction & Fantasy"
+    "Dokumentarfilm"
    ],
    "genres_raw": [
-    "Fantasyfilme"
+    "Dokumentarfilm",
+    "Dokufilmreihe „Wirklichkeiten“",
+    "Schwarz-Weiß",
+    "Deutschland 2025"
    ],
    "badges": [
-    "Lichtspielhaus"
+    "Filmgespräch",
+    "Dokufilmreihe „Wirklichkeiten“"
    ],
    "week": null,
    "shows": [
     {
      "time": "19:00",
-     "room": null,
+     "room": "Kleiner Saal",
      "site": null,
-     "flags": [
-      "OV mit engl. UT (wenn möglich)"
-     ]
+     "flags": []
     }
    ],
    "more": false,
-   "note": "Drei Fantasyfilme werden vorgestellt, das Publikum stimmt ab, welcher läuft (Titel vorab nicht genannt). Einlass 18:30, Zutritt ab 18 Jahren; Eintritt frei mit Glashaus-Mitgliedschaft (Monat 1 €).",
-   "url": "https://www.glashaus.org/programm/lichtspielhaus-260308-2-2-2-2-2-2",
-   "source": "Glashaus e.V."
+   "note": "Langzeitbeobachtung von Marcin Wierzchowski über Hinterbliebene und Überlebende des rassistischen Anschlags in Hanau 2020; der Regisseur kommt zum Nachgespräch. Einlass Saal 18:30 Uhr. Laufzeit laut Friedrichsforum 132 Min. (filmportal.de: 138 Min.); FSK ab 6 laut filmportal.de, auf der Veranstaltungsseite nicht genannt.",
+   "url": "https://www.friedrichsforum.de/veranstaltung/20261123-dokufilmreihe-wirklichkeiten-das-deutsche-volk",
+   "source": "Friedrichsforum"
   }
  ]
 }
