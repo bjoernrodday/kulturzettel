@@ -1,38 +1,5 @@
 {
- "date": "2026-11-23",
- "updated": "2026-11-23T01:13:50+01:00",
- "films": [
-  {
-   "title": "Das Deutsche Volk",
-   "venue": "Friedrichsforum – Kleiner Saal",
-   "runtime": 132,
-   "fsk": 6,
-   "genres": [
-    "Dokumentarfilm"
-   ],
-   "genres_raw": [
-    "Dokumentarfilm",
-    "Dokufilmreihe „Wirklichkeiten“",
-    "Schwarz-Weiß",
-    "Deutschland 2025"
-   ],
-   "badges": [
-    "Filmgespräch",
-    "Dokufilmreihe „Wirklichkeiten“"
-   ],
-   "week": null,
-   "shows": [
-    {
-     "time": "19:00",
-     "room": "Kleiner Saal",
-     "site": null,
-     "flags": []
-    }
-   ],
-   "more": false,
-   "note": "Langzeitbeobachtung von Marcin Wierzchowski über Hinterbliebene und Überlebende des rassistischen Anschlags in Hanau 2020; der Regisseur kommt zum Nachgespräch. Einlass Saal 18:30 Uhr. Laufzeit laut Friedrichsforum 132 Min. (filmportal.de: 138 Min.); FSK ab 6 laut filmportal.de, auf der Veranstaltungsseite nicht genannt.",
-   "url": "https://www.friedrichsforum.de/veranstaltung/20261123-dokufilmreihe-wirklichkeiten-das-deutsche-volk",
-   "source": "Friedrichsforum"
-  }
- ]
+ "date": "2026-11-24",
+ "updated": "2026-11-24T01:02:58+01:00",
+ "films": []
 }

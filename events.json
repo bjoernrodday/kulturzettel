@@ -943,9 +943,21 @@
 {
 "name": "Kino ist Programm – Sonderveranstaltungen",
 "url": "https://www.kino-ist-programm.de/sonderveranstaltungen.html"
+},
+{
+"name": "Kino ist Programm – Programmkino",
+"url": "https://kino-ist-programm.de/programmkino/"
+},
+{
+"name": "Schokofabrik – Programm",
+"url": "https://www.schoko-bayreuth.de/programm/"
+},
+{
+"name": "Das Zentrum – Familie",
+"url": "https://www.das-zentrum.de/veranstaltungen/kategorie/familie/"
 }
 ],
-"updated": "2026-11-23T01:13+01:00",
+"updated": "2026-11-24T01:02+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1389,7 +1401,7 @@
 {
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
-"date": "2026-11-23",
+"date": "2026-11-24",
 "end_date": "2027-01-06",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
@@ -1412,13 +1424,8 @@
 "Bayreuth Tourismus, Führungsprogramm 2026"
 ],
 "house": "Stadtführungen",
-"id": "5cfaf37080",
+"id": "e2d237cda0",
 "termine": [
-{
-"date": "2026-11-23",
-"time": "10:30",
-"hinweis": null
-},
 {
 "date": "2026-11-24",
 "time": "10:30",
@@ -1632,406 +1639,6 @@
 ]
 },
 {
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": "2026-11-30",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "766ca32489",
-"termine": [
-{
-"date": "2026-11-23",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-25",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "15:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kunst & Krümel",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": "2026-12-22",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Familie",
-"offenes Angebot"
-],
-"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-14",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-21",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "eb1ab03a3c"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": "im Vereinskalender als „Kunst & Krümel“",
-"date": "2026-11-23",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "4dbdef8ba4",
-"termine": [
-{
-"date": "2026-11-23",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Figurentheater: Die kleine Eule feiert Weihnachten",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": null,
-"time": "16:00",
-"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
-"organizer": "Bilderbuchtheater Christian Sperlich",
-"category": "Kinder & Familie",
-"tags": [
-"Figurentheater",
-"Kinder ab 3",
-"Bilderbuch"
-],
-"description": "Figurenspiel vor einem großen Bilderbuch für Kinder ab drei Jahren: Die kleine Eule soll vor Weihnachten umziehen und will ihre Freunde nicht verlassen. Dauer etwa 50 Minuten, mit Reimen zum Mitmachen.",
-"price": "11 €",
-"url": "https://www.das-zentrum.de/veranstaltung/die-kleine-eule-feiert-weihnachten/",
-"sources": [
-"Das Zentrum"
-],
-"house": "Das Zentrum",
-"id": "37eda38f4c"
-},
-{
-"title": "Cinema Africa: Afrikanische Filmreihe",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": "2027-01-20",
-"time": "18:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Africa Multiple Cluster of Excellence, Universität Bayreuth",
-"category": "Film",
-"tags": [
-"Filmreihe",
-"Afrika",
-"OmU"
-],
-"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln); im Januar folgen „Aisha can’t fly away“ (17.01.), „Lady“ (18.01.) sowie am 19.01. das Coming-of-Age-Drama „Congo Boy“ von Rafiki Fariala (18 Uhr) und „Apagamento“ von Carlos Massingue (20 Uhr); zum Abschluss am 20.01. die kenianische Tragikomödie „Bufis“ (20 Uhr) mit Publikumsgespräch mit Regisseur Mahad Ahmed.",
-"price": null,
-"url": "https://www.africamultiple.uni-bayreuth.de/en/news/2026/2026-10-01_Cinema-Africa/index.html",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "dd3abcb64f",
-"termine": [
-{
-"date": "2026-11-23",
-"time": "18:00",
-"hinweis": "Hanami (OmU dt.)"
-},
-{
-"date": "2026-11-23",
-"time": "20:00",
-"hinweis": "Hanami (OmU engl.)"
-},
-{
-"date": "2027-01-17",
-"time": "20:00",
-"hinweis": "Aisha can’t fly away"
-},
-{
-"date": "2027-01-18",
-"time": "20:00",
-"hinweis": "Lady"
-},
-{
-"date": "2027-01-19",
-"time": "18:00",
-"hinweis": "Congo Boy"
-},
-{
-"date": "2027-01-19",
-"time": "20:00",
-"hinweis": "Apagamento"
-},
-{
-"date": "2027-01-20",
-"time": "20:00",
-"hinweis": "Bufis (Abschlussfilm, Regisseur Mahad Ahmed zu Gast)"
-}
-]
-},
-{
-"title": "Die lebendige Linie: Aktzeichnen",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": "2026-12-18",
-"time": "18:30",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb e.V.",
-"category": "Ausstellung",
-"tags": [
-"Zeichnen",
-"Aktmodell",
-"Mitmachen"
-],
-"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung, jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
-"price": "5 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-37/edate/2026-11-23",
-"sources": [
-"Neuneinhalb e. V."
-],
-"house": "Neuneinhalb",
-"id": "b18e934f54",
-"termine": [
-{
-"date": "2026-11-23",
-"time": "18:30",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "18:30",
-"hinweis": null
-},
-{
-"date": "2026-12-18",
-"time": "18:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Brettspielabend 2.0 im Haus des Spiels",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": "2027-01-18",
-"time": "19:00",
-"venue": "Haus des Spiels, Berneckerstraße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"offener Treff"
-],
-"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
-"price": "frei",
-"url": "https://wundersam-anders.de/2026/10/28/montags-spieleabend/",
-"sources": [
-"wundersam anders e. V.",
-"Wundersam anders e.V. (Haus des Spiels)",
-"wundersam anders e.V."
-],
-"house": "Weitere Orte",
-"id": "70eae52f1f",
-"termine": [
-{
-"date": "2026-11-23",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-14",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-21",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-28",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2027-01-04",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2027-01-11",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2027-01-18",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Dokufilmreihe „Wirklichkeiten“: Das Deutsche Volk",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": null,
-"time": "19:00",
-"venue": "Friedrichsforum – Kleiner Saal",
-"organizer": "Friedrichsforum",
-"category": "Film",
-"tags": [
-"Dokumentarfilm",
-"Hanau",
-"Erinnerung"
-],
-"description": "Dokumentarfilm über die Folgen des Anschlags von Hanau, über Trauer und Erinnerung.",
-"price": null,
-"url": "https://www.friedrichsforum.de/veranstaltung/20261123-dokufilmreihe-wirklichkeiten-das-deutsche-volk",
-"sources": [
-"Friedrichsforum",
-"Friedrichsforum Bayreuth"
-],
-"house": "Friedrichsforum",
-"id": "f1b2b46cfb"
-},
-{
-"title": "Künstliche Intelligenz 2.0 – Die Enzyklika „Magnifica humanitas“",
-"subtitle": null,
-"date": "2026-11-23",
-"end_date": null,
-"time": "19:30",
-"venue": "Kath. Gemeindezentrum St. Benedikt",
-"organizer": "KEB St. Benedikt",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Künstliche Intelligenz",
-"Soziallehre",
-"Ethik"
-],
-"description": "Vortrag über das Lehrschreiben von Papst Leo XIV., das die katholische Soziallehre im Blick auf künstliche Intelligenz weiterschreibt.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/kuenstliche-intelligenz-2-0-enzyklika-magnifica-humanitas-bayreuth-95448-aocxje",
-"termine": null,
-"sources": [
-"KEB St. Benedikt (nur Stadt, Land, Leben)"
-],
-"house": "Das Zentrum",
-"id": "fd7fe214e7"
-},
-{
 "title": "Kuratorenführung im Richard Wagner Museum",
 "subtitle": "dienstags 14 Uhr",
 "date": "2026-11-24",
@@ -2106,6 +1713,111 @@
 ],
 "house": "Weitere Orte",
 "id": "2fcc83316b"
+},
+{
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-24",
+"end_date": "2026-12-22",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-07",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-14",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-21",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "11b47e8484"
+},
+{
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-24",
+"end_date": "2026-11-30",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "6b7e50644b",
+"termine": [
+{
+"date": "2026-11-24",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+}
+]
 },
 {
 "subtitle": "Raffael Beier, Ph.D. (TU Dortmund)",
@@ -2361,28 +2073,65 @@
 "id": "c649e9c44a"
 },
 {
-"title": "Des Kaisers ganz neue Kleider – Offene Probe",
-"subtitle": "Offene Probe des Labortheaters Bayreuth",
+"title": "Von Engeln, Clowns und Enten – Musikalische Lesung",
+"subtitle": "Süb-Theater zu Gast (anstelle des Labortheaters)",
 "date": "2026-11-24",
 "end_date": null,
-"time": "20:00",
+"time": "20:15",
 "venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Labortheater Bayreuth / Kunst- und Kulturhaus Neuneinhalb",
-"category": "Theater",
+"organizer": "Neuneinhalb / Süb-Theater",
+"category": "Literatur",
 "tags": [
-"Forumtheater",
-"Offene Probe",
-"Mitmachen"
+"Lesung",
+"Musik",
+"Geschichten"
 ],
-"description": "Das Labortheater Bayreuth zeigt eine Probe seines neuen Stücks, das nach den Methoden des Forumtheaters entsteht. Das Publikum kann zusehen, Vorschläge einbringen oder selbst mitspielen; Vorkenntnisse sind nicht nötig.",
+"description": "Werner Hildenbrand liest unveröffentlichte fantastische Geschichten von Silvia Guhr, Jürgen Skambraks begleitet musikalisch. Einlass 20 Uhr.",
 "price": "2 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/des-kaisers-ganz-neue-kleider-offene-probe/edate/2026-11-24",
+"url": "https://www.neuneinhalb.org/veranstaltungen/programmaenderung-sueb-theater-musikalische-lesung/edate/2026-11-24",
+"termine": null,
 "sources": [
-"Neuneinhalb",
-"Kunst- und Kulturhaus Neuneinhalb"
+"Neuneinhalb"
 ],
 "house": "Neuneinhalb",
-"id": "1e2d5dcb0b"
+"id": "cc639a86a0"
+},
+{
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-11-25",
+"end_date": "2026-11-30",
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "c6487d2baa",
+"termine": [
+{
+"date": "2026-11-25",
+"time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-11-30",
+"time": "15:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Kaffee, Klatsch & Kino: Der Spaziergang nach Syrakus",
@@ -3147,7 +2896,7 @@
 "title": "Bayreuther Katakomben – Führung",
 "subtitle": "Die Stadt unter der Stadt",
 "date": "2026-11-27",
-"end_date": "2027-01-22",
+"end_date": "2027-01-23",
 "time": "16:00",
 "venue": "Maisel & Friends, Andreas-Maisel-Weg 1",
 "organizer": "Maisel & Friends",
@@ -3284,6 +3033,11 @@
 },
 {
 "date": "2027-01-22",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-23",
 "time": "16:00",
 "hinweis": null
 }
@@ -4284,6 +4038,30 @@
 ],
 "house": "Winterdorf",
 "id": "4e3eeb8179"
+},
+{
+"title": "Ein Geschenk für alle – Adventsaktion von Stadtmission und Jean Paul Art Space",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": null,
+"time": "16:00",
+"venue": "Jean Paul Art Space, Friedrichstraße 5, und Stadtmission, Sophienstraße 23",
+"organizer": "Jean Paul Kulturverein / Stadtmission Bayreuth",
+"category": "Ausstellung",
+"tags": [
+"Galerie",
+"Live-Musik",
+"Advent"
+],
+"description": "Zum ersten Advent laden der Jean Paul Art Space und die Stadtmission von 16 bis 22 Uhr zu Ausstellung und handgemachter Live-Musik an beiden Orten ein; wer beide besucht, bekommt eine kleine Weihnachtsüberraschung.",
+"price": null,
+"url": "https://jean-paul-kulturverein.de/portfolio-items/die-stadtmission-jean-paul-artspace-aktion-ein-geschenk-fuer-alle-am-samstag-28-11-2026/",
+"termine": null,
+"sources": [
+"Jean Paul Kulturverein"
+],
+"house": "Weitere Orte",
+"id": "13187539af"
 },
 {
 "title": "Henrik und Diana Vorbröker – Bandauftritt",
@@ -5336,6 +5114,73 @@
 ],
 "house": "RW21",
 "id": "09703d3135"
+},
+{
+"title": "Brettspielabend 2.0 im Haus des Spiels",
+"subtitle": null,
+"date": "2026-11-30",
+"end_date": "2027-01-18",
+"time": "19:00",
+"venue": "Haus des Spiels, Berneckerstraße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"offener Treff"
+],
+"description": "Offener Brettspielabend montags ab 19 Uhr im Haus des Spiels mit großer Spielesammlung; an einzelnen Abenden bringt der Verlag Frosted Games Prototypen zum Testen mit.",
+"price": "frei",
+"url": "https://wundersam-anders.de/2026/10/28/montags-spieleabend/",
+"sources": [
+"wundersam anders e. V.",
+"Wundersam anders e.V. (Haus des Spiels)",
+"wundersam anders e.V."
+],
+"house": "Weitere Orte",
+"id": "9efe9735b5",
+"termine": [
+{
+"date": "2026-11-30",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-07",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-14",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-21",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-28",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-04",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-11",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-18",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Dokufilmreihe „Wirklichkeiten“: Was haben wir gelacht",
@@ -6541,6 +6386,30 @@
 ],
 "house": "Glashaus",
 "id": "9d269e6283"
+},
+{
+"title": "Fever Dream",
+"subtitle": null,
+"date": "2026-12-04",
+"end_date": null,
+"time": "23:00",
+"venue": "FABRIK Bayreuth, Erlanger Straße 2",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Club",
+"Party",
+"All Night Long"
+],
+"description": "Clubnacht in der FABRIK, angekündigt als „All Night Long“.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "582657b6f3"
 },
 {
 "title": "Führung: Köstliches Bayreuth",
@@ -7842,6 +7711,41 @@
 "id": "4834ea7600"
 },
 {
+"title": "Die lebendige Linie: Aktzeichnen",
+"subtitle": null,
+"date": "2026-12-09",
+"end_date": "2026-12-18",
+"time": "18:30",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Neuneinhalb e.V.",
+"category": "Ausstellung",
+"tags": [
+"Zeichnen",
+"Aktmodell",
+"Mitmachen"
+],
+"description": "Freies Zeichnen nach Aktmodell mit wechselnden Kurz- und Langposen, ohne Anleitung, jeweils 18.30–20.30 Uhr. Material selbst mitbringen, Einlass nur bis 18.45 Uhr.",
+"price": "5 €",
+"url": "https://www.neuneinhalb.org/veranstaltungen/die-lebendige-linie-aktzeichnen-37/edate/2026-11-23",
+"sources": [
+"Neuneinhalb e. V."
+],
+"house": "Neuneinhalb",
+"id": "9539efcc6c",
+"termine": [
+{
+"date": "2026-12-09",
+"time": "18:30",
+"hinweis": null
+},
+{
+"date": "2026-12-18",
+"time": "18:30",
+"hinweis": null
+}
+]
+},
+{
 "title": "Posaunenchor Eckersdorf",
 "subtitle": null,
 "date": "2026-12-09",
@@ -9084,7 +8988,7 @@
 "title": "Die Verwirrungen des Zöglings Törless",
 "subtitle": null,
 "date": "2026-12-18",
-"end_date": "2027-01-22",
+"end_date": "2027-01-24",
 "time": "20:00",
 "venue": "Studiobühne Bayreuth – Saal, Röntgenstraße 2",
 "organizer": "Studiobühne Bayreuth e.V.",
@@ -9132,6 +9036,11 @@
 {
 "date": "2027-01-22",
 "time": "20:00",
+"hinweis": null
+},
+{
+"date": "2027-01-24",
+"time": "17:00",
 "hinweis": null
 }
 ]
@@ -9390,7 +9299,7 @@
 "id": "5b5a13eea7"
 },
 {
-"title": "M.B.I.N.I.T. – Xmas Edition",
+"title": "M.B.I.N.I.T. – One Last Time",
 "subtitle": "mit Marbelz und DJ Bump",
 "date": "2026-12-19",
 "end_date": null,
@@ -9411,7 +9320,7 @@
 "FABRIK Bayreuth"
 ],
 "house": "Clubs",
-"id": "0f55dbc499"
+"id": "06aaed4fc8"
 },
 {
 "title": "Abenteuer Opernhaus – Führung hinter die Kulissen",
@@ -9708,6 +9617,31 @@
 ],
 "house": "Weitere Orte",
 "id": "1c11a80830"
+},
+{
+"title": "Homecoming Party",
+"subtitle": null,
+"date": "2026-12-23",
+"end_date": null,
+"time": "21:00",
+"venue": "FABRIK Bayreuth, Erlanger Straße 2",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Club",
+"Rap",
+"House",
+"Techno"
+],
+"description": "Party am Abend vor Heiligabend mit Rap, House, Disco, Techno und Party-Klassikern; Einlass ab 21 Uhr.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "a56b109610"
 },
 {
 "title": "Lichterglanz und Sternenklang",
@@ -10113,6 +10047,30 @@
 "id": "b946d46299"
 },
 {
+"title": "The Last Dance – FABRIK Closing",
+"subtitle": "Silvesterparty",
+"date": "2026-12-31",
+"end_date": null,
+"time": null,
+"venue": "FABRIK Bayreuth, Erlanger Straße 2",
+"organizer": "FABRIK Bayreuth",
+"category": "Club & Party",
+"tags": [
+"Silvester",
+"Club",
+"Abschied"
+],
+"description": "Silvesterparty unter dem Motto „One Last Time“, laut Club als Abschluss („Closing“) der FABRIK angekündigt.",
+"price": null,
+"url": "https://fabrik-bayreuth.com/events",
+"termine": null,
+"sources": [
+"FABRIK Bayreuth"
+],
+"house": "Clubs",
+"id": "a6bd76c698"
+},
+{
 "title": "Winterruhe? Von wegen! Spaziergang im ÖBG",
 "subtitle": "Führung",
 "date": "2027-01-03",
@@ -10468,7 +10426,7 @@
 },
 {
 "date": "2027-01-21",
-"time": "17:00",
+"time": "19:00",
 "hinweis": null
 }
 ]
@@ -10885,6 +10843,56 @@
 "id": "6229281de2"
 },
 {
+"title": "Cinema Africa: Afrikanische Filmreihe",
+"subtitle": null,
+"date": "2027-01-17",
+"end_date": "2027-01-20",
+"time": "20:00",
+"venue": "Cineplex Bayreuth",
+"organizer": "Africa Multiple Cluster of Excellence, Universität Bayreuth",
+"category": "Film",
+"tags": [
+"Filmreihe",
+"Afrika",
+"OmU"
+],
+"description": "Filmreihe mit aktuellen Produktionen aus Afrika in Originalfassung mit Untertiteln: „Hanami“ (23.11., 18 Uhr mit deutschen, 20 Uhr mit englischen Untertiteln); im Januar folgen „Aisha can’t fly away“ (17.01.), „Lady“ (18.01.) sowie am 19.01. das Coming-of-Age-Drama „Congo Boy“ von Rafiki Fariala (18 Uhr) und „Apagamento“ von Carlos Massingue (20 Uhr); zum Abschluss am 20.01. die kenianische Tragikomödie „Bufis“ (20 Uhr) mit Publikumsgespräch mit Regisseur Mahad Ahmed.",
+"price": null,
+"url": "https://www.africamultiple.uni-bayreuth.de/en/news/2026/2026-10-01_Cinema-Africa/index.html",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "0454e39bee",
+"termine": [
+{
+"date": "2027-01-17",
+"time": "20:00",
+"hinweis": "Aisha can’t fly away"
+},
+{
+"date": "2027-01-18",
+"time": "20:00",
+"hinweis": "Lady"
+},
+{
+"date": "2027-01-19",
+"time": "18:00",
+"hinweis": "Congo Boy"
+},
+{
+"date": "2027-01-19",
+"time": "20:00",
+"hinweis": "Apagamento"
+},
+{
+"date": "2027-01-20",
+"time": "20:00",
+"hinweis": "Bufis (Abschlussfilm, Regisseur Mahad Ahmed zu Gast)"
+}
+]
+},
+{
 "title": "Jüdisches Leben in Franken: Mittelalter und frühe Neuzeit",
 "subtitle": null,
 "date": "2027-01-18",
@@ -11021,10 +11029,10 @@
 ],
 "description": "Inklusive Führung durch die Ausstellung „A. D. Trantenroth – Objekte und Gedanken aus dem Künstlernachlass“ für hörende und gehörlose Besucher, simultan in Deutsche Gebärdensprache übersetzt.",
 "price": null,
-"url": "https://www.bayreuth-news.de/veranstaltungen/touren/barrierefrei-a-d-trantenroth-inklusiv-26102306093563",
+"url": "https://region-bayreuth.de/veranstaltung/barrierefrei-a-d-trantenroth-inklusiv-bayreuth-95444-szyvsz",
 "termine": null,
 "sources": [
-"Hinweis: bayreuth-news"
+"Kunstmuseum Bayreuth (nur Stadt, Land, Leben)"
 ],
 "house": "Kunstmuseum",
 "id": "f02f665ce3"
@@ -11222,6 +11230,102 @@
 ],
 "house": "Weitere Orte",
 "id": "2de2fbf854"
+},
+{
+"title": "Willi live – Und wovon träumst du?",
+"subtitle": "Die Show über Träume, Mut und das Leben",
+"date": "2027-01-24",
+"end_date": null,
+"time": "15:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": null,
+"category": "Kinder & Familie",
+"tags": [
+"Familienshow",
+"Willi Weitzel",
+"Live-Show"
+],
+"description": "Willi Weitzel, bekannt aus „Willi wills wissen“, erzählt in seiner Bühnenshow für Kinder und Erwachsene von Träumen und Mut.",
+"price": "32,50 €",
+"url": "https://www.das-zentrum.de/veranstaltung/willi-live-und-wovon-traeumst-du/",
+"termine": null,
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "51283faa0b"
+},
+{
+"title": "Die Purpursegel – L'Envol",
+"subtitle": "Film von Pietro Marcello (OmU)",
+"date": "2027-01-24",
+"end_date": null,
+"time": "16:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kino ist Programm e.V.",
+"category": "Film",
+"tags": [
+"Programmkino",
+"Frankreich",
+"OmU"
+],
+"description": "Pietro Marcellos Film von 2022 erzählt von Juliette, die nach dem Ersten Weltkrieg in Nordfrankreich bei ihrem Vater aufwächst und an eine Prophezeiung von einem purpurnen Segel glaubt. Gezeigt in Originalfassung mit Untertiteln.",
+"price": "7 €, Kinder 4 €",
+"url": "https://kino-ist-programm.de/die-purpursegel-lenvol/",
+"termine": null,
+"sources": [
+"Kino ist Programm"
+],
+"house": "Neuneinhalb",
+"id": "4deffa7563"
+},
+{
+"title": "Konzert mit „Jugend musiziert“-Teilnehmenden",
+"subtitle": "Städtische Musikschule Bayreuth",
+"date": "2027-01-24",
+"end_date": null,
+"time": "17:00",
+"venue": "Richard-Wagner-Saal, Brandenburger Straße 15",
+"organizer": "Städtische Musikschule Bayreuth",
+"category": "Klassik",
+"tags": [
+"Musikschule",
+"Jugend musiziert",
+"Nachwuchs"
+],
+"description": "Schülerinnen und Schüler der Städtischen Musikschule spielen Ausschnitte aus ihren Wettbewerbsprogrammen für „Jugend musiziert“.",
+"price": "Eintritt frei",
+"url": "https://musikschule.bayreuth.de/veranstaltung/konzert-mit-jugend-musiziert-teilnehmenden_2027/",
+"termine": null,
+"sources": [
+"Städtische Musikschule Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "accdcbdf05"
+},
+{
+"title": "Die Unerwünschten – Les Indésirables – Bâtiment 5",
+"subtitle": "Film von Ladj Ly (OmU)",
+"date": "2027-01-24",
+"end_date": null,
+"time": "19:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kino ist Programm e.V.",
+"category": "Film",
+"tags": [
+"Programmkino",
+"Frankreich",
+"OmU"
+],
+"description": "Ladj Lys Drama von 2023 über eine junge Verwaltungsangestellte, die im Streit um die Sanierung eines Arbeiterviertels bei der Bürgermeisterwahl antritt. Originalfassung mit Untertiteln, kein Vorverkauf.",
+"price": "7 €, Kinder 4 €",
+"url": "https://kino-ist-programm.de/die-unerwuenschten-les-indesirables-batiment-5/",
+"termine": null,
+"sources": [
+"Kino ist Programm"
+],
+"house": "Neuneinhalb",
+"id": "6586959d60"
 }
 ]
 }
