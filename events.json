@@ -957,7 +957,7 @@
 "url": "https://www.das-zentrum.de/veranstaltungen/kategorie/familie/"
 }
 ],
-"updated": "2026-11-24T01:02+01:00",
+"updated": "2026-11-25T00:58+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1401,7 +1401,7 @@
 {
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
-"date": "2026-11-24",
+"date": "2026-11-25",
 "end_date": "2027-01-06",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
@@ -1424,13 +1424,8 @@
 "Bayreuth Tourismus, Führungsprogramm 2026"
 ],
 "house": "Stadtführungen",
-"id": "e2d237cda0",
+"id": "e9e5180957",
 "termine": [
-{
-"date": "2026-11-24",
-"time": "10:30",
-"hinweis": null
-},
 {
 "date": "2026-11-25",
 "time": "10:30",
@@ -1637,464 +1632,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Kuratorenführung im Richard Wagner Museum",
-"subtitle": "dienstags 14 Uhr",
-"date": "2026-11-24",
-"end_date": "2026-12-22",
-"time": "14:00",
-"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
-"organizer": "Richard Wagner Museum",
-"category": "Führung",
-"tags": [
-"Wagner",
-"Kuratoren",
-"Museum",
-"Kurator",
-"dienstags"
-],
-"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
-"price": "3 € zzgl. Eintritt",
-"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
-"sources": [
-"Richard Wagner Museum"
-],
-"house": "Richard Wagner Museum",
-"id": "1d49ad5069",
-"termine": [
-{
-"date": "2026-11-24",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Spielecafé im Haus des Spiels",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": null,
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spielecafé",
-"offener Treff"
-],
-"description": "Nachmittags-Spielecafé von 15 bis 18 Uhr mit Heißgetränken und Zugriff auf eine Sammlung von mehr als 1.300 Brettspielen; offen für Gelegenheits- wie Vielspieler, allein oder in Gruppen.",
-"price": null,
-"url": "https://wundersam-anders.de/2026/11/03/spielecafe/",
-"termine": null,
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "2fcc83316b"
-},
-{
-"title": "Kunst & Krümel",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": "2026-12-22",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Familie",
-"offenes Angebot"
-],
-"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"termine": [
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-07",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-14",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-21",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "16:00",
-"hinweis": null
-}
-],
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "11b47e8484"
-},
-{
-"title": "Wundersame Kreativzeit",
-"subtitle": "im Vereinskalender als „Kunst & Krümel“",
-"date": "2026-11-24",
-"end_date": "2026-11-30",
-"time": "16:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Kinder & Familie",
-"tags": [
-"Basteln",
-"Kinder",
-"offenes Angebot"
-],
-"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "6b7e50644b",
-"termine": [
-{
-"date": "2026-11-24",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"subtitle": "Raffael Beier, Ph.D. (TU Dortmund)",
-"end_date": null,
-"time": "16:00",
-"organizer": "Geographisches Institut der Universität Bayreuth",
-"price": "Eintritt frei",
-"termine": null,
-"title": "The Missing People of State-Subsidized Housing",
-"date": "2026-11-24",
-"venue": "Universität Bayreuth – Gebäude GEO I, Hörsaal H6, Universitätsstraße 30",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Geographie",
-"Wohnungsbau",
-"Afrika",
-"englisch"
-],
-"description": "Englischsprachiger Vortrag im Geographischen Kolloquium darüber, warum viele Berechtigte in staatlich geförderten Wohnsiedlungen afrikanischer Städte nicht selbst wohnen und wohin sie weiterziehen.",
-"url": "https://www.geographie.uni-bayreuth.de/pool/dokumente/sonstiges/kolloquien/Kolloquium-WS26_27/2026-27-Wintersemester-Geogr_-Kolloquium-A0-aktualisiert-_1_.pdf",
-"sources": [
-"Geographisches Institut der Universität Bayreuth"
-],
-"house": "Universität",
-"id": "77deca0236"
-},
-{
-"title": "Pub&Go Spieleabend",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": "2026-12-15",
-"time": "17:00",
-"venue": "Pub&Go Bayreuth, Sophienstraße 4",
-"organizer": "Pub&Go Bayreuth",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Spieleabend",
-"wöchentlich",
-"dienstags"
-],
-"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
-"price": null,
-"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
-"sources": [
-"Pub&Go",
-"Pub&Go Bayreuth"
-],
-"house": "Weitere Orte",
-"id": "73b2267550",
-"termine": [
-{
-"date": "2026-11-24",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-08",
-"time": "17:00",
-"hinweis": null
-},
-{
-"date": "2026-12-15",
-"time": "17:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Gedankenspiele",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": "2026-12-29",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Denkspiele",
-"Austausch",
-"Spieleabend"
-],
-"description": "Gesprächsabend im Haus des Spiels, bei dem zu „Was wäre, wenn …?“-Fragen frei philosophiert wird; Zuhören und Mitreden sind gleichermaßen möglich.",
-"price": "Eintritt frei",
-"url": "https://wundersam-anders.de/gedankenspiele/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "05c564f821",
-"termine": [
-{
-"date": "2026-11-24",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-29",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Cel Ray",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": null,
-"time": "19:00",
-"venue": "Schokofabrik Bayreuth, Gaußstraße 6",
-"organizer": "Schoko e. V.",
-"category": "Pop, Rock & Jazz",
-"tags": [
-"Post-Punk",
-"Live",
-"Band"
-],
-"description": "Das Lo-Fi-Post-Punk-Quartett aus Chicago um Sängerin Maddie Daviss spielt live in der Schokofabrik.",
-"price": "Eintritt frei (Hutsammlung)",
-"url": "https://www.schoko-bayreuth.de/event/konzert-cel-ray-chicago-us/",
-"termine": null,
-"sources": [
-"Schokofabrik Bayreuth"
-],
-"house": "Clubs",
-"id": "2a73abf684"
-},
-{
-"title": "Sagenlesung mit Dr. Adrian Roßner",
-"subtitle": "mit Dr. Adrian Roßner",
-"date": "2026-11-24",
-"end_date": null,
-"time": "19:00",
-"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
-"organizer": "Katholische Erwachsenenbildung Bayreuth-Hof-Kulmbach",
-"category": "Literatur",
-"tags": [
-"Lesung",
-"Sagen",
-"Fichtelgebirge"
-],
-"description": "Der Heimatforscher Adrian Roßner trägt Sagen und Legenden aus dem Fichtelgebirge vor, angelehnt an die winterlichen Erzählabende der fränkischen Rockenstuben.",
-"price": "Eintritt frei",
-"url": "https://www.das-zentrum.de/veranstaltung/sagenlesung-mit-dr-adrian-rossner/",
-"sources": [
-"DAS ZENTRUM",
-"KEB Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Das Zentrum",
-"id": "4ce9b7f910"
-},
-{
-"title": "Tannöd – Ein Kriminalfall: Öffentliche Probe",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": null,
-"time": "19:00",
-"venue": "Studiobühne Bayreuth – Hauptbühne, Röntgenstraße",
-"organizer": "Studiobühne Bayreuth e.V.",
-"category": "Theater",
-"tags": [
-"Schauspiel",
-"Krimi",
-"Probe",
-"Eintritt frei"
-],
-"description": "Öffentliche Probe zur Bühnenfassung von Andrea Maria Schenkels Roman über einen Mehrfachmord auf einem abgelegenen Hof, vor der Premiere am 5. Dezember. Der Eintritt ist frei.",
-"price": "Eintritt frei",
-"url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2166&collection_code=produktionen",
-"sources": [
-"Studiobühne Bayreuth"
-],
-"house": "Studiobühne",
-"id": "70d17687d9"
-},
-{
-"title": "Bayreuther Poetry Slam",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": null,
-"time": "19:30",
-"venue": "Liebesbier – Brausaal, Andreas-Maisel-Weg 1",
-"organizer": "Liebesbier",
-"category": "Literatur",
-"tags": [
-"Poetry Slam",
-"Bühnenpoesie",
-"Bühnenliteratur",
-"Wettbewerb",
-"Spoken Word"
-],
-"description": "Wettbewerb, bei dem Slammer eigene Texte vortragen und das Publikum entscheidet.",
-"price": "8–10 €",
-"url": "https://www.liebesbier.de/de/events/poetry-slam-24112026-5201/",
-"sources": [
-"Liebesbier",
-"Maisel & Friends / Liebesbier",
-"Maisel & Friends",
-"Liebesbier (Maisel & Friends)"
-],
-"house": "Liebesbier",
-"id": "cdd2df20bc"
-},
-{
-"title": "CineArt: Chopin – Eine Sonate in Paris",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Biopic",
-"Musik"
-],
-"description": "Biografischer Spielfilm über Frédéric Chopin und George Sand in der Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 19.11. 17:30, So 22.11. 10:45, Di 24.11. 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "4ccf6f175a"
-},
-{
-"title": "Anime: Puella Magi Madoka Magica – Walpurgisnacht: Rising",
-"subtitle": null,
-"date": "2026-11-24",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": null,
-"category": "Film",
-"tags": [
-"Anime",
-"Filmreihe",
-"OmU"
-],
-"description": "Anime-Abend im Cineplex mit dem neuen Kinofilm der Madoka-Magica-Reihe in Originalfassung mit Untertiteln.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "c649e9c44a"
-},
-{
-"title": "Von Engeln, Clowns und Enten – Musikalische Lesung",
-"subtitle": "Süb-Theater zu Gast (anstelle des Labortheaters)",
-"date": "2026-11-24",
-"end_date": null,
-"time": "20:15",
-"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
-"organizer": "Neuneinhalb / Süb-Theater",
-"category": "Literatur",
-"tags": [
-"Lesung",
-"Musik",
-"Geschichten"
-],
-"description": "Werner Hildenbrand liest unveröffentlichte fantastische Geschichten von Silvia Guhr, Jürgen Skambraks begleitet musikalisch. Einlass 20 Uhr.",
-"price": "2 €",
-"url": "https://www.neuneinhalb.org/veranstaltungen/programmaenderung-sueb-theater-musikalische-lesung/edate/2026-11-24",
-"termine": null,
-"sources": [
-"Neuneinhalb"
-],
-"house": "Neuneinhalb",
-"id": "cc639a86a0"
 },
 {
 "title": "Escape Room Werkstatt",
@@ -4157,7 +3694,7 @@
 },
 {
 "date": "2026-11-29",
-"time": "16:00",
+"time": "15:00",
 "hinweis": null
 }
 ],
@@ -4745,7 +4282,7 @@
 "Fabel",
 "Peter Ensikat"
 ],
-"description": "Kinderstück nach dem Märchen vom Wettlauf zwischen Hase und Igel, sonntags um 15 Uhr auf der Hauptbühne.",
+"description": "Kinderstück nach dem Märchen vom Wettlauf zwischen Hase und Igel, sonntags um 15 Uhr auf der Hauptbühne; am 13. und 20. Dezember zusätzlich um 17 Uhr.",
 "price": "13 €, ermäßigt 7 €",
 "url": "https://www.studiobuehne-bayreuth.de/theater/de/spielplan/produktion/?collection_id=2165",
 "sources": [
@@ -4773,8 +4310,18 @@
 "hinweis": null
 },
 {
+"date": "2026-12-13",
+"time": "17:00",
+"hinweis": null
+},
+{
 "date": "2026-12-20",
 "time": "15:00",
+"hinweis": null
+},
+{
+"date": "2026-12-20",
+"time": "17:00",
 "hinweis": null
 },
 {
@@ -5056,6 +4603,94 @@
 "id": "c7fab9c2a6"
 },
 {
+"title": "Kunst & Krümel",
+"subtitle": null,
+"date": "2026-11-30",
+"end_date": "2026-12-22",
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Familie",
+"offenes Angebot"
+],
+"description": "Offene Kreativnachmittage für Kinder und Erwachsene: bis Weihnachten werden Kerzen gegossen, Winterkarten gestaltet und Schlüsselanhänger gebastelt.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"termine": [
+{
+"date": "2026-11-30",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-07",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-14",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-21",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "16:00",
+"hinweis": null
+}
+],
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "306f8beb16"
+},
+{
+"title": "Wundersame Kreativzeit",
+"subtitle": "im Vereinskalender als „Kunst & Krümel“",
+"date": "2026-11-30",
+"end_date": null,
+"time": "16:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Kinder & Familie",
+"tags": [
+"Basteln",
+"Kinder",
+"offenes Angebot"
+],
+"description": "Offene Kreativzeit für alle, ausdrücklich auch Eltern mit Kindern: Zeichnen, Schreiben, Basteln und Handarbeit, wöchentlich montags und dienstags von 16 bis 18:30 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "017980c059"
+},
+{
 "title": "Historische Führung durch das Friedrichsforum",
 "subtitle": "Das Friedrichsforum als Spiegel der Stadtgeschichte",
 "date": "2026-11-30",
@@ -5119,7 +4754,7 @@
 "title": "Brettspielabend 2.0 im Haus des Spiels",
 "subtitle": null,
 "date": "2026-11-30",
-"end_date": "2027-01-18",
+"end_date": "2027-01-25",
 "time": "19:00",
 "venue": "Haus des Spiels, Berneckerstraße 15",
 "organizer": "wundersam anders e. V.",
@@ -5179,6 +4814,11 @@
 "date": "2027-01-18",
 "time": "19:00",
 "hinweis": null
+},
+{
+"date": "2027-01-25",
+"time": "19:00",
+"hinweis": null
 }
 ]
 },
@@ -5235,6 +4875,53 @@
 "id": "f72af60622"
 },
 {
+"title": "Kuratorenführung im Richard Wagner Museum",
+"subtitle": "dienstags 14 Uhr",
+"date": "2026-12-01",
+"end_date": "2026-12-22",
+"time": "14:00",
+"venue": "Richard Wagner Museum, Richard-Wagner-Straße 48",
+"organizer": "Richard Wagner Museum",
+"category": "Führung",
+"tags": [
+"Wagner",
+"Kuratoren",
+"Museum",
+"Kurator",
+"dienstags"
+],
+"description": "Führung mit dem Kurator durch die drei Häuser des Museums, dienstags um 14 Uhr, Dauer etwa 90 Minuten; 5 bis 20 Personen, Anmeldung bis Sonntag 17 Uhr.",
+"price": "3 € zzgl. Eintritt",
+"url": "https://www.wagnermuseum.de/informationen/veranstaltungen/",
+"sources": [
+"Richard Wagner Museum"
+],
+"house": "Richard Wagner Museum",
+"id": "a4409d6960",
+"termine": [
+{
+"date": "2026-12-01",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "14:00",
+"hinweis": null
+}
+]
+},
+{
 "subtitle": "GIB Lecture Series – Prof. Julia Steinberger (Universität Lausanne)",
 "end_date": null,
 "time": "16:00",
@@ -5258,6 +4945,48 @@
 ],
 "house": "Universität",
 "id": "3ceade701a"
+},
+{
+"title": "Pub&Go Spieleabend",
+"subtitle": null,
+"date": "2026-12-01",
+"end_date": "2026-12-15",
+"time": "17:00",
+"venue": "Pub&Go Bayreuth, Sophienstraße 4",
+"organizer": "Pub&Go Bayreuth",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Spieleabend",
+"wöchentlich",
+"dienstags"
+],
+"description": "Jeden Dienstag 17 bis 22 Uhr offener Brettspielabend; zwei Getränke und Snackbuffet inklusive, max. 30 Plätze, Anmeldung nötig.",
+"price": null,
+"url": "https://www.pubandgo.de/spieleabend?standort=bayreuth",
+"sources": [
+"Pub&Go",
+"Pub&Go Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "d491058896",
+"termine": [
+{
+"date": "2026-12-01",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-08",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2026-12-15",
+"time": "17:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Posaunenchor St. Georgen",
@@ -5760,6 +5489,30 @@
 ],
 "house": "Friedrichsforum",
 "id": "056f21f0e9"
+},
+{
+"title": "Kino Jenseits: Trickfilmpionierinnen",
+"subtitle": null,
+"date": "2026-12-02",
+"end_date": null,
+"time": "20:00",
+"venue": "Kunst- und Kulturhaus Neuneinhalb, Gerberplatz 1",
+"organizer": "Kino Jenseits",
+"category": "Film",
+"tags": [
+"Animationsfilm",
+"Filmgeschichte",
+"Filmemacherinnen"
+],
+"description": "Lorenz Goger stellt ein Kurzfilmprogramm mit Animationsfilmen von Regisseurinnen aus über hundert Jahren Filmgeschichte vor; die einzelnen Filme werden vorab nicht genannt.",
+"price": "Eintritt frei, Spende erbeten",
+"url": "https://www.neuneinhalb.org/veranstaltungen/kino-jenseits-trickfilmpionierinnen/edate/2026-12-02",
+"termine": null,
+"sources": [
+"Neuneinhalb"
+],
+"house": "Neuneinhalb",
+"id": "0d472efdac"
 },
 {
 "title": "Jan Philipp Zymny: Illegale Straßentherapie",
@@ -7236,7 +6989,7 @@
 "title": "Sonntag im Museum – Kunst macht Spaß",
 "subtitle": null,
 "date": "2026-12-06",
-"end_date": "2027-01-10",
+"end_date": "2027-01-24",
 "time": "16:00",
 "venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
 "organizer": "Kunstmuseum Bayreuth",
@@ -7246,7 +6999,7 @@
 "Malen",
 "Kunstvermittlung"
 ],
-"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 22.11., 6.12., 20.12. und 10.1.; Anmeldung unter 0921/7645310.",
+"description": "Praktisches Gestalten im Museum unter Leitung von Ingrid Seidel, jeweils 16–19 Uhr am 6.12., 20.12., 10.1. und 24.1.; Anmeldung unter 0921/7645310.",
 "price": "15 € pro Termin zzgl. Material",
 "url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
 "sources": [
@@ -7267,6 +7020,11 @@
 },
 {
 "date": "2027-01-10",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-24",
 "time": "16:00",
 "hinweis": null
 }
@@ -7430,7 +7188,7 @@
 "title": "Allgemeine Führung durch das Friedrichsforum",
 "subtitle": "Das Friedrichsforum erleben, entdecken und verstehen",
 "date": "2026-12-07",
-"end_date": null,
+"end_date": "2027-01-25",
 "time": "17:00",
 "venue": "Friedrichsforum",
 "organizer": "Friedrichsforum",
@@ -7447,7 +7205,19 @@
 "Friedrichsforum"
 ],
 "house": "Friedrichsforum",
-"id": "0d0e273286"
+"id": "0d0e273286",
+"termine": [
+{
+"date": "2026-12-07",
+"time": "17:00",
+"hinweis": null
+},
+{
+"date": "2027-01-25",
+"time": "17:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Die legendäre Glashaus Jamsession",
@@ -9952,6 +9722,29 @@
 "id": "9a8f4dc383"
 },
 {
+"title": "Gedankenspiele",
+"subtitle": null,
+"date": "2026-12-29",
+"end_date": null,
+"time": "19:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Denkspiele",
+"Austausch",
+"Spieleabend"
+],
+"description": "Gesprächsabend im Haus des Spiels, bei dem zu „Was wäre, wenn …?“-Fragen frei philosophiert wird; Zuhören und Mitreden sind gleichermaßen möglich.",
+"price": "Eintritt frei",
+"url": "https://wundersam-anders.de/gedankenspiele/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "f5f712037b"
+},
+{
 "title": "Das Kriminal Dinner: Der Polterabendkiller",
 "subtitle": null,
 "date": "2026-12-29",
@@ -11232,6 +11025,55 @@
 "id": "2de2fbf854"
 },
 {
+"title": "Täterorte",
+"subtitle": "Stadtrundgang zur NS-Geschichte Bayreuths",
+"date": "2027-01-24",
+"end_date": null,
+"time": "14:00",
+"venue": "Historisches Museum Bayreuth, Kirchplatz 4 (Treffpunkt)",
+"organizer": "Historisches Museum Bayreuth",
+"category": "Führung",
+"tags": [
+"Stadtführung",
+"NS-Zeit",
+"Stadtgeschichte"
+],
+"description": "Rundgang zu ausgewählten Orten über die Innenstadt hinaus, an denen sich die Geschichte Bayreuths in der NS-Zeit nachvollziehen lässt. Gute Trittsicherheit wird vorausgesetzt.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/taeterorte-bayreuth-95444-kop9zm",
+"termine": null,
+"sources": [
+"Historisches Museum Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Historisches Museum",
+"id": "da452adac2"
+},
+{
+"title": "Chorkonzert mit der Bayerischen Landesjugendkantorei",
+"subtitle": "„Jesu, meine Freude“",
+"date": "2027-01-24",
+"end_date": null,
+"time": "15:00",
+"venue": "Stadtkirche Bayreuth, Kirchplatz 1",
+"organizer": "Kirchenmusik an der Stadtkirche Bayreuth",
+"category": "Klassik",
+"tags": [
+"Chor",
+"A cappella",
+"Bach",
+"Brahms"
+],
+"description": "Die Bayerische Landesjugendkantorei singt zum Abschluss ihrer Arbeitsphase in Bayreuth Chorwerke von Bach, Brahms, Duruflé und anderen; das Konzert dauert etwa 75 Minuten.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/chorkonzert-bayerischen-landesjugendkantorei-bayreuth-95444-m62962",
+"termine": null,
+"sources": [
+"Kirchenmusik an der Stadtkirche Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Kirchen",
+"id": "84badc8dd2"
+},
+{
 "title": "Willi live – Und wovon träumst du?",
 "subtitle": "Die Show über Träume, Mut und das Leben",
 "date": "2027-01-24",
@@ -11326,6 +11168,54 @@
 ],
 "house": "Neuneinhalb",
 "id": "6586959d60"
+},
+{
+"title": "Führung im Stadtarchiv Bayreuth",
+"subtitle": null,
+"date": "2027-01-25",
+"end_date": null,
+"time": "15:00",
+"venue": "Stadtarchiv Bayreuth, Seestraße 1",
+"organizer": "Stadtarchiv Bayreuth",
+"category": "Führung",
+"tags": [
+"Stadtgeschichte",
+"Archiv",
+"Blick hinter die Kulissen"
+],
+"description": "Rundgang durch Magazine und Bestände des Stadtarchivs mit Einblick in Akten, Karten, Protokolle und Chroniken sowie in die Arbeit des Archivs.",
+"price": "Eintritt frei",
+"url": "https://region-bayreuth.de/veranstaltung/fuehrung-im-stadtarchiv-bayreuth-95448-v4dhmz",
+"termine": null,
+"sources": [
+"Stadtarchiv Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "c586964151"
+},
+{
+"title": "Bridgerton – Musik bei Kerzenschein",
+"subtitle": null,
+"date": "2027-01-25",
+"end_date": null,
+"time": "19:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": null,
+"category": "Klassik",
+"tags": [
+"Kerzenschein",
+"Crossover",
+"Serienmusik"
+],
+"description": "Konzert bei Kerzenlicht mit Musik zur Serie „Bridgerton“; die Veranstaltung dauert etwa anderthalb Stunden (19 bis 20:30 Uhr).",
+"price": "39,90 €",
+"url": "https://www.das-zentrum.de/veranstaltung/bridgerton-musik-bei-kerzenschein/",
+"termine": null,
+"sources": [
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "4b4cd137d0"
 }
 ]
 }
