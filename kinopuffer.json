@@ -1,589 +1,7 @@
 {
- "abgerufen": "2026-11-25T07:35+01:00",
+ "abgerufen": "2026-11-26T07:10+01:00",
  "quelle": "Cineplex Bayreuth, https://www.cineplex.de/bayreuth/programm (Abruf über Chrome)",
  "tage": {
-  "2026-11-25": {
-   "vollstaendig": true,
-   "films": [
-    {
-     "title": "Spaziergang nach Syrakus",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 98,
-     "fsk": 6,
-     "genres": [
-      "Drama"
-     ],
-     "genres_raw": [
-      "Drama"
-     ],
-     "badges": [],
-     "week": 14,
-     "shows": [
-      {
-       "time": "14:30",
-       "room": "Kino 8",
-       "site": "Haupthaus",
-       "flags": [
-        "VPT Intense",
-        "Kaffee, Klatsch & Kino",
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "15:00",
-       "room": "Kino 6",
-       "site": "Haupthaus",
-       "flags": [
-        "Kaffee, Klatsch & Kino",
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/spaziergang-nach-syrakus-DC141000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Wildwood",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 131,
-     "fsk": 12,
-     "genres": [
-      "Drama",
-      "Animation",
-      "Action & Abenteuer"
-     ],
-     "genres_raw": [
-      "Drama",
-      "Animation",
-      "Abenteuer"
-     ],
-     "badges": [],
-     "week": 3,
-     "shows": [
-      {
-       "time": "16:00",
-       "room": "Kino 2",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/wildwood-51341000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Der Regenbogenfisch",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 68,
-     "fsk": 0,
-     "genres": [
-      "Kinder & Familie",
-      "Action & Abenteuer"
-     ],
-     "genres_raw": [
-      "Familienfilm",
-      "Abenteuer"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "16:00",
-       "room": "Kino 5",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/der-regenbogenfisch-0B141000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Shaun das Schaf - Spuk im Kürbisfeld",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 80,
-     "fsk": 0,
-     "genres": [
-      "Animation",
-      "Kinder & Familie",
-      "Komödie"
-     ],
-     "genres_raw": [
-      "Animation",
-      "Familienfilm",
-      "Komödie"
-     ],
-     "badges": [],
-     "week": 8,
-     "shows": [
-      {
-       "time": "16:15",
-       "room": "Kino 3",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/shaun-das-schaf-spuk-im-kuerbisfeld-04041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Verity - Dunkle Geheimnisse",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 118,
-     "fsk": 12,
-     "genres": [
-      "Thriller & Krimi"
-     ],
-     "genres_raw": [
-      "Thriller"
-     ],
-     "badges": [],
-     "week": 8,
-     "shows": [
-      {
-       "time": "16:15",
-       "room": "Kino 1",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/verity-dunkle-geheimnisse-43041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Die Tribute von Panem - Sunrise on the Reaping",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 160,
-     "fsk": 12,
-     "genres": [
-      "Action & Abenteuer",
-      "Drama"
-     ],
-     "genres_raw": [
-      "Abenteuer",
-      "Drama",
-      "Action"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "16:30",
-       "room": "4DX",
-       "site": "Haupthaus",
-       "flags": [
-        "4DX"
-       ]
-      },
-      {
-       "time": "16:30",
-       "room": "ULTIMATE. Studio 7",
-       "site": "Haupthaus",
-       "flags": [
-        "D-BOX",
-        "Dolby Atmos",
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "19:00",
-       "room": "F&G 4",
-       "site": "Franz & Gloria",
-       "flags": [
-        "Dolby Atmos",
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "19:45",
-       "room": "Kino 8",
-       "site": "Haupthaus",
-       "flags": [
-        "VPT Intense",
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/die-tribute-von-panem-sunrise-on-the-reaping-C1041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 108,
-     "fsk": 6,
-     "genres": [
-      "Komödie",
-      "Drama"
-     ],
-     "genres_raw": [
-      "Komödie",
-      "Drama"
-     ],
-     "badges": [
-      "NEU"
-     ],
-     "week": 1,
-     "shows": [
-      {
-       "time": "17:00",
-       "room": "Kino 8",
-       "site": "Haupthaus",
-       "flags": [
-        "VPT Intense",
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:30",
-       "room": "F&G 1",
-       "site": "Franz & Gloria",
-       "flags": [
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:45",
-       "room": "Kino 3",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/lieblingsmenschen-die-aussergewoehnliche-freundschaft-von-agnes-und-amir-CA141000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Der perfekte Urlaub",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 125,
-     "fsk": 12,
-     "genres": [
-      "Komödie"
-     ],
-     "genres_raw": [
-      "Komödie"
-     ],
-     "badges": [],
-     "week": 5,
-     "shows": [
-      {
-       "time": "17:15",
-       "room": "Kino 6",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "19:30",
-       "room": "F&G 3",
-       "site": "Franz & Gloria",
-       "flags": [
-        "Dolby Atmos",
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:15",
-       "room": "Kino 6",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/der-perfekte-urlaub-F0041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Ebenezer - Eine Weihnachtsgeschichte",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 116,
-     "fsk": 12,
-     "genres": [
-      "Drama"
-     ],
-     "genres_raw": [
-      "Drama"
-     ],
-     "badges": [],
-     "week": 2,
-     "shows": [
-      {
-       "time": "18:00",
-       "room": "Kino 5",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:45",
-       "room": "Kino 5",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:50",
-       "room": "F&G 2",
-       "site": "Franz & Gloria",
-       "flags": [
-        "Dolby Atmos",
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/ebenezer-eine-weihnachtsgeschichte-14041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Ein Talent fürs Morden",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 106,
-     "fsk": 12,
-     "genres": [
-      "Drama"
-     ],
-     "genres_raw": [
-      "Drama"
-     ],
-     "badges": [],
-     "week": 3,
-     "shows": [
-      {
-       "time": "18:15",
-       "room": "Kino 3",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/ein-talent-fuers-morden-10341000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Kommissar Jennerwein - Hochsaison",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 97,
-     "fsk": 12,
-     "genres": [
-      "Komödie"
-     ],
-     "genres_raw": [
-      "Komödie"
-     ],
-     "badges": [],
-     "week": 3,
-     "shows": [
-      {
-       "time": "19:00",
-       "room": "Kino 1",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/kommissar-jennerwein-hochsaison-B3041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Other Mommy",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 94,
-     "fsk": 16,
-     "genres": [
-      "Horror"
-     ],
-     "genres_raw": [
-      "Horrorfilm"
-     ],
-     "badges": [],
-     "week": 4,
-     "shows": [
-      {
-       "time": "19:00",
-       "room": "Kino 2",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/other-mommy-31041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Meine Frau, unsere Schwiegertochter und ich",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 106,
-     "fsk": 6,
-     "genres": [
-      "Komödie"
-     ],
-     "genres_raw": [
-      "Komödie"
-     ],
-     "badges": [],
-     "week": null,
-     "shows": [
-      {
-       "time": "20:00",
-       "room": "ULTIMATE. Studio 7",
-       "site": "Haupthaus",
-       "flags": [
-        "D-BOX",
-        "Emotions Preview",
-        "Barrierefrei"
-       ]
-      },
-      {
-       "time": "20:00",
-       "room": "F&G 5",
-       "site": "Franz & Gloria",
-       "flags": [
-        "Emotions Preview",
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/meine-frau-unsere-schwiegertochter-und-ich-81041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Godzilla Minus Zero",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 135,
-     "fsk": 12,
-     "genres": [
-      "Action & Abenteuer",
-      "Drama"
-     ],
-     "genres_raw": [
-      "Action",
-      "Abenteuer",
-      "Drama"
-     ],
-     "badges": [],
-     "week": 3,
-     "shows": [
-      {
-       "time": "20:00",
-       "room": "4DX",
-       "site": "Haupthaus",
-       "flags": [
-        "4DX"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/godzilla-minus-zero-D1341000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "Wild Horse Nine",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 118,
-     "fsk": 12,
-     "genres": [
-      "Thriller & Krimi",
-      "Komödie"
-     ],
-     "genres_raw": [
-      "Thriller",
-      "Komödie"
-     ],
-     "badges": [],
-     "week": 2,
-     "shows": [
-      {
-       "time": "21:15",
-       "room": "Kino 2",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/wild-horse-nine-24241000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    },
-    {
-     "title": "How to Rob a Bank",
-     "venue": "Cineplex Bayreuth",
-     "runtime": 123,
-     "fsk": 12,
-     "genres": [
-      "Komödie",
-      "Action & Abenteuer"
-     ],
-     "genres_raw": [
-      "Komödie",
-      "Action"
-     ],
-     "badges": [],
-     "week": 2,
-     "shows": [
-      {
-       "time": "21:15",
-       "room": "Kino 1",
-       "site": "Haupthaus",
-       "flags": [
-        "Barrierefrei"
-       ]
-      }
-     ],
-     "more": false,
-     "note": null,
-     "url": "https://www.cineplex.de/bayreuth/film/how-to-rob-a-bank-4D041000012FWBXJYB",
-     "source": "Cineplex Bayreuth"
-    }
-   ]
-  },
   "2026-11-26": {
    "vollstaendig": true,
    "films": [
@@ -598,7 +16,9 @@
      "genres_raw": [
       "Drama"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -635,7 +55,9 @@
      "genres_raw": [
       "Animation"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -682,9 +104,7 @@
       "Familienfilm",
       "Abenteuer"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -747,9 +167,7 @@
       "Drama",
       "Action"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -892,7 +310,9 @@
      "genres_raw": [
       "Komödie"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -975,9 +395,7 @@
       "Komödie",
       "Drama"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -1093,7 +511,9 @@
      "genres_raw": [
       "Drama"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -1129,7 +549,9 @@
      "genres_raw": [
       "Komödie"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -1184,7 +606,9 @@
      "genres_raw": [
       "Animation"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -1286,9 +710,7 @@
       "Familienfilm",
       "Abenteuer"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -1319,9 +741,7 @@
       "Drama",
       "Action"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -1476,9 +896,7 @@
       "Komödie",
       "Drama"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -1649,7 +1067,9 @@
      "genres_raw": [
       "Komödie"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -1754,7 +1174,9 @@
      "genres_raw": [
       "Animation"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -1982,9 +1404,7 @@
       "Drama",
       "Action"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -2080,7 +1500,9 @@
       "Familienfilm",
       "Komödie"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -2110,9 +1532,7 @@
       "Familienfilm",
       "Abenteuer"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -2180,9 +1600,7 @@
       "Komödie",
       "Drama"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -2323,7 +1741,9 @@
      "genres_raw": [
       "Drama"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -2576,9 +1996,7 @@
       "Drama",
       "Action"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -2691,7 +2109,9 @@
      "genres_raw": [
       "Drama"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -2737,7 +2157,9 @@
      "genres_raw": [
       "Animation"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -2860,6 +2282,7 @@
       "Komödie"
      ],
      "badges": [
+      "NEU",
       "Specials"
      ],
      "week": 1,
@@ -3021,7 +2444,9 @@
      "genres_raw": [
       "Komödie"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -3086,9 +2511,7 @@
       "Familienfilm",
       "Abenteuer"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -3129,7 +2552,9 @@
       "Familienfilm",
       "Komödie"
      ],
-     "badges": [],
+     "badges": [
+      "NEU"
+     ],
      "week": 1,
      "shows": [
       {
@@ -3159,9 +2584,7 @@
       "Komödie",
       "Drama"
      ],
-     "badges": [
-      "NEU"
-     ],
+     "badges": [],
      "week": 2,
      "shows": [
       {
@@ -3492,6 +2915,536 @@
      "more": false,
      "note": null,
      "url": "https://www.cineplex.de/bayreuth/film/double-feature-i-play-rocky-rocky-ov-38441000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Other Mommy",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 94,
+     "fsk": 16,
+     "genres": [
+      "Horror"
+     ],
+     "genres_raw": [
+      "Horrorfilm"
+     ],
+     "badges": [],
+     "week": 5,
+     "shows": [
+      {
+       "time": "21:15",
+       "room": "Kino 2",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/other-mommy-31041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    }
+   ]
+  },
+  "2026-11-30": {
+   "vollstaendig": true,
+   "films": [
+    {
+     "title": "Auf der Suche nach der Weihnachtswerkstatt",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 73,
+     "fsk": 0,
+     "genres": [
+      "Animation",
+      "Kinder & Familie",
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Animation",
+      "Familienfilm",
+      "Komödie"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "16:00",
+       "room": "ULTIMATE. Studio 7",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/auf-der-suche-nach-der-weihnachtswerkstatt-EA141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Wie verhext",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 104,
+     "fsk": 6,
+     "genres": [
+      "Animation"
+     ],
+     "genres_raw": [
+      "Animation"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "16:00",
+       "room": "Kino 5",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "16:45",
+       "room": "4DX",
+       "site": "Haupthaus",
+       "flags": [
+        "3D",
+        "4DX"
+       ]
+      },
+      {
+       "time": "21:15",
+       "room": "Kino 5",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/wie-verhext-B1041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Der Regenbogenfisch",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 68,
+     "fsk": 0,
+     "genres": [
+      "Kinder & Familie",
+      "Action & Abenteuer"
+     ],
+     "genres_raw": [
+      "Familienfilm",
+      "Abenteuer"
+     ],
+     "badges": [],
+     "week": 2,
+     "shows": [
+      {
+       "time": "16:00",
+       "room": "Kino 8",
+       "site": "Haupthaus",
+       "flags": [
+        "VPT Intense",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/der-regenbogenfisch-0B141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "I Play Rocky",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 129,
+     "fsk": 12,
+     "genres": [
+      "Drama"
+     ],
+     "genres_raw": [
+      "Drama"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "16:15",
+       "room": "Kino 2",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:20",
+       "room": "F&G 2",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/i-play-rocky-FD241000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Shaun das Schaf - Spuk im Kürbisfeld",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 80,
+     "fsk": 0,
+     "genres": [
+      "Animation",
+      "Kinder & Familie",
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Animation",
+      "Familienfilm",
+      "Komödie"
+     ],
+     "badges": [],
+     "week": 9,
+     "shows": [
+      {
+       "time": "16:15",
+       "room": "Kino 1",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/shaun-das-schaf-spuk-im-kuerbisfeld-04041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Die Tribute von Panem - Sunrise on the Reaping",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 160,
+     "fsk": 12,
+     "genres": [
+      "Action & Abenteuer",
+      "Drama"
+     ],
+     "genres_raw": [
+      "Abenteuer",
+      "Drama",
+      "Action"
+     ],
+     "badges": [],
+     "week": 2,
+     "shows": [
+      {
+       "time": "16:30",
+       "room": "Kino 6",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:00",
+       "room": "F&G 4",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:30",
+       "room": "4DX",
+       "site": "Haupthaus",
+       "flags": [
+        "4DX"
+       ]
+      },
+      {
+       "time": "20:15",
+       "room": "Kino 8",
+       "site": "Haupthaus",
+       "flags": [
+        "OV englisch",
+        "VPT Intense",
+        "English Showtimes",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:30",
+       "room": "ULTIMATE. Studio 7",
+       "site": "Haupthaus",
+       "flags": [
+        "D-BOX",
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/die-tribute-von-panem-sunrise-on-the-reaping-C1041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Wildwood",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 131,
+     "fsk": 12,
+     "genres": [
+      "Drama",
+      "Animation",
+      "Action & Abenteuer"
+     ],
+     "genres_raw": [
+      "Drama",
+      "Animation",
+      "Abenteuer"
+     ],
+     "badges": [],
+     "week": 4,
+     "shows": [
+      {
+       "time": "17:15",
+       "room": "Kino 3",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/wildwood-51341000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Meine Frau, unsere Schwiegertochter und ich",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 106,
+     "fsk": 6,
+     "genres": [
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Komödie"
+     ],
+     "badges": [
+      "NEU"
+     ],
+     "week": 1,
+     "shows": [
+      {
+       "time": "17:45",
+       "room": "Kino 8",
+       "site": "Haupthaus",
+       "flags": [
+        "VPT Intense",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "19:30",
+       "room": "F&G 5",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "21:00",
+       "room": "Kino 1",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/meine-frau-unsere-schwiegertochter-und-ich-81041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 108,
+     "fsk": 6,
+     "genres": [
+      "Komödie",
+      "Drama"
+     ],
+     "genres_raw": [
+      "Komödie",
+      "Drama"
+     ],
+     "badges": [],
+     "week": 2,
+     "shows": [
+      {
+       "time": "18:00",
+       "room": "ULTIMATE. Studio 7",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:40",
+       "room": "F&G 1",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/lieblingsmenschen-die-aussergewoehnliche-freundschaft-von-agnes-und-amir-CA141000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Ebenezer - Eine Weihnachtsgeschichte",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 116,
+     "fsk": 12,
+     "genres": [
+      "Drama"
+     ],
+     "genres_raw": [
+      "Drama"
+     ],
+     "badges": [],
+     "week": 3,
+     "shows": [
+      {
+       "time": "18:15",
+       "room": "Kino 1",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/ebenezer-eine-weihnachtsgeschichte-14041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Der perfekte Urlaub",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 125,
+     "fsk": 12,
+     "genres": [
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Komödie"
+     ],
+     "badges": [],
+     "week": 6,
+     "shows": [
+      {
+       "time": "18:25",
+       "room": "Kino 5",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:00",
+       "room": "F&G 3",
+       "site": "Franz & Gloria",
+       "flags": [
+        "Dolby Atmos",
+        "Barrierefrei"
+       ]
+      },
+      {
+       "time": "20:15",
+       "room": "Kino 3",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/der-perfekte-urlaub-F0041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Kommissar Jennerwein - Hochsaison",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 97,
+     "fsk": 12,
+     "genres": [
+      "Komödie"
+     ],
+     "genres_raw": [
+      "Komödie"
+     ],
+     "badges": [],
+     "week": 4,
+     "shows": [
+      {
+       "time": "19:00",
+       "room": "Kino 2",
+       "site": "Haupthaus",
+       "flags": [
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/kommissar-jennerwein-hochsaison-B3041000012FWBXJYB",
+     "source": "Cineplex Bayreuth"
+    },
+    {
+     "title": "Sneak Preview FSK 18",
+     "venue": "Cineplex Bayreuth",
+     "runtime": 100,
+     "fsk": 18,
+     "genres": [],
+     "genres_raw": [],
+     "badges": [
+      "Sneak"
+     ],
+     "week": null,
+     "shows": [
+      {
+       "time": "20:00",
+       "room": "Kino 6",
+       "site": "Haupthaus",
+       "flags": [
+        "Sneaks",
+        "Barrierefrei"
+       ]
+      }
+     ],
+     "more": false,
+     "note": null,
+     "url": "https://www.cineplex.de/bayreuth/film/sneak-preview-fsk-18-CEF50000012FWBXJYB",
      "source": "Cineplex Bayreuth"
     },
     {
