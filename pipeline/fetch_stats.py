@@ -2,7 +2,10 @@
 und schreibt eine kompakte Zusammenfassung nach pipeline/statistik.json.
 Läuft nachts als GitHub Action. Der API-Schlüssel (nur Leserecht) kommt aus dem
 Repository-Secret GOATCOUNTER_TOKEN und steht nirgends im Code.
-Nur Summen, keine Daten über einzelne Personen."""
+Nur Summen, keine Daten über einzelne Personen.
+Hinweis: GoatCounter speichert keine rohen Seitenaufrufe mehr, sondern nur „Besuche“ je Seite
+(eine Seite zählt einmal pro Sitzung von 8 Stunden). stats/total ist die Summe über alle Seiten,
+entspricht also Seitenaufrufen ohne Wiederholungen, nicht der Zahl verschiedener Personen."""
 import json, os, sys, time, datetime, urllib.request, urllib.parse, zoneinfo
 
 BASE = "https://brodday.goatcounter.com/api/v0"
@@ -67,7 +70,7 @@ if gestern.get("besucher") is None:
     if v is not None:
         gestern["besucher"] = v; gestern["hinweis"] = "besucher aus verlauf_90_tage übernommen (Tagesabfrage fehlgeschlagen)"
 
-data = {"quelle": "GoatCounter (brodday.goatcounter.com), Zahlen = eindeutige Besucher laut GoatCounter",
+data = {"quelle": "GoatCounter (brodday.goatcounter.com). Zahlen = Seitenaufrufe ohne Wiederholungen: jede Seite zählt einmal pro Person und 8 Stunden, wer fünf verschiedene Seiten öffnet, zählt fünfmal; Neuladen derselben Seite zählt nicht. Die Schlüssel heißen aus Kompatibilität weiter besucher.",
         "abgerufen": datetime.datetime.now(tz).isoformat(timespec="minutes"),
         "hinweis": "browser/systeme/bildschirm/laender nur bei letzte_28_tage; diese GoatCounter-Endpunkte halten den Zeitraum nicht exakt ein, daher nur als grobe Verteilung lesen",
         "heute_bis_abruf": heute.get("total"), "gestern": gestern, "letzte_7_tage": woche, "letzte_28_tage": monat, "verlauf_90_tage": verlauf}
