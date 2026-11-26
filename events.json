@@ -957,7 +957,7 @@
 "url": "https://www.das-zentrum.de/veranstaltungen/kategorie/familie/"
 }
 ],
-"updated": "2026-11-25T00:58+01:00",
+"updated": "2026-11-26T01:00+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1401,7 +1401,7 @@
 {
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
-"date": "2026-11-25",
+"date": "2026-11-26",
 "end_date": "2027-01-06",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
@@ -1424,13 +1424,8 @@
 "Bayreuth Tourismus, Führungsprogramm 2026"
 ],
 "house": "Stadtführungen",
-"id": "e9e5180957",
+"id": "4c98f63273",
 "termine": [
-{
-"date": "2026-11-25",
-"time": "10:30",
-"hinweis": null
-},
 {
 "date": "2026-11-26",
 "time": "10:30",
@@ -1632,389 +1627,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Escape Room Werkstatt",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2026-11-30",
-"time": "15:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Escape Room",
-"Rätsel",
-"Spieldesign",
-"Werkstatt"
-],
-"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)",
-"wundersam anders e. V."
-],
-"house": "Weitere Orte",
-"id": "c6487d2baa",
-"termine": [
-{
-"date": "2026-11-25",
-"time": "15:00",
-"hinweis": null
-},
-{
-"date": "2026-11-30",
-"time": "15:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Kaffee, Klatsch & Kino: Der Spaziergang nach Syrakus",
-"subtitle": "Seniorenkino",
-"date": "2026-11-25",
-"end_date": null,
-"time": "15:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Seniorenkino",
-"Nachmittag",
-"Kaffee, Klatsch & Kino"
-],
-"description": "Seniorenkino der Reihe „Kaffee, Klatsch & Kino“ mit dem Film „Der Spaziergang nach Syrakus“; Vorstellungen um 14:30 und 15:00 in zwei Sälen.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/previews-und-events",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "7e053e1950"
-},
-{
-"title": "Vorlesestunden für Kinder ab 4 Jahren",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2027-01-20",
-"time": "16:00",
-"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Kinder & Familie",
-"tags": [
-"Vorlesen",
-"Kinder ab 4",
-"Bibliothek"
-],
-"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten, jeden Mittwoch und Samstag, für Kinder ab 4 Jahren; Eintritt frei, ohne Anmeldung. Uhrzeiten wechseln laut Bibliothekskalender zwischen 11 und 16 Uhr.",
-"price": "frei",
-"url": "https://stadtbibliothek.bayreuth.de/aktuelles/veranstaltungen/",
-"sources": [
-"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
-],
-"house": "RW21",
-"id": "6ca8d9233f",
-"termine": [
-{
-"date": "2026-11-25",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-11-28",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-12-02",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-05",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-12",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2026-12-19",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2027-01-09",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2027-01-13",
-"time": "16:00",
-"hinweis": null
-},
-{
-"date": "2027-01-16",
-"time": "11:00",
-"hinweis": null
-},
-{
-"date": "2027-01-20",
-"time": "16:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Blood Bowl im Haus des Spiels",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2027-01-13",
-"time": "19:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e. V.",
-"category": "Games",
-"tags": [
-"Tabletop",
-"Fantasy-Football",
-"Spieleabend",
-"Spieltreff"
-],
-"description": "Offener Spielabend und Ligabetrieb für das Tabletop-Spiel Blood Bowl, jeden Mittwoch ab 19 Uhr; Neulinge willkommen.",
-"price": null,
-"url": "https://wundersam-anders.de/blood-bowl-mittwoch/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "a353c065cf",
-"termine": [
-{
-"date": "2026-11-25",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-02",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-16",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-23",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2026-12-30",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2027-01-06",
-"time": "19:00",
-"hinweis": null
-},
-{
-"date": "2027-01-13",
-"time": "19:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Orange Day – Gemeinsam gegen Gewalt an Frauen",
-"subtitle": "Podiumsdiskussion",
-"date": "2026-11-25",
-"end_date": null,
-"time": "19:00",
-"venue": "EBW – Seminarraum im Hof, Richard-Wagner-Straße 24",
-"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte mit Amnesty International",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Podium",
-"Gewalt gegen Frauen",
-"Orange Days"
-],
-"description": "Podiumsgespräch zum Internationalen Tag gegen Gewalt an Frauen, veranstaltet vom Evangelischen Bildungswerk gemeinsam mit Amnesty International.",
-"price": null,
-"url": "https://ebw-oberfranken-mitte.de/veranstaltungen/orange-day/",
-"termine": null,
-"sources": [
-"Evangelisches Bildungswerk Oberfranken-Mitte (laut Programm der Servicestelle Chancengleichheit)"
-],
-"house": "Weitere Orte",
-"id": "6bb79d9202"
-},
-{
-"title": "Labortheater",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2027-01-13",
-"time": "19:30",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Theater",
-"tags": [
-"Theatergruppe",
-"Mitmachen",
-"offen"
-],
-"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
-"price": "frei, Spenden willkommen",
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"wundersam anders e.V.",
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "404dd48072",
-"termine": [
-{
-"date": "2026-11-25",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "19:30",
-"hinweis": null
-},
-{
-"date": "2027-01-13",
-"time": "19:30",
-"hinweis": null
-}
-]
-},
-{
-"title": "Ingmar Stadelmann: Stadelmann liest Höcke",
-"subtitle": "Ein satirischer Diskurs",
-"date": "2026-11-25",
-"end_date": null,
-"time": "19:33",
-"venue": "DAS ZENTRUM – Kleinkunstbühne, Äußere Badstraße 7a",
-"organizer": "Agentur Streckenbach",
-"category": "Kabarett & Comedy",
-"tags": [
-"Satire",
-"Lesung",
-"Politik",
-"Stand-up"
-],
-"description": "Der Comedian liest und kommentiert Texte von Björn Höcke.",
-"price": "36,65–39 €",
-"url": "https://www.das-zentrum.de/veranstaltung/ingmar-stadelmann-liest-hoecke/",
-"sources": [
-"Agentur Streckenbach",
-"Agentur Streckenbach (Veranstalter)",
-"Ingmar Stadelmann"
-],
-"house": "Das Zentrum",
-"id": "d8b632cf2c"
-},
-{
-"title": "Tanzhaus im ZENTRUM",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2026-12-09",
-"time": "20:00",
-"venue": "DAS ZENTRUM – Seminarraum 6, Äußere Badstraße 7a",
-"organizer": "Tanzhaus im ZENTRUM (Leitung Dr. Wolfgang Richter)",
-"category": "Tanz",
-"tags": [
-"Folkloretanz",
-"Mitmachen",
-"international"
-],
-"description": "Offener Abend mit einfachen Kreis- und Gruppentänzen aus internationaler Folklore zu Originalmusik; ohne Partner und Vorkenntnisse. Mittwochs außerhalb der Schulferien, 20–22 Uhr.",
-"price": "3 € pro Abend (Semesterbeitrag 25 €)",
-"url": "https://www.richter-bayreuth.de/Tanzhaus-im-Zentrum/",
-"sources": [
-"Tanzhaus im ZENTRUM"
-],
-"house": "Das Zentrum",
-"id": "aca40d2748",
-"termine": [
-{
-"date": "2026-11-25",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-02",
-"time": "20:00",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Salsa-Abend",
-"subtitle": null,
-"date": "2026-11-25",
-"end_date": "2026-12-22",
-"time": "21:15",
-"venue": "Glashaus",
-"organizer": "Glashaus e.V.",
-"category": "Club & Party",
-"tags": [
-"Salsa",
-"Tanz",
-"Campus"
-],
-"description": "Offener Salsa-Tanzabend im studentischen Kulturcafé Glashaus am Campus.",
-"price": "Eintritt frei",
-"url": "https://www.glashaus.org/programm/salsa-abend-25-11-2026",
-"termine": [
-{
-"date": "2026-11-25",
-"time": "21:15",
-"hinweis": null
-},
-{
-"date": "2026-12-09",
-"time": "21:15",
-"hinweis": null
-},
-{
-"date": "2026-12-22",
-"time": "21:15",
-"hinweis": null
-}
-],
-"sources": [
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "0f662a429d"
 },
 {
 "title": "Spieletreff",
@@ -3159,6 +2771,86 @@
 ],
 "house": "Clubs",
 "id": "818e397b38"
+},
+{
+"title": "Vorlesestunden für Kinder ab 4 Jahren",
+"subtitle": null,
+"date": "2026-11-28",
+"end_date": "2027-01-20",
+"time": "11:00",
+"venue": "RW21 Stadtbibliothek – Kinderbibliothek, Richard-Wagner-Straße 21",
+"organizer": "RW21 Stadtbibliothek",
+"category": "Kinder & Familie",
+"tags": [
+"Vorlesen",
+"Kinder ab 4",
+"Bibliothek"
+],
+"description": "Halbstündige Vorlesestunden mit ehrenamtlichen Lesepatinnen und -paten, jeden Mittwoch und Samstag, für Kinder ab 4 Jahren; Eintritt frei, ohne Anmeldung. Uhrzeiten wechseln laut Bibliothekskalender zwischen 11 und 16 Uhr.",
+"price": "frei",
+"url": "https://stadtbibliothek.bayreuth.de/aktuelles/veranstaltungen/",
+"sources": [
+"RW21 Stadtbibliothek (nur Stadt, Land, Leben)"
+],
+"house": "RW21",
+"id": "6a92cf4dee",
+"termine": [
+{
+"date": "2026-11-28",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-12-02",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-05",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-12",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2026-12-19",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2027-01-09",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2027-01-13",
+"time": "16:00",
+"hinweis": null
+},
+{
+"date": "2027-01-16",
+"time": "11:00",
+"hinweis": null
+},
+{
+"date": "2027-01-20",
+"time": "16:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Literarische Matinee Bayreuth – Meisterstücke der Weltliteratur",
@@ -4603,6 +4295,31 @@
 "id": "c7fab9c2a6"
 },
 {
+"title": "Escape Room Werkstatt",
+"subtitle": null,
+"date": "2026-11-30",
+"end_date": null,
+"time": "15:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Games",
+"tags": [
+"Escape Room",
+"Rätsel",
+"Spieldesign",
+"Werkstatt"
+],
+"description": "Offene Werkstatt, in der gemeinsam Rätsel und Escape-Room-Elemente gebaut werden; montags und mittwochs von 15 bis 21 Uhr.",
+"price": null,
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)",
+"wundersam anders e. V."
+],
+"house": "Weitere Orte",
+"id": "22bdc20c84"
+},
+{
 "title": "Kunst & Krümel",
 "subtitle": null,
 "date": "2026-11-30",
@@ -5015,7 +4732,7 @@
 "title": "Wissenschaft gegen Faschismus",
 "subtitle": "Vortragsreihe der Fachschaft KuWi",
 "date": "2026-12-01",
-"end_date": "2027-01-12",
+"end_date": "2027-01-26",
 "time": "18:15",
 "venue": "FZA – Forschungszentrum Afrika, Kongressraum, Universität Bayreuth",
 "organizer": "Fachschaft Kulturwissenschaften, Universität Bayreuth",
@@ -5049,6 +4766,11 @@
 },
 {
 "date": "2027-01-12",
+"time": "18:15",
+"hinweis": null
+},
+{
+"date": "2027-01-26",
 "time": "18:15",
 "hinweis": null
 }
@@ -5261,7 +4983,7 @@
 "title": "UniKino der Fachschaft MPI",
 "subtitle": null,
 "date": "2026-12-01",
-"end_date": "2027-01-12",
+"end_date": "2027-01-26",
 "time": null,
 "venue": "Universität Bayreuth – Hörsäle H17/H18",
 "organizer": "Fachschaft Mathematik/Physik/Informatik der Universität Bayreuth",
@@ -5292,6 +5014,11 @@
 },
 {
 "date": "2027-01-12",
+"time": null,
+"hinweis": null
+},
+{
+"date": "2027-01-26",
 "time": null,
 "hinweis": null
 }
@@ -5443,27 +5170,92 @@
 "id": "dc493bc007"
 },
 {
-"title": "Filmgespräch: Vaterland",
+"title": "Filmgesprächsabend",
 "subtitle": null,
 "date": "2026-12-02",
 "end_date": null,
-"time": "19:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte",
+"time": "19:00",
+"venue": "Reformierte Kirche Bayreuth, Erlanger Straße 29",
+"organizer": "Evangelisch-reformierte Kirchengemeinde Bayreuth",
 "category": "Film",
 "tags": [
+"Filmabend",
 "Filmgespräch",
+"Kirchengemeinde",
 "Gesellschaft",
 "Diskussion"
 ],
-"description": "Vorführung des Films „Vaterland“ mit anschließendem Gespräch über gesellschaftliche Fragen in der Reihe Filmgespräche. Karten zum regulären Kinopreis an der Kinokasse.",
+"description": "Die reformierte Gemeinde zeigt in der Kirche einen Film und lädt anschließend zum Gespräch darüber ein. Welcher Film läuft, steht nicht auf der Terminseite; Auskunft gibt das Gemeindebüro.",
 "price": "regulärer Kinoeintritt",
-"url": "https://ebw-oberfranken-mitte.de/veranstaltungen/film-vaterland/",
+"url": "https://reformiert-bayreuth.de/termin/filmgespraechsabend-19/",
+"termine": null,
 "sources": [
+"Evangelisch-reformierte Kirchengemeinde Bayreuth",
 "Evangelisches Bildungswerk Oberfranken-Mitte"
 ],
-"house": "Kino",
-"id": "3663428aeb"
+"house": "Kirchen",
+"id": "0a19ce434c"
+},
+{
+"title": "Blood Bowl im Haus des Spiels",
+"subtitle": null,
+"date": "2026-12-02",
+"end_date": "2027-01-13",
+"time": "19:00",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e. V.",
+"category": "Games",
+"tags": [
+"Tabletop",
+"Fantasy-Football",
+"Spieleabend",
+"Spieltreff"
+],
+"description": "Offener Spielabend und Ligabetrieb für das Tabletop-Spiel Blood Bowl, jeden Mittwoch ab 19 Uhr; Neulinge willkommen.",
+"price": null,
+"url": "https://wundersam-anders.de/blood-bowl-mittwoch/",
+"sources": [
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "47491cd869",
+"termine": [
+{
+"date": "2026-12-02",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-16",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-23",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2026-12-30",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-06",
+"time": "19:00",
+"hinweis": null
+},
+{
+"date": "2027-01-13",
+"time": "19:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Wagner! Oksana Lyniv und das MDR-Sinfonieorchester",
@@ -5489,6 +5281,41 @@
 ],
 "house": "Friedrichsforum",
 "id": "056f21f0e9"
+},
+{
+"title": "Tanzhaus im ZENTRUM",
+"subtitle": null,
+"date": "2026-12-02",
+"end_date": "2026-12-09",
+"time": "20:00",
+"venue": "DAS ZENTRUM – Seminarraum 6, Äußere Badstraße 7a",
+"organizer": "Tanzhaus im ZENTRUM (Leitung Dr. Wolfgang Richter)",
+"category": "Tanz",
+"tags": [
+"Folkloretanz",
+"Mitmachen",
+"international"
+],
+"description": "Offener Abend mit einfachen Kreis- und Gruppentänzen aus internationaler Folklore zu Originalmusik; ohne Partner und Vorkenntnisse. Mittwochs außerhalb der Schulferien, 20–22 Uhr.",
+"price": "3 € pro Abend (Semesterbeitrag 25 €)",
+"url": "https://www.richter-bayreuth.de/Tanzhaus-im-Zentrum/",
+"sources": [
+"Tanzhaus im ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "a8d3dac873",
+"termine": [
+{
+"date": "2026-12-02",
+"time": "20:00",
+"hinweis": null
+},
+{
+"date": "2026-12-09",
+"time": "20:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Kino Jenseits: Trickfilmpionierinnen",
@@ -6855,6 +6682,30 @@
 "id": "56b9a5531f"
 },
 {
+"title": "Ultimate Frisbee Party",
+"subtitle": "mit DJ Frosch",
+"date": "2026-12-05",
+"end_date": null,
+"time": "22:00",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V. mit den BayBees (Ultimate-Frisbee-Team der Uni Bayreuth)",
+"category": "Club & Party",
+"tags": [
+"Party",
+"DJ",
+"Studierende"
+],
+"description": "Party im Glashaus am Campus rund um das jährliche Nikolausturnier der Bayreuther Ultimate-Frisbee-Mannschaft; DJ Frosch legt auf, offen für alle.",
+"price": "2 € (Abendkasse)",
+"url": "https://www.glashaus.org/programm/ultimate-frisbee-party-26",
+"termine": null,
+"sources": [
+"Glashaus e.V."
+],
+"house": "Glashaus",
+"id": "00d9f55df3"
+},
+{
 "subtitle": "mit DJ C-Lane",
 "end_date": null,
 "time": null,
@@ -7612,6 +7463,42 @@
 "id": "f86a8fa428"
 },
 {
+"title": "Labortheater",
+"subtitle": null,
+"date": "2026-12-09",
+"end_date": "2027-01-13",
+"time": "19:30",
+"venue": "Haus des Spiels, Bernecker Straße 15",
+"organizer": "wundersam anders e.V.",
+"category": "Theater",
+"tags": [
+"Theatergruppe",
+"Mitmachen",
+"offen"
+],
+"description": "Offene Theatergruppe mit Forumtheater nach Augusto Boal, bei dem das Publikum mitspielen kann; Mitmachen ohne Vorkenntnisse möglich. Treffen etwa alle zwei Wochen mittwochs ab 19:30 Uhr.",
+"price": "frei, Spenden willkommen",
+"url": "https://wundersam-anders.de/kalender/",
+"sources": [
+"wundersam anders e.V.",
+"Haus des Spiels (wundersam anders e.V.)"
+],
+"house": "Weitere Orte",
+"id": "a0355f09db",
+"termine": [
+{
+"date": "2026-12-09",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2027-01-13",
+"time": "19:30",
+"hinweis": null
+}
+]
+},
+{
 "title": "Alles Gute, Herr Horváth!",
 "subtitle": "Lesung zum 125. Geburtstag Ödön von Horváths",
 "date": "2026-12-09",
@@ -7658,6 +7545,41 @@
 ],
 "house": "Das Zentrum",
 "id": "6ac2817f43"
+},
+{
+"title": "Salsa-Abend",
+"subtitle": null,
+"date": "2026-12-09",
+"end_date": "2026-12-22",
+"time": "21:15",
+"venue": "Glashaus",
+"organizer": "Glashaus e.V.",
+"category": "Club & Party",
+"tags": [
+"Salsa",
+"Tanz",
+"Campus"
+],
+"description": "Offener Salsa-Tanzabend im studentischen Kulturcafé Glashaus am Campus.",
+"price": "Eintritt frei",
+"url": "https://www.glashaus.org/programm/salsa-abend-25-11-2026",
+"termine": [
+{
+"date": "2026-12-09",
+"time": "21:15",
+"hinweis": null
+},
+{
+"date": "2026-12-22",
+"time": "21:15",
+"hinweis": null
+}
+],
+"sources": [
+"Glashaus e.V."
+],
+"house": "Glashaus",
+"id": "2de3973b04"
 },
 {
 "title": "Wiesenttaler Blechbläser mit Gedichten von Heiner Hartmann",
@@ -8133,6 +8055,30 @@
 ],
 "house": "Kino",
 "id": "4b6a70afb1"
+},
+{
+"title": "Mitmach-Konzert „Singen Beyond Borders“",
+"subtitle": null,
+"date": "2026-12-13",
+"end_date": null,
+"time": "16:00",
+"venue": "Hammerstätter Hof, Friedrich-Ebert-Straße 58",
+"organizer": "Singen Beyond Borders",
+"category": "Pop, Rock & Jazz",
+"tags": [
+"Mitsingen",
+"Chor",
+"Lieder in vielen Sprachen"
+],
+"description": "Die Gruppe Singen Beyond Borders singt Lieder in verschiedenen Sprachen und bezieht das Publikum mit angeleiteten Mitmach-Elementen ein; danach gibt es Zeit zum Austausch.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/mitmach-konzert-singen-beyond-borders-bayreuth-95448-1q5x2v",
+"termine": null,
+"sources": [
+"Singen Beyond Borders (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "6fe83a3be8"
 },
 {
 "title": "Adventssingen mit Trompeten, Posaunen, Streichern & Flöten",

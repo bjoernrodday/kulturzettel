@@ -1,5 +1,37 @@
 {
- "date": "2026-11-25",
- "updated": "2026-11-25T00:58:48+01:00",
- "films": []
+ "date": "2026-11-26",
+ "updated": "2026-11-26T01:00+01:00",
+ "films": [
+  {
+   "title": "Milli’s Awakening and the Return of Memory",
+   "venue": "Iwalewahaus – Foyer, Wölfelstraße 2",
+   "runtime": null,
+   "fsk": null,
+   "genres": [
+    "Dokumentarfilm"
+   ],
+   "genres_raw": [
+    "Dokumentarfilm"
+   ],
+   "badges": [
+    "Film und Gespräch",
+    "Eintritt frei"
+   ],
+   "week": null,
+   "shows": [
+    {
+     "time": "19:00",
+     "room": "Foyer",
+     "site": null,
+     "flags": [
+      "OmU"
+     ]
+    }
+   ],
+   "more": false,
+   "note": "Dokumentarfilm von Natasha A. Kelly (2018), englisch mit deutschen Untertiteln; danach Gespräch mit Natasha A. Kelly und Nadu Hormann. Im Rahmen der Orange Days der Universität Bayreuth.",
+   "url": "https://www.frauenbeauftragte.uni-bayreuth.de/de/Tag-gegen-Gewalt/index.html",
+   "source": "Servicestelle Chancengleichheit, Universität Bayreuth"
+  }
+ ]
 }
