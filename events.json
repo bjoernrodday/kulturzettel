@@ -957,7 +957,7 @@
 "url": "https://www.das-zentrum.de/veranstaltungen/kategorie/familie/"
 }
 ],
-"updated": "2026-11-26T01:00+01:00",
+"updated": "2026-11-27T00:55+01:00",
 "events": [
 {
 "title": "Pocket Exhibition: Neuer Raubdinosaurier aus Ellingen",
@@ -1399,9 +1399,34 @@
 "id": "ceb33ba6ab"
 },
 {
+"title": "ICDL: In Conversation with Prof. Yvette Hutchison",
+"subtitle": "African Women Playwrights and Disability Dance",
+"date": "2026-11-27",
+"end_date": null,
+"time": "10:00",
+"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Raum S 145/146, Universitätsstraße 30",
+"organizer": "Exzellenzcluster Africa Multiple, Universität Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Theater",
+"Tanz",
+"Afrikaforschung",
+"Gespräch"
+],
+"description": "Gespräch mit Prof. Yvette Hutchison über afrikanische Dramatikerinnen und Tanz von Menschen mit Behinderung, 10 bis 12 Uhr.",
+"price": null,
+"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/2026-11-26_ICDL-Lecture_2/index.html",
+"termine": null,
+"sources": [
+"Africa Multiple Cluster of Excellence"
+],
+"house": "Universität",
+"id": "5d18ea9189"
+},
+{
 "title": "Weihnachtlicher Stadtrundgang",
 "subtitle": "Tägliche Adventsführung",
-"date": "2026-11-26",
+"date": "2026-11-27",
 "end_date": "2027-01-06",
 "time": "10:30",
 "venue": "Tourist-Information Bayreuth, Opernstraße 22 (Treffpunkt)",
@@ -1424,13 +1449,8 @@
 "Bayreuth Tourismus, Führungsprogramm 2026"
 ],
 "house": "Stadtführungen",
-"id": "4c98f63273",
+"id": "f1816926e0",
 "termine": [
-{
-"date": "2026-11-26",
-"time": "10:30",
-"hinweis": null
-},
 {
 "date": "2026-11-27",
 "time": "10:30",
@@ -1627,360 +1647,6 @@
 "hinweis": null
 }
 ]
-},
-{
-"title": "Spieletreff",
-"subtitle": "Offene Runde für Karten- und Brettspiele",
-"date": "2026-11-26",
-"end_date": "2026-12-17",
-"time": "14:00",
-"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
-"organizer": "Stadt Bayreuth – Seniorenamt",
-"category": "Games",
-"tags": [
-"Brettspiele",
-"Kartenspiele",
-"Senioren"
-],
-"description": "Offener Spielenachmittag in der Bürgerbegegnungsstätte mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr.",
-"price": null,
-"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
-"sources": [
-"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "4ec0af5059",
-"termine": [
-{
-"date": "2026-11-26",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-03",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-10",
-"time": "14:00",
-"hinweis": null
-},
-{
-"date": "2026-12-17",
-"time": "14:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Auftritt des kath. Kindergartens St. Vinzenz",
-"subtitle": null,
-"date": "2026-11-26",
-"end_date": null,
-"time": "15:00",
-"venue": "Stadtparkett – Aktionsbühne Christkindlesmarkt, Maximilianstraße",
-"organizer": "Stadt Bayreuth",
-"category": "Kinder & Familie",
-"tags": [
-"Christkindlesmarkt",
-"Kinder",
-"Advent"
-],
-"description": "Kinder des katholischen Kindergartens St. Vinzenz gestalten einen kurzen Auftritt auf der Bühne des Christkindlesmarkts.",
-"price": "Eintritt frei",
-"url": "https://region-bayreuth.de/veranstaltung/auftritt-kath-kindergartens-st-vinzenz-bayreuth-95444-3x4lfx",
-"sources": [
-"Stadt Bayreuth, Christkindlesmarkt-Aktionsbühne (nur Stadt, Land, Leben)",
-"Stadt Bayreuth (nur Stadt, Land, Leben)"
-],
-"house": "Weitere Orte",
-"id": "fff4a2c545"
-},
-{
-"title": "ICDL Lecture: I am me – refusing naming while engaging collaborative ‚worlding‘",
-"subtitle": "Vortrag im Exzellenzcluster Africa Multiple",
-"date": "2026-11-26",
-"end_date": null,
-"time": "16:00",
-"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Raum S 145/146, Universitätsstraße 30",
-"organizer": "Exzellenzcluster Africa Multiple, Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Wissenschaft",
-"Afrikaforschung",
-"Universität"
-],
-"description": "Vortrag aus der ICDL-Reihe des Bayreuther Exzellenzclusters Africa Multiple über Selbstbezeichnung und gemeinsames ‚Worlding‘, 16 bis 18 Uhr.",
-"price": null,
-"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/2026-11-26_ICDL-Lecture_1/index.html",
-"termine": null,
-"sources": [
-"Africa Multiple Cluster of Excellence"
-],
-"house": "Universität",
-"id": "ad05a8e12b"
-},
-{
-"title": "Hausführung im RW21",
-"subtitle": null,
-"date": "2026-11-26",
-"end_date": null,
-"time": "16:30",
-"venue": "RW21 Stadtbibliothek – Servicepoint (EG), Richard-Wagner-Straße 21",
-"organizer": "RW21 Stadtbibliothek",
-"category": "Führung",
-"tags": [
-"Bibliothek",
-"Führung",
-"Medien"
-],
-"description": "Einstündige Führung durch das RW21 mit Blick hinter die Kulissen der Stadtbibliothek und Gelegenheit für Fragen an das Bibliotheksteam.",
-"price": null,
-"url": "https://stadtbibliothek.bayreuth.de/angebote/fuehrungen-beratung/",
-"sources": [
-"RW21 Stadtbibliothek"
-],
-"house": "RW21",
-"id": "372812e61d"
-},
-{
-"title": "Koch- und Spieleabend",
-"subtitle": null,
-"date": "2026-11-26",
-"end_date": null,
-"time": "17:00",
-"venue": "Haus des Spiels, Bernecker Straße 15",
-"organizer": "wundersam anders e.V.",
-"category": "Games",
-"tags": [
-"Kochen",
-"Brettspiele",
-"wöchentlich"
-],
-"description": "Wöchentlicher Donnerstagabend im Haus des Spiels zum gemeinsamen Kochen und Spielen, laut Vereinskalender 17 bis 21:30 Uhr.",
-"price": null,
-"url": "https://wundersam-anders.de/kalender/",
-"sources": [
-"Haus des Spiels (wundersam anders e.V.)"
-],
-"house": "Weitere Orte",
-"id": "8f2d8aa1e2"
-},
-{
-"title": "CineArt: Heimsuchung – Eine Jahrhundertgeschichte",
-"subtitle": null,
-"date": "2026-11-26",
-"end_date": "2026-12-01",
-"time": "17:30",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"CineArt",
-"Arthouse",
-"Drama"
-],
-"description": "Spielfilm in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 26.11. 17:30, So 29.11. 10:45, Di 01.12. 20:00.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/programm",
-"sources": [
-"Cineplex Bayreuth"
-],
-"house": "Kino",
-"id": "cb1942f239",
-"termine": [
-{
-"date": "2026-11-26",
-"time": "17:30",
-"hinweis": null
-},
-{
-"date": "2026-11-29",
-"time": "10:45",
-"hinweis": null
-},
-{
-"date": "2026-12-01",
-"time": "20:00",
-"hinweis": null
-}
-]
-},
-{
-"title": "Führung mit Kuratorin Natasha A. Kelly",
-"subtitle": "Ausstellung „Beyond the Sweet and Obvious: African Feminisms Refracted“",
-"date": "2026-11-26",
-"end_date": null,
-"time": "18:00",
-"venue": "Iwalewahaus, Wölfelstraße 2",
-"organizer": "Servicestelle Chancengleichheit der Universität Bayreuth / Iwalewahaus",
-"category": "Führung",
-"tags": [
-"Ausstellung",
-"Kuratorinnenführung",
-"Black Feminism",
-"Orange Days"
-],
-"description": "Die Kuratorin führt 45 Minuten durch die Ausstellung zu afrikanischen und Schwarzen Feminismen im Iwalewahaus; im Anschluss läuft dort ihr Film „Milli’s Awakening“.",
-"price": null,
-"url": "https://www.frauenbeauftragte.uni-bayreuth.de/de/Tag-gegen-Gewalt/index.html",
-"termine": null,
-"sources": [
-"Servicestelle Chancengleichheit, Universität Bayreuth"
-],
-"house": "Iwalewahaus",
-"id": "fbd4a0c0f8"
-},
-{
-"title": "Theologische Gedanken zur Kunst",
-"subtitle": "zur Ausstellung A. D. Trantenroth",
-"date": "2026-11-26",
-"end_date": null,
-"time": "18:00",
-"venue": "Kunstmuseum Bayreuth, Altes Barockrathaus, Maximilianstraße 33",
-"organizer": "Kunstmuseum Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Kunst",
-"Theologie",
-"Skulptur"
-],
-"description": "Dekan i. R. Hans Peetz betrachtet Werke aus dem Nachlass von A. D. Trantenroth aus theologischer Sicht.",
-"price": "Eintritt frei",
-"url": "https://www.kunstmuseum-bayreuth.de/fileadmin/2026/Ausstellungen/Trantenroth/10seiter_trantenroth_09_26.pdf",
-"sources": [
-"Kunstmuseum Bayreuth"
-],
-"house": "Kunstmuseum",
-"id": "70005f82dc"
-},
-{
-"title": "Milli’s Awakening and the Return of Memory – Film und Gespräch",
-"subtitle": "Orange Days – Aktionstage gegen Gewalt an Frauen",
-"date": "2026-11-26",
-"end_date": null,
-"time": "19:00",
-"venue": "Iwalewahaus – Foyer, Wölfelstraße 2",
-"organizer": "Servicestelle Chancengleichheit der Universität Bayreuth",
-"category": "Film",
-"tags": [
-"Dokumentarfilm",
-"Filmgespräch",
-"Black Feminism",
-"Orange Days"
-],
-"description": "Natasha A. Kellys Dokumentarfilm von 2018 antwortet auf Ernst Ludwig Kirchners Gemälde „Schlafende Milli“ und die Darstellung Schwarzer Frauen durch den weißen männlichen Blick. Gezeigt auf Englisch mit deutschen Untertiteln, danach Gespräch auf Deutsch mit Natasha A. Kelly und Nadu Hormann.",
-"price": "frei",
-"url": "https://www.frauenbeauftragte.uni-bayreuth.de/de/Tag-gegen-Gewalt/index.html",
-"termine": null,
-"sources": [
-"Servicestelle Chancengleichheit, Universität Bayreuth"
-],
-"house": "Iwalewahaus",
-"id": "f2ecf2d6f0"
-},
-{
-"title": "Bring Your Vinyl – Kneipenabend",
-"subtitle": null,
-"date": "2026-11-26",
-"end_date": null,
-"time": "19:00",
-"venue": "Glashaus",
-"organizer": "Glashaus",
-"category": "Club & Party",
-"tags": [
-"Schallplatten",
-"Kneipe",
-"Vinyl",
-"Musik",
-"Kneipenabend"
-],
-"description": "Kneipenabend, bei dem Gäste eigene Platten auflegen (22.10. und 26.11.).",
-"price": "frei",
-"url": "https://www.glashaus.org/programm/bring-your-vinyl-kneipenabend-2-2-2-2-2",
-"sources": [
-"Glashaus",
-"Glashaus e.V."
-],
-"house": "Glashaus",
-"id": "468939df8b"
-},
-{
-"title": "Beethoven! – Junge Meisterpianist:innen aus Nürnberg",
-"subtitle": "Das Beethoven-Projekt",
-"date": "2026-11-26",
-"end_date": null,
-"time": "19:30",
-"venue": "Steingraeber-Haus – Kammermusiksaal, Friedrichstraße 2",
-"organizer": "Steingraeber & Söhne",
-"category": "Klassik",
-"tags": [
-"Klavier",
-"Beethoven",
-"Klaviersonaten",
-"Nachwuchs"
-],
-"description": "Studierende der Musikhochschule Nürnberg spielen Werke Beethovens.",
-"price": "5–15 €",
-"url": "https://www.steingraeber.de/veranstaltungen/junge-meisterpianistinnen-der-musikhochschule-nuernberg-das-beethoven-projekt/",
-"sources": [
-"Steingraeber & Söhne",
-"Steingraeber",
-"Steingraeber Bayreuth",
-"Stadt, Land, Leben (region-bayreuth.de)"
-],
-"house": "Steingraeber Haus",
-"id": "9f1aa0bebc"
-},
-{
-"title": "Kult-Sneak",
-"subtitle": null,
-"date": "2026-11-26",
-"end_date": null,
-"time": "20:00",
-"venue": "Cineplex Bayreuth",
-"organizer": "Cineplex Bayreuth",
-"category": "Film",
-"tags": [
-"Sneak",
-"Kultfilm",
-"Überraschungsfilm"
-],
-"description": "Überraschungsfilm in der Kult-Sneak am 15.10., 29.10., 12.11. und 26.11., jeweils 20 Uhr.",
-"price": null,
-"url": "https://www.cineplex.de/bayreuth/film/kultsneak-3F041000012FWBXJYB",
-"sources": [
-"Cineplex Bayreuth",
-"Cineplex Bayreuth – Reihen & Events"
-],
-"house": "Kino",
-"id": "f76f6d6914"
-},
-{
-"title": "ICDL: In Conversation with Prof. Yvette Hutchison",
-"subtitle": "African Women Playwrights and Disability Dance",
-"date": "2026-11-27",
-"end_date": null,
-"time": "10:00",
-"venue": "Universität Bayreuth – FZA (Forschungszentrum Afrika), Raum S 145/146, Universitätsstraße 30",
-"organizer": "Exzellenzcluster Africa Multiple, Universität Bayreuth",
-"category": "Vortrag & Diskurs",
-"tags": [
-"Theater",
-"Tanz",
-"Afrikaforschung",
-"Gespräch"
-],
-"description": "Gespräch mit Prof. Yvette Hutchison über afrikanische Dramatikerinnen und Tanz von Menschen mit Behinderung, 10 bis 12 Uhr.",
-"price": null,
-"url": "https://www.africamultiple.uni-bayreuth.de/en/Important-Dates/2026-11-26_ICDL-Lecture_2/index.html",
-"termine": null,
-"sources": [
-"Africa Multiple Cluster of Excellence"
-],
-"house": "Universität",
-"id": "5d18ea9189"
 },
 {
 "title": "Forum Waldkontroversen 2026: Windräder im Wald – viel Wind um nichts?",
@@ -3666,6 +3332,41 @@
 "id": "0ccea12f71"
 },
 {
+"title": "CineArt: Heimsuchung – Eine Jahrhundertgeschichte",
+"subtitle": null,
+"date": "2026-11-29",
+"end_date": "2026-12-01",
+"time": "10:45",
+"venue": "Cineplex Bayreuth",
+"organizer": "Cineplex Bayreuth",
+"category": "Film",
+"tags": [
+"CineArt",
+"Arthouse",
+"Drama"
+],
+"description": "Spielfilm in der Arthouse-Reihe CineArt. Vorstellungen laut Kinoprogramm: Do 26.11. 17:30, So 29.11. 10:45, Di 01.12. 20:00.",
+"price": null,
+"url": "https://www.cineplex.de/bayreuth/programm",
+"sources": [
+"Cineplex Bayreuth"
+],
+"house": "Kino",
+"id": "839007669e",
+"termine": [
+{
+"date": "2026-11-29",
+"time": "10:45",
+"hinweis": null
+},
+{
+"date": "2026-12-01",
+"time": "20:00",
+"hinweis": null
+}
+]
+},
+{
 "title": "Music as Worldmaking: Improvised Connections",
 "subtitle": "Live-Konzert mit Gespräch",
 "date": "2026-11-29",
@@ -5170,33 +4871,6 @@
 "id": "dc493bc007"
 },
 {
-"title": "Filmgesprächsabend",
-"subtitle": null,
-"date": "2026-12-02",
-"end_date": null,
-"time": "19:00",
-"venue": "Reformierte Kirche Bayreuth, Erlanger Straße 29",
-"organizer": "Evangelisch-reformierte Kirchengemeinde Bayreuth",
-"category": "Film",
-"tags": [
-"Filmabend",
-"Filmgespräch",
-"Kirchengemeinde",
-"Gesellschaft",
-"Diskussion"
-],
-"description": "Die reformierte Gemeinde zeigt in der Kirche einen Film und lädt anschließend zum Gespräch darüber ein. Welcher Film läuft, steht nicht auf der Terminseite; Auskunft gibt das Gemeindebüro.",
-"price": "regulärer Kinoeintritt",
-"url": "https://reformiert-bayreuth.de/termin/filmgespraechsabend-19/",
-"termine": null,
-"sources": [
-"Evangelisch-reformierte Kirchengemeinde Bayreuth",
-"Evangelisches Bildungswerk Oberfranken-Mitte"
-],
-"house": "Kirchen",
-"id": "0a19ce434c"
-},
-{
 "title": "Blood Bowl im Haus des Spiels",
 "subtitle": null,
 "date": "2026-12-02",
@@ -5256,6 +4930,33 @@
 "hinweis": null
 }
 ]
+},
+{
+"title": "Filmgespräch: Vaterland",
+"subtitle": null,
+"date": "2026-12-02",
+"end_date": null,
+"time": "19:30",
+"venue": "Cineplex Bayreuth",
+"organizer": "Evangelisches Bildungswerk Oberfranken-Mitte",
+"category": "Film",
+"tags": [
+"Filmgespräch",
+"EBW",
+"Diskussion",
+"Filmabend",
+"Kirchengemeinde"
+],
+"description": "Teil der Reihe „Film – Einblicke – Diskussion“ des Evangelischen Bildungswerks: Vorführung des Films „Vaterland“ mit anschließendem Gespräch. Karten gibt es direkt beim Kino.",
+"price": "regulärer Kinoeintritt",
+"url": "https://ebw-oberfranken-mitte.de/wp-content/uploads/2026/09/EBW_Programmheft_HW_2026_2027_aktualisiert_Homepage.pdf",
+"termine": null,
+"sources": [
+"Evangelisches Bildungswerk Oberfranken-Mitte",
+"Evangelisch-reformierte Kirchengemeinde Bayreuth"
+],
+"house": "Kino",
+"id": "3663428aeb"
 },
 {
 "title": "Wagner! Oksana Lyniv und das MDR-Sinfonieorchester",
@@ -5422,6 +5123,46 @@
 ],
 "house": "Weitere Orte",
 "id": "eeb81f9504"
+},
+{
+"title": "Spieletreff",
+"subtitle": "Offene Runde für Karten- und Brettspiele",
+"date": "2026-12-03",
+"end_date": "2026-12-17",
+"time": "14:00",
+"venue": "Bürgerbegegnungsstätte, Am Sendelbach 1–3",
+"organizer": "Stadt Bayreuth – Seniorenamt",
+"category": "Games",
+"tags": [
+"Brettspiele",
+"Kartenspiele",
+"Senioren"
+],
+"description": "Offener Spielenachmittag in der Bürgerbegegnungsstätte mit Karten-, Brett- und Würfelspielen, jeden Donnerstag von 14 bis 16 Uhr.",
+"price": null,
+"url": "https://region-bayreuth.de/veranstaltung/spieletreff-bayreuth-95445-jjcqqo",
+"sources": [
+"Stadt Bayreuth – Seniorenamt (nur Stadt, Land, Leben)"
+],
+"house": "Weitere Orte",
+"id": "a1d98a2c1d",
+"termine": [
+{
+"date": "2026-12-03",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-10",
+"time": "14:00",
+"hinweis": null
+},
+{
+"date": "2026-12-17",
+"time": "14:00",
+"hinweis": null
+}
+]
 },
 {
 "title": "Führung KLAVIERWELT: Manufaktur und Museum",
@@ -7297,6 +7038,30 @@
 ]
 },
 {
+"title": "Sprechen und Zuhören: Was bedeutet für mich Weihnachten?",
+"subtitle": null,
+"date": "2026-12-09",
+"end_date": null,
+"time": "17:00",
+"venue": "Historisches Museum Bayreuth, Kirchplatz 4",
+"organizer": "Historisches Museum Stadt Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"Gesprächsrunde",
+"Weihnachten",
+"Dialog"
+],
+"description": "Gesprächsformat nach dem Modell von Mehr Demokratie e. V.: Die Teilnehmenden erzählen reihum, was Weihnachten für sie bedeutet, und hören einander zu.",
+"price": "frei",
+"url": "https://region-bayreuth.de/veranstaltung/sprechen-zuhoeren-bedeutet-weihnachten-bayreuth-95444-q6ysv9",
+"termine": null,
+"sources": [
+"Historisches Museum Bayreuth (nur Stadt, Land, Leben)"
+],
+"house": "Historisches Museum",
+"id": "2b01544b35"
+},
+{
 "title": "Führung durch die Ausstellung „Beyond the Sweet and Obvious“",
 "subtitle": "African Feminisms Refracted",
 "date": "2026-12-09",
@@ -7466,7 +7231,7 @@
 "title": "Labortheater",
 "subtitle": null,
 "date": "2026-12-09",
-"end_date": "2027-01-13",
+"end_date": "2027-01-27",
 "time": "19:30",
 "venue": "Haus des Spiels, Bernecker Straße 15",
 "organizer": "wundersam anders e.V.",
@@ -7493,6 +7258,11 @@
 },
 {
 "date": "2027-01-13",
+"time": "19:30",
+"hinweis": null
+},
+{
+"date": "2027-01-27",
 "time": "19:30",
 "hinweis": null
 }
@@ -11162,6 +10932,80 @@
 ],
 "house": "Das Zentrum",
 "id": "4b4cd137d0"
+},
+{
+"title": "KI in Ihrem Alltag: Zwischen Chancen und Risiken",
+"subtitle": null,
+"date": "2027-01-26",
+"end_date": null,
+"time": "18:00",
+"venue": "WWG Bayreuth – Ostbau, Am Sportpark 1",
+"organizer": "vhs Bayreuth",
+"category": "Vortrag & Diskurs",
+"tags": [
+"vhs",
+"Künstliche Intelligenz",
+"Vortrag"
+],
+"description": "Vortrag der Volkshochschule darüber, wo künstliche Intelligenz heute schon im Alltag steckt, welchen Nutzen sie bringt und welche Risiken man kennen sollte. Anmeldung bis 19.01.2027.",
+"price": "7,80 €",
+"url": "https://www.vhs-bayreuth.de/service/kurssuche/kurs/KI-in-Ihrem-Alltag-Zwischen-Chancen-und-Risiken/I2740#inhalt",
+"termine": null,
+"sources": [
+"vhs Bayreuth"
+],
+"house": "Weitere Orte",
+"id": "1feec98193"
+},
+{
+"title": "Bayreuther Poetry Slam",
+"subtitle": null,
+"date": "2027-01-26",
+"end_date": null,
+"time": "19:30",
+"venue": "Liebesbier – Brausaal, Andreas-Maisel-Weg 1",
+"organizer": "Maisel & Friends",
+"category": "Literatur",
+"tags": [
+"Poetry Slam",
+"Bühnenpoesie",
+"Wettbewerb"
+],
+"description": "Slam-Poetinnen und -Poeten treten mit selbst geschriebenen Texten gegeneinander an; das Publikum kürt den Sieger. Weitere Ausgaben folgen am 23.03. und 25.05.2027.",
+"price": null,
+"url": "https://www.maiselandfriends.com/en/appointments-and-events/appointments/poetry-slam-26012027-5202/",
+"termine": null,
+"sources": [
+"Maisel & Friends"
+],
+"house": "Liebesbier",
+"id": "c9e9f4dc7d"
+},
+{
+"title": "Arnd Zeigler – Immer Glück ist Können!",
+"subtitle": "Zeiglers wunderbare Welt des Fußballs live",
+"date": "2027-01-27",
+"end_date": null,
+"time": "20:00",
+"venue": "DAS ZENTRUM – Europasaal, Äußere Badstraße 7a",
+"organizer": "Agentur Streckenbach GmbH & Co. KG",
+"category": "Kabarett & Comedy",
+"tags": [
+"Comedy",
+"Fußball",
+"Bühnenprogramm",
+"Bühnenshow"
+],
+"description": "Der Fußballkenner und Moderator Arnd Zeigler bringt sein drittes Bühnenprogramm nach Bayreuth – eine Live-Fassung seiner TV-Sendung voller Anekdoten und Kuriositäten aus der Fußballwelt. Einlass ab 19 Uhr.",
+"price": "39,20 €",
+"url": "https://www.das-zentrum.de/veranstaltung/arnd-zeigler-immer-glueck-ist-koennen/",
+"termine": null,
+"sources": [
+"Das Zentrum",
+"DAS ZENTRUM"
+],
+"house": "Das Zentrum",
+"id": "5f6a4c8bae"
 }
 ]
 }
