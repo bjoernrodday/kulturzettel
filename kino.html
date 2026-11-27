@@ -86,7 +86,7 @@ button{font:inherit;color:inherit}
 /* Programm */
 .prog{padding-block:36px 64px}
 .day{display:grid;grid-template-columns:180px minmax(0,1fr);gap:0 36px;border-top:1px solid var(--ink);padding-top:18px;margin-top:36px}
-.day-mark{position:sticky;top:calc(env(safe-area-inset-top,0px) + 132px);align-self:start}
+.day-mark{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--bar-h,200px) + 20px);align-self:start}
 .day-mark .n{font:700 96px/.85 var(--display);letter-spacing:-.05em;font-variant-numeric:tabular-nums}
 .day-mark .w{font:600 20px/1.2 var(--display);margin-top:10px}
 .day-mark .m{font:500 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
@@ -359,6 +359,7 @@ const WD=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samst
 const MO=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
 const GORDER=["Action & Abenteuer","Animation","Dokumentarfilm","Drama","Events & Live","Horror","Kinder & Familie","Komödie","Liebesfilm","Musik","Science-Fiction & Fantasy","Thriller & Krimi"];
 const $=s=>document.querySelector(s);
+(()=>{const b=document.querySelector(".bar");if(!b)return;const set=()=>document.documentElement.style.setProperty("--bar-h",b.offsetHeight+"px");set();if(window.ResizeObserver)new ResizeObserver(set).observe(b);else addEventListener("resize",set);})();
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const TODAY=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Berlin"});
 const NOW=()=>new Date().toLocaleTimeString("de-DE",{timeZone:"Europe/Berlin",hour:"2-digit",minute:"2-digit"});
