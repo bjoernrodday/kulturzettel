@@ -82,10 +82,14 @@ button{font:inherit;color:inherit}
 .run a:hover{text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}
 .run .v{font-size:13.5px;color:var(--muted)}
 .more{margin-top:14px}
-.run-toggle{all:unset;cursor:pointer;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;width:100%;border-bottom:1px solid var(--ink);padding-bottom:8px;margin-bottom:4px}
+.run-toggle{all:unset;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;width:100%;border-bottom:1px solid var(--ink);padding-bottom:8px;margin-bottom:4px}
 .run-toggle h2{font:600 22px/1.15 var(--display);letter-spacing:-.01em;margin:0}
-.run-toggle .rt-r{font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
-.run-toggle:hover .rt-r,.run-toggle:focus-visible .rt-r{color:var(--accent)}
+.run-toggle .rt-r{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.run-toggle .rt-n{font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.run-toggle .rt-btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--ink);border-radius:999px;padding:5px 11px 5px 14px;font-size:13.5px;font-weight:500;color:var(--ink);white-space:nowrap;transition:background .15s,color .15s}
+.run-toggle .rt-btn svg{width:14px;height:14px;transition:transform .2s}
+.run-toggle[aria-expanded="true"] .rt-btn svg{transform:rotate(180deg)}
+.run-toggle:hover .rt-btn,.run-toggle:focus-visible .rt-btn{background:var(--ink);color:var(--paper)}
 .run-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 .running.closed{padding-block:20px 0}
 /* aufgeklappt: Überschrift bleibt beim Scrollen unter der Filterleiste stehen, bis der Abschnitt endet */
@@ -198,7 +202,7 @@ footer .legal a{color:var(--ink);text-underline-offset:3px}
   </div>
 </nav>
 
-<section class="wrap running closed" id="running" hidden=""><button class="run-toggle" id="run-toggle" aria-expanded="false"><h2>Laufend &amp; regelmäßig</h2><span class="rt-r">19 Ausstellungen und Reihen · anzeigen ▾</span></button></section>
+<section class="wrap running closed" id="running" hidden=""><button class="run-toggle" id="run-toggle" aria-expanded="false"><h2>Laufend &amp; regelmäßig</h2><span class="rt-r"><span class="rt-n">19 Ausstellungen und Reihen</span><span class="rt-btn">Anzeigen<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 6l4.5 4.5L12.5 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></span></button></section>
 <main class="wrap prog" id="prog"><section class="day" aria-label="Freitag, 27. November"><div class="day-mark"><div class="n">27</div><div class="w">Freitag</div><div class="m">November · 1 Termin</div><span class="today">Heute</span></div>
       <div><article class="ev">
     <div class="t">18:30</div>
@@ -1277,7 +1281,7 @@ function render(){
     running.sort((a,b)=>a.end_date.localeCompare(b.end_date));
     const show=runAll?running:running.slice(0,9);
     rs.hidden=false;rs.classList.toggle("closed",!runOpen);
-    const label=`<button class="run-toggle" id="run-toggle" aria-expanded="${runOpen}"><h2>Laufend &amp; regelmäßig</h2><span class="rt-r">${running.length} Ausstellungen und Reihen · ${runOpen?"einklappen ▴":"anzeigen ▾"}</span></button>`;
+    const label=`<button class="run-toggle" id="run-toggle" aria-expanded="${runOpen}"><h2>Laufend &amp; regelmäßig</h2><span class="rt-r"><span class="rt-n">${running.length} Ausstellungen und Reihen</span><span class="rt-btn">${runOpen?"Einklappen":"Anzeigen"}<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 6l4.5 4.5L12.5 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span></span></button>`;
     if(!runOpen){rs.innerHTML=label}else
     rs.innerHTML=`${label}
       <div class="run-grid">${show.map(e=>`<div class="run"><span class="span">${esc(e.category)} · bis ${fmtShort(e.end_date)}</span><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a><span class="v">${esc(e.venue)}</span></div>`).join("")}</div>
