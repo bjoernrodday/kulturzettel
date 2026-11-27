@@ -88,6 +88,8 @@ button{font:inherit;color:inherit}
 .run-toggle:hover .rt-r,.run-toggle:focus-visible .rt-r{color:var(--accent)}
 .run-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 .running.closed{padding-block:20px 0}
+/* aufgeklappt: Überschrift bleibt beim Scrollen unter der Filterleiste stehen, bis der Abschnitt endet */
+.running:not(.closed) .run-toggle{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--bar-h,200px));z-index:4;background:var(--paper);padding-top:12px}
 .running.closed + .prog{padding-top:0}
 .running.closed + .prog .day:first-child{margin-top:28px}
 .ev .hint{color:var(--accent);font-weight:500}
