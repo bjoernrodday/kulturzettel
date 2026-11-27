@@ -95,7 +95,7 @@ button{font:inherit;color:inherit}
 /* Programm */
 .prog{padding-block:36px 64px}
 .day{display:grid;grid-template-columns:180px minmax(0,1fr);gap:0 36px;border-top:1px solid var(--ink);padding-top:18px;margin-top:36px}
-.day-mark{position:sticky;top:calc(env(safe-area-inset-top,0px) + 132px);align-self:start}
+.day-mark{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--bar-h,200px) + 20px);align-self:start}
 .day-mark .n{font:700 96px/.85 var(--display);letter-spacing:-.05em;font-variant-numeric:tabular-nums}
 .day-mark .w{font:600 20px/1.2 var(--display);margin-top:10px}
 .day-mark .m{font:500 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
@@ -2000,6 +2000,8 @@ const CATS=["Pop, Rock & Jazz","Klassik","Oper & Musiktheater","Theater","Tanz",
 const WD=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
 const MO=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
 const $=s=>document.querySelector(s);
+// Höhe der Filterleiste messen, damit das mitlaufende Datum nie darunter verschwindet
+(()=>{const b=document.querySelector(".bar");if(!b)return;const set=()=>document.documentElement.style.setProperty("--bar-h",b.offsetHeight+"px");set();if(window.ResizeObserver)new ResizeObserver(set).observe(b);else addEventListener("resize",set);})();
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const iso=d=>d.toISOString().slice(0,10);
 const parse=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(Date.UTC(y,m-1,d))};
